@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://newzone.top/daily/rss.xsl"?>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://github.camscanner.top/daily/daily/rss.xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <atom:link href="https://newzone.top/daily/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://github.camscanner.top/daily/daily/rss.xml" rel="self" type="application/rss+xml"/>
     <title>DAILYHACK</title>
-    <link>https://newzone.top/daily/</link>
+    <link>https://github.camscanner.top/daily/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 19 Aug 2024 16:42:27 GMT</pubDate>
-    <lastBuildDate>Mon, 19 Aug 2024 16:42:27 GMT</lastBuildDate>
+    <pubDate>Mon, 19 Aug 2024 16:43:44 GMT</pubDate>
+    <lastBuildDate>Mon, 19 Aug 2024 16:43:44 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
     <category>工具</category>
     <item>
       <title>PH今日热榜 | 2024-08-18</title>
-      <link>https://newzone.top/daily/posts/PH%E4%BB%8A%E6%97%A5%E7%83%AD%E6%A6%9C%20_%202024-08-18.html</link>
-      <guid>https://newzone.top/daily/posts/PH%E4%BB%8A%E6%97%A5%E7%83%AD%E6%A6%9C%20_%202024-08-18.html</guid>
-      <source url="https://newzone.top/daily/rss.xml">PH今日热榜 | 2024-08-18</source>
+      <link>https://github.camscanner.top/daily/daily/posts/PH%E4%BB%8A%E6%97%A5%E7%83%AD%E6%A6%9C%20_%202024-08-18.html</link>
+      <guid>https://github.camscanner.top/daily/daily/posts/PH%E4%BB%8A%E6%97%A5%E7%83%AD%E6%A6%9C%20_%202024-08-18.html</guid>
+      <source url="https://github.camscanner.top/daily/daily/rss.xml">PH今日热榜 | 2024-08-18</source>
       <description>PH今日热榜 | 2024-08-18 1. DeskHub 标语：开发者在使用GitHub时的习惯指导 介绍：DeskHub 是第一个将你的 GitHub 贡献图带入现实世界的设备！每天进行代码提交的开发者学习更多、交付更多、赚得更多。 产品网站: 立即访问 Product Hunt: View on Product Hunt DeskHubDesk...</description>
       <category>PH</category>
       <pubDate>Sun, 18 Aug 2024 00:00:00 GMT</pubDate>
@@ -36,9 +36,9 @@
     </item>
     <item>
       <title>博客文章样例2</title>
-      <link>https://newzone.top/daily/posts/2024-03-02-blog_example2.html</link>
-      <guid>https://newzone.top/daily/posts/2024-03-02-blog_example2.html</guid>
-      <source url="https://newzone.top/daily/rss.xml">博客文章样例2</source>
+      <link>https://github.camscanner.top/daily/daily/posts/2024-03-02-blog_example2.html</link>
+      <guid>https://github.camscanner.top/daily/daily/posts/2024-03-02-blog_example2.html</guid>
+      <source url="https://github.camscanner.top/daily/daily/rss.xml">博客文章样例2</source>
       <description>博客文章内容，支持 Markdown 和 HTML 语言。</description>
       <category>工具</category>
       <pubDate>Sat, 02 Mar 2024 00:00:00 GMT</pubDate>

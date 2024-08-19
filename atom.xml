@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://newzone.top/daily/atom.xsl"?>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://github.camscanner.top/daily/daily/atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
-  <id>https://newzone.top/daily/</id>
+  <id>https://github.camscanner.top/daily/daily/</id>
   <title>DAILYHACK</title>
   <subtitle>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</subtitle>
-  <icon>https://newzone.top/daily/favicon.ico</icon>
-  <updated>2024-08-19T16:42:27.421Z</updated>
+  <icon>https://github.camscanner.top/daily/daily/favicon.ico</icon>
+  <updated>2024-08-19T16:43:44.692Z</updated>
   <generator>@vuepress/plugin-feed</generator>
-  <link rel="self" href="https://newzone.top/daily/atom.xml"/>
-  <link rel="alternate" href="https://newzone.top/daily/"/>
+  <link rel="self" href="https://github.camscanner.top/daily/daily/atom.xml"/>
+  <link rel="alternate" href="https://github.camscanner.top/daily/daily/"/>
   <category term="PH"/>
   <category term="工具"/>
   <entry>
     <title type="text">PH今日热榜 | 2024-08-18</title>
-    <id>https://newzone.top/daily/posts/PH%E4%BB%8A%E6%97%A5%E7%83%AD%E6%A6%9C%20_%202024-08-18.html</id>
-    <link href="https://newzone.top/daily/posts/PH%E4%BB%8A%E6%97%A5%E7%83%AD%E6%A6%9C%20_%202024-08-18.html"/>
+    <id>https://github.camscanner.top/daily/daily/posts/PH%E4%BB%8A%E6%97%A5%E7%83%AD%E6%A6%9C%20_%202024-08-18.html</id>
+    <link href="https://github.camscanner.top/daily/daily/posts/PH%E4%BB%8A%E6%97%A5%E7%83%AD%E6%A6%9C%20_%202024-08-18.html"/>
     <updated>2024-08-19T16:06:42.000Z</updated>
     <summary type="html"><![CDATA[
 <h2><a class="header-anchor" href="#_1-deskhub"><span></span></a><a href="https://www.producthunt.com/posts/deskhub?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+decohack+%28ID%3A+131684%29" target="_blank" rel="noopener noreferrer">1. DeskHub</a></h2>
@@ -38,8 +38,8 @@
   </entry>
   <entry>
     <title type="text">博客文章样例2</title>
-    <id>https://newzone.top/daily/posts/2024-03-02-blog_example2.html</id>
-    <link href="https://newzone.top/daily/posts/2024-03-02-blog_example2.html"/>
+    <id>https://github.camscanner.top/daily/daily/posts/2024-03-02-blog_example2.html</id>
+    <link href="https://github.camscanner.top/daily/daily/posts/2024-03-02-blog_example2.html"/>
     <updated>2024-08-19T14:40:36.000Z</updated>
     <summary type="html"><![CDATA[<p>博客文章内容，支持 Markdown 和 HTML 语言。</p>
 ]]></summary>
