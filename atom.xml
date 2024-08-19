@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://newzone.top/atom.xsl"?>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://newzone.top/daily/atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
-  <id>https://newzone.top/</id>
+  <id>https://newzone.top/daily/</id>
   <title>LearnData 开源笔记</title>
   <subtitle>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</subtitle>
-  <icon>https://newzone.top/favicon.ico</icon>
-  <updated>2024-08-19T14:43:07.211Z</updated>
+  <icon>https://newzone.top/daily/favicon.ico</icon>
+  <updated>2024-08-19T14:48:39.596Z</updated>
   <generator>@vuepress/plugin-feed</generator>
-  <link rel="self" href="https://newzone.top/atom.xml"/>
-  <link rel="alternate" href="https://newzone.top/"/>
+  <link rel="self" href="https://newzone.top/daily/atom.xml"/>
+  <link rel="alternate" href="https://newzone.top/daily/"/>
   <category term="工具"/>
   <category term="使用指南"/>
   <entry>
     <title type="text">博客文章样例2</title>
-    <id>https://newzone.top/posts/2024-03-02-blog_example2.html</id>
-    <link href="https://newzone.top/posts/2024-03-02-blog_example2.html"/>
+    <id>https://newzone.top/daily/posts/2024-03-02-blog_example2.html</id>
+    <link href="https://newzone.top/daily/posts/2024-03-02-blog_example2.html"/>
     <updated>2024-08-19T14:40:36.000Z</updated>
     <summary type="html"><![CDATA[<p>博客文章内容，支持 Markdown 和 HTML 语言。</p>
 ]]></summary>
@@ -24,8 +24,8 @@
   </entry>
   <entry>
     <title type="text">博客文章样例</title>
-    <id>https://newzone.top/posts/2024-03-01-blog_example.html</id>
-    <link href="https://newzone.top/posts/2024-03-01-blog_example.html"/>
+    <id>https://newzone.top/daily/posts/2024-03-01-blog_example.html</id>
+    <link href="https://newzone.top/daily/posts/2024-03-01-blog_example.html"/>
     <updated>2024-08-19T14:40:36.000Z</updated>
     <summary type="html"><![CDATA[<p>博客文章内容，支持 Markdown 和 HTML 语言。</p>
 ]]></summary>
