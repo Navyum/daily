@@ -10,7 +10,7 @@ export default hopeTheme({
   iconAssets: "iconify",
   author: {
     name: "LearnData",
-    url: "https://newzone.top",
+    url: "https://github.camscanner.top/daily/",
   },
 
   favicon: "/favicon.ico",
@@ -22,7 +22,7 @@ export default hopeTheme({
   // copyright 默认为 Copyright © <作者>
   copyright: `
   版权声明：自由转载 - 非商用 - 非衍生 - 保持署名<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans" target="_blank" rel="noopener noreferrer">（创意共享 4.0 许可证）</a>|
-  Copyright © 2023-present LearnData</a>
+  Copyright © 2024 Navyum</a>
   `,
   displayFooter: true,
   // 页脚，支持使用 HTMLString 以显示备案信息等
@@ -43,10 +43,13 @@ export default hopeTheme({
 
   // 默认为 GitHub. 同时也可以是一个完整的 URL
   repo: "rockbenben/LearnData",
+
   // 自定义仓库链接文字。默认从 `repo` 中自动推断为 "GitHub" / "GitLab" / "Gitee" / "Bitbucket" 其中之一，或是 "Source"。
-  repoLabel: "GitHub",
+  //repoLabel: "GitHub",
+  
   // 是否在导航栏内显示仓库链接，默认为 `true`
-  repoDisplay: true,
+  //repoDisplay: true,
+  
   // 文档存放路径
   docsDir: "docs",
 
@@ -58,8 +61,9 @@ export default hopeTheme({
     center: ["Links"],
     end: ["SocialLink", "Repo", "Outlook", "Search"],
   },
+  
   // 是否在向下滚动时自动隐藏导航栏
-  // navbarAutoHide: "always",
+  navbarAutoHide: "always",
 
   // sidebar
   sidebar: sidebar,
@@ -72,10 +76,12 @@ export default hopeTheme({
   // 主题功能选项：https://theme-hope.vuejs.press/zh/config/theme/feature.html
   blog: {
     articleInfo: ["Date", "PageView", "Category", "Tag", "ReadingTime"],
-    name: "清顺",
+    name: "Navyum",
     avatar: "/avatar_self.webp",
-    description: "迷信新工具，热衷于研究开源软件、心理学理论，定期分享探索成果",
+    description: "互联网大厂搬砖码农",
     intro: "/intro.html",
+    
+    /*
     medias: {
       GitHub: "https://github.com/rockbenben",
       Zhihu: "https://www.zhihu.com/people/qingwhat",
@@ -85,10 +91,12 @@ export default hopeTheme({
       Discord: "https://discord.gg/PZTQfJ4GjX",
       RSS: "/rss.xml",
     },
+    */
+    
   },
 
   // 隐藏打印按钮
-  // print: false,
+  print: false,
 
   plugins: {
     blog: true,
