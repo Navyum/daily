@@ -65,8 +65,8 @@ export default hopeTheme({
   // 是否在向下滚动时自动隐藏导航栏
   navbarAutoHide: "always",
 
-  // sidebar
-  sidebar: sidebar,
+  // sidebar 
+  //sidebar: sidebar,  先关闭侧边栏
   // 侧边栏排序规则
   // sidebarSorter: ['readme', 'order', 'title'],
 
