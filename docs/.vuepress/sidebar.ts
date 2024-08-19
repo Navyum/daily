@@ -3,9 +3,7 @@ import { sidebar } from "vuepress-theme-hope";
 // 图标：https://theme-hope.vuejs.press/zh/guide/interface/icon.html#%E8%AE%BE%E7%BD%AE%E5%9B%BE%E6%A0%87
 // https://fontawesome.com/search?m=free&o=r
 export default sidebar({
-  "": [
-    /*    ***先关闭侧边栏***
-    
+  "": [    
     "/DailyRoutine",
     "/Fitness",
     // 读书笔记架构更换到 docsify，不能使用相对链接
@@ -93,6 +91,5 @@ export default sidebar({
   ],
   // 专题区（独立侧边栏）
   "/apps/topic/": "structure",
-  */
   
 });
