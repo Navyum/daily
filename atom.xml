@@ -4,12 +4,38 @@
   <title>DAILYHACK</title>
   <subtitle>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</subtitle>
   <icon>https://newzone.top/daily/favicon.ico</icon>
-  <updated>2024-08-19T15:57:28.723Z</updated>
+  <updated>2024-08-19T16:07:50.368Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://newzone.top/daily/atom.xml"/>
   <link rel="alternate" href="https://newzone.top/daily/"/>
+  <category term="PH"/>
   <category term="工具"/>
-  <category term="使用指南"/>
+  <entry>
+    <title type="text">PH今日热榜 | 2024-08-18</title>
+    <id>https://newzone.top/daily/posts/PH%E4%BB%8A%E6%97%A5%E7%83%AD%E6%A6%9C%20_%202024-08-18.html</id>
+    <link href="https://newzone.top/daily/posts/PH%E4%BB%8A%E6%97%A5%E7%83%AD%E6%A6%9C%20_%202024-08-18.html"/>
+    <updated>2024-08-19T16:06:42.000Z</updated>
+    <summary type="html"><![CDATA[
+<h2><a class="header-anchor" href="#_1-deskhub"><span></span></a><a href="https://www.producthunt.com/posts/deskhub?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+decohack+%28ID%3A+131684%29" target="_blank" rel="noopener noreferrer">1. DeskHub</a></h2>
+<p><strong>标语</strong>：开发者在使用GitHub时的习惯指导
+<strong>介绍</strong>：DeskHub 是第一个将你的 GitHub 贡献图带入现实世界的设备！每天进行代码提交的开发者学习更多、交付更多、赚得更多。
+<strong>产品网站</strong>: <a href="https://www.producthunt.com/r/WXY5UNC2T7X5BC?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+decohack+%28ID%3A+131684%29" target="_blank" rel="noopener noreferrer">立即访问</a>
+<strong>Product Hunt</strong>: <a href="https://www.producthunt.com/posts/deskhub?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+decohack+%28ID%3A+131684%29" target="_blank" rel="noopener noreferrer">View on Product Hunt</a></p>]]></summary>
+    <content type="html"><![CDATA[
+<h2><a class="header-anchor" href="#_1-deskhub"><span></span></a><a href="https://www.producthunt.com/posts/deskhub?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+decohack+%28ID%3A+131684%29" target="_blank" rel="noopener noreferrer">1. DeskHub</a></h2>
+<p><strong>标语</strong>：开发者在使用GitHub时的习惯指导
+<strong>介绍</strong>：DeskHub 是第一个将你的 GitHub 贡献图带入现实世界的设备！每天进行代码提交的开发者学习更多、交付更多、赚得更多。
+<strong>产品网站</strong>: <a href="https://www.producthunt.com/r/WXY5UNC2T7X5BC?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+decohack+%28ID%3A+131684%29" target="_blank" rel="noopener noreferrer">立即访问</a>
+<strong>Product Hunt</strong>: <a href="https://www.producthunt.com/posts/deskhub?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+decohack+%28ID%3A+131684%29" target="_blank" rel="noopener noreferrer">View on Product Hunt</a></p>
+<figure><img src="https://ph-files.imgix.net/3b939b75-fa80-4864-8b2c-0af0a5730b7f.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="DeskHub" tabindex="0" loading="lazy"><figcaption>DeskHub</figcaption></figure>
+<p><strong>关键词</strong>：DeskHub, 开发者, GitHub, 贡献图, 习惯培养, 每日提交, 学习, 提交代码, 提高效率, 实际应用
+<strong>票数</strong>: 🔺771
+<strong>是否精选</strong>：是
+<strong>发布时间</strong>：2024年08月18日 PM03:01 (北京时间)</p>
+]]></content>
+    <category term="PH"/>
+    <published>2024-08-18T00:00:00.000Z</published>
+  </entry>
   <entry>
     <title type="text">博客文章样例2</title>
     <id>https://newzone.top/daily/posts/2024-03-02-blog_example2.html</id>
@@ -21,17 +47,5 @@
 ]]></content>
     <category term="工具"/>
     <published>2024-03-02T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">博客文章样例</title>
-    <id>https://newzone.top/daily/posts/2024-03-01-blog_example.html</id>
-    <link href="https://newzone.top/daily/posts/2024-03-01-blog_example.html"/>
-    <updated>2024-08-19T14:40:36.000Z</updated>
-    <summary type="html"><![CDATA[<p>博客文章内容，支持 Markdown 和 HTML 语言。</p>
-]]></summary>
-    <content type="html"><![CDATA[<p>博客文章内容，支持 Markdown 和 HTML 语言。</p>
-]]></content>
-    <category term="使用指南"/>
-    <published>2024-03-01T00:00:00.000Z</published>
   </entry>
 </feed>
