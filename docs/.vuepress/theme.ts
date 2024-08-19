@@ -42,7 +42,7 @@ export default hopeTheme({
   fullscreen: true,
 
   // 默认为 GitHub. 同时也可以是一个完整的 URL
-  repo: "rockbenben/LearnData",
+  //repo: "rockbenben/LearnData",
 
   // 自定义仓库链接文字。默认从 `repo` 中自动推断为 "GitHub" / "GitLab" / "Gitee" / "Bitbucket" 其中之一，或是 "Source"。
   //repoLabel: "GitHub",
@@ -59,7 +59,7 @@ export default hopeTheme({
   navbarLayout: {
     start: ["Brand"],
     center: ["Links"],
-    end: ["SocialLink", "Repo", "Outlook", "Search"],
+    end: ["Repo", "Outlook", "Search"],  // 还可选择 "SocialLink"
   },
   
   // 是否在向下滚动时自动隐藏导航栏
