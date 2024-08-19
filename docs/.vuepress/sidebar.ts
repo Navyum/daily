@@ -4,6 +4,8 @@ import { sidebar } from "vuepress-theme-hope";
 // https://fontawesome.com/search?m=free&o=r
 export default sidebar({
   "": [
+    /*    ***先关闭侧边栏***
+    
     "/DailyRoutine",
     "/Fitness",
     // 读书笔记架构更换到 docsify，不能使用相对链接
@@ -91,4 +93,6 @@ export default sidebar({
   ],
   // 专题区（独立侧边栏）
   "/apps/topic/": "structure",
+  */
+  
 });
