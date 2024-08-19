@@ -2,12 +2,12 @@ import { sidebar } from "vuepress-theme-hope";
 
 // 图标：https://theme-hope.vuejs.press/zh/guide/interface/icon.html#%E8%AE%BE%E7%BD%AE%E5%9B%BE%E6%A0%87
 // https://fontawesome.com/search?m=free&o=r
+
+/* 全关闭
 export default sidebar({
   "": [    
     "/DailyRoutine",
     "/Fitness",
-    // 读书笔记架构更换到 docsify，不能使用相对链接
-    { text: "读书笔记", icon: "fa6-brands:readme", link: "https://newzone.top/reading/" },
     // 指定显示页面
     {
       text: "🧰 应用手册",
@@ -93,3 +93,5 @@ export default sidebar({
   "/apps/topic/": "structure",
   
 });
+
+*/
