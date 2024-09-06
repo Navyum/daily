@@ -9,7 +9,7 @@ export default sidebar({})
 export default sidebar({
   "": [ 
     {
-      text: "博客文章",
+      text: "PH每日热榜",
       icon: "fa6-solid:feather-pointed",
       prefix: "/_posts/",
       link: "/blog",
