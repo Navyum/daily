@@ -10,8 +10,8 @@ export default hopeTheme({
   // https://icon-sets.iconify.design/
   iconAssets: "iconify",
   author: {
-    name: "LearnData",
-    url: "https://github.camscanner.top/daily/",
+    name: "Navyum",
+    url: "https://github.camscanner.top/daily/blog.html",
   },
 
   favicon: "/favicon.ico",
