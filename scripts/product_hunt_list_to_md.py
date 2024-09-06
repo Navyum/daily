@@ -181,7 +181,7 @@ def fetch_product_hunt_data():
 def generate_markdown(products, date_str):
     """生成Markdown内容并保存到docs目录"""
     #markdown_content = f"# PH今日热榜 | {date_str}\n\n"
-    markdown_content = f"---\ntitle: PH今日热榜 | {date_str}\ndate: {date_str}\ncategory:\n - PH\norder: -1\n---"
+    markdown_content = f"---\ntitle: PH今日热榜 | {date_str}\ndate: {date_str}\ncategory:\n - PH\norder: -1\n---\n\n"
     for rank, product in enumerate(products, 1):
         markdown_content += product.to_markdown(rank)
 
