@@ -78,7 +78,7 @@ export default hopeTheme({
   blog: {
     articleInfo: ["Date", "PageView", "Category", "Tag", "ReadingTime"],
     name: "Navyum",
-    avatar: "/avatar_self.webp",
+    avatar: "/avatar_self.jpeg",
     description: "互联网大厂搬砖码农",
     intro: "/intro.html",
     
