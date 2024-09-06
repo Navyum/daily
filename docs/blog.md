@@ -6,7 +6,7 @@ icon: fa6-solid:house-crack
 title: PH每日热榜
 #heroImage: /logo.svg
 heroText: PH每日热榜
-tagline: 分析和推荐Producthunt上的热门产品。我们通过 Product Hunt 的官方 API 获取每天最新的产品榜单，结合 AI 整理分析，给你带来最直观的产品介绍，让你能够快速浏览最新最火爆的产品趋势。每天下午4点准时更新。
+tagline: 分析和推荐Product hunt上的热门产品
 bgImage: https://img.newzone.top/home-bg-1.jpg
 heroFullScreen: false
 #projects:
