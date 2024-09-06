@@ -3,10 +3,10 @@
 home: true
 layout: BlogHome
 icon: fa6-solid:house-crack
-title: 互联网小白
+title: PH每日热榜
 #heroImage: /logo.svg
-heroText: 互联网小白
-tagline: 盛年不重来，一日难再晨
+heroText: PH每日热榜
+tagline: 分析和推荐Producthunt上的热门产品。我们通过 Product Hunt 的官方 API 获取每天最新的产品榜单，结合 AI 整理分析，给你带来最直观的产品介绍，让你能够快速浏览最新最火爆的产品趋势。每天下午4点准时更新。
 bgImage: https://img.newzone.top/home-bg-1.jpg
 heroFullScreen: false
 #projects:
