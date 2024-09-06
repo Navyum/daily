@@ -6,6 +6,18 @@ import { sidebar } from "vuepress-theme-hope";
 
 export default sidebar({})
 
+export default sidebar({
+  "": [ 
+    {
+      text: "博客文章",
+      icon: "fa6-solid:feather-pointed",
+      prefix: "/_posts/",
+      link: "/blog",
+      collapsible: true,
+      children: "structure",
+    }]
+});
+
 /* 全关闭
 export default sidebar({
   "": [    
