@@ -10,11 +10,11 @@
       "title": "PH今日热榜 | 2024-09-05",
       "url": "https://github.camscanner.top/daily/daily/posts/PH-daily-2024-09-05.html",
       "id": "https://github.camscanner.top/daily/daily/posts/PH-daily-2024-09-05.html",
-      "summary": "1. Polar 标语：An open source monetization platform for developers 介绍：An open source alternative to Lemon Squeezy with better pricing. Built for developers to offer crowdfunding, m...",
-      "content_html": "<h2><a class=\"header-anchor\" href=\"#_1-polar\"><span></span></a><a href=\"https://www.producthunt.com/posts/polar-5?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+first-blog+%28ID%3A+133302%29\" target=\"_blank\" rel=\"noopener noreferrer\">1. Polar</a></h2>\n<p><strong>标语</strong>：An open source monetization platform for developers\n<strong>介绍</strong>：An open source alternative to Lemon Squeezy with better pricing. Built for developers to offer crowdfunding, memberships, digital products and SaaS within minutes. Stay focused on shipping your passion - leave upsales, billing and international taxes to us.\n<strong>产品网站</strong>: <a href=\"https://www.producthunt.com/r/DFRSKF4XIWZROG?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+first-blog+%28ID%3A+133302%29\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a>\n<strong>Product Hunt</strong>: <a href=\"https://www.producthunt.com/posts/polar-5?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+first-blog+%28ID%3A+133302%29\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a></p>\n<figure><img src=\"https://ph-files.imgix.net/e57bc0a3-0c1f-494f-bd78-9766601f8ce0.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"Polar\" tabindex=\"0\" loading=\"lazy\"><figcaption>Polar</figcaption></figure>\n<p><strong>关键词</strong>：无关键词\n<strong>票数</strong>: 🔺875\n<strong>是否精选</strong>：是\n<strong>发布时间</strong>：2024年09月05日 PM03:01 (北京时间)</p>\n",
+      "summary": "1. Polar 标语：面向开发者的开源货币平台 介绍：Lemon Squeezy的开源替代品，具有更好的定价。专为开发人员打造，可在几分钟内提供众筹、会员资格、数字产品和SaaS。专注于传递您的热情-将追加销售、计费和国际税留给我们。 产品网站: 立即访问 Product Hunt: View on Product Hunt PolarPolar 关...",
+      "content_html": "<h2><a class=\"header-anchor\" href=\"#_1-polar\"><span></span></a><a href=\"https://www.producthunt.com/posts/polar-5?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+first-blog+%28ID%3A+133302%29\" target=\"_blank\" rel=\"noopener noreferrer\">1. Polar</a></h2>\n<p><strong>标语</strong>：面向开发者的开源货币平台\n<strong>介绍</strong>：Lemon Squeezy的开源替代品，具有更好的定价。专为开发人员打造，可在几分钟内提供众筹、会员资格、数字产品和SaaS。专注于传递您的热情-将追加销售、计费和国际税留给我们。\n<strong>产品网站</strong>: <a href=\"https://www.producthunt.com/r/DFRSKF4XIWZROG?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+first-blog+%28ID%3A+133302%29\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a>\n<strong>Product Hunt</strong>: <a href=\"https://www.producthunt.com/posts/polar-5?utm_campaign=producthunt-api&amp;utm_medium=api-v2&amp;utm_source=Application%3A+first-blog+%28ID%3A+133302%29\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a></p>\n<figure><img src=\"https://ph-files.imgix.net/e57bc0a3-0c1f-494f-bd78-9766601f8ce0.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"Polar\" tabindex=\"0\" loading=\"lazy\"><figcaption>Polar</figcaption></figure>\n<p><strong>关键词</strong>：无关键词\n<strong>票数</strong>: 🔺877\n<strong>是否精选</strong>：是\n<strong>发布时间</strong>：2024年09月05日 PM03:01 (北京时间)</p>\n",
       "image": "https://ph-files.imgix.net/e57bc0a3-0c1f-494f-bd78-9766601f8ce0.png?auto=format&fit=crop&frame=1&h=512&w=1024",
       "date_published": "2024-09-05T00:00:00.000Z",
-      "date_modified": "2024-09-06T09:21:56.000Z",
+      "date_modified": "2024-09-06T09:33:25.000Z",
       "authors": [],
       "tags": [
         "PH"
@@ -32,19 +32,6 @@
       "authors": [],
       "tags": [
         "PH"
-      ]
-    },
-    {
-      "title": "博客文章样例2",
-      "url": "https://github.camscanner.top/daily/daily/posts/2024-03-02-blog_example2.html",
-      "id": "https://github.camscanner.top/daily/daily/posts/2024-03-02-blog_example2.html",
-      "summary": "博客文章内容，支持 Markdown 和 HTML 语言。",
-      "content_html": "<p>博客文章内容，支持 Markdown 和 HTML 语言。</p>\n",
-      "date_published": "2024-03-02T00:00:00.000Z",
-      "date_modified": "2024-08-19T14:40:36.000Z",
-      "authors": [],
-      "tags": [
-        "工具"
       ]
     }
   ]
