@@ -178,7 +178,7 @@ def generate_markdown(products, date_str):
     #markdown_content = f"# PH今日热榜 | {date_str}\n\n"
     markdown_content = (
         f"---\n"
-        f"title: dian jiPH今日热榜 | {date_str}\n"
+        f"title: PH今日热榜 | {date_str}\n"
         f"date: {date_str}\n"
         f"category:\n"
         f" - PH\n"
