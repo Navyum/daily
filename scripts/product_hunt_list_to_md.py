@@ -26,7 +26,7 @@ class Product:
         self.featured = "是" if featuredAt else "否"
         self.website = stripe_url_params(website)
         self.url = stripe_url_params(url)
-        self.og_image_url = stripe_url_params(self.fetch_og_image_url())
+        self.og_image_url = self.fetch_og_image_url()
         self.keyword = "无关键词"
         self.translated_tagline = self.translate_text(self.tagline)
         self.translated_description = self.translate_text(self.description)
