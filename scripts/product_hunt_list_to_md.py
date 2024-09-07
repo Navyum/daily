@@ -219,5 +219,5 @@ def main(date_str):
     generate_markdown(products, date_str)
  
 if __name__ == "__main__":
-    date_str = sys.argv[1]
+    date_str = None
     main(date_str)
