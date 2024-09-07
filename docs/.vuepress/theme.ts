@@ -4,7 +4,7 @@ import sidebar from "./sidebar.js";
 
 export default hopeTheme({
   // 主题选项：https://theme-hope.vuejs.press/zh/config/theme/layout.html
-  hostname: "https://github.camscanner.top/daily/",
+  hostname: "https://github.camscanner.top/daily/blog.html",
   
   // 公用 CDN 在部分浏览器中可能无法正确显示图标。2024.07 开始，uBlock Origin 将拦截公有 CDN 的 js 请求。
   // https://icon-sets.iconify.design/
@@ -38,7 +38,7 @@ export default hopeTheme({
   editLink: false,
 
   // 深色模式配置
-  darkmode: "switch",
+  darkmode: "toggle",
   // 全屏按钮
   fullscreen: true,
 
@@ -67,7 +67,7 @@ export default hopeTheme({
   navbarAutoHide: "always",
 
   // sidebar 
-  //sidebar: sidebar,  先关闭侧边栏
+  sidebar: false,  //先关闭侧边栏
   // 侧边栏排序规则
   // sidebarSorter: ['readme', 'order', 'title'],
 

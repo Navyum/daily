@@ -3,19 +3,18 @@
 home: true
 layout: BlogHome
 icon: fa6-solid:house-crack
-title: PH每日热榜
+title: sss
 #heroImage: /logo.svg
-heroText: PH每日热榜
+heroText: sss
 tagline: 分析和推荐Product hunt上的热门产品
 bgImage: https://img.newzone.top/home-bg-1.jpg
 heroFullScreen: false
 
-#projects:
+# projects:
 #  - icon: project
 #    name: 项目名称
 #    desc: 项目详细描述
 #    link: https://你的项目链接
-#
 #  - icon: link
 #    name: 链接名称
 #    desc: 链接详细描述
