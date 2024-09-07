@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://github.camscanner.top/daily/daily/atom.xsl"?>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://github.camscanner.top/daily/blog.html/daily/atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
-  <id>https://github.camscanner.top/daily/daily/</id>
-  <title>DAILYHACK</title>
+  <id>https://github.camscanner.top/daily/blog.html/daily/</id>
+  <title>DAYHACK</title>
   <subtitle>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</subtitle>
-  <icon>https://github.camscanner.top/daily/daily/favicon.ico</icon>
-  <updated>2024-09-07T09:45:54.653Z</updated>
+  <icon>https://github.camscanner.top/daily/blog.html/daily/favicon.ico</icon>
+  <updated>2024-09-07T16:12:04.714Z</updated>
   <generator>@vuepress/plugin-feed</generator>
-  <link rel="self" href="https://github.camscanner.top/daily/daily/atom.xml"/>
-  <link rel="alternate" href="https://github.camscanner.top/daily/daily/"/>
+  <link rel="self" href="https://github.camscanner.top/daily/blog.html/daily/atom.xml"/>
+  <link rel="alternate" href="https://github.camscanner.top/daily/blog.html/daily/"/>
   <category term="PH"/>
   <entry>
     <title type="text">PH今日热榜 | 2024-09-06</title>
-    <id>https://github.camscanner.top/daily/daily/posts/PH-daily-2024-09-06.html</id>
-    <link href="https://github.camscanner.top/daily/daily/posts/PH-daily-2024-09-06.html"/>
+    <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-09-06.html</id>
+    <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-09-06.html"/>
     <updated>2024-09-07T09:39:27.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-videogen-yc-s24"><span></span></a><a href="https://www.producthunt.com/posts/videogen-yc-s24" target="_blank" rel="noopener noreferrer">TOP1    VideoGen (YC S24)</a></h2>
 <p><img src="https://ph-files.imgix.net/7f178ee2-5558-4365-913c-121226db45d4.jpeg" alt="VideoGen (YC S24)" loading="lazy"><br><br>
@@ -36,8 +36,8 @@
   </entry>
   <entry>
     <title type="text">PH今日热榜 | 2024-09-05</title>
-    <id>https://github.camscanner.top/daily/daily/posts/PH-daily-2024-09-05.html</id>
-    <link href="https://github.camscanner.top/daily/daily/posts/PH-daily-2024-09-05.html"/>
+    <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-09-05.html</id>
+    <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-09-05.html"/>
     <updated>2024-09-07T09:39:27.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-polar"><span></span></a><a href="https://www.producthunt.com/posts/polar-5" target="_blank" rel="noopener noreferrer">TOP1 Polar</a></h2>
 <p><img src="https://ph-files.imgix.net/e57bc0a3-0c1f-494f-bd78-9766601f8ce0.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Polar" loading="lazy"><br><br>

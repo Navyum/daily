@@ -1,15 +1,15 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
-  "title": "DAILYHACK",
-  "home_page_url": "https://github.camscanner.top/daily/daily/",
-  "feed_url": "https://github.camscanner.top/daily/daily/feed.json",
+  "title": "DAYHACK",
+  "home_page_url": "https://github.camscanner.top/daily/blog.html/daily/",
+  "feed_url": "https://github.camscanner.top/daily/blog.html/daily/feed.json",
   "description": "开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。",
-  "favicon": "https://github.camscanner.top/daily/daily/favicon.ico",
+  "favicon": "https://github.camscanner.top/daily/blog.html/daily/favicon.ico",
   "items": [
     {
       "title": "PH今日热榜 | 2024-09-06",
-      "url": "https://github.camscanner.top/daily/daily/posts/PH-daily-2024-09-06.html",
-      "id": "https://github.camscanner.top/daily/daily/posts/PH-daily-2024-09-06.html",
+      "url": "https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-09-06.html",
+      "id": "https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-09-06.html",
       "summary": "TOP1 VideoGen (YC S24) VideoGen (YC S24) 【标语】：几秒钟内生成专业视频 【介绍】：VideoGen让任何人都可以在几秒钟内轻松创建专业、无版权的视频。如果您聘请某人为您制作视频，则制作视频既困难、耗时又昂贵。使用VideoGen，只需点击几下即可！ 【官网】：立即访问 【Product Hunt】：View o...",
       "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-videogen-yc-s24\"><span></span></a><a href=\"https://www.producthunt.com/posts/videogen-yc-s24\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1    VideoGen (YC S24)</a></h2>\n<p><img src=\"https://ph-files.imgix.net/7f178ee2-5558-4365-913c-121226db45d4.jpeg\" alt=\"VideoGen (YC S24)\" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>：几秒钟内生成专业视频<br>\n<strong>【介绍】</strong>：VideoGen让任何人都可以在几秒钟内轻松创建专业、无版权的视频。如果您聘请某人为您制作视频，则制作视频既困难、耗时又昂贵。使用VideoGen，只需点击几下即可！<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/4BJSIV2O3WQ3JU\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/posts/videogen-yc-s24\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：无关键词<br>\n<strong>票数</strong>： 🔺653<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2024年09月06日 PM03:01 (北京时间)<br><br></p>\n",
       "image": "https://ph-files.imgix.net/7f178ee2-5558-4365-913c-121226db45d4.jpeg",
@@ -22,8 +22,8 @@
     },
     {
       "title": "PH今日热榜 | 2024-09-05",
-      "url": "https://github.camscanner.top/daily/daily/posts/PH-daily-2024-09-05.html",
-      "id": "https://github.camscanner.top/daily/daily/posts/PH-daily-2024-09-05.html",
+      "url": "https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-09-05.html",
+      "id": "https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-09-05.html",
       "summary": "TOP1 Polar Polar 【标语】：面向开发者的开源货币平台 【介绍】：Lemon Squeezy的开源替代品，具有更好的定价。专为开发人员打造，可在几分钟内提供众筹、会员资格、数字产品和SaaS。专注于传递您的热情-将追加销售、计费和国际税留给我们。 【官网】：立即访问 【Product Hunt】：View on Product Hunt ...",
       "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-polar\"><span></span></a><a href=\"https://www.producthunt.com/posts/polar-5\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1 Polar</a></h2>\n<p><img src=\"https://ph-files.imgix.net/e57bc0a3-0c1f-494f-bd78-9766601f8ce0.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"Polar\" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>：面向开发者的开源货币平台<br>\n<strong>【介绍】</strong>：Lemon Squeezy的开源替代品，具有更好的定价。专为开发人员打造，可在几分钟内提供众筹、会员资格、数字产品和SaaS。专注于传递您的热情-将追加销售、计费和国际税留给我们。<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/DFRSKF4XIWZROG\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/posts/polar-5\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：无关键词<br>\n<strong>票数</strong>： 🔺970<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2024年09月05日 PM03:01 (北京时间)<br><br></p>\n",
       "image": "https://ph-files.imgix.net/e57bc0a3-0c1f-494f-bd78-9766601f8ce0.png?auto=format&fit=crop&frame=1&h=512&w=1024",

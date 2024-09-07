@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://github.camscanner.top/daily/daily/rss.xsl"?>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://github.camscanner.top/daily/blog.html/daily/rss.xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <atom:link href="https://github.camscanner.top/daily/daily/rss.xml" rel="self" type="application/rss+xml"/>
-    <title>DAILYHACK</title>
-    <link>https://github.camscanner.top/daily/daily/</link>
+    <atom:link href="https://github.camscanner.top/daily/blog.html/daily/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>DAYHACK</title>
+    <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 07 Sep 2024 09:45:54 GMT</pubDate>
-    <lastBuildDate>Sat, 07 Sep 2024 09:45:54 GMT</lastBuildDate>
+    <pubDate>Sat, 07 Sep 2024 16:12:04 GMT</pubDate>
+    <lastBuildDate>Sat, 07 Sep 2024 16:12:04 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
     <item>
       <title>PH今日热榜 | 2024-09-06</title>
-      <link>https://github.camscanner.top/daily/daily/posts/PH-daily-2024-09-06.html</link>
-      <guid>https://github.camscanner.top/daily/daily/posts/PH-daily-2024-09-06.html</guid>
-      <source url="https://github.camscanner.top/daily/daily/rss.xml">PH今日热榜 | 2024-09-06</source>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-09-06.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-09-06.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2024-09-06</source>
       <description>TOP1 VideoGen (YC S24) VideoGen (YC S24) 【标语】：几秒钟内生成专业视频 【介绍】：VideoGen让任何人都可以在几秒钟内轻松创建专业、无版权的视频。如果您聘请某人为您制作视频，则制作视频既困难、耗时又昂贵。使用VideoGen，只需点击几下即可！ 【官网】：立即访问 【Product Hunt】：View o...</description>
       <category>PH</category>
       <pubDate>Fri, 06 Sep 2024 00:00:00 GMT</pubDate>
@@ -34,9 +34,9 @@
     </item>
     <item>
       <title>PH今日热榜 | 2024-09-05</title>
-      <link>https://github.camscanner.top/daily/daily/posts/PH-daily-2024-09-05.html</link>
-      <guid>https://github.camscanner.top/daily/daily/posts/PH-daily-2024-09-05.html</guid>
-      <source url="https://github.camscanner.top/daily/daily/rss.xml">PH今日热榜 | 2024-09-05</source>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-09-05.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-09-05.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2024-09-05</source>
       <description>TOP1 Polar Polar 【标语】：面向开发者的开源货币平台 【介绍】：Lemon Squeezy的开源替代品，具有更好的定价。专为开发人员打造，可在几分钟内提供众筹、会员资格、数字产品和SaaS。专注于传递您的热情-将追加销售、计费和国际税留给我们。 【官网】：立即访问 【Product Hunt】：View on Product Hunt ...</description>
       <category>PH</category>
       <pubDate>Thu, 05 Sep 2024 00:00:00 GMT</pubDate>
