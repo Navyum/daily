@@ -2,14 +2,11 @@ import os
 import sys
 import requests
 from datetime import datetime, timedelta, timezone
-from openai import OpenAI
+from urllib.parse import urljoin, urlparse
 from bs4 import BeautifulSoup
 import pytz
 from tencentcloud.common import credential
 from tencentcloud.tmt.v20180321 import tmt_client, models
-
-# 创建 OpenAI 客户端实例
-# client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 
 producthunt_client_id = os.getenv('PRODUCTHUNT_CLIENT_ID')
 producthunt_client_secret = os.getenv('PRODUCTHUNT_CLIENT_SECRET')
@@ -27,9 +24,9 @@ class Product:
         self.votes_count = votesCount
         self.created_at = self.convert_to_beijing_time(createdAt)
         self.featured = "是" if featuredAt else "否"
-        self.website = website
-        self.url = url
-        self.og_image_url = self.fetch_og_image_url()
+        self.website = stripe_url_params(website)
+        self.url = stripe_url_params(url)
+        self.og_image_url = stripe_url_params(self.fetch_og_image_url())
         self.keyword = "无关键词"
         self.translated_tagline = self.translate_text(self.tagline)
         self.translated_description = self.translate_text(self.description)
@@ -91,10 +88,9 @@ class Product:
 
     def to_markdown(self, rank: int) -> str:
         """返回产品数据的Markdown格式"""
-        og_image_markdown = f"![{self.name}]({self.og_image_url})"
         return (
-            f"## [TOP{rank} {self.name}]({self.url})\n"
-            f"{og_image_markdown}<br /><br />\n"
+            f"## [TOP{rank}    {self.name}]({self.url})\n"
+            f"![{self.name}]({self.og_image_url})<br /><br />\n"
             f"**【标语】**：{self.translated_tagline}<br />\n"
             f"**【介绍】**：{self.translated_description}<br />\n"
             f"**【官网】**：[立即访问]({self.website})<br />\n"
@@ -180,7 +176,15 @@ def fetch_product_hunt_data(date_str):
 def generate_markdown(products, date_str):
     """生成Markdown内容并保存到docs目录"""
     #markdown_content = f"# PH今日热榜 | {date_str}\n\n"
-    markdown_content = f"---\ntitle: PH今日热榜 | {date_str}\ndate: {date_str}\ncategory:\n - PH\norder: -1\n---\n\n"
+    markdown_content = (
+        f"---\n"
+        f"title: dian jiPH今日热榜 | {date_str}\n"
+        f"date: {date_str}\n"
+        f"category:\n"
+        f" - PH\n"
+        f"order: -1\n"
+        f"---\n\n"
+    )
     for rank, product in enumerate(products, 1):
         markdown_content += product.to_markdown(rank)
 
@@ -194,6 +198,10 @@ def generate_markdown(products, date_str):
     with open(file_name, 'w', encoding='utf-8') as file:
         file.write(markdown_content)
     print(f"文件 {file_name} 生成成功并已覆盖。")
+
+def stripe_url_params(url):
+    stripe_url = urljoin(url, urlparse(url).path)
+    return stripe_url
 
 def main(date_str):
     if date_str :
