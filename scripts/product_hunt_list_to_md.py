@@ -1,4 +1,5 @@
 import os
+import sys
 import requests
 from datetime import datetime, timedelta, timezone
 from openai import OpenAI
@@ -126,15 +127,13 @@ def get_producthunt_token():
     token = response.json().get("access_token")
     return token
 
-def fetch_product_hunt_data():
+def fetch_product_hunt_data(date_str):
     """从Product Hunt获取前一天的Top 30数据"""
     token = get_producthunt_token()
-    print("token:-----> " + token)
-    yesterday = datetime.now(timezone.utc) - timedelta(days=1)
-    date_str = yesterday.strftime('%Y-%m-%d')
     url = "https://api.producthunt.com/v2/api/graphql"
     headers = {"Authorization": f"Bearer {token}"}
 
+    # GraphQL
     base_query = """
     {
       posts(order: VOTES, postedAfter: "%sT00:00:00Z", postedBefore: "%sT23:59:59Z", after: "%s") {
@@ -196,16 +195,21 @@ def generate_markdown(products, date_str):
         file.write(markdown_content)
     print(f"文件 {file_name} 生成成功并已覆盖。")
 
-def main():
-    # 获取昨天的日期并格式化
-    yesterday = datetime.now(timezone.utc) - timedelta(days=1)
-    date_str = yesterday.strftime('%Y-%m-%d')
+def main(date_str):
+    if date_str :
+        print(f"date: {date_str} 脚本参数传递")
+    else :
+        # 获取昨天的日期并格式化
+        yesterday = datetime.now(timezone.utc) - timedelta(days=1)
+        date_str = yesterday.strftime('%Y-%m-%d')
+        print(f"date: {date_str} 自动获取昨天的日期")
 
     # 获取Product Hunt数据
-    products = fetch_product_hunt_data()
-    print(products)
+    products = fetch_product_hunt_data(date_str)
+
     # 生成Markdown文件
     generate_markdown(products, date_str)
-
+ 
 if __name__ == "__main__":
-    main()
+    date_str = sys.argv[1]
+    main(date_str)
