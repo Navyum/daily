@@ -104,10 +104,10 @@ export default hopeTheme({
 
     // 评论配置（仅做样例，记得更换）
     comment: {
-      /*
+      
       // 在本地运行 `pnpm docs:dev` 并使用非 localhost 域名时，容易出现 403 错误，移除本部分即可解决
       provider: "Waline",
-      serverURL: "https://waline.newzone.top",
+      serverURL: "https://waline.camscanner.top",
       reaction: [
         "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-y/twemoji/13.1.0/72x72/1f44d.png",
         "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-y/twemoji/13.1.0/72x72/1f44f.png",
@@ -116,7 +116,10 @@ export default hopeTheme({
         "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-y/twemoji/13.1.0/72x72/1f635-200d-1f4ab.png",
       ],
       // 部署 Waline：https://waline.js.org/guide/get-started.html
-      // pageview: true, // 浏览量统计
+      pageview: true, // 浏览量统计
+      
+    },
+    /*
       locales: {
         "/": {
           // 表情互动提示文字
@@ -136,8 +139,9 @@ export default hopeTheme({
           level5: "化神",
         },
       },
-      */
+    */
 
+    /*
       // Giscus
       provider: "Giscus",
       repo: "rockbenben/LearnData",
@@ -145,6 +149,7 @@ export default hopeTheme({
       category: "Comments",
       categoryId: "DIC_kwDOHdfk6c4CQYNn",
     },
+    */
 
     // 组件库
     components: {
@@ -175,13 +180,13 @@ export default hopeTheme({
     },
 
     // Algolia 全文搜索：需要自己设置爬虫并生成下方配置，如不会自己设置，启用下方本地搜索
-    /* 
+  /* 
     docsearch: {
       indexName: "newzone",
       appId: "M4EXXEZIEG",
       apiKey: "fd8891a9c4cc21e0ef4f11bf44f7a11e",
     },
-    */
+  */
 
     // 本地搜索，和上方二选一
     searchPro: {
