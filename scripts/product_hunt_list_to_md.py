@@ -7,6 +7,8 @@ from bs4 import BeautifulSoup
 import pytz
 from tencentcloud.common import credential
 from tencentcloud.tmt.v20180321 import tmt_client, models
+import jieba
+import jieba.analyse
 
 producthunt_client_id = os.getenv('PRODUCTHUNT_CLIENT_ID')
 producthunt_client_secret = os.getenv('PRODUCTHUNT_CLIENT_SECRET')
@@ -41,30 +43,8 @@ class Product:
                 return og_image["content"]
         return ""
 
-    def generate_keywords(self) -> str:
-        """生成产品的关键词，显示在一行，用逗号分隔"""
-        prompt = f"根据以下内容生成适合的中文关键词，用英文逗号分隔开：\n\n产品名称：{self.name}\n\n标语：{self.tagline}\n\n描述：{self.description}"
-        
-        try:
-            response = client.chat.completions.create(
-                model="gpt-4o-mini",
-                messages=[
-                    {"role": "system", "content": "Generate suitable Chinese keywords based on the product information provided. The keywords should be separated by commas."},
-                    {"role": "user", "content": prompt},
-                ],
-                max_tokens=50,
-                temperature=0.7,
-            )
-            keywords = response.choices[0].message.content.strip()
-            if ',' not in keywords:
-                keywords = ', '.join(keywords.split())
-            return keywords
-        except Exception as e:
-            print(f"Error occurred during keyword generation: {e}")
-            return "无关键词"
-
     def translate_text(self, text: str) -> str:
-        """使用tx翻译文本内容"""
+        """【使用tencent翻译文本内容】"""
         try:
             request = models.TextTranslateRequest()
             request.Source = "auto" ## en
@@ -88,6 +68,9 @@ class Product:
 
     def to_markdown(self, rank: int) -> str:
         """返回产品数据的Markdown格式"""
+        """【使用jieba提取关键词】"""
+        keywords=generate_keywords(self.translated_tagline + self.translated_description)
+        
         return (
             f"## [TOP{rank}    {self.name}]({self.url})\n"
             f"![{self.name}]({self.og_image_url})<br /><br />\n"
@@ -95,7 +78,7 @@ class Product:
             f"**【介绍】**：{self.translated_description}<br />\n"
             f"**【官网】**：[立即访问]({self.website})<br />\n"
             f"**【Product Hunt】**：[View on Product Hunt]({self.url})<br /><br />\n\n"
-            f"**关键词**：{self.keyword}<br />\n"
+            f"**关键词**：{keywords}<br />\n"
             f"**票数**： 🔺{self.votes_count}<br />\n"
             f"**是否精选**：{self.featured}<br />\n"
             f"**发布时间**：{self.created_at}<br /><br />\n\n"
@@ -202,6 +185,10 @@ def generate_markdown(products, date_str):
 def stripe_url_params(url):
     stripe_url = urljoin(url, urlparse(url).path)
     return stripe_url
+
+def generate_keywords(content):
+    tags = jieba.analyse.extract_tags(content, topK=6)
+    return(",".join(tags))
 
 def main(date_str):
     if date_str :
