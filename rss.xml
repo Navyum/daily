@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 20 Sep 2024 08:18:03 GMT</pubDate>
-    <lastBuildDate>Fri, 20 Sep 2024 08:18:03 GMT</lastBuildDate>
+    <pubDate>Fri, 20 Sep 2024 09:17:45 GMT</pubDate>
+    <lastBuildDate>Fri, 20 Sep 2024 09:17:45 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2024-09-19</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-09-19.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-09-19.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2024-09-19</source>
+      <description>TOP1 GoCodeo GoCodeo 【标语】：人工智能驱动的单元测试 【介绍】：GoCodeo利用实时人工智能自动化单元测试，立即生成可生产的测试并尽早捕获错误。节省30%的开发时间，提高代码质量，并保持代码安全，无需存储。 【官网】：立即访问 【Product Hunt】：View on Product Hunt 关键词：单元测试,人工智能,代...</description>
+      <category>PH</category>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-gocodeo"><span></span></a><a href="https://www.producthunt.com/posts/gocodeo" target="_blank" rel="noopener noreferrer">TOP1    GoCodeo</a></h2>
+<p><img src="https://ph-files.imgix.net/003819ca-65d2-40ad-9687-5e03c38c118d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="GoCodeo" loading="lazy"><br><br>
+<strong>【标语】</strong>：人工智能驱动的单元测试<br>
+<strong>【介绍】</strong>：GoCodeo利用实时人工智能自动化单元测试，立即生成可生产的测试并尽早捕获错误。节省30%的开发时间，提高代码质量，并保持代码安全，无需存储。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/PLVTBMMA36XUK6" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/posts/gocodeo" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：单元测试,人工智能,代码,GoCodeo,30%,捕获<br>
+<strong>票数</strong>： 🔺618<br>
+<strong>是否精选</strong>：否<br>
+<strong>发布时间</strong>：2024年09月19日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/003819ca-65d2-40ad-9687-5e03c38c118d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2024-09-18</title>
       <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-09-18.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2024年09月10日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/8a982472-9d23-4559-9329-789c6626d5ca.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2024-09-09</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-09-09.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-09-09.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2024-09-09</source>
-      <description>TOP1 Syncly (YC W23) Syncly (YC W23) 【标语】：发现用户旅程中的薄弱环节，防止流失 【介绍】：从各种渠道的每日客户反馈中获取实时产品和运营见解。Syncly AI提供可操作的见解，在整个用户旅程中提供完全的可见性，以便您可以在客户流失之前采取主动行动。 【官网】：立即访问 【Product Hunt】：View on...</description>
-      <category>PH</category>
-      <pubDate>Mon, 09 Sep 2024 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-syncly-yc-w23"><span></span></a><a href="https://www.producthunt.com/posts/syncly-yc-w23-2" target="_blank" rel="noopener noreferrer">TOP1    Syncly (YC W23)</a></h2>
-<p><img src="https://ph-files.imgix.net/db7fa46b-4c70-4ae0-b210-6a2bd6c207f9.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Syncly (YC W23)" loading="lazy"><br><br>
-<strong>【标语】</strong>：发现用户旅程中的薄弱环节，防止流失<br>
-<strong>【介绍】</strong>：从各种渠道的每日客户反馈中获取实时产品和运营见解。Syncly AI提供可操作的见解，在整个用户旅程中提供完全的可见性，以便您可以在客户流失之前采取主动行动。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/LTNPFI46IEJWZ3" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/posts/syncly-yc-w23-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：旅程,流失,见解,用户,客户,Syncly<br>
-<strong>票数</strong>： 🔺950<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2024年09月09日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/db7fa46b-4c70-4ae0-b210-6a2bd6c207f9.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
