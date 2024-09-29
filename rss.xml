@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 29 Sep 2024 08:17:08 GMT</pubDate>
-    <lastBuildDate>Sun, 29 Sep 2024 08:17:08 GMT</lastBuildDate>
+    <pubDate>Sun, 29 Sep 2024 09:14:32 GMT</pubDate>
+    <lastBuildDate>Sun, 29 Sep 2024 09:14:32 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2024-09-28</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-09-28.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-09-28.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2024-09-28</source>
+      <description>TOP1 PodSnap.AI PodSnap.AI 【标语】：在播客剧集上线时获取其摘要 【介绍】：PodSnap.AI是一款人工智能网络应用程序，可以在播客剧集播出后立即向您发送文本和音频摘要。您可以随时了解您最喜欢的播客的最新动态，并轻松决定您想听哪些剧集。 【官网】：立即访问 【Product Hunt】：View on Product Hun...</description>
+      <category>PH</category>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-podsnap-ai"><span></span></a><a href="https://www.producthunt.com/posts/podsnap-ai" target="_blank" rel="noopener noreferrer">TOP1    PodSnap.AI</a></h2>
+<p><img src="https://ph-files.imgix.net/e0cd6eac-615b-4362-80dc-166cc5ef46a5.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="PodSnap.AI" loading="lazy"><br><br>
+<strong>【标语】</strong>：在播客剧集上线时获取其摘要<br>
+<strong>【介绍】</strong>：PodSnap.AI是一款人工智能网络应用程序，可以在播客剧集播出后立即向您发送文本和音频摘要。您可以随时了解您最喜欢的播客的最新动态，并轻松决定您想听哪些剧集。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/4GOZR63CPRLASQ" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/posts/podsnap-ai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：播客,剧集,摘要,PodSnap,AI,网络应用<br>
+<strong>票数</strong>： 🔺327<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2024年09月28日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/e0cd6eac-615b-4362-80dc-166cc5ef46a5.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2024-09-27</title>
       <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-09-27.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2024年09月19日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/003819ca-65d2-40ad-9687-5e03c38c118d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2024-09-18</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-09-18.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-09-18.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2024-09-18</source>
-      <description>TOP1 Zivy Zivy 【标语】：在Slack中自动对消息进行优先级排序和组织 【介绍】：Zivy会检查您的所有工作应用程序（从Slack开始）来了解您的上下文，并仅呈现需要您关注的消息。它将它们智能地分为行动项、FYI和其他，并根据重要性和紧急性对其进行排名。 【官网】：立即访问 【Product Hunt】：View on Product H...</description>
-      <category>PH</category>
-      <pubDate>Wed, 18 Sep 2024 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-zivy"><span></span></a><a href="https://www.producthunt.com/posts/zivy" target="_blank" rel="noopener noreferrer">TOP1    Zivy</a></h2>
-<p><img src="https://ph-files.imgix.net/b178e97b-ba90-4887-8f7e-44737d3d7779.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Zivy" loading="lazy"><br><br>
-<strong>【标语】</strong>：在Slack中自动对消息进行优先级排序和组织<br>
-<strong>【介绍】</strong>：Zivy会检查您的所有工作应用程序（从Slack开始）来了解您的上下文，并仅呈现需要您关注的消息。它将它们智能地分为行动项、FYI和其他，并根据重要性和紧急性对其进行排名。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/4LNB4LXV6YVDB6" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/posts/zivy" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：Slack,Zivy,FYI,优先级,应用程序,上下文<br>
-<strong>票数</strong>： 🔺928<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2024年09月18日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/b178e97b-ba90-4887-8f7e-44737d3d7779.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
