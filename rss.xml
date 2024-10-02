@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 02 Oct 2024 08:17:51 GMT</pubDate>
-    <lastBuildDate>Wed, 02 Oct 2024 08:17:51 GMT</lastBuildDate>
+    <pubDate>Wed, 02 Oct 2024 09:15:07 GMT</pubDate>
+    <lastBuildDate>Wed, 02 Oct 2024 09:15:07 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2024-10-01</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-10-01.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-10-01.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2024-10-01</source>
+      <description>TOP1 Video SDK 3.0 Video SDK 3.0 【标语】：构建和集成实时多模式人工智能角色。 【介绍】：ButterSDK允许开发人员创建多模式AI角色，能够实时交互和上下文理解。将这些智能伴侣完美地集成到现有工作流程中，以提供个性化的用户体验。 【官网】：立即访问 【Product Hunt】：View on Product Hun...</description>
+      <category>PH</category>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-video-sdk-3-0"><span></span></a><a href="https://www.producthunt.com/posts/video-sdk-3-0" target="_blank" rel="noopener noreferrer">TOP1    Video SDK 3.0</a></h2>
+<p><img src="https://ph-files.imgix.net/55cdcd37-9c80-44e7-ab78-f40ae04c98ec.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Video SDK 3.0" loading="lazy"><br><br>
+<strong>【标语】</strong>：构建和集成实时多模式人工智能角色。<br>
+<strong>【介绍】</strong>：ButterSDK允许开发人员创建多模式AI角色，能够实时交互和上下文理解。将这些智能伴侣完美地集成到现有工作流程中，以提供个性化的用户体验。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/3FA5V4ZO5BQXTJ" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/posts/video-sdk-3-0" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：集成,实时,角色,开发人员,模式,ButterSDK<br>
+<strong>票数</strong>： 🔺762<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2024年10月01日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/55cdcd37-9c80-44e7-ab78-f40ae04c98ec.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2024-09-30</title>
       <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-09-30.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2024年09月22日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/3a242fdc-740f-4866-b0cf-de2d67841209.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2024-09-21</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-09-21.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-09-21.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2024-09-21</source>
-      <description>TOP1 UI Replicator UI Replicator 【标语】：只需点击即可克隆任何网站 【介绍】：只需转到您想要克隆的网站，点击浏览器扩展程序，下载就会开始。(you将仅在一个index.html文件中获取HTML和CSS） 【官网】：立即访问 【Product Hunt】：View on Product Hunt 关键词：克隆,点击,网...</description>
-      <category>PH</category>
-      <pubDate>Sat, 21 Sep 2024 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-ui-replicator"><span></span></a><a href="https://www.producthunt.com/posts/ui-replicator" target="_blank" rel="noopener noreferrer">TOP1    UI Replicator</a></h2>
-<p><img src="https://ph-files.imgix.net/158c8fcb-2838-469b-9fda-38fd805c98e6.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="UI Replicator" loading="lazy"><br><br>
-<strong>【标语】</strong>：只需点击即可克隆任何网站<br>
-<strong>【介绍】</strong>：只需转到您想要克隆的网站，点击浏览器扩展程序，下载就会开始。(you将仅在一个index.html文件中获取HTML和CSS）<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/NGUA5WYSU5IVRW" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/posts/ui-replicator" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：克隆,点击,网站,index,html,HTML<br>
-<strong>票数</strong>： 🔺516<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2024年09月21日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/158c8fcb-2838-469b-9fda-38fd805c98e6.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
