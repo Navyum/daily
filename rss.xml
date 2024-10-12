@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 12 Oct 2024 08:16:09 GMT</pubDate>
-    <lastBuildDate>Sat, 12 Oct 2024 08:16:09 GMT</lastBuildDate>
+    <pubDate>Sat, 12 Oct 2024 09:14:56 GMT</pubDate>
+    <lastBuildDate>Sat, 12 Oct 2024 09:14:56 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2024-10-11</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-10-11.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-10-11.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2024-10-11</source>
+      <description>TOP1 Octomind QA Agent Octomind QA Agent 【标语】：人工智能驱动的端到端测试 【介绍】：一个由代理驱动的QA工具，无需您告知即可测试什么。您自己的初级QA，可以从头开始构建您的测试，并运行它们来检查您的应用程序是否存在错误。您构建您的应用程序，我们确保它正常工作。 【官网】：立即访问 【Product Hunt】...</description>
+      <category>PH</category>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-octomind-qa-agent"><span></span></a><a href="https://www.producthunt.com/posts/octomind-qa-agent" target="_blank" rel="noopener noreferrer">TOP1    Octomind QA Agent</a></h2>
+<p><img src="https://ph-files.imgix.net/c4673116-82e1-41df-997d-8f62af7f977b.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Octomind QA Agent" loading="lazy"><br><br>
+<strong>【标语】</strong>：人工智能驱动的端到端测试<br>
+<strong>【介绍】</strong>：一个由代理驱动的QA工具，无需您告知即可测试什么。您自己的初级QA，可以从头开始构建您的测试，并运行它们来检查您的应用程序是否存在错误。您构建您的应用程序，我们确保它正常工作。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/WMTBKSA7B2OWAV" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/posts/octomind-qa-agent" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：QA,测试,应用程序,构建,驱动,从头开始<br>
+<strong>票数</strong>： 🔺440<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2024年10月11日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/c4673116-82e1-41df-997d-8f62af7f977b.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2024-10-10</title>
       <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-10-10.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2024年10月02日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/1a8b0fd6-90d4-4c90-817b-760fe1c04e1f.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2024-10-01</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-10-01.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-10-01.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2024-10-01</source>
-      <description>TOP1 Video SDK 3.0 Video SDK 3.0 【标语】：构建和集成实时多模式人工智能角色。 【介绍】：ButterSDK允许开发人员创建多模式AI角色，能够实时交互和上下文理解。将这些智能伴侣完美地集成到现有工作流程中，以提供个性化的用户体验。 【官网】：立即访问 【Product Hunt】：View on Product Hun...</description>
-      <category>PH</category>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-video-sdk-3-0"><span></span></a><a href="https://www.producthunt.com/posts/video-sdk-3-0" target="_blank" rel="noopener noreferrer">TOP1    Video SDK 3.0</a></h2>
-<p><img src="https://ph-files.imgix.net/55cdcd37-9c80-44e7-ab78-f40ae04c98ec.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Video SDK 3.0" loading="lazy"><br><br>
-<strong>【标语】</strong>：构建和集成实时多模式人工智能角色。<br>
-<strong>【介绍】</strong>：ButterSDK允许开发人员创建多模式AI角色，能够实时交互和上下文理解。将这些智能伴侣完美地集成到现有工作流程中，以提供个性化的用户体验。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/3FA5V4ZO5BQXTJ" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/posts/video-sdk-3-0" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：集成,实时,角色,开发人员,模式,ButterSDK<br>
-<strong>票数</strong>： 🔺771<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2024年10月01日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/55cdcd37-9c80-44e7-ab78-f40ae04c98ec.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
