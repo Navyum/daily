@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 03 Nov 2024 08:16:40 GMT</pubDate>
-    <lastBuildDate>Sun, 03 Nov 2024 08:16:40 GMT</lastBuildDate>
+    <pubDate>Sun, 03 Nov 2024 09:14:35 GMT</pubDate>
+    <lastBuildDate>Sun, 03 Nov 2024 09:14:35 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2024-11-02</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-11-02.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-11-02.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2024-11-02</source>
+      <description>TOP1 Monica Code Monica Code 【标语】：与GPT-4 o + Claude 3.5一起使用IDE和代码 【介绍】：Monica Code将Claude 3.5和GPT-4 o直接带入VSCode，在不中断您的工作流程的情况下提供深入的项目理解。在您最喜欢的编辑器中享受多模式聊天和我们独家的Composer功能，用于强大的人工...</description>
+      <category>PH</category>
+      <pubDate>Sat, 02 Nov 2024 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-monica-code"><span></span></a><a href="https://www.producthunt.com/posts/monica-code" target="_blank" rel="noopener noreferrer">TOP1    Monica Code</a></h2>
+<p><img src="https://ph-files.imgix.net/5c2cace7-3e5e-45ba-b392-8eb7ed464074.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Monica Code" loading="lazy"><br><br>
+<strong>【标语】</strong>：与GPT-4 o + Claude 3.5一起使用IDE和代码<br>
+<strong>【介绍】</strong>：Monica Code将Claude 3.5和GPT-4 o直接带入VSCode，在不中断您的工作流程的情况下提供深入的项目理解。在您最喜欢的编辑器中享受多模式聊天和我们独家的Composer功能，用于强大的人工智能驱动编码。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/L5IEEURFBBNPN3" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/posts/monica-code" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：GPT,Claude,3.5,IDE,Monica,Code<br>
+<strong>票数</strong>： 🔺602<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2024年11月02日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/5c2cace7-3e5e-45ba-b392-8eb7ed464074.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2024-11-01</title>
       <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-11-01.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2024年10月24日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/70a0f303-10d6-4fa3-a09e-55b6bf673906.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2024-10-23</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-10-23.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-10-23.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2024-10-23</source>
-      <description>TOP1 Glazed Glazed 【标语】：从您的Figma设计中获取用户见解 【介绍】：从产品的UI中构建漏斗并交互式分析用户行为。立即简化用户体验并优先考虑推动业务增长的设计决策。 【官网】：立即访问 【Product Hunt】：View on Product Hunt 关键词：用户,Figma,UI,设计,交互式,漏斗 票数： 🔺651 ...</description>
-      <category>PH</category>
-      <pubDate>Wed, 23 Oct 2024 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-glazed"><span></span></a><a href="https://www.producthunt.com/posts/glazed-2" target="_blank" rel="noopener noreferrer">TOP1    Glazed</a></h2>
-<p><img src="https://ph-files.imgix.net/fa804a58-8306-4253-bbce-34ec60547908.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Glazed" loading="lazy"><br><br>
-<strong>【标语】</strong>：从您的Figma设计中获取用户见解<br>
-<strong>【介绍】</strong>：从产品的UI中构建漏斗并交互式分析用户行为。立即简化用户体验并优先考虑推动业务增长的设计决策。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/B3YWWEX5K4PWLR" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/posts/glazed-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：用户,Figma,UI,设计,交互式,漏斗<br>
-<strong>票数</strong>： 🔺651<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2024年10月23日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/fa804a58-8306-4253-bbce-34ec60547908.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
