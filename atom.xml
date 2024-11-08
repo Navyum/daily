@@ -4,7 +4,7 @@
   <title>DAYHACK</title>
   <subtitle>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</subtitle>
   <icon>https://github.camscanner.top/daily/blog.html/daily/favicon.ico</icon>
-  <updated>2024-11-07T09:14:46.931Z</updated>
+  <updated>2024-11-08T08:17:45.469Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/blog.html/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/blog.html/daily/"/>
@@ -13,21 +13,21 @@
     <title type="text">PH今日热榜 | 2024-11-06</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-11-06.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-11-06.html"/>
-    <updated>2024-11-07T08:16:49.000Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-crustdata"><span></span></a><a href="https://www.producthunt.com/posts/crustdata-2" target="_blank" rel="noopener noreferrer">TOP1    Crustdata</a></h2>
-<p><img src="https://ph-files.imgix.net/56353686-2963-4b40-9221-e34f1d8d350d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Crustdata" loading="lazy"><br><br>
-<strong>【标语】</strong>：通过API和webhook实时人员和公司数据<br>
-<strong>【介绍】</strong>：通过API实时搜索、丰富或监视个人或公司在事件发生时获取即时更新当某人-更换工作-获得晋升-添加新技能-发表帖子时获取更新<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/D6SQIZZ22HJRTN" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/posts/crustdata-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-crustdata"><span></span></a><a href="https://www.producthunt.com/posts/crustdata-2" target="_blank" rel="noopener noreferrer">TOP1    Crustdata</a></h2>
-<p><img src="https://ph-files.imgix.net/56353686-2963-4b40-9221-e34f1d8d350d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Crustdata" loading="lazy"><br><br>
-<strong>【标语】</strong>：通过API和webhook实时人员和公司数据<br>
-<strong>【介绍】</strong>：通过API实时搜索、丰富或监视个人或公司在事件发生时获取即时更新当某人-更换工作-获得晋升-添加新技能-发表帖子时获取更新<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/D6SQIZZ22HJRTN" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/posts/crustdata-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：API,实时,获取,更新,新技能,webhook<br>
-<strong>票数</strong>： 🔺872<br>
+    <updated>2024-11-07T09:13:42.000Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-swe-kit"><span></span></a><a href="https://www.producthunt.com/posts/swe-kit-2" target="_blank" rel="noopener noreferrer">TOP1    SWE-Kit</a></h2>
+<p><img src="https://ph-files.imgix.net/571650e0-78e3-4d96-9f81-05997c7da854.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="SWE-Kit" loading="lazy"><br><br>
+<strong>【标语】</strong>：构建您自己的类似Devin的软件工程代理<br>
+<strong>【介绍】</strong>：SWE-Kit是一个无头IDE，具有AI Native Tools，用于使用您选择的任何扩展框架和LLM构建自定义编码代理。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/3L4W3PARI6XMN7" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/posts/swe-kit-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-swe-kit"><span></span></a><a href="https://www.producthunt.com/posts/swe-kit-2" target="_blank" rel="noopener noreferrer">TOP1    SWE-Kit</a></h2>
+<p><img src="https://ph-files.imgix.net/571650e0-78e3-4d96-9f81-05997c7da854.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="SWE-Kit" loading="lazy"><br><br>
+<strong>【标语】</strong>：构建您自己的类似Devin的软件工程代理<br>
+<strong>【介绍】</strong>：SWE-Kit是一个无头IDE，具有AI Native Tools，用于使用您选择的任何扩展框架和LLM构建自定义编码代理。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/3L4W3PARI6XMN7" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/posts/swe-kit-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：构建,代理,自定义,Devin,SWE,Kit<br>
+<strong>票数</strong>： 🔺901<br>
 <strong>是否精选</strong>：是<br>
 <strong>发布时间</strong>：2024年11月06日 PM04:01 (北京时间)<br><br></p>
 ]]></content>
@@ -38,7 +38,7 @@
     <title type="text">PH今日热榜 | 2024-11-05</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-11-05.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-11-05.html"/>
-    <updated>2024-11-07T08:16:49.000Z</updated>
+    <updated>2024-11-07T09:13:42.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-mindone-builder"><span></span></a><a href="https://www.producthunt.com/posts/mindone-builder" target="_blank" rel="noopener noreferrer">TOP1    MindOne Builder</a></h2>
 <p><img src="https://ph-files.imgix.net/bb4ab6b8-d4fb-48f9-bb79-025278d98d7a.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="MindOne Builder" loading="lazy"><br><br>
 <strong>【标语】</strong>：为原生移动和网络设计优先的应用程序构建器<br>
@@ -63,7 +63,7 @@
     <title type="text">PH今日热榜 | 2024-11-04</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-11-04.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-11-04.html"/>
-    <updated>2024-11-07T08:16:49.000Z</updated>
+    <updated>2024-11-07T09:13:42.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-fullcontext"><span></span></a><a href="https://www.producthunt.com/posts/fullcontext" target="_blank" rel="noopener noreferrer">TOP1    FullContext</a></h2>
 <p><img src="https://ph-files.imgix.net/50c40e9d-f1f5-4dd9-8f1e-c01e6291330b.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="FullContext" loading="lazy"><br><br>
 <strong>【标语】</strong>：使用自然语言构建GTM工作流程的速度加快20倍<br>
@@ -88,7 +88,7 @@
     <title type="text">PH今日热榜 | 2024-11-03</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-11-03.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-11-03.html"/>
-    <updated>2024-11-07T08:16:49.000Z</updated>
+    <updated>2024-11-07T09:13:42.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-kling-ai"><span></span></a><a href="https://www.producthunt.com/posts/kling-ai-4" target="_blank" rel="noopener noreferrer">TOP1    KLING AI</a></h2>
 <p><img src="https://ph-files.imgix.net/391927cf-7db3-4ee0-8b75-6806378cef6b.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="KLING AI" loading="lazy"><br><br>
 <strong>【标语】</strong>：下一代Al创意工作室<br>
@@ -113,7 +113,7 @@
     <title type="text">PH今日热榜 | 2024-11-02</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-11-02.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-11-02.html"/>
-    <updated>2024-11-07T08:16:49.000Z</updated>
+    <updated>2024-11-07T09:13:42.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-monica-code"><span></span></a><a href="https://www.producthunt.com/posts/monica-code" target="_blank" rel="noopener noreferrer">TOP1    Monica Code</a></h2>
 <p><img src="https://ph-files.imgix.net/5c2cace7-3e5e-45ba-b392-8eb7ed464074.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Monica Code" loading="lazy"><br><br>
 <strong>【标语】</strong>：与GPT-4 o + Claude 3.5一起使用IDE和代码<br>
@@ -138,7 +138,7 @@
     <title type="text">PH今日热榜 | 2024-11-01</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-11-01.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-11-01.html"/>
-    <updated>2024-11-07T08:16:49.000Z</updated>
+    <updated>2024-11-07T09:13:42.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-truva-ai"><span></span></a><a href="https://www.producthunt.com/posts/truva-ai" target="_blank" rel="noopener noreferrer">TOP1    Truva AI</a></h2>
 <p><img src="https://ph-files.imgix.net/30f52c72-ba49-472a-9ddd-996e18a423d8.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Truva AI" loading="lazy"><br><br>
 <strong>【标语】</strong>：与人工智能代理一起多卖少磨<br>
@@ -163,7 +163,7 @@
     <title type="text">PH今日热榜 | 2024-10-31</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-10-31.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-10-31.html"/>
-    <updated>2024-11-07T08:16:49.000Z</updated>
+    <updated>2024-11-07T09:13:42.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-zefi-1-0"><span></span></a><a href="https://www.producthunt.com/posts/zefi-1-0" target="_blank" rel="noopener noreferrer">TOP1    Zefi 1.0</a></h2>
 <p><img src="https://ph-files.imgix.net/6078bb88-c7d4-41b5-9268-14688e8653af.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Zefi 1.0" loading="lazy"><br><br>
 <strong>【标语】</strong>：将用户声音转化为价值<br>
@@ -188,7 +188,7 @@
     <title type="text">PH今日热榜 | 2024-10-30</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-10-30.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-10-30.html"/>
-    <updated>2024-11-07T08:16:49.000Z</updated>
+    <updated>2024-11-07T09:13:42.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-bolt-new"><span></span></a><a href="https://www.producthunt.com/posts/bolt-new" target="_blank" rel="noopener noreferrer">TOP1    bolt.new</a></h2>
 <p><img src="https://ph-files.imgix.net/243b8dd1-15ce-4df7-99f4-e65347e9b06f.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="bolt.new" loading="lazy"><br><br>
 <strong>【标语】</strong>：提示、运行、编辑和部署全栈Web应用程序<br>
@@ -213,7 +213,7 @@
     <title type="text">PH今日热榜 | 2024-10-29</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-10-29.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-10-29.html"/>
-    <updated>2024-11-07T08:16:49.000Z</updated>
+    <updated>2024-11-07T09:13:42.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-magic-notepad-by-timeos"><span></span></a><a href="https://www.producthunt.com/posts/magic-notepad-by-timeos" target="_blank" rel="noopener noreferrer">TOP1    Magic Notepad by timeOS</a></h2>
 <p><img src="https://ph-files.imgix.net/cae58c8f-a686-498c-840e-f4b43a89f32a.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Magic Notepad by timeOS" loading="lazy"><br><br>
 <strong>【标语】</strong>：如果Apple Note和ChatGPT生了孩子<br>
@@ -238,7 +238,7 @@
     <title type="text">PH今日热榜 | 2024-10-28</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-10-28.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-10-28.html"/>
-    <updated>2024-11-07T08:16:49.000Z</updated>
+    <updated>2024-11-07T09:13:42.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-apipark"><span></span></a><a href="https://www.producthunt.com/posts/apipark" target="_blank" rel="noopener noreferrer">TOP1    APIPark</a></h2>
 <p><img src="https://ph-files.imgix.net/fd456aee-5928-49af-967f-2c740f77bd65.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="APIPark" loading="lazy"><br><br>
 <strong>【标语】</strong>：您的开源AI门户和API开发者门户<br>

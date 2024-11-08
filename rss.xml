@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 07 Nov 2024 09:14:46 GMT</pubDate>
-    <lastBuildDate>Thu, 07 Nov 2024 09:14:46 GMT</lastBuildDate>
+    <pubDate>Fri, 08 Nov 2024 08:17:45 GMT</pubDate>
+    <lastBuildDate>Fri, 08 Nov 2024 08:17:45 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,21 +16,21 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-11-06.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-11-06.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2024-11-06</source>
-      <description>TOP1 Crustdata Crustdata 【标语】：通过API和webhook实时人员和公司数据 【介绍】：通过API实时搜索、丰富或监视个人或公司在事件发生时获取即时更新当某人-更换工作-获得晋升-添加新技能-发表帖子时获取更新 【官网】：立即访问 【Product Hunt】：View on Product Hunt 关键词：API,实时,...</description>
+      <description>TOP1 SWE-Kit SWE-Kit 【标语】：构建您自己的类似Devin的软件工程代理 【介绍】：SWE-Kit是一个无头IDE，具有AI Native Tools，用于使用您选择的任何扩展框架和LLM构建自定义编码代理。 【官网】：立即访问 【Product Hunt】：View on Product Hunt 关键词：构建,代理,自定义,De...</description>
       <category>PH</category>
       <pubDate>Wed, 06 Nov 2024 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-crustdata"><span></span></a><a href="https://www.producthunt.com/posts/crustdata-2" target="_blank" rel="noopener noreferrer">TOP1    Crustdata</a></h2>
-<p><img src="https://ph-files.imgix.net/56353686-2963-4b40-9221-e34f1d8d350d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Crustdata" loading="lazy"><br><br>
-<strong>【标语】</strong>：通过API和webhook实时人员和公司数据<br>
-<strong>【介绍】</strong>：通过API实时搜索、丰富或监视个人或公司在事件发生时获取即时更新当某人-更换工作-获得晋升-添加新技能-发表帖子时获取更新<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/D6SQIZZ22HJRTN" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/posts/crustdata-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：API,实时,获取,更新,新技能,webhook<br>
-<strong>票数</strong>： 🔺872<br>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-swe-kit"><span></span></a><a href="https://www.producthunt.com/posts/swe-kit-2" target="_blank" rel="noopener noreferrer">TOP1    SWE-Kit</a></h2>
+<p><img src="https://ph-files.imgix.net/571650e0-78e3-4d96-9f81-05997c7da854.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="SWE-Kit" loading="lazy"><br><br>
+<strong>【标语】</strong>：构建您自己的类似Devin的软件工程代理<br>
+<strong>【介绍】</strong>：SWE-Kit是一个无头IDE，具有AI Native Tools，用于使用您选择的任何扩展框架和LLM构建自定义编码代理。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/3L4W3PARI6XMN7" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/posts/swe-kit-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：构建,代理,自定义,Devin,SWE,Kit<br>
+<strong>票数</strong>： 🔺901<br>
 <strong>是否精选</strong>：是<br>
 <strong>发布时间</strong>：2024年11月06日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/56353686-2963-4b40-9221-e34f1d8d350d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+      <enclosure url="https://ph-files.imgix.net/571650e0-78e3-4d96-9f81-05997c7da854.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
     <item>
       <title>PH今日热榜 | 2024-11-05</title>
