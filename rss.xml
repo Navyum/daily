@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 18 Nov 2024 08:20:07 GMT</pubDate>
-    <lastBuildDate>Mon, 18 Nov 2024 08:20:07 GMT</lastBuildDate>
+    <pubDate>Mon, 18 Nov 2024 09:17:04 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Nov 2024 09:17:04 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2024-11-17</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-11-17.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-11-17.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2024-11-17</source>
+      <description>TOP1 Momen Momen 【标语】：构建您的MVP并扩展它，无需代码。 【介绍】：Momen是一个全栈、无代码Web应用程序构建器，具有集成的AI代理开发框架。它使您能够快速构建和部署MVP，缩短上市时间，并允许在同一平台上进行无缝迭代和扩展。 【官网】：立即访问 【Product Hunt】：View on Product Hunt 关键词：...</description>
+      <category>PH</category>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-momen"><span></span></a><a href="https://www.producthunt.com/posts/momen" target="_blank" rel="noopener noreferrer">TOP1    Momen</a></h2>
+<p><img src="https://ph-files.imgix.net/dc297a3b-b655-48ba-84df-a6bcc1628d2b.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Momen" loading="lazy"><br><br>
+<strong>【标语】</strong>：构建您的MVP并扩展它，无需代码。<br>
+<strong>【介绍】</strong>：Momen是一个全栈、无代码Web应用程序构建器，具有集成的AI代理开发框架。它使您能够快速构建和部署MVP，缩短上市时间，并允许在同一平台上进行无缝迭代和扩展。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/L2L5AHPQ3BZKNQ" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/posts/momen" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：MVP,构建,代码,扩展,Momen,全栈<br>
+<strong>票数</strong>： 🔺717<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2024年11月17日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/dc297a3b-b655-48ba-84df-a6bcc1628d2b.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2024-11-16</title>
       <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-11-16.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2024年11月08日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/e9c64d4b-84da-4666-8978-2363853a3f95.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2024-11-07</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-11-07.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-11-07.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2024-11-07</source>
-      <description>TOP1 Quorini Quorini 【标语】：几分钟内设计和运行无服务器云API 【介绍】：Quorini提供了一套用于设计数据模型的视觉工具，并运行完全托管的无服务器后台。Quorini显着加快了上市时间，同时最大限度地减少了资源，同时不影响质量。 【官网】：立即访问 【Product Hunt】：View on Product Hunt 关键...</description>
-      <category>PH</category>
-      <pubDate>Thu, 07 Nov 2024 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-quorini"><span></span></a><a href="https://www.producthunt.com/posts/quorini" target="_blank" rel="noopener noreferrer">TOP1    Quorini</a></h2>
-<p><img src="https://ph-files.imgix.net/6a6b6d1c-2f3d-41ca-b67c-94e3460c7dc8.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Quorini" loading="lazy"><br><br>
-<strong>【标语】</strong>：几分钟内设计和运行无服务器云API<br>
-<strong>【介绍】</strong>：Quorini提供了一套用于设计数据模型的视觉工具，并运行完全托管的无服务器后台。Quorini显着加快了上市时间，同时最大限度地减少了资源，同时不影响质量。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/6JZIN4JQNEKGO5" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/posts/quorini" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：服务器,数据模型,APIQuorini,Quorini,运行,设计<br>
-<strong>票数</strong>： 🔺883<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2024年11月07日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/6a6b6d1c-2f3d-41ca-b67c-94e3460c7dc8.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
