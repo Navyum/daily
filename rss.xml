@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 01 Dec 2024 08:17:42 GMT</pubDate>
-    <lastBuildDate>Sun, 01 Dec 2024 08:17:42 GMT</lastBuildDate>
+    <pubDate>Sun, 01 Dec 2024 09:14:22 GMT</pubDate>
+    <lastBuildDate>Sun, 01 Dec 2024 09:14:22 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2024-11-30</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-11-30.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-11-30.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2024-11-30</source>
+      <description>TOP1 Kroto Kroto 【标语】：使用人工智能记录和翻译60多种语言的视频指南 【介绍】：Kroto为全球受众简化了产品文档。凭借60多种语言、人工智能配音和无缝编辑，它将您的视频指南转换为多语言体验-非常适合团队与不同用户进行沟通。 【官网】：立即访问 【Product Hunt】：View on Product Hunt 关键词：60,多...</description>
+      <category>PH</category>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-kroto"><span></span></a><a href="https://www.producthunt.com/posts/kroto-3" target="_blank" rel="noopener noreferrer">TOP1    Kroto </a></h2>
+<p><img src="https://ph-files.imgix.net/292c2462-b02a-4828-b3a6-bb2c16499edc.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Kroto " loading="lazy"><br><br>
+<strong>【标语】</strong>：使用人工智能记录和翻译60多种语言的视频指南<br>
+<strong>【介绍】</strong>：Kroto为全球受众简化了产品文档。凭借60多种语言、人工智能配音和无缝编辑，它将您的视频指南转换为多语言体验-非常适合团队与不同用户进行沟通。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/DPCZZKT36I23JP" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/posts/kroto-3" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：60,多种语言,人工智能,指南,视频,Kroto<br>
+<strong>票数</strong>： 🔺298<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2024年11月30日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/292c2462-b02a-4828-b3a6-bb2c16499edc.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2024-11-29</title>
       <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-11-29.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2024年11月21日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/b885d93b-af75-4bf9-933d-08f40991c1ce.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2024-11-20</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-11-20.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-11-20.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2024-11-20</source>
-      <description>TOP1 Postiz Postiz 【标语】：您的终极人工智能社交媒体调度工具 【介绍】：使用Postiz简化您的社交媒体。安排职位、分析绩效并在一个地方管理所有帐户。Postiz是完全开源的！您可以在您的机器上托管它！观看预告片 【官网】：立即访问 【Product Hunt】：View on Product Hunt 关键词：Postiz,社交,...</description>
-      <category>PH</category>
-      <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-postiz"><span></span></a><a href="https://www.producthunt.com/posts/postiz" target="_blank" rel="noopener noreferrer">TOP1    Postiz</a></h2>
-<p><img src="https://ph-files.imgix.net/984f71ce-a892-46c0-af7f-222c0a1c5af4.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Postiz" loading="lazy"><br><br>
-<strong>【标语】</strong>：您的终极人工智能社交媒体调度工具 <br>
-<strong>【介绍】</strong>：使用Postiz简化您的社交媒体。安排职位、分析绩效并在一个地方管理所有帐户。Postiz是完全开源的！您可以在您的机器上托管它！观看预告片<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/UR3D4TMMYQ7UVL" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/posts/postiz" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：Postiz,社交,媒体,预告片,开源,人工智能<br>
-<strong>票数</strong>： 🔺937<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2024年11月20日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/984f71ce-a892-46c0-af7f-222c0a1c5af4.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
