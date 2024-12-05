@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 05 Dec 2024 08:20:00 GMT</pubDate>
-    <lastBuildDate>Thu, 05 Dec 2024 08:20:00 GMT</lastBuildDate>
+    <pubDate>Thu, 05 Dec 2024 09:16:18 GMT</pubDate>
+    <lastBuildDate>Thu, 05 Dec 2024 09:16:18 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2024-12-04</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-12-04.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-12-04.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2024-12-04</source>
+      <description>TOP1 Oopsie Oopsie 【标语】：使用AI和会话回放来验证Flutter和React Native应用程序 【介绍】：Oopsie by Zipy是您需要的唯一一个人工智能驱动的移动调试工具，提供NPS会话回放、NPS错误监视、NPSAI摘要和NPSFirebase Crashlytics集成。使用Zipy更智能地调试并更快地解决Flut...</description>
+      <category>PH</category>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-oopsie"><span></span></a><a href="https://www.producthunt.com/posts/oopsie" target="_blank" rel="noopener noreferrer">TOP1    Oopsie</a></h2>
+<p><img src="https://ph-files.imgix.net/83e42715-c3e4-4d19-b684-3ce2a11f460f.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Oopsie" loading="lazy"><br><br>
+<strong>【标语】</strong>：使用AI和会话回放来验证Flutter和React Native应用程序<br>
+<strong>【介绍】</strong>：Oopsie by Zipy是您需要的唯一一个人工智能驱动的移动调试工具，提供NPS会话回放、NPS错误监视、NPSAI摘要和NPSFirebase Crashlytics集成。使用Zipy更智能地调试并更快地解决Flutter和React Native问题。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/U2G3XSLKFGH7DL" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/posts/oopsie" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：Flutter,React,Native,Zipy,NPS,回放<br>
+<strong>票数</strong>： 🔺846<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2024年12月04日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/83e42715-c3e4-4d19-b684-3ce2a11f460f.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2024-12-03</title>
       <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-12-03.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2024年11月25日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/52d66501-e1ce-42d5-96e3-4b2718ed692a.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2024-11-24</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-11-24.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-11-24.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2024-11-24</source>
-      <description>TOP1 Pine Pine 【标语】：通过Pine控制您的账单 【介绍】：Pine是您的人工智能助手，可以消除处理计费问题的挫败感。它会检测不公平的收费，并代表您致电公司，进行谈判以保护您的权利并解决争议。 【官网】：立即访问 【Product Hunt】：View on Product Hunt 关键词：Pine,计费,账单,人工智能,进行谈判,挫...</description>
-      <category>PH</category>
-      <pubDate>Sun, 24 Nov 2024 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-pine"><span></span></a><a href="https://www.producthunt.com/posts/pine-15" target="_blank" rel="noopener noreferrer">TOP1    Pine</a></h2>
-<p><img src="https://ph-files.imgix.net/5308de34-d9cc-4f06-9b54-4185b7b3ff65.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Pine" loading="lazy"><br><br>
-<strong>【标语】</strong>：通过Pine控制您的账单<br>
-<strong>【介绍】</strong>：Pine是您的人工智能助手，可以消除处理计费问题的挫败感。它会检测不公平的收费，并代表您致电公司，进行谈判以保护您的权利并解决争议。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/37NNYBARKYVM7R" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/posts/pine-15" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：Pine,计费,账单,人工智能,进行谈判,挫败<br>
-<strong>票数</strong>： 🔺506<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2024年11月24日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/5308de34-d9cc-4f06-9b54-4185b7b3ff65.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
