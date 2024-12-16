@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 16 Dec 2024 08:20:51 GMT</pubDate>
-    <lastBuildDate>Mon, 16 Dec 2024 08:20:51 GMT</lastBuildDate>
+    <pubDate>Mon, 16 Dec 2024 09:17:08 GMT</pubDate>
+    <lastBuildDate>Mon, 16 Dec 2024 09:17:08 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2024-12-15</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-12-15.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-12-15.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2024-12-15</source>
+      <description>TOP1 Animate AI Animate AI 【标语】：世界上第一个动画系列人工智能视频生成器 【介绍】：Animate AI是世界上第一个用于动画视频系列的一体化AI视频生成器。快速、简单、令人惊叹！立即免费开始您的创意冒险！没有麻烦，只是魔法！ 【官网】：立即访问 【Product Hunt】：View on Product Hunt 关键...</description>
+      <category>PH</category>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-animate-ai"><span></span></a><a href="https://www.producthunt.com/posts/animate-ai" target="_blank" rel="noopener noreferrer">TOP1    Animate AI</a></h2>
+<p><img src="https://ph-files.imgix.net/5abdeb51-0f16-4b39-8ba0-bd05e02efd62.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Animate AI" loading="lazy"><br><br>
+<strong>【标语】</strong>：世界上第一个动画系列人工智能视频生成器<br>
+<strong>【介绍】</strong>：Animate AI是世界上第一个用于动画视频系列的一体化AI视频生成器。快速、简单、令人惊叹！立即免费开始您的创意冒险！没有麻烦，只是魔法！<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/ZDWZT7ZVPMJAH2" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/posts/animate-ai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：生成器,视频,AI,动画,系列,Animate<br>
+<strong>票数</strong>： 🔺759<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2024年12月15日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/5abdeb51-0f16-4b39-8ba0-bd05e02efd62.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2024-12-14</title>
       <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-12-14.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2024年12月06日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/a0bc9881-d169-4d10-9165-62dc3295762a.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2024-12-05</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-12-05.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-12-05.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2024-12-05</source>
-      <description>TOP1 Reflex Cloud Reflex Cloud 【标语】：在纯Python +中构建Web应用程序，只需一个命令即可部署 【介绍】：用纯Python（不需要JavaScript）构建Web应用程序并通过单个命令进行部署。Reflex Cloud包括一个仪表板，用于管理我们的应用程序、自定义域、灵活的内存和中央处理器选项、单击身份验证、网站...</description>
-      <category>PH</category>
-      <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-reflex-cloud"><span></span></a><a href="https://www.producthunt.com/posts/reflex-cloud" target="_blank" rel="noopener noreferrer">TOP1    Reflex Cloud</a></h2>
-<p><img src="https://ph-files.imgix.net/4da19d73-8035-42cb-970b-db835aca4109.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Reflex Cloud" loading="lazy"><br><br>
-<strong>【标语】</strong>：在纯Python +中构建Web应用程序，只需一个命令即可部署<br>
-<strong>【介绍】</strong>：用纯Python（不需要JavaScript）构建Web应用程序并通过单个命令进行部署。Reflex Cloud包括一个仪表板，用于管理我们的应用程序、自定义域、灵活的内存和中央处理器选项、单击身份验证、网站分析、On Preferred Hosting等。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/F2YSQ3KAWD36D7" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/posts/reflex-cloud" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：应用程序,Python,Web,构建,部署,身份验证<br>
-<strong>票数</strong>： 🔺585<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2024年12月05日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/4da19d73-8035-42cb-970b-db835aca4109.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
