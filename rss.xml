@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 29 Dec 2024 08:16:54 GMT</pubDate>
-    <lastBuildDate>Sun, 29 Dec 2024 08:16:54 GMT</lastBuildDate>
+    <pubDate>Sun, 29 Dec 2024 09:13:04 GMT</pubDate>
+    <lastBuildDate>Sun, 29 Dec 2024 09:13:04 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2024-12-28</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-12-28.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-12-28.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2024-12-28</source>
+      <description>TOP1 ReactAI ReactAI 【标语】：开源免费AI反应组件构建器 【介绍】：主要功能：-几秒钟内创建功能齐全的React组件-无需API密钥！- 无限使用：免费享受无限访问！非常适合希望加速工作流程的个人开发人员、初创公司和团队。 【官网】：立即访问 【Product Hunt】：View on Product Hunt 关键词：组件,免...</description>
+      <category>PH</category>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-reactai"><span></span></a><a href="https://www.producthunt.com/posts/reactai" target="_blank" rel="noopener noreferrer">TOP1    ReactAI</a></h2>
+<p><img src="https://ph-files.imgix.net/b355a109-8cbe-4351-8c0d-ee4aa1772d1e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ReactAI" loading="lazy"><br><br>
+<strong>【标语】</strong>：开源免费AI反应组件构建器<br>
+<strong>【介绍】</strong>：主要功能：-几秒钟内创建功能齐全的React组件-无需API密钥！- 无限使用：免费享受无限访问！非常适合希望加速工作流程的个人开发人员、初创公司和团队。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/3XEQO3NAPACSF2" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/posts/reactai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：组件,免费,无限,开发人员,AI,React<br>
+<strong>票数</strong>： 🔺381<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2024年12月28日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/b355a109-8cbe-4351-8c0d-ee4aa1772d1e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2024-12-27</title>
       <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-12-27.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2024年12月19日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/6ef9be3a-4003-4038-a29f-20e28afea1f9.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2024-12-18</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-12-18.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-12-18.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2024-12-18</source>
-      <description>TOP1 Tempo Labs Tempo Labs 【标语】：由人工智能支持的React视觉编辑器 【介绍】：Tempo是React的视觉编辑器，它使PM、设计师和工程师能够在代码上进行可视化协作。它提供了熟悉的设计工具的用户体验，但功能就像引擎盖下的IDE一样。Tempo针对Vite和Tailwind进行了优化。 【官网】：立即访问 【Produc...</description>
-      <category>PH</category>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-tempo-labs"><span></span></a><a href="https://www.producthunt.com/posts/tempo-labs" target="_blank" rel="noopener noreferrer">TOP1    Tempo Labs</a></h2>
-<p><img src="https://ph-files.imgix.net/c8e17a8f-6fb2-4fc6-bd02-00cbecdf398c.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Tempo Labs" loading="lazy"><br><br>
-<strong>【标语】</strong>：由人工智能支持的React视觉编辑器<br>
-<strong>【介绍】</strong>：Tempo是React的视觉编辑器，它使PM、设计师和工程师能够在代码上进行可视化协作。它提供了熟悉的设计工具的用户体验，但功能就像引擎盖下的IDE一样。Tempo针对Vite和Tailwind进行了优化。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/MGH3AG5LJQV3ME" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/posts/tempo-labs" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：React,Tempo,编辑器,视觉,PM,IDE<br>
-<strong>票数</strong>： 🔺798<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2024年12月18日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/c8e17a8f-6fb2-4fc6-bd02-00cbecdf398c.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
