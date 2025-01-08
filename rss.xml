@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 08 Jan 2025 08:18:18 GMT</pubDate>
-    <lastBuildDate>Wed, 08 Jan 2025 08:18:18 GMT</lastBuildDate>
+    <pubDate>Wed, 08 Jan 2025 09:15:23 GMT</pubDate>
+    <lastBuildDate>Wed, 08 Jan 2025 09:15:23 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2025-01-07</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-01-07.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-01-07.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-01-07</source>
+      <description>TOP1 Wegic Wegic 【标语】：您的第一个人工智能网站团队 【介绍】：Wegic是您的人工智能网站团队-您的人工智能设计师、开发人员和经理。只需聊天，您的网站就会轻松构建、运行和更新。 【官网】：立即访问 【Product Hunt】：View on Product Hunt 关键词：人工智能,网站,团队,开发人员,Wegic,设计师 票数...</description>
+      <category>PH</category>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-wegic"><span></span></a><a href="https://www.producthunt.com/posts/wegic-2" target="_blank" rel="noopener noreferrer">TOP1    Wegic</a></h2>
+<p><img src="https://ph-files.imgix.net/852ad5a2-d3a0-496c-871c-a567e013ed30.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Wegic" loading="lazy"><br><br>
+<strong>【标语】</strong>：您的第一个人工智能网站团队<br>
+<strong>【介绍】</strong>：Wegic是您的人工智能网站团队-您的人工智能设计师、开发人员和经理。只需聊天，您的网站就会轻松构建、运行和更新。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/G6KIXQ3NRL6UMC" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/posts/wegic-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：人工智能,网站,团队,开发人员,Wegic,设计师<br>
+<strong>票数</strong>： 🔺690<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2025年01月07日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/852ad5a2-d3a0-496c-871c-a567e013ed30.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2025-01-06</title>
       <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-01-06.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2024年12月29日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/37de91ff-13da-4a96-a1bd-05fc6573b0b7.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2024-12-28</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-12-28.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2024-12-28.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2024-12-28</source>
-      <description>TOP1 ReactAI ReactAI 【标语】：开源免费AI反应组件构建器 【介绍】：主要功能：-几秒钟内创建功能齐全的React组件-无需API密钥！- 无限使用：免费享受无限访问！非常适合希望加速工作流程的个人开发人员、初创公司和团队。 【官网】：立即访问 【Product Hunt】：View on Product Hunt 关键词：组件,免...</description>
-      <category>PH</category>
-      <pubDate>Sat, 28 Dec 2024 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-reactai"><span></span></a><a href="https://www.producthunt.com/posts/reactai" target="_blank" rel="noopener noreferrer">TOP1    ReactAI</a></h2>
-<p><img src="https://ph-files.imgix.net/b355a109-8cbe-4351-8c0d-ee4aa1772d1e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ReactAI" loading="lazy"><br><br>
-<strong>【标语】</strong>：开源免费AI反应组件构建器<br>
-<strong>【介绍】</strong>：主要功能：-几秒钟内创建功能齐全的React组件-无需API密钥！- 无限使用：免费享受无限访问！非常适合希望加速工作流程的个人开发人员、初创公司和团队。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/3XEQO3NAPACSF2" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/posts/reactai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：组件,免费,无限,开发人员,AI,React<br>
-<strong>票数</strong>： 🔺384<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2024年12月28日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/b355a109-8cbe-4351-8c0d-ee4aa1772d1e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
