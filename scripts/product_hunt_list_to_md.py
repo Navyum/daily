@@ -38,6 +38,8 @@ class Product:
     def fetch_og_image_url(self) -> str:
         """获取产品的Open Graph图片URL"""
         response = requests.get(self.url)
+        print(response.status_code)
+        print(self.url)
         if response.status_code == 200:
             print(response.text)
             soup = BeautifulSoup(response.text, 'html.parser')
