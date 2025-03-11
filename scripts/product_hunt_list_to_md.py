@@ -46,7 +46,7 @@ class Product:
             "Connection": "keep-alive"
         }
 
-        response = requests.get(self.url)
+        response = requests.get(self.url, headers=headers)
         print(response.status_code)
         print(self.url)
         if response.status_code == 200:
