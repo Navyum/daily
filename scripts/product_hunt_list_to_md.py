@@ -37,6 +37,15 @@ class Product:
 
     def fetch_og_image_url(self) -> str:
         """获取产品的Open Graph图片URL"""
+        # 添加更多请求头信息
+        headers = {
+            "Content-Type": "application/json",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+            "Origin": "https://decohack.com",
+            "Accept-Language": "en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7",
+            "Connection": "keep-alive"
+        }
+
         response = requests.get(self.url)
         print(response.status_code)
         print(self.url)
