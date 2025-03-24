@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 24 Mar 2025 08:20:34 GMT</pubDate>
-    <lastBuildDate>Mon, 24 Mar 2025 08:20:34 GMT</lastBuildDate>
+    <pubDate>Mon, 24 Mar 2025 09:17:18 GMT</pubDate>
+    <lastBuildDate>Mon, 24 Mar 2025 09:17:18 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2025-03-23</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-03-23.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-03-23.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-03-23</source>
+      <description>TOP1 The &amp;quot;think&amp;quot; tool from Claude The &amp;quot;think&amp;quot; tool from Claude 【标语】：使克劳德能够停下来思考 【介绍】：通过“思考”工具，我们让Claude能够包含一个额外的思考步骤（带有自己的指定空间），作为获得最终答案的一部分。 【官网】：立即访问 【Product Hunt】：View on Pr...</description>
+      <category>PH</category>
+      <pubDate>Sun, 23 Mar 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-the-think-tool-from-claude"><span></span></a><a href="https://www.producthunt.com/posts/the-think-tool-from-claude" target="_blank" rel="noopener noreferrer">TOP1    The "think" tool from Claude</a></h2>
+<p><img src="https://ph-files.imgix.net/711779d3-8c96-489a-acae-b4a13fa814d0.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="The &quot;think&quot; tool from Claude" loading="lazy"><br><br>
+<strong>【标语】</strong>：使克劳德能够停下来思考 <br>
+<strong>【介绍】</strong>：通过“思考”工具，我们让Claude能够包含一个额外的思考步骤（带有自己的指定空间），作为获得最终答案的一部分。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/K5MVCZAPC24K7A" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/posts/the-think-tool-from-claude" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：思考,Claude,克劳德,能够,停下来,步骤<br>
+<strong>票数</strong>： 🔺598<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2025年03月23日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/711779d3-8c96-489a-acae-b4a13fa814d0.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2025-03-22</title>
       <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-03-22.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2025年03月14日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/3ca56077-aeca-4364-af2a-b1053d9424c1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2025-03-13</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-03-13.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-03-13.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-03-13</source>
-      <description>TOP1 Zencoder Zencoder 【标语】：集成、可定制且直观的编码代理 【介绍】：Zencoder -人工智能编码助手，帮助开发人员更快地交付产品。凭借深厚的上下文感知、人工智能代理和20多个集成，我们帮助开发人员在VS Code和JetBrains中轻松构建生产就绪的解决方案。 【官网】：立即访问 【Product Hunt】：View...</description>
-      <category>PH</category>
-      <pubDate>Thu, 13 Mar 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-zencoder"><span></span></a><a href="https://www.producthunt.com/posts/zencoder" target="_blank" rel="noopener noreferrer">TOP1    Zencoder </a></h2>
-<p><img src="https://ph-files.imgix.net/c79518eb-0b64-4e1a-aa3d-51bd2bd3ac9c.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Zencoder " loading="lazy"><br><br>
-<strong>【标语】</strong>：集成、可定制且直观的编码代理<br>
-<strong>【介绍】</strong>：Zencoder -人工智能编码助手，帮助开发人员更快地交付产品。凭借深厚的上下文感知、人工智能代理和20多个集成，我们帮助开发人员在VS Code和JetBrains中轻松构建生产就绪的解决方案。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/KVD4GAGMDGALVZ" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/posts/zencoder" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：开发人员,人工智能,编码,集成,代理,Zencoder<br>
-<strong>票数</strong>： 🔺664<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2025年03月13日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/c79518eb-0b64-4e1a-aa3d-51bd2bd3ac9c.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
