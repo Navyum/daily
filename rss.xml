@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 26 Mar 2025 08:20:18 GMT</pubDate>
-    <lastBuildDate>Wed, 26 Mar 2025 08:20:18 GMT</lastBuildDate>
+    <pubDate>Wed, 26 Mar 2025 09:16:40 GMT</pubDate>
+    <lastBuildDate>Wed, 26 Mar 2025 09:16:40 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2025-03-25</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-03-25.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-03-25.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-03-25</source>
+      <description>TOP1 Inferless Inferless 【标语】：几分钟内部署任何机器学习模型。 【介绍】：在生产中部署任何机器学习模型，无压力且超低冷启动。从单个用户扩展到数十亿用户，并且仅在使用时付费。 【官网】：立即访问 【Product Hunt】：View on Product Hunt 关键词：用户,模型,部署,机器,冷启动,学习 票数： 🔺8...</description>
+      <category>PH</category>
+      <pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-inferless"><span></span></a><a href="https://www.producthunt.com/posts/inferless" target="_blank" rel="noopener noreferrer">TOP1    Inferless</a></h2>
+<p><img src="https://ph-files.imgix.net/7b2f6d44-2e50-4266-9b71-5a1f4f99f3fd.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Inferless" loading="lazy"><br><br>
+<strong>【标语】</strong>：几分钟内部署任何机器学习模型。<br>
+<strong>【介绍】</strong>：在生产中部署任何机器学习模型，无压力且超低冷启动。从单个用户扩展到数十亿用户，并且仅在使用时付费。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/C25PX426XUF526" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/posts/inferless" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：用户,模型,部署,机器,冷启动,学习<br>
+<strong>票数</strong>： 🔺889<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2025年03月25日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/7b2f6d44-2e50-4266-9b71-5a1f4f99f3fd.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2025-03-24</title>
       <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-03-24.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2025年03月16日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/c7a6f2f7-0712-4f69-9cc8-1242c2a2c3f0.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2025-03-15</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-03-15.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-03-15.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-03-15</source>
-      <description>TOP1 BrowserAgent BrowserAgent 【标语】：基于浏览器的人工智能代理-无限运行，固定成本 【介绍】：直接在您的浏览器中创建和运行AI工作流程，API成本为零。我们的视觉编辑器不需要编码，而我们的浏览器原生技术可以以固定价格无限执行。构建一次，运行数千次，不会增加成本。 【官网】：立即访问 【Product Hunt】：Vie...</description>
-      <category>PH</category>
-      <pubDate>Sat, 15 Mar 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-browseragent"><span></span></a><a href="https://www.producthunt.com/posts/browseragent" target="_blank" rel="noopener noreferrer">TOP1    BrowserAgent</a></h2>
-<p><img src="https://ph-files.imgix.net/69dd8f3f-05f7-46e2-a54c-df9c0b9a2802.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="BrowserAgent" loading="lazy"><br><br>
-<strong>【标语】</strong>：基于浏览器的人工智能代理-无限运行，固定成本<br>
-<strong>【介绍】</strong>：直接在您的浏览器中创建和运行AI工作流程，API成本为零。我们的视觉编辑器不需要编码，而我们的浏览器原生技术可以以固定价格无限执行。构建一次，运行数千次，不会增加成本。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/MO6RHBWKFWW7KF" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/posts/browseragent" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：浏览器,运行,无限,固定价格,AI,API<br>
-<strong>票数</strong>： 🔺483<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2025年03月15日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/69dd8f3f-05f7-46e2-a54c-df9c0b9a2802.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
