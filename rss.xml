@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 28 Mar 2025 08:19:37 GMT</pubDate>
-    <lastBuildDate>Fri, 28 Mar 2025 08:19:37 GMT</lastBuildDate>
+    <pubDate>Fri, 28 Mar 2025 09:16:04 GMT</pubDate>
+    <lastBuildDate>Fri, 28 Mar 2025 09:16:04 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2025-03-27</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-03-27.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-03-27.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-03-27</source>
+      <description>TOP1 SimplAI SimplAI 【标语】：构建和部署人工智能的最简单，最快的方法 【介绍】：用于在任何环境（本地、云或混合）中构建、部署和管理大型人工智能的单一平台。它提供强大的治理、安全性和可扩展性，因此您可以更简单、更快地启动人工智能应用程序。 【官网】：立即访问 【Product Hunt】：View on Product Hunt 关...</description>
+      <category>PH</category>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-simplai"><span></span></a><a href="https://www.producthunt.com/posts/simplai" target="_blank" rel="noopener noreferrer">TOP1    SimplAI</a></h2>
+<p><img src="https://ph-files.imgix.net/684ea987-345c-4273-837d-a7580913d925.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="SimplAI" loading="lazy"><br><br>
+<strong>【标语】</strong>：构建和部署人工智能的最简单，最快的方法 <br>
+<strong>【介绍】</strong>：用于在任何环境（本地、云或混合）中构建、部署和管理大型人工智能的单一平台。它提供强大的治理、安全性和可扩展性，因此您可以更简单、更快地启动人工智能应用程序。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/3FPMCJ6E5P3J6A" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/posts/simplai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：人工智能,构建,部署,可扩展性,简单,应用程序<br>
+<strong>票数</strong>： 🔺825<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2025年03月27日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/684ea987-345c-4273-837d-a7580913d925.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2025-03-26</title>
       <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-03-26.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2025年03月18日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/badf0734-410e-439f-929f-eb7de8cecd70.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2025-03-17</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-03-17.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-03-17.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-03-17</source>
-      <description>TOP1 TalkMe TalkMe 【标语】：个人人工智能辅导让语言学习变得有趣且有效 【介绍】：一款人工智能驱动的应用程序，帮助您“轻松学习并流利说话。“与超现实的人工智能导师一起练习，他们将制定个性化的学习计划并为您提供即时反馈。 【官网】：立即访问 【Product Hunt】：View on Product Hunt 关键词：人工智能,学习,...</description>
-      <category>PH</category>
-      <pubDate>Mon, 17 Mar 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-talkme"><span></span></a><a href="https://www.producthunt.com/posts/talkme" target="_blank" rel="noopener noreferrer">TOP1    TalkMe</a></h2>
-<p><img src="https://ph-files.imgix.net/c4e22f67-0aa8-447e-9feb-5de12592f337.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="TalkMe" loading="lazy"><br><br>
-<strong>【标语】</strong>：个人人工智能辅导让语言学习变得有趣且有效<br>
-<strong>【介绍】</strong>：一款人工智能驱动的应用程序，帮助您“轻松学习并流利说话。“与超现实的人工智能导师一起练习，他们将制定个性化的学习计划并为您提供即时反馈。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/SE75XIGEST3PFO" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/posts/talkme" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：人工智能,学习,超现实,应用程序,流利,辅导<br>
-<strong>票数</strong>： 🔺675<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2025年03月17日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/c4e22f67-0aa8-447e-9feb-5de12592f337.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
