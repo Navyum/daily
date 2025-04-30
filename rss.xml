@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 30 Apr 2025 08:20:53 GMT</pubDate>
-    <lastBuildDate>Wed, 30 Apr 2025 08:20:53 GMT</lastBuildDate>
+    <pubDate>Wed, 30 Apr 2025 09:16:55 GMT</pubDate>
+    <lastBuildDate>Wed, 30 Apr 2025 09:16:55 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2025-04-29</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-04-29.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-04-29.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-04-29</source>
+      <description>TOP1 Daytona Daytona 【标语】：安全且弹性的基础设施，用于运行人工智能生成的代码。 【介绍】：Daytona Cloud为人工智能代理重新构想了基础设施，其启动时间低于90 ms、纯金性能和传统云无法比拟的有状态执行能力。以前所未有的速度和灵活性创建、控制和部署人工智能代理。 【官网】：立即访问 【Product Hunt】：Vie...</description>
+      <category>PH</category>
+      <pubDate>Tue, 29 Apr 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-daytona"><span></span></a><a href="https://www.producthunt.com/posts/daytona-2" target="_blank" rel="noopener noreferrer">TOP1    Daytona </a></h2>
+<p><img src="https://ph-files.imgix.net/b980c29c-7848-48c8-979d-01f23272929c.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Daytona " loading="lazy"><br><br>
+<strong>【标语】</strong>：安全且弹性的基础设施，用于运行人工智能生成的代码。<br>
+<strong>【介绍】</strong>：Daytona Cloud为人工智能代理重新构想了基础设施，其启动时间低于90 ms、纯金性能和传统云无法比拟的有状态执行能力。以前所未有的速度和灵活性创建、控制和部署人工智能代理。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/IC4OPUHVILZVP4" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/posts/daytona-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：人工智能,基础设施,代理,Daytona,Cloud,90<br>
+<strong>票数</strong>： 🔺567<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2025年04月29日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/b980c29c-7848-48c8-979d-01f23272929c.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2025-04-28</title>
       <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-04-28.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2025年04月20日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/d4dc9730-2e89-4d38-acbe-d80b2b3992b8.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2025-04-19</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-04-19.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-04-19.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-04-19</source>
-      <description>TOP1 Checklist GG Checklist GG 【标语】：人工智能驱动的清单管理工具 【介绍】：checklist.gg是一款人工智能驱动的清单管理工具，旨在帮助组织每次都把事情做好。 【官网】：立即访问 【Product Hunt】：View on Product Hunt 关键词：管理工具,人工智能,清单,驱动,checklist,g...</description>
-      <category>PH</category>
-      <pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-checklist-gg"><span></span></a><a href="https://www.producthunt.com/posts/checklist-gg-2" target="_blank" rel="noopener noreferrer">TOP1    Checklist GG</a></h2>
-<p><img src="https://ph-files.imgix.net/673783e5-6c46-4489-a250-b8e36b8bc49f.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Checklist GG" loading="lazy"><br><br>
-<strong>【标语】</strong>：人工智能驱动的清单管理工具<br>
-<strong>【介绍】</strong>：checklist.gg是一款人工智能驱动的清单管理工具，旨在帮助组织每次都把事情做好。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/6WP6LS7OPAEOV4" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/posts/checklist-gg-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：管理工具,人工智能,清单,驱动,checklist,gg<br>
-<strong>票数</strong>： 🔺370<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2025年04月19日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/673783e5-6c46-4489-a250-b8e36b8bc49f.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
