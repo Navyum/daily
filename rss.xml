@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 09 May 2025 08:20:16 GMT</pubDate>
-    <lastBuildDate>Fri, 09 May 2025 08:20:16 GMT</lastBuildDate>
+    <pubDate>Fri, 09 May 2025 09:16:52 GMT</pubDate>
+    <lastBuildDate>Fri, 09 May 2025 09:16:52 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2025-05-08</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-05-08.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-05-08.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-05-08</source>
+      <description>TOP1 remio remio 【标语】：本地优先的人工智能笔记和个人知识中心 【介绍】：remio是您的终极人工智能生产力工具，专为精通技术的用户设计，可以轻松收集、组织和应用知识，提高效率并简化管理。 【官网】：立即访问 【Product Hunt】：View on Product Hunt 关键词：人工智能,知识,remio,提高效率,终极,笔...</description>
+      <category>PH</category>
+      <pubDate>Thu, 08 May 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-remio"><span></span></a><a href="https://www.producthunt.com/posts/remio" target="_blank" rel="noopener noreferrer">TOP1    remio</a></h2>
+<p><img src="https://ph-files.imgix.net/1ca17be0-241b-4018-b7bb-9cd3a2a4d07f.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="remio" loading="lazy"><br><br>
+<strong>【标语】</strong>：本地优先的人工智能笔记和个人知识中心<br>
+<strong>【介绍】</strong>：remio是您的终极人工智能生产力工具，专为精通技术的用户设计，可以轻松收集、组织和应用知识，提高效率并简化管理。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/YLIXQR6O4J4SO6" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/posts/remio" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：人工智能,知识,remio,提高效率,终极,笔记<br>
+<strong>票数</strong>： 🔺593<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2025年05月08日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/1ca17be0-241b-4018-b7bb-9cd3a2a4d07f.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2025-05-07</title>
       <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-05-07.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2025年04月29日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/b980c29c-7848-48c8-979d-01f23272929c.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2025-04-28</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-04-28.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-04-28.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-04-28</source>
-      <description>TOP1 mrge mrge 【标语】：代码审查的指针 【介绍】：mrge是一个人工智能驱动的代码审查平台，可以自动审查PR并赋予人类审查者超能力。它是cal.com和n8n等快速移动团队的首选工具。 【官网】：立即访问 【Product Hunt】：View on Product Hunt 关键词：审查,代码,超能力,mrge,PR,cal 票数： ...</description>
-      <category>PH</category>
-      <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-mrge"><span></span></a><a href="https://www.producthunt.com/posts/mrge" target="_blank" rel="noopener noreferrer">TOP1    mrge</a></h2>
-<p><img src="https://ph-files.imgix.net/57fe90fc-04ad-42e6-91a8-4b300b8f50a2.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="mrge" loading="lazy"><br><br>
-<strong>【标语】</strong>：代码审查的指针<br>
-<strong>【介绍】</strong>：mrge是一个人工智能驱动的代码审查平台，可以自动审查PR并赋予人类审查者超能力。它是cal.com和n8n等快速移动团队的首选工具。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/GWEHXR4QSVTJHV" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/posts/mrge" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：审查,代码,超能力,mrge,PR,cal<br>
-<strong>票数</strong>： 🔺647<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2025年04月28日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/57fe90fc-04ad-42e6-91a8-4b300b8f50a2.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
