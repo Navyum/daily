@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 02 Jun 2025 08:23:34 GMT</pubDate>
-    <lastBuildDate>Mon, 02 Jun 2025 08:23:34 GMT</lastBuildDate>
+    <pubDate>Mon, 02 Jun 2025 09:19:26 GMT</pubDate>
+    <lastBuildDate>Mon, 02 Jun 2025 09:19:26 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2025-06-01</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-06-01.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-06-01.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-06-01</source>
+      <description>TOP1 Circuit Tracer Circuit Tracer 【标语】：Anthropic的开放工具了解人工智能的思维方式 【介绍】：Anthropic的开源Circuit Tracer通过将内部计算可视化为归因图来帮助研究人员了解LLM。在Neuronpedia上探索或使用库。旨在实现人工智能的透明度。 【官网】：立即访问 【Product ...</description>
+      <category>PH</category>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-circuit-tracer"><span></span></a><a href="https://www.producthunt.com/posts/circuit-tracer" target="_blank" rel="noopener noreferrer">TOP1    Circuit Tracer</a></h2>
+<p><img src="https://ph-files.imgix.net/6c89b984-266c-4b0c-8337-d12ee940b8c8.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Circuit Tracer" loading="lazy"><br><br>
+<strong>【标语】</strong>：Anthropic的开放工具了解人工智能的思维方式<br>
+<strong>【介绍】</strong>：Anthropic的开源Circuit Tracer通过将内部计算可视化为归因图来帮助研究人员了解LLM。在Neuronpedia上探索或使用库。旨在实现人工智能的透明度。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/RSYACCV7VF6XZA" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/posts/circuit-tracer" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：Anthropic,人工智能,Circuit,Tracer,图来,LLM<br>
+<strong>票数</strong>： 🔺422<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2025年06月01日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/6c89b984-266c-4b0c-8337-d12ee940b8c8.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2025-05-31</title>
       <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-05-31.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2025年05月23日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/d34618bd-9837-4b10-b171-f7e801dd5451.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2025-05-22</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-05-22.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-05-22.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-05-22</source>
-      <description>TOP1 Den Den 【标语】：多人AI代理构建器 【介绍】：Den是Slack/Notion，完全为AI代理重建。它为您所有的聊天、文档和代理提供了一个位置。 【官网】：立即访问 【Product Hunt】：View on Product Hunt 关键词：AI,代理,Den,Slack,Notion,文档 票数： 🔺729 是否精选：是 发...</description>
-      <category>PH</category>
-      <pubDate>Thu, 22 May 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-den"><span></span></a><a href="https://www.producthunt.com/posts/den-4" target="_blank" rel="noopener noreferrer">TOP1    Den</a></h2>
-<p><img src="https://ph-files.imgix.net/82ad304c-1adf-4a41-8ea2-3eef66faca61.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Den" loading="lazy"><br><br>
-<strong>【标语】</strong>：多人AI代理构建器<br>
-<strong>【介绍】</strong>：Den是Slack/Notion，完全为AI代理重建。它为您所有的聊天、文档和代理提供了一个位置。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/G5MUOBWZ2GIAPU" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/posts/den-4" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：AI,代理,Den,Slack,Notion,文档<br>
-<strong>票数</strong>： 🔺729<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2025年05月22日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/82ad304c-1adf-4a41-8ea2-3eef66faca61.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
