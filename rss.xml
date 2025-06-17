@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 17 Jun 2025 08:23:23 GMT</pubDate>
-    <lastBuildDate>Tue, 17 Jun 2025 08:23:23 GMT</lastBuildDate>
+    <pubDate>Tue, 17 Jun 2025 09:18:57 GMT</pubDate>
+    <lastBuildDate>Tue, 17 Jun 2025 09:18:57 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2025-06-16</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-06-16.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-06-16.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-06-16</source>
+      <description>TOP1 Spotted in Prod Spotted in Prod 【标语】：iOS最好的 【介绍】：Spotted in Prod是一个精心策划的视频库，包含iOS上最佳应用程序和交互。按名称、类别、模式等搜索。逐帧擦洗剪辑。发现工艺背后的人物。最重要的是：下载出色的应用程序。 【官网】：立即访问 【Product Hunt】：View on ...</description>
+      <category>PH</category>
+      <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-spotted-in-prod"><span></span></a><a href="https://www.producthunt.com/posts/spotted-in-prod" target="_blank" rel="noopener noreferrer">TOP1    Spotted in Prod</a></h2>
+<p><img src="https://ph-files.imgix.net/f1e0f652-b6f7-485d-91cc-11f9cf881210.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Spotted in Prod" loading="lazy"><br><br>
+<strong>【标语】</strong>：iOS最好的<br>
+<strong>【介绍】</strong>：Spotted in Prod是一个精心策划的视频库，包含iOS上最佳应用程序和交互。按名称、类别、模式等搜索。逐帧擦洗剪辑。发现工艺背后的人物。最重要的是：下载出色的应用程序。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/JBKNRPPRS2KTKK" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/posts/spotted-in-prod" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：iOS,应用程序,Spotted,Prod,逐帧,精心策划<br>
+<strong>票数</strong>： 🔺702<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2025年06月16日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/f1e0f652-b6f7-485d-91cc-11f9cf881210.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2025-06-15</title>
       <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-06-15.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2025年06月07日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/34a8c26b-51ce-45f5-b303-7f312ed0b931.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2025-06-06</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-06-06.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-06-06.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-06-06</source>
-      <description>TOP1 Chat4Data Chat4Data 【标语】：ChatGPT用于网络抓取 【介绍】：Chrome最佳基于AI的网页抓取器插件。Chat4Data允许您在任何想要的网页上使用自然语言提取网络数据。 【官网】：立即访问 【Product Hunt】：View on Product Hunt 关键词：抓取,网页,插件,网络,ChatGPT,Ch...</description>
-      <category>PH</category>
-      <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-chat4data"><span></span></a><a href="https://www.producthunt.com/posts/chat4data" target="_blank" rel="noopener noreferrer">TOP1    Chat4Data</a></h2>
-<p><img src="https://ph-files.imgix.net/b646baf8-8abd-4c8c-8545-0e209a7f6d99.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Chat4Data" loading="lazy"><br><br>
-<strong>【标语】</strong>：ChatGPT用于网络抓取<br>
-<strong>【介绍】</strong>：Chrome最佳基于AI的网页抓取器插件。Chat4Data允许您在任何想要的网页上使用自然语言提取网络数据。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/R2UEOPUPYMXQ6T" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/posts/chat4data" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：抓取,网页,插件,网络,ChatGPT,Chrome<br>
-<strong>票数</strong>： 🔺654<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2025年06月06日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/b646baf8-8abd-4c8c-8545-0e209a7f6d99.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
