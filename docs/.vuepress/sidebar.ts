@@ -5,16 +5,6 @@ import { sidebar } from "vuepress-theme-hope";
 
 export default sidebar({
  
-  "github": [
-    {
-      text: "Github每日热榜",
-      icon: "fa6-solid:feather-pointed",
-      prefix: "/github/",
-      link: "/github",
-      collapsible: true,
-      children: "structure",
-    }
-  ],
   "": [
     {
       text: "PH每日热榜",
@@ -23,5 +13,14 @@ export default sidebar({
       link: "/blog",
       collapsible: true,
       children: "structure",
-    }]
+    },
+    {
+      text: "Github每日热榜",
+      icon: "fa6-solid:feather-pointed",
+      prefix: "/github/",
+      link: "/github",
+      collapsible: true,
+      children: "structure",
+    }
+  ]
 });
