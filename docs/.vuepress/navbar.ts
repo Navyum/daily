@@ -6,63 +6,12 @@ import { navbar } from "vuepress-theme-hope";
 export default navbar([
   { 
     text: "PH Daily", 
-    icon: "fa6-solid:blog", 
+    icon: "simple-icons:producthunt", 
     link: "/blog"  //博客
   }, 
   { 
     text: "Github Daily", 
-    icon: "circle-info", 
-    link: "/github.md" 
-  }, 
-  /*
-  {
-    text: "应用",
-    icon: "fa6-solid:bars-staggered",
-    prefix: "/",
-    children: [
-      "apps/Applist",
-      {
-        text: "常用扩展",
-        icon: "fa6-brands:chrome",
-        link: "apps/Chrome",
-      },
-      {
-        text: "服务/专题",
-        icon: "",
-        prefix: "",
-        children: [
-          {
-            text: "专题示例",
-            icon: "fa6-solid:dice-d20",
-            link: "apps/topic/",
-          },
-        ],
-      },
-    ],
+    icon: "ri:github-fill", 
+    link: "/github" 
   },
-  {
-    text: "生活",
-    icon: "fa6-solid:bed-pulse",
-    prefix: "/family/",
-    children: ["Diet", "Coupon"],
-  },
-  {
-    text: "工具",
-    icon: "fa6-solid:toolbox",
-    children: [
-      {
-        text: "ChatGPT SC",
-        icon: "fa6-solid:bolt",
-        link: "https://www.aishort.top/",
-      },
-      { text: "IMGPrompt", icon: "fa6-solid:image", link: "https://prompt.newzone.top/" },
-      { text: "多语言翻译", icon: "fa6-solid:language", link: "https://tools.newzone.top/json-translate" },
-      {
-        text: "工具收藏",
-        icon: "fa6-solid:bars",
-        link: "https://nav.newzone.top/",
-      },
-    ],
-  },
-  */
 ]);
