@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 12 Nov 2025 08:47:55 GMT</pubDate>
-    <lastBuildDate>Wed, 12 Nov 2025 08:47:55 GMT</lastBuildDate>
+    <pubDate>Wed, 12 Nov 2025 08:59:22 GMT</pubDate>
+    <lastBuildDate>Wed, 12 Nov 2025 08:59:22 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,14 +16,7 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Wed, 12 Nov 2025 08:43:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>test</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/github/test.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/github/test.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">test</source>
-      <pubDate>Wed, 12 Nov 2025 08:43:47 GMT</pubDate>
+      <pubDate>Mon, 19 Aug 2024 14:40:36 GMT</pubDate>
     </item>
     <item>
       <title>PH今日热榜 | 2025-11-11</title>
@@ -34,16 +27,17 @@
       <category>PH</category>
       <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-talo"><span></span></a><a href="https://www.producthunt.com/products/talo" target="_blank" rel="noopener noreferrer">TOP1    Talo</a></h2>
-<p><br><br>
+<p><img src="https://ph-files.imgix.net/e584f408-b644-4ab2-8efa-ce4d55a337ec.png?auto=format" alt="Talo" loading="lazy"><br><br>
 <strong>【标语】</strong>：一体化人工智能翻译器：通话、事件、流媒体和API<br>
 <strong>【介绍】</strong>：Talo提供视频通话、现场活动、离线演示和流媒体广播的实时语音翻译。使用机器人或桌面应用程序来翻译会议，或通过我们的API进行集成。让每次对话都能在全球范围内进行。<br>
 <strong>【官网】</strong>：<a href="https://www.producthunt.com/r/HUS535PEYY6MPP" target="_blank" rel="noopener noreferrer">立即访问</a><br>
 <strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/talo" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
 <p><strong>关键词</strong>：流媒体,通话,翻译,翻译器,离线,APITalo<br>
-<strong>票数</strong>： 🔺634<br>
+<strong>票数</strong>： 🔺635<br>
 <strong>是否精选</strong>：是<br>
 <strong>发布时间</strong>：2025年11月11日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/e584f408-b644-4ab2-8efa-ce4d55a337ec.png?auto=format" type="image/"/>
     </item>
     <item>
       <title>PH今日热榜 | 2025-11-10</title>
@@ -183,6 +177,26 @@
 <strong>票数</strong>： 🔺595<br>
 <strong>是否精选</strong>：是<br>
 <strong>发布时间</strong>：2025年11月04日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>PH今日热榜 | 2025-11-03</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-03.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-03.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-11-03</source>
+      <description>TOP1 Multifactor Multifactor 【标语】：专为与人类和人工智能安全共享而构建的密码管理器 【介绍】：MultiFactor允许您安全地共享帐户访问权限，而不会暴露密码。使用Google收件箱等链接授予访问权限。只需单击即可从LastPass、Apple或Google导入。让人工智能代理在您的许可下登录并采取行动。 【官网】：立...</description>
+      <category>PH</category>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-multifactor"><span></span></a><a href="https://www.producthunt.com/products/multifactor" target="_blank" rel="noopener noreferrer">TOP1    Multifactor</a></h2>
+<p><br><br>
+<strong>【标语】</strong>：专为与人类和人工智能安全共享而构建的密码管理器<br>
+<strong>【介绍】</strong>：MultiFactor允许您安全地共享帐户访问权限，而不会暴露密码。使用Google收件箱等链接授予访问权限。只需单击即可从LastPass、Apple或Google导入。让人工智能代理在您的许可下登录并采取行动。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/RKM37ZGDWBTST2" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/multifactor" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：Google,人工智能,权限,共享,密码,访问<br>
+<strong>票数</strong>： 🔺411<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2025年11月03日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
     </item>
   </channel>
