@@ -1,7 +1,6 @@
 ---
 #博客首页设置：https://theme-hope.vuejs.press/zh/guide/blog/home.html
 home: false
-layout: Blog
 icon: fa6-solid:house-crack
 title: Github 每日榜单
 #heroImage: /logo.svg
