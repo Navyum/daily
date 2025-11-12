@@ -4,7 +4,7 @@
   <title>DAYHACK</title>
   <subtitle>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</subtitle>
   <icon>https://github.camscanner.top/daily/blog.html/daily/favicon.ico</icon>
-  <updated>2025-11-12T08:01:15.825Z</updated>
+  <updated>2025-11-12T08:22:39.240Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/blog.html/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/blog.html/daily/"/>
@@ -14,20 +14,13 @@
     <id>https://github.camscanner.top/daily/blog.html/daily/github.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/github.html"/>
     <updated>2025-11-12T07:58:19.000Z</updated>
-    <published>2024-08-19T14:40:36.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">test</title>
-    <id>https://github.camscanner.top/daily/blog.html/daily/github/test.html</id>
-    <link href="https://github.camscanner.top/daily/blog.html/daily/github/test.html"/>
-    <updated>2025-06-23T11:40:20.000Z</updated>
-    <published>2025-06-23T11:40:20.000Z</published>
+    <published>2025-11-12T07:58:19.000Z</published>
   </entry>
   <entry>
     <title type="text">PH今日热榜 | 2025-11-10</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-10.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-10.html"/>
-    <updated>2025-11-11T09:16:30.000Z</updated>
+    <updated>2025-11-12T07:58:19.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-oskar-by-skarbe"><span></span></a><a href="https://www.producthunt.com/products/skarbe" target="_blank" rel="noopener noreferrer">TOP1    Oskar by Skarbe</a></h2>
 <p><br><br>
 <strong>【标语】</strong>：收件箱中的人工智能代理会自动跟进。<br>
@@ -52,7 +45,7 @@
     <title type="text">PH今日热榜 | 2025-11-09</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-09.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-09.html"/>
-    <updated>2025-11-10T09:18:28.000Z</updated>
+    <updated>2025-11-12T07:58:19.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-the-map-of-human-ideas"><span></span></a><a href="https://www.producthunt.com/products/the-map-of-human-ideas" target="_blank" rel="noopener noreferrer">TOP1    The Map of Human Ideas</a></h2>
 <p><br><br>
 <strong>【标语】</strong>：发现世界上最伟大的想法诞生地<br>
@@ -77,7 +70,7 @@
     <title type="text">PH今日热榜 | 2025-11-08</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-08.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-08.html"/>
-    <updated>2025-11-09T09:13:51.000Z</updated>
+    <updated>2025-11-12T07:58:19.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-ai-context-flow"><span></span></a><a href="https://www.producthunt.com/products/ai-context-flow" target="_blank" rel="noopener noreferrer">TOP1    AI Context Flow</a></h2>
 <p><br><br>
 <strong>【标语】</strong>：可重复使用的人工智能内存，实现更智能的存储，随时随地<br>
@@ -102,7 +95,7 @@
     <title type="text">PH今日热榜 | 2025-11-07</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-07.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-07.html"/>
-    <updated>2025-11-08T09:14:00.000Z</updated>
+    <updated>2025-11-12T07:58:19.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-blogbowl"><span></span></a><a href="https://www.producthunt.com/products/blogbowl-4" target="_blank" rel="noopener noreferrer">TOP1    BlogBowl</a></h2>
 <p><br><br>
 <strong>【标语】</strong>：关键词驱动的人工智能文章自动发布到您的博客<br>
@@ -127,7 +120,7 @@
     <title type="text">PH今日热榜 | 2025-11-06</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-06.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-06.html"/>
-    <updated>2025-11-07T09:15:29.000Z</updated>
+    <updated>2025-11-12T07:58:19.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-dazl"><span></span></a><a href="https://www.producthunt.com/products/dazl" target="_blank" rel="noopener noreferrer">TOP1    Dazl</a></h2>
 <p><br><br>
 <strong>【标语】</strong>：氛围编码的下一个时代：视觉编辑一切<br>
@@ -152,7 +145,7 @@
     <title type="text">PH今日热榜 | 2025-11-05</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-05.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-05.html"/>
-    <updated>2025-11-06T09:16:53.000Z</updated>
+    <updated>2025-11-12T07:58:19.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-medo-by-baidu"><span></span></a><a href="https://www.producthunt.com/products/medo-2" target="_blank" rel="noopener noreferrer">TOP1    MeDo by Baidu</a></h2>
 <p><br><br>
 <strong>【标语】</strong>：使用人工智能以极低的成本构建全栈应用程序<br>
@@ -177,7 +170,7 @@
     <title type="text">PH今日热榜 | 2025-11-04</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-04.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-04.html"/>
-    <updated>2025-11-05T09:17:15.000Z</updated>
+    <updated>2025-11-12T07:58:19.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-floqer"><span></span></a><a href="https://www.producthunt.com/products/floqer-2" target="_blank" rel="noopener noreferrer">TOP1    Floqer</a></h2>
 <p><br><br>
 <strong>【标语】</strong>：GTM数据自动化的AI副驾驶<br>
@@ -202,7 +195,7 @@
     <title type="text">PH今日热榜 | 2025-11-03</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-03.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-03.html"/>
-    <updated>2025-11-04T09:17:18.000Z</updated>
+    <updated>2025-11-12T07:58:19.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-multifactor"><span></span></a><a href="https://www.producthunt.com/products/multifactor" target="_blank" rel="noopener noreferrer">TOP1    Multifactor</a></h2>
 <p><br><br>
 <strong>【标语】</strong>：专为与人类和人工智能安全共享而构建的密码管理器<br>
@@ -222,5 +215,30 @@
 ]]></content>
     <category term="PH"/>
     <published>2025-11-03T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">PH今日热榜 | 2025-11-02</title>
+    <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-02.html</id>
+    <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-02.html"/>
+    <updated>2025-11-12T07:58:19.000Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-maillayer"><span></span></a><a href="https://www.producthunt.com/products/maillayer" target="_blank" rel="noopener noreferrer">TOP1    Maillayer</a></h2>
+<p><br><br>
+<strong>【标语】</strong>：无需订阅的电子邮件营销<br>
+<strong>【介绍】</strong>：自托管电子邮件营销平台。一次性付款，不收取月费。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/DWQMGUUZHLVWEP" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/maillayer" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-maillayer"><span></span></a><a href="https://www.producthunt.com/products/maillayer" target="_blank" rel="noopener noreferrer">TOP1    Maillayer</a></h2>
+<p><br><br>
+<strong>【标语】</strong>：无需订阅的电子邮件营销<br>
+<strong>【介绍】</strong>：自托管电子邮件营销平台。一次性付款，不收取月费。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/DWQMGUUZHLVWEP" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/maillayer" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：电子邮件,营销,月费,付款,订阅,无需<br>
+<strong>票数</strong>： 🔺354<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2025年11月02日 PM03:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2025-11-02T00:00:00.000Z</published>
   </entry>
 </feed>

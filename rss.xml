@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 12 Nov 2025 08:01:15 GMT</pubDate>
-    <lastBuildDate>Wed, 12 Nov 2025 08:01:15 GMT</lastBuildDate>
+    <pubDate>Wed, 12 Nov 2025 08:22:39 GMT</pubDate>
+    <lastBuildDate>Wed, 12 Nov 2025 08:22:39 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,14 +16,7 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Mon, 19 Aug 2024 14:40:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>test</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/github/test.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/github/test.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">test</source>
-      <pubDate>Mon, 23 Jun 2025 11:40:20 GMT</pubDate>
+      <pubDate>Wed, 12 Nov 2025 07:58:19 GMT</pubDate>
     </item>
     <item>
       <title>PH今日热榜 | 2025-11-10</title>
@@ -183,6 +176,26 @@
 <strong>票数</strong>： 🔺411<br>
 <strong>是否精选</strong>：是<br>
 <strong>发布时间</strong>：2025年11月03日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>PH今日热榜 | 2025-11-02</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-02.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-02.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-11-02</source>
+      <description>TOP1 Maillayer Maillayer 【标语】：无需订阅的电子邮件营销 【介绍】：自托管电子邮件营销平台。一次性付款，不收取月费。 【官网】：立即访问 【Product Hunt】：View on Product Hunt 关键词：电子邮件,营销,月费,付款,订阅,无需 票数： 🔺354 是否精选：是 发布时间：2025年11月02日 P...</description>
+      <category>PH</category>
+      <pubDate>Sun, 02 Nov 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-maillayer"><span></span></a><a href="https://www.producthunt.com/products/maillayer" target="_blank" rel="noopener noreferrer">TOP1    Maillayer</a></h2>
+<p><br><br>
+<strong>【标语】</strong>：无需订阅的电子邮件营销<br>
+<strong>【介绍】</strong>：自托管电子邮件营销平台。一次性付款，不收取月费。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/DWQMGUUZHLVWEP" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/maillayer" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：电子邮件,营销,月费,付款,订阅,无需<br>
+<strong>票数</strong>： 🔺354<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2025年11月02日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
     </item>
   </channel>
