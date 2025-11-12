@@ -11,6 +11,7 @@ from tencentcloud.common import credential
 from tencentcloud.tmt.v20180321 import tmt_client, models
 import jieba
 import jieba.analyse
+from urllib.parse import urlencode, urlunparse, urlparse, parse_qs
 
 producthunt_client_id = os.getenv('PRODUCTHUNT_CLIENT_ID')
 producthunt_client_secret = os.getenv('PRODUCTHUNT_CLIENT_SECRET')
@@ -37,7 +38,15 @@ class Product:
 
         media = kwargs.get("media", False)
         if media:
-            self.og_image_url = media[0]["url"]
+            raw_url = media[0]["url"]
+            add_params = {
+                "fit": "crop",
+                "frame": 1,
+                "h": 512,
+                "w":1024
+            }
+            
+            self.og_image_url = update_url_params(raw_url, add_params )
 
         
         
@@ -65,6 +74,34 @@ class Product:
             if twitter_image:
                 return twitter_image["content"]
         return ""
+
+
+    def update_url_params(url, params):
+        """
+        给 URL 追加/覆盖参数（保留原有参数）
+        :param url: 原始 URL（可带查询参数）
+        :param params: 要追加/覆盖的参数（字典）
+        :return: 更新后的 URL
+        """
+        # 解析 URL
+        parsed_url = urlparse(url)
+        # 解析原有查询参数（parse_qs 会将参数转为字典，列表值保留多个）
+        original_params = parse_qs(parsed_url.query)
+        
+        # 合并参数：新参数覆盖原有重复键，新增键追加
+        # 注意：parse_qs 解析后的值是列表（如 {"page": ["1"]}），需处理为单个值
+        merged_params = {}
+        # 先添加原有参数（去列表化，保留第一个值）
+        for key, value in original_params.items():
+            merged_params[key] = value[0] if len(value) == 1 else value
+        # 再添加新参数（覆盖重复键）
+        merged_params.update(params)
+        
+        # 编码合并后的参数
+        new_query = urlencode(merged_params, doseq=True)  # doseq=True 支持列表值
+        # 重新构建 URL
+        new_parsed_url = parsed_url._replace(query=new_query)
+        return urlunparse(new_parsed_url)
 
     def translate_text(self, text: str) -> str:
         """【使用tencent翻译文本内容】"""
