@@ -30,11 +30,18 @@ class Product:
         self.featured = "是" if featuredAt else "否"
         self.website = stripe_url_params(website)
         self.url = stripe_url_params(url)
-        self.og_image_url = self.fetch_og_image_url()
+        self.og_image_url = ""
         self.keyword = "无关键词"
         self.translated_tagline = self.translate_text(self.tagline)
         self.translated_description = self.translate_text(self.description)
 
+        media = kwargs.get("media", False)
+        if media:
+            self.og_image_url = media[0]["url"]
+
+        
+        
+    # 因为ph上线了cloudflare 人机验证，所以无法通过标签方式获取图片
     def fetch_og_image_url(self) -> str:
         """获取产品的Open Graph图片URL"""
         # 添加更多请求头信息
@@ -168,6 +175,10 @@ def fetch_product_hunt_data(date_str):
           featuredAt
           website
           url
+          media {
+            type
+            url
+          }
         }
         pageInfo {
           hasNextPage
