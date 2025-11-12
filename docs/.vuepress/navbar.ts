@@ -8,10 +8,5 @@ export default navbar([
     text: "PH Daily", 
     icon: "simple-icons:producthunt", 
     link: "/blog"  //博客
-  }, 
-  { 
-    text: "Github Daily", 
-    icon: "ri:github-fill", 
-    link: "/github" 
-  },
+  }
 ]);
