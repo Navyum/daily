@@ -76,7 +76,7 @@ class Product:
         return ""
 
 
-    def update_url_params(url, params):
+    def update_url_params(self, url, params):
         """
         给 URL 追加/覆盖参数（保留原有参数）
         :param url: 原始 URL（可带查询参数）
