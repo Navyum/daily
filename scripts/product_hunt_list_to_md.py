@@ -46,7 +46,7 @@ class Product:
                 "w":1024
             }
             
-            self.og_image_url = update_url_params(raw_url, add_params )
+            self.og_image_url = self.update_url_params(raw_url, add_params )
 
         
         
