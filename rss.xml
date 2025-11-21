@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 21 Nov 2025 08:23:14 GMT</pubDate>
-    <lastBuildDate>Fri, 21 Nov 2025 08:23:14 GMT</lastBuildDate>
+    <pubDate>Fri, 21 Nov 2025 09:17:57 GMT</pubDate>
+    <lastBuildDate>Fri, 21 Nov 2025 09:17:57 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,7 +16,35 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Thu, 20 Nov 2025 09:16:17 GMT</pubDate>
+      <pubDate>Fri, 21 Nov 2025 08:21:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>test</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/github/test.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/github/test.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">test</source>
+      <pubDate>Fri, 21 Nov 2025 08:21:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>PH今日热榜 | 2025-11-20</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-20.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-20.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-11-20</source>
+      <description>TOP1 Guideflow Guideflow 【标语】：面向SaaS的AI演示自动化平台 【介绍】：将您的产品变成互动演示、沙箱、演示中心和您的买家可以立即探索的实时环境。捕捉屏幕，使用人工智能或我们的无代码编辑器对其进行定制，Guideflow即可为您构建个性化、品牌化和可共享的体验。没有工程。不用等待。只是纯粹的产品体验。 【官网】：立即访问 ...</description>
+      <category>PH</category>
+      <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-guideflow"><span></span></a><a href="https://www.producthunt.com/products/guideflow" target="_blank" rel="noopener noreferrer">TOP1    Guideflow</a></h2>
+<p><img src="https://ph-files.imgix.net/7359ca71-4b95-4017-a1bd-dc55a1e1042c.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Guideflow" loading="lazy"><br><br>
+<strong>【标语】</strong>：面向SaaS的AI演示自动化平台<br>
+<strong>【介绍】</strong>：将您的产品变成互动演示、沙箱、演示中心和您的买家可以立即探索的实时环境。捕捉屏幕，使用人工智能或我们的无代码编辑器对其进行定制，Guideflow即可为您构建个性化、品牌化和可共享的体验。没有工程。不用等待。只是纯粹的产品体验。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/MB2ORW7OZRZAOA" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/guideflow" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：演示,体验,沙箱,SaaS,AI,Guideflow<br>
+<strong>票数</strong>： 🔺631<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2025年11月20日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/7359ca71-4b95-4017-a1bd-dc55a1e1042c.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
     <item>
       <title>PH今日热榜 | 2025-11-19</title>
@@ -161,46 +189,6 @@
 <strong>票数</strong>： 🔺422<br>
 <strong>是否精选</strong>：是<br>
 <strong>发布时间</strong>：2025年11月09日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2025-11-08</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-08.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-08.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-11-08</source>
-      <description>TOP1 AI Context Flow AI Context Flow 【标语】：可重复使用的人工智能内存，实现更智能的存储，随时随地 【介绍】：别再像开学第一天一样向每个人工智能解释自己了。超过10亿用户在各地重复相同的上下文。AI上下文流允许您保存一次，并在任何地方使用它：ChatGPT、Claude、Gemini等。更智能的聊天，零重复。终于来...</description>
-      <category>PH</category>
-      <pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-ai-context-flow"><span></span></a><a href="https://www.producthunt.com/products/ai-context-flow" target="_blank" rel="noopener noreferrer">TOP1    AI Context Flow</a></h2>
-<p><br><br>
-<strong>【标语】</strong>：可重复使用的人工智能内存，实现更智能的存储，随时随地<br>
-<strong>【介绍】</strong>：别再像开学第一天一样向每个人工智能解释自己了。超过10亿用户在各地重复相同的上下文。AI上下文流允许您保存一次，并在任何地方使用它：ChatGPT、Claude、Gemini等。更智能的聊天，零重复。终于来了<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/22KB3UW2IHG73Z" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/ai-context-flow" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：上下文,人工智能,智能,重复,10,AI<br>
-<strong>票数</strong>： 🔺379<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2025年11月08日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2025-11-07</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-07.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-07.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-11-07</source>
-      <description>TOP1 BlogBowl BlogBowl 【标语】：关键词驱动的人工智能文章自动发布到您的博客 【介绍】：使用人工智能实现您的博客自动化，可以像人类一样撰写研究支持的SEO文章-包括图像、视频、统计数据、表格和引文。它们针对Google和ChatGPT和Claude等人工智能平台进行了优化，排名良好，让读者参与其中。基于开源核心构建，具有SEO模板...</description>
-      <category>PH</category>
-      <pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-blogbowl"><span></span></a><a href="https://www.producthunt.com/products/blogbowl-4" target="_blank" rel="noopener noreferrer">TOP1    BlogBowl</a></h2>
-<p><br><br>
-<strong>【标语】</strong>：关键词驱动的人工智能文章自动发布到您的博客<br>
-<strong>【介绍】</strong>：使用人工智能实现您的博客自动化，可以像人类一样撰写研究支持的SEO文章-包括图像、视频、统计数据、表格和引文。它们针对Google和ChatGPT和Claude等人工智能平台进行了优化，排名良好，让读者参与其中。基于开源核心构建，具有SEO模板、分析和时事通讯工具。将BlogBowl连接到您的着陆页面，5分钟内上线并开始从SEO内容获取客户。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/XX35U33SE7JHOL" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/blogbowl-4" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：SEO,人工智能,博客,文章,Google,ChatGPT<br>
-<strong>票数</strong>： 🔺567<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2025年11月07日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
     </item>
   </channel>
