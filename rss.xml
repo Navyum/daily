@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 20 Nov 2025 09:18:19 GMT</pubDate>
-    <lastBuildDate>Thu, 20 Nov 2025 09:18:19 GMT</lastBuildDate>
+    <pubDate>Fri, 21 Nov 2025 08:23:14 GMT</pubDate>
+    <lastBuildDate>Fri, 21 Nov 2025 08:23:14 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,21 +16,14 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Thu, 20 Nov 2025 08:20:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>test</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/github/test.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/github/test.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">test</source>
-      <pubDate>Thu, 20 Nov 2025 08:20:55 GMT</pubDate>
+      <pubDate>Thu, 20 Nov 2025 09:16:17 GMT</pubDate>
     </item>
     <item>
       <title>PH今日热榜 | 2025-11-19</title>
       <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-19.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-19.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-11-19</source>
-      <description>TOP1 Gemini 3 Gemini 3 【标语】：利用多模式功能将任何想法付诸实践 【介绍】：我们最智能的模型可以帮助您将任何想法付诸实践。 【官网】：立即访问 【Product Hunt】：View on Product Hunt 关键词：付诸实践,想法,任何,智能,模型,模式 票数： 🔺615 是否精选：是 发布时间：2025年11月19日...</description>
+      <description>TOP1 Gemini 3 Gemini 3 【标语】：利用多模式功能将任何想法付诸实践 【介绍】：我们最智能的模型可以帮助您将任何想法付诸实践。 【官网】：立即访问 【Product Hunt】：View on Product Hunt 关键词：付诸实践,想法,任何,智能,模型,模式 票数： 🔺624 是否精选：是 发布时间：2025年11月19日...</description>
       <category>PH</category>
       <pubDate>Wed, 19 Nov 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-gemini-3"><span></span></a><a href="https://www.producthunt.com/products/gemini-6" target="_blank" rel="noopener noreferrer">TOP1    Gemini 3</a></h2>
@@ -40,7 +33,7 @@
 <strong>【官网】</strong>：<a href="https://www.producthunt.com/r/ZTS2SW7NBG372V" target="_blank" rel="noopener noreferrer">立即访问</a><br>
 <strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/gemini-6" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
 <p><strong>关键词</strong>：付诸实践,想法,任何,智能,模型,模式<br>
-<strong>票数</strong>： 🔺615<br>
+<strong>票数</strong>： 🔺624<br>
 <strong>是否精选</strong>：是<br>
 <strong>发布时间</strong>：2025年11月19日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
@@ -188,6 +181,26 @@
 <strong>票数</strong>： 🔺379<br>
 <strong>是否精选</strong>：是<br>
 <strong>发布时间</strong>：2025年11月08日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>PH今日热榜 | 2025-11-07</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-07.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-07.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-11-07</source>
+      <description>TOP1 BlogBowl BlogBowl 【标语】：关键词驱动的人工智能文章自动发布到您的博客 【介绍】：使用人工智能实现您的博客自动化，可以像人类一样撰写研究支持的SEO文章-包括图像、视频、统计数据、表格和引文。它们针对Google和ChatGPT和Claude等人工智能平台进行了优化，排名良好，让读者参与其中。基于开源核心构建，具有SEO模板...</description>
+      <category>PH</category>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-blogbowl"><span></span></a><a href="https://www.producthunt.com/products/blogbowl-4" target="_blank" rel="noopener noreferrer">TOP1    BlogBowl</a></h2>
+<p><br><br>
+<strong>【标语】</strong>：关键词驱动的人工智能文章自动发布到您的博客<br>
+<strong>【介绍】</strong>：使用人工智能实现您的博客自动化，可以像人类一样撰写研究支持的SEO文章-包括图像、视频、统计数据、表格和引文。它们针对Google和ChatGPT和Claude等人工智能平台进行了优化，排名良好，让读者参与其中。基于开源核心构建，具有SEO模板、分析和时事通讯工具。将BlogBowl连接到您的着陆页面，5分钟内上线并开始从SEO内容获取客户。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/XX35U33SE7JHOL" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/blogbowl-4" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：SEO,人工智能,博客,文章,Google,ChatGPT<br>
+<strong>票数</strong>： 🔺567<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2025年11月07日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
     </item>
   </channel>
