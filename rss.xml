@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 23 Nov 2025 09:16:30 GMT</pubDate>
-    <lastBuildDate>Sun, 23 Nov 2025 09:16:30 GMT</lastBuildDate>
+    <pubDate>Mon, 24 Nov 2025 08:23:52 GMT</pubDate>
+    <lastBuildDate>Mon, 24 Nov 2025 08:23:52 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,14 +16,7 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Sun, 23 Nov 2025 08:18:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>test</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/github/test.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/github/test.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">test</source>
-      <pubDate>Sun, 23 Nov 2025 08:18:29 GMT</pubDate>
+      <pubDate>Sun, 23 Nov 2025 09:14:24 GMT</pubDate>
     </item>
     <item>
       <title>PH今日热榜 | 2025-11-22</title>
@@ -40,7 +33,7 @@
 <strong>【官网】</strong>：<a href="https://www.producthunt.com/r/LIGRKM4BG6EUKL" target="_blank" rel="noopener noreferrer">立即访问</a><br>
 <strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/zivy" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
 <p><strong>关键词</strong>：30,Lila,和莉拉,计时器,重置,浏览器<br>
-<strong>票数</strong>： 🔺361<br>
+<strong>票数</strong>： 🔺367<br>
 <strong>是否精选</strong>：是<br>
 <strong>发布时间</strong>：2025年11月22日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
@@ -192,6 +185,26 @@
 <strong>发布时间</strong>：2025年11月11日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/e584f408-b644-4ab2-8efa-ce4d55a337ec.png?auto=format" type="image/"/>
+    </item>
+    <item>
+      <title>PH今日热榜 | 2025-11-10</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-10.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-10.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-11-10</source>
+      <description>TOP1 Oskar by Skarbe Oskar by Skarbe 【标语】：收件箱中的人工智能代理会自动跟进。 【介绍】：这是奥斯卡，一个在斯卡贝的人工智能特工。他是新来的以前，您必须手动处理销售任务。现在，Oskar为您做这些事情：他对联系人进行资格审查，自动跟进，丰富数据并跟踪交易。他在你建立业务的同时工作。 【官网】：立即访问 【Prod...</description>
+      <category>PH</category>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-oskar-by-skarbe"><span></span></a><a href="https://www.producthunt.com/products/skarbe" target="_blank" rel="noopener noreferrer">TOP1    Oskar by Skarbe</a></h2>
+<p><br><br>
+<strong>【标语】</strong>：收件箱中的人工智能代理会自动跟进。<br>
+<strong>【介绍】</strong>：这是奥斯卡，一个在斯卡贝的人工智能特工。他是新来的以前，您必须手动处理销售任务。现在，Oskar为您做这些事情：他对联系人进行资格审查，自动跟进，丰富数据并跟踪交易。他在你建立业务的同时工作。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/BHR2JKQLZRIXEF" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/skarbe" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：人工智能,跟进,收件箱,自动,代理会,斯卡贝<br>
+<strong>票数</strong>： 🔺635<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2025年11月10日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
     </item>
   </channel>
 </rss>
