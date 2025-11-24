@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 24 Nov 2025 08:23:52 GMT</pubDate>
-    <lastBuildDate>Mon, 24 Nov 2025 08:23:52 GMT</lastBuildDate>
+    <pubDate>Mon, 24 Nov 2025 09:21:11 GMT</pubDate>
+    <lastBuildDate>Mon, 24 Nov 2025 09:21:11 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,7 +16,35 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Sun, 23 Nov 2025 09:14:24 GMT</pubDate>
+      <pubDate>Mon, 24 Nov 2025 08:21:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>test</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/github/test.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/github/test.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">test</source>
+      <pubDate>Mon, 24 Nov 2025 08:21:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>PH今日热榜 | 2025-11-23</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-23.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-23.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-11-23</source>
+      <description>TOP1 Google Nano Banana Pro Google Nano Banana Pro 【标语】：基于Google Nano Banana的Gemini 3 Pro图像生成器 【介绍】：双子座3 Pro图片。使用Nano Banana Pro创建和编辑图像，以获得工作室质量的精度和控制水平。 【官网】：立即访问 【Product Hunt...</description>
+      <category>PH</category>
+      <pubDate>Sun, 23 Nov 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-google-nano-banana-pro"><span></span></a><a href="https://www.producthunt.com/products/google-nano-banana-pro" target="_blank" rel="noopener noreferrer">TOP1    Google Nano Banana Pro</a></h2>
+<p><img src="https://ph-files.imgix.net/1872168c-ad53-4451-b32f-5560af31c69f.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Google Nano Banana Pro" loading="lazy"><br><br>
+<strong>【标语】</strong>：基于Google Nano Banana的Gemini 3 Pro图像生成器<br>
+<strong>【介绍】</strong>：双子座3 Pro图片。使用Nano Banana Pro创建和编辑图像，以获得工作室质量的精度和控制水平。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/WZMCPEZJRKRW7I" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/google-nano-banana-pro" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：Pro,Nano,Banana,图像,生成器,Google<br>
+<strong>票数</strong>： 🔺446<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2025年11月23日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/1872168c-ad53-4451-b32f-5560af31c69f.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
     <item>
       <title>PH今日热榜 | 2025-11-22</title>
@@ -164,47 +192,6 @@
 <strong>发布时间</strong>：2025年11月16日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/4c1a72a8-2934-466e-a5bb-e2a0c512f9b5.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2025-11-11</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-11.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-11.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-11-11</source>
-      <description>TOP1 Talo Talo 【标语】：一体化人工智能翻译器：通话、事件、流媒体和API 【介绍】：Talo提供视频通话、现场活动、离线演示和流媒体广播的实时语音翻译。使用机器人或桌面应用程序来翻译会议，或通过我们的API进行集成。让每次对话都能在全球范围内进行。 【官网】：立即访问 【Product Hunt】：View on Product Hun...</description>
-      <category>PH</category>
-      <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-talo"><span></span></a><a href="https://www.producthunt.com/products/talo" target="_blank" rel="noopener noreferrer">TOP1    Talo</a></h2>
-<p><img src="https://ph-files.imgix.net/e584f408-b644-4ab2-8efa-ce4d55a337ec.png?auto=format" alt="Talo" loading="lazy"><br><br>
-<strong>【标语】</strong>：一体化人工智能翻译器：通话、事件、流媒体和API<br>
-<strong>【介绍】</strong>：Talo提供视频通话、现场活动、离线演示和流媒体广播的实时语音翻译。使用机器人或桌面应用程序来翻译会议，或通过我们的API进行集成。让每次对话都能在全球范围内进行。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/HUS535PEYY6MPP" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/talo" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：流媒体,通话,翻译,翻译器,离线,APITalo<br>
-<strong>票数</strong>： 🔺635<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2025年11月11日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/e584f408-b644-4ab2-8efa-ce4d55a337ec.png?auto=format" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2025-11-10</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-10.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-10.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-11-10</source>
-      <description>TOP1 Oskar by Skarbe Oskar by Skarbe 【标语】：收件箱中的人工智能代理会自动跟进。 【介绍】：这是奥斯卡，一个在斯卡贝的人工智能特工。他是新来的以前，您必须手动处理销售任务。现在，Oskar为您做这些事情：他对联系人进行资格审查，自动跟进，丰富数据并跟踪交易。他在你建立业务的同时工作。 【官网】：立即访问 【Prod...</description>
-      <category>PH</category>
-      <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-oskar-by-skarbe"><span></span></a><a href="https://www.producthunt.com/products/skarbe" target="_blank" rel="noopener noreferrer">TOP1    Oskar by Skarbe</a></h2>
-<p><br><br>
-<strong>【标语】</strong>：收件箱中的人工智能代理会自动跟进。<br>
-<strong>【介绍】</strong>：这是奥斯卡，一个在斯卡贝的人工智能特工。他是新来的以前，您必须手动处理销售任务。现在，Oskar为您做这些事情：他对联系人进行资格审查，自动跟进，丰富数据并跟踪交易。他在你建立业务的同时工作。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/BHR2JKQLZRIXEF" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/skarbe" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：人工智能,跟进,收件箱,自动,代理会,斯卡贝<br>
-<strong>票数</strong>： 🔺635<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2025年11月10日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>
