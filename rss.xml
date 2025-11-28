@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 28 Nov 2025 08:23:13 GMT</pubDate>
-    <lastBuildDate>Fri, 28 Nov 2025 08:23:13 GMT</lastBuildDate>
+    <pubDate>Fri, 28 Nov 2025 09:18:13 GMT</pubDate>
+    <lastBuildDate>Fri, 28 Nov 2025 09:18:13 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,7 +16,28 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Thu, 27 Nov 2025 09:17:07 GMT</pubDate>
+      <pubDate>Fri, 28 Nov 2025 08:21:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>PH今日热榜 | 2025-11-27</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-27.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-27.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-11-27</source>
+      <description>TOP1 Links 2.0 Links 2.0 【标语】：比以往任何时候都更快地保存、组织和找到您的链接 【介绍】：Links 2.0是对该应用程序的彻底重新设计，可帮助您保存、组织和查找所有设备上的链接。它专为iOS 26打造，引入了一个新的导航栏、更新的带有最近链接的主页、改进的过滤器、自定义强调色、新的设置屏幕和全新的应用程序图标。默认情况下是...</description>
+      <category>PH</category>
+      <pubDate>Thu, 27 Nov 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-links-2-0"><span></span></a><a href="https://www.producthunt.com/products/links-save-all-your-links" target="_blank" rel="noopener noreferrer">TOP1    Links 2.0</a></h2>
+<p><img src="https://ph-files.imgix.net/4a89b99a-20c4-4bf1-aef8-aecf3b6c2489.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Links 2.0" loading="lazy"><br><br>
+<strong>【标语】</strong>：比以往任何时候都更快地保存、组织和找到您的链接<br>
+<strong>【介绍】</strong>：Links 2.0是对该应用程序的彻底重新设计，可帮助您保存、组织和查找所有设备上的链接。它专为iOS 26打造，引入了一个新的导航栏、更新的带有最近链接的主页、改进的过滤器、自定义强调色、新的设置屏幕和全新的应用程序图标。默认情况下是私人的，由iCloud同步提供支持，没有帐户或跟踪。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/BBDFUZO3CA3AUI" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/links-save-all-your-links" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：链接,应用程序,保存,自定义,Links,2.0<br>
+<strong>票数</strong>： 🔺378<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2025年11月27日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/4a89b99a-20c4-4bf1-aef8-aecf3b6c2489.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
     <item>
       <title>PH今日热榜 | 2025-11-26</title>
@@ -185,27 +206,6 @@
 <strong>发布时间</strong>：2025年11月19日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/14f6e75a-1302-4bd6-b2b5-2a542f38f1c1.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2025-11-18</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-18.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-18.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-11-18</source>
-      <description>TOP1 Typeless Typeless 【标语】：真正智能的人工智能语音口述 【介绍】：自然地说话，Typeless将把你的话变成精心制作的信息，电子邮件和文档，读起来就像你仔细打字一样。我们的人工智能能够理解上下文、修正语法并适应您的风格-因此您可以专注于您想说的内容，而不是如何说。 【官网】：立即访问 【Product Hunt】：View ...</description>
-      <category>PH</category>
-      <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-typeless"><span></span></a><a href="https://www.producthunt.com/products/typeless-2" target="_blank" rel="noopener noreferrer">TOP1    Typeless</a></h2>
-<p><img src="https://ph-files.imgix.net/88a5930d-15e4-4d6e-ac7f-7ca2bc529c0d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Typeless" loading="lazy"><br><br>
-<strong>【标语】</strong>：真正智能的人工智能语音口述<br>
-<strong>【介绍】</strong>：自然地说话，Typeless将把你的话变成精心制作的信息，电子邮件和文档，读起来就像你仔细打字一样。我们的人工智能能够理解上下文、修正语法并适应您的风格-因此您可以专注于您想说的内容，而不是如何说。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/U2YPITF72GB2WD" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/typeless-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：人工智能,Typeless,精心制作,打字,上下文,文档<br>
-<strong>票数</strong>： 🔺522<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2025年11月18日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/88a5930d-15e4-4d6e-ac7f-7ca2bc529c0d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
