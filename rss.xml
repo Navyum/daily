@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 29 Nov 2025 08:20:57 GMT</pubDate>
-    <lastBuildDate>Sat, 29 Nov 2025 08:20:57 GMT</lastBuildDate>
+    <pubDate>Sat, 29 Nov 2025 09:16:42 GMT</pubDate>
+    <lastBuildDate>Sat, 29 Nov 2025 09:16:42 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,7 +16,28 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Fri, 28 Nov 2025 09:16:18 GMT</pubDate>
+      <pubDate>Sat, 29 Nov 2025 08:18:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>PH今日热榜 | 2025-11-28</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-28.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-28.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-11-28</source>
+      <description>TOP1 Qoder JetBrains Plugin Qoder JetBrains Plugin 【标语】：了解后台的真正复杂性，而不仅仅是语法 【介绍】：JetBrains的AI插件，从架构上理解后台项目。直接访问Spring Bean图形、数据库模式和框架语义-而不仅仅是表面代码。为包含10万多个文件的复杂系统提供上下文感知建议。 【官网】：立...</description>
+      <category>PH</category>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-qoder-jetbrains-plugin"><span></span></a><a href="https://www.producthunt.com/products/qoder" target="_blank" rel="noopener noreferrer">TOP1    Qoder JetBrains Plugin</a></h2>
+<p><img src="https://ph-files.imgix.net/ddbcbe63-ff4d-450e-94e1-e9895be92d83.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Qoder JetBrains Plugin" loading="lazy"><br><br>
+<strong>【标语】</strong>：了解后台的真正复杂性，而不仅仅是语法<br>
+<strong>【介绍】</strong>：JetBrains的AI插件，从架构上理解后台项目。直接访问Spring Bean图形、数据库模式和框架语义-而不仅仅是表面代码。为包含10万多个文件的复杂系统提供上下文感知建议。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/VEHI5WFLFDBW7X" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/qoder" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：后台,不仅仅,插件,JetBrains,AI,Spring<br>
+<strong>票数</strong>： 🔺351<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2025年11月28日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/ddbcbe63-ff4d-450e-94e1-e9895be92d83.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
     <item>
       <title>PH今日热榜 | 2025-11-27</title>
@@ -185,27 +206,6 @@
 <strong>发布时间</strong>：2025年11月20日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/7359ca71-4b95-4017-a1bd-dc55a1e1042c.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2025-11-19</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-19.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-19.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-11-19</source>
-      <description>TOP1 Gemini 3 Gemini 3 【标语】：利用多模式功能将任何想法付诸实践 【介绍】：我们最智能的模型可以帮助您将任何想法付诸实践。 【官网】：立即访问 【Product Hunt】：View on Product Hunt 关键词：付诸实践,想法,任何,智能,模型,模式 票数： 🔺624 是否精选：是 发布时间：2025年11月19日...</description>
-      <category>PH</category>
-      <pubDate>Wed, 19 Nov 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-gemini-3"><span></span></a><a href="https://www.producthunt.com/products/gemini-6" target="_blank" rel="noopener noreferrer">TOP1    Gemini 3</a></h2>
-<p><img src="https://ph-files.imgix.net/14f6e75a-1302-4bd6-b2b5-2a542f38f1c1.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Gemini 3" loading="lazy"><br><br>
-<strong>【标语】</strong>：利用多模式功能将任何想法付诸实践<br>
-<strong>【介绍】</strong>：我们最智能的模型可以帮助您将任何想法付诸实践。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/ZTS2SW7NBG372V" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/gemini-6" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：付诸实践,想法,任何,智能,模型,模式<br>
-<strong>票数</strong>： 🔺624<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2025年11月19日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/14f6e75a-1302-4bd6-b2b5-2a542f38f1c1.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
