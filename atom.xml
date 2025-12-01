@@ -4,7 +4,7 @@
   <title>DAYHACK</title>
   <subtitle>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</subtitle>
   <icon>https://github.camscanner.top/daily/blog.html/daily/favicon.ico</icon>
-  <updated>2025-12-01T08:25:22.679Z</updated>
+  <updated>2025-12-01T09:24:37.706Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/blog.html/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/blog.html/daily/"/>
@@ -13,14 +13,46 @@
     <title type="text">Github 每日榜单</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/github.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/github.html"/>
-    <updated>2025-11-30T09:14:12.000Z</updated>
-    <published>2025-11-30T09:14:12.000Z</published>
+    <updated>2025-12-01T08:23:23.000Z</updated>
+    <published>2025-12-01T08:23:23.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">test</title>
+    <id>https://github.camscanner.top/daily/blog.html/daily/github/test.html</id>
+    <link href="https://github.camscanner.top/daily/blog.html/daily/github/test.html"/>
+    <updated>2025-12-01T08:23:23.000Z</updated>
+    <published>2025-12-01T08:23:23.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">PH今日热榜 | 2025-11-30</title>
+    <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-30.html</id>
+    <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-30.html"/>
+    <updated>2025-12-01T08:23:23.000Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-ripplica"><span></span></a><a href="https://www.producthunt.com/products/ripplica" target="_blank" rel="noopener noreferrer">TOP1    Ripplica</a></h2>
+<p><img src="https://ph-files.imgix.net/009a15ea-3b51-4ea3-863d-fc8bef44c264.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Ripplica" loading="lazy"><br><br>
+<strong>【标语】</strong>：只需一个简单的视频即可自动化任何Web任务。<br>
+<strong>【介绍】</strong>：记录一次工作流程。Ripplica的人工智能代理会在您的浏览器应用程序中为您重复此操作-无需代码、无需API、无需提示。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/R42OVOHLCSZ7XC" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/ripplica" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-ripplica"><span></span></a><a href="https://www.producthunt.com/products/ripplica" target="_blank" rel="noopener noreferrer">TOP1    Ripplica</a></h2>
+<p><img src="https://ph-files.imgix.net/009a15ea-3b51-4ea3-863d-fc8bef44c264.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Ripplica" loading="lazy"><br><br>
+<strong>【标语】</strong>：只需一个简单的视频即可自动化任何Web任务。<br>
+<strong>【介绍】</strong>：记录一次工作流程。Ripplica的人工智能代理会在您的浏览器应用程序中为您重复此操作-无需代码、无需API、无需提示。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/R42OVOHLCSZ7XC" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/ripplica" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：无需,Web,Ripplica,代理会,中为,API<br>
+<strong>票数</strong>： 🔺447<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2025年11月30日 PM04:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2025-11-30T00:00:00.000Z</published>
   </entry>
   <entry>
     <title type="text">PH今日热榜 | 2025-11-29</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-29.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-29.html"/>
-    <updated>2025-11-30T09:14:12.000Z</updated>
+    <updated>2025-12-01T08:23:23.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-hero-widget"><span></span></a><a href="https://www.producthunt.com/products/hero-widget" target="_blank" rel="noopener noreferrer">TOP1    Hero Widget</a></h2>
 <p><img src="https://ph-files.imgix.net/5a4c37b8-3c6a-431c-9bcf-ac95edc1945e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Hero Widget" loading="lazy"><br><br>
 <strong>【标语】</strong>：实时MRR和用户计数跟踪<br>
@@ -45,7 +77,7 @@
     <title type="text">PH今日热榜 | 2025-11-28</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-28.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-28.html"/>
-    <updated>2025-11-30T09:14:12.000Z</updated>
+    <updated>2025-12-01T08:23:23.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-qoder-jetbrains-plugin"><span></span></a><a href="https://www.producthunt.com/products/qoder" target="_blank" rel="noopener noreferrer">TOP1    Qoder JetBrains Plugin</a></h2>
 <p><img src="https://ph-files.imgix.net/ddbcbe63-ff4d-450e-94e1-e9895be92d83.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Qoder JetBrains Plugin" loading="lazy"><br><br>
 <strong>【标语】</strong>：了解后台的真正复杂性，而不仅仅是语法<br>
@@ -70,7 +102,7 @@
     <title type="text">PH今日热榜 | 2025-11-27</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-27.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-27.html"/>
-    <updated>2025-11-30T09:14:12.000Z</updated>
+    <updated>2025-12-01T08:23:23.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-links-2-0"><span></span></a><a href="https://www.producthunt.com/products/links-save-all-your-links" target="_blank" rel="noopener noreferrer">TOP1    Links 2.0</a></h2>
 <p><img src="https://ph-files.imgix.net/4a89b99a-20c4-4bf1-aef8-aecf3b6c2489.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Links 2.0" loading="lazy"><br><br>
 <strong>【标语】</strong>：比以往任何时候都更快地保存、组织和找到您的链接<br>
@@ -95,7 +127,7 @@
     <title type="text">PH今日热榜 | 2025-11-26</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-26.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-26.html"/>
-    <updated>2025-11-30T09:14:12.000Z</updated>
+    <updated>2025-12-01T08:23:23.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-questas"><span></span></a><a href="https://www.producthunt.com/products/questas" target="_blank" rel="noopener noreferrer">TOP1    Questas</a></h2>
 <p><img src="https://ph-files.imgix.net/e5897187-8878-40d1-b153-d9d6962608fa.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Questas" loading="lazy"><br><br>
 <strong>【标语】</strong>：利用人工智能图像和视频构建互动故事<br>
@@ -120,7 +152,7 @@
     <title type="text">PH今日热榜 | 2025-11-25</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-25.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-25.html"/>
-    <updated>2025-11-30T09:14:12.000Z</updated>
+    <updated>2025-12-01T08:23:23.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-nao"><span></span></a><a href="https://www.producthunt.com/products/nao-2" target="_blank" rel="noopener noreferrer">TOP1    nao</a></h2>
 <p><img src="https://ph-files.imgix.net/60e7e056-7689-4f18-ad3f-d564172e831a.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="nao" loading="lazy"><br><br>
 <strong>【标语】</strong>：人工智能数据IDE，数据工作速度提高10倍<br>
@@ -145,7 +177,7 @@
     <title type="text">PH今日热榜 | 2025-11-24</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-24.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-24.html"/>
-    <updated>2025-11-30T09:14:12.000Z</updated>
+    <updated>2025-12-01T08:23:23.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-fluently-accent-guru"><span></span></a><a href="https://www.producthunt.com/products/fluently-ai-english-coach" target="_blank" rel="noopener noreferrer">TOP1    Fluently Accent Guru</a></h2>
 <p><img src="https://ph-files.imgix.net/9c468be1-43e6-4d59-b5ae-e95c4264ecab.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Fluently Accent Guru" loading="lazy"><br><br>
 <strong>【标语】</strong>：你的英语有什么口音？我会在30年代告诉 <br>
@@ -170,7 +202,7 @@
     <title type="text">PH今日热榜 | 2025-11-23</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-23.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-23.html"/>
-    <updated>2025-11-30T09:14:12.000Z</updated>
+    <updated>2025-12-01T08:23:23.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-google-nano-banana-pro"><span></span></a><a href="https://www.producthunt.com/products/google-nano-banana-pro" target="_blank" rel="noopener noreferrer">TOP1    Google Nano Banana Pro</a></h2>
 <p><img src="https://ph-files.imgix.net/1872168c-ad53-4451-b32f-5560af31c69f.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Google Nano Banana Pro" loading="lazy"><br><br>
 <strong>【标语】</strong>：基于Google Nano Banana的Gemini 3 Pro图像生成器<br>
@@ -190,55 +222,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2025-11-23T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2025-11-22</title>
-    <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-22.html</id>
-    <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-22.html"/>
-    <updated>2025-11-30T09:14:12.000Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-lila-by-zivy"><span></span></a><a href="https://www.producthunt.com/products/zivy" target="_blank" rel="noopener noreferrer">TOP1    Lila by Zivy</a></h2>
-<p><img src="https://ph-files.imgix.net/b63cb3f3-9d2b-48a4-b5b7-3c00d26e997b.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Lila by Zivy" loading="lazy"><br><br>
-<strong>【标语】</strong>：把每一个新的标签变成30秒的能量重置<br>
-<strong>【介绍】</strong>：您的浏览器知道您何时需要休息。Lila在您的工作日期间提供呼吸练习、办公桌伸展运动、智能提醒和聚焦计时器。和莉拉在一起，工作感觉不同了：在会议上保持敏锐，战胜下午的崩溃，并保持精力充沛。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/LIGRKM4BG6EUKL" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/zivy" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-lila-by-zivy"><span></span></a><a href="https://www.producthunt.com/products/zivy" target="_blank" rel="noopener noreferrer">TOP1    Lila by Zivy</a></h2>
-<p><img src="https://ph-files.imgix.net/b63cb3f3-9d2b-48a4-b5b7-3c00d26e997b.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Lila by Zivy" loading="lazy"><br><br>
-<strong>【标语】</strong>：把每一个新的标签变成30秒的能量重置<br>
-<strong>【介绍】</strong>：您的浏览器知道您何时需要休息。Lila在您的工作日期间提供呼吸练习、办公桌伸展运动、智能提醒和聚焦计时器。和莉拉在一起，工作感觉不同了：在会议上保持敏锐，战胜下午的崩溃，并保持精力充沛。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/LIGRKM4BG6EUKL" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/zivy" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：30,Lila,和莉拉,计时器,重置,浏览器<br>
-<strong>票数</strong>： 🔺367<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2025年11月22日 PM04:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2025-11-22T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2025-11-21</title>
-    <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-21.html</id>
-    <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-21.html"/>
-    <updated>2025-11-30T09:14:12.000Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-raycast-for-windows"><span></span></a><a href="https://www.producthunt.com/products/raycast" target="_blank" rel="noopener noreferrer">TOP1    Raycast for Windows</a></h2>
-<p><img src="https://ph-files.imgix.net/4cbf750d-bbcb-47dc-92b1-4137055e4ad5.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Raycast for Windows" loading="lazy"><br><br>
-<strong>【标语】</strong>：Windows上所有内容的快捷方式。<br>
-<strong>【介绍】</strong>：停止与你的电脑作斗争。Raycast将一切触手可及。在Mac上运行5年后，Raycast现在在Windows上运行。立即启动应用程序，实时搜索文件，访问GitHub或Notion等数百个扩展，并获取人工智能答案。全部来自您的键盘。免费下载我们的公开测试版，了解无摩擦工作的感觉。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/KWDJEAIMMNYLUB" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/raycast" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-raycast-for-windows"><span></span></a><a href="https://www.producthunt.com/products/raycast" target="_blank" rel="noopener noreferrer">TOP1    Raycast for Windows</a></h2>
-<p><img src="https://ph-files.imgix.net/4cbf750d-bbcb-47dc-92b1-4137055e4ad5.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Raycast for Windows" loading="lazy"><br><br>
-<strong>【标语】</strong>：Windows上所有内容的快捷方式。<br>
-<strong>【介绍】</strong>：停止与你的电脑作斗争。Raycast将一切触手可及。在Mac上运行5年后，Raycast现在在Windows上运行。立即启动应用程序，实时搜索文件，访问GitHub或Notion等数百个扩展，并获取人工智能答案。全部来自您的键盘。免费下载我们的公开测试版，了解无摩擦工作的感觉。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/KWDJEAIMMNYLUB" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/raycast" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：Windows,Raycast,快捷方式,Mac,GitHub,Notion<br>
-<strong>票数</strong>： 🔺411<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2025年11月21日 PM04:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2025-11-21T00:00:00.000Z</published>
   </entry>
 </feed>

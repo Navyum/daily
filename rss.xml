@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 01 Dec 2025 08:25:22 GMT</pubDate>
-    <lastBuildDate>Mon, 01 Dec 2025 08:25:22 GMT</lastBuildDate>
+    <pubDate>Mon, 01 Dec 2025 09:24:37 GMT</pubDate>
+    <lastBuildDate>Mon, 01 Dec 2025 09:24:37 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,7 +16,35 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Sun, 30 Nov 2025 09:14:12 GMT</pubDate>
+      <pubDate>Mon, 01 Dec 2025 08:23:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>test</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/github/test.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/github/test.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">test</source>
+      <pubDate>Mon, 01 Dec 2025 08:23:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>PH今日热榜 | 2025-11-30</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-30.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-30.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-11-30</source>
+      <description>TOP1 Ripplica Ripplica 【标语】：只需一个简单的视频即可自动化任何Web任务。 【介绍】：记录一次工作流程。Ripplica的人工智能代理会在您的浏览器应用程序中为您重复此操作-无需代码、无需API、无需提示。 【官网】：立即访问 【Product Hunt】：View on Product Hunt 关键词：无需,Web,Rip...</description>
+      <category>PH</category>
+      <pubDate>Sun, 30 Nov 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-ripplica"><span></span></a><a href="https://www.producthunt.com/products/ripplica" target="_blank" rel="noopener noreferrer">TOP1    Ripplica</a></h2>
+<p><img src="https://ph-files.imgix.net/009a15ea-3b51-4ea3-863d-fc8bef44c264.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Ripplica" loading="lazy"><br><br>
+<strong>【标语】</strong>：只需一个简单的视频即可自动化任何Web任务。<br>
+<strong>【介绍】</strong>：记录一次工作流程。Ripplica的人工智能代理会在您的浏览器应用程序中为您重复此操作-无需代码、无需API、无需提示。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/R42OVOHLCSZ7XC" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/ripplica" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：无需,Web,Ripplica,代理会,中为,API<br>
+<strong>票数</strong>： 🔺447<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2025年11月30日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/009a15ea-3b51-4ea3-863d-fc8bef44c264.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
     <item>
       <title>PH今日热榜 | 2025-11-29</title>
@@ -164,48 +192,6 @@
 <strong>发布时间</strong>：2025年11月23日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/1872168c-ad53-4451-b32f-5560af31c69f.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2025-11-22</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-22.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-22.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-11-22</source>
-      <description>TOP1 Lila by Zivy Lila by Zivy 【标语】：把每一个新的标签变成30秒的能量重置 【介绍】：您的浏览器知道您何时需要休息。Lila在您的工作日期间提供呼吸练习、办公桌伸展运动、智能提醒和聚焦计时器。和莉拉在一起，工作感觉不同了：在会议上保持敏锐，战胜下午的崩溃，并保持精力充沛。 【官网】：立即访问 【Product Hunt...</description>
-      <category>PH</category>
-      <pubDate>Sat, 22 Nov 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-lila-by-zivy"><span></span></a><a href="https://www.producthunt.com/products/zivy" target="_blank" rel="noopener noreferrer">TOP1    Lila by Zivy</a></h2>
-<p><img src="https://ph-files.imgix.net/b63cb3f3-9d2b-48a4-b5b7-3c00d26e997b.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Lila by Zivy" loading="lazy"><br><br>
-<strong>【标语】</strong>：把每一个新的标签变成30秒的能量重置<br>
-<strong>【介绍】</strong>：您的浏览器知道您何时需要休息。Lila在您的工作日期间提供呼吸练习、办公桌伸展运动、智能提醒和聚焦计时器。和莉拉在一起，工作感觉不同了：在会议上保持敏锐，战胜下午的崩溃，并保持精力充沛。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/LIGRKM4BG6EUKL" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/zivy" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：30,Lila,和莉拉,计时器,重置,浏览器<br>
-<strong>票数</strong>： 🔺367<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2025年11月22日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/b63cb3f3-9d2b-48a4-b5b7-3c00d26e997b.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2025-11-21</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-21.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-21.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-11-21</source>
-      <description>TOP1 Raycast for Windows Raycast for Windows 【标语】：Windows上所有内容的快捷方式。 【介绍】：停止与你的电脑作斗争。Raycast将一切触手可及。在Mac上运行5年后，Raycast现在在Windows上运行。立即启动应用程序，实时搜索文件，访问GitHub或Notion等数百个扩展，并获取人工智能...</description>
-      <category>PH</category>
-      <pubDate>Fri, 21 Nov 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-raycast-for-windows"><span></span></a><a href="https://www.producthunt.com/products/raycast" target="_blank" rel="noopener noreferrer">TOP1    Raycast for Windows</a></h2>
-<p><img src="https://ph-files.imgix.net/4cbf750d-bbcb-47dc-92b1-4137055e4ad5.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Raycast for Windows" loading="lazy"><br><br>
-<strong>【标语】</strong>：Windows上所有内容的快捷方式。<br>
-<strong>【介绍】</strong>：停止与你的电脑作斗争。Raycast将一切触手可及。在Mac上运行5年后，Raycast现在在Windows上运行。立即启动应用程序，实时搜索文件，访问GitHub或Notion等数百个扩展，并获取人工智能答案。全部来自您的键盘。免费下载我们的公开测试版，了解无摩擦工作的感觉。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/KWDJEAIMMNYLUB" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/raycast" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：Windows,Raycast,快捷方式,Mac,GitHub,Notion<br>
-<strong>票数</strong>： 🔺411<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2025年11月21日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/4cbf750d-bbcb-47dc-92b1-4137055e4ad5.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
