@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 02 Dec 2025 09:23:16 GMT</pubDate>
-    <lastBuildDate>Tue, 02 Dec 2025 09:23:16 GMT</lastBuildDate>
+    <pubDate>Wed, 03 Dec 2025 08:23:35 GMT</pubDate>
+    <lastBuildDate>Wed, 03 Dec 2025 08:23:35 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,7 +16,14 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Tue, 02 Dec 2025 08:22:13 GMT</pubDate>
+      <pubDate>Tue, 02 Dec 2025 09:21:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>test</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/github/test.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/github/test.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">test</source>
+      <pubDate>Tue, 02 Dec 2025 09:21:07 GMT</pubDate>
     </item>
     <item>
       <title>PH今日热榜 | 2025-12-01</title>
@@ -33,7 +40,7 @@
 <strong>【官网】</strong>：<a href="https://www.producthunt.com/r/7WV5TJCC3ZQKKF" target="_blank" rel="noopener noreferrer">立即访问</a><br>
 <strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/cybercut" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
 <p><strong>关键词</strong>：人工智能,视频,剪辑,社交,病毒,文本编辑<br>
-<strong>票数</strong>： 🔺539<br>
+<strong>票数</strong>： 🔺540<br>
 <strong>是否精选</strong>：是<br>
 <strong>发布时间</strong>：2025年12月01日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
@@ -185,27 +192,6 @@
 <strong>发布时间</strong>：2025年11月24日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/9c468be1-43e6-4d59-b5ae-e95c4264ecab.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2025-11-23</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-23.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-23.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-11-23</source>
-      <description>TOP1 Google Nano Banana Pro Google Nano Banana Pro 【标语】：基于Google Nano Banana的Gemini 3 Pro图像生成器 【介绍】：双子座3 Pro图片。使用Nano Banana Pro创建和编辑图像，以获得工作室质量的精度和控制水平。 【官网】：立即访问 【Product Hunt...</description>
-      <category>PH</category>
-      <pubDate>Sun, 23 Nov 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-google-nano-banana-pro"><span></span></a><a href="https://www.producthunt.com/products/google-nano-banana-pro" target="_blank" rel="noopener noreferrer">TOP1    Google Nano Banana Pro</a></h2>
-<p><img src="https://ph-files.imgix.net/1872168c-ad53-4451-b32f-5560af31c69f.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Google Nano Banana Pro" loading="lazy"><br><br>
-<strong>【标语】</strong>：基于Google Nano Banana的Gemini 3 Pro图像生成器<br>
-<strong>【介绍】</strong>：双子座3 Pro图片。使用Nano Banana Pro创建和编辑图像，以获得工作室质量的精度和控制水平。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/WZMCPEZJRKRW7I" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/google-nano-banana-pro" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：Pro,Nano,Banana,图像,生成器,Google<br>
-<strong>票数</strong>： 🔺453<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2025年11月23日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/1872168c-ad53-4451-b32f-5560af31c69f.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
