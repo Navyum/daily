@@ -4,7 +4,7 @@
   <title>DAYHACK</title>
   <subtitle>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</subtitle>
   <icon>https://github.camscanner.top/daily/blog.html/daily/favicon.ico</icon>
-  <updated>2025-12-06T09:16:28.226Z</updated>
+  <updated>2025-12-07T08:20:36.377Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/blog.html/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/blog.html/daily/"/>
@@ -13,14 +13,21 @@
     <title type="text">Github 每日榜单</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/github.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/github.html"/>
-    <updated>2025-12-06T08:18:44.000Z</updated>
-    <published>2025-12-06T08:18:44.000Z</published>
+    <updated>2025-12-06T09:14:25.000Z</updated>
+    <published>2025-12-06T09:14:25.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">test</title>
+    <id>https://github.camscanner.top/daily/blog.html/daily/github/test.html</id>
+    <link href="https://github.camscanner.top/daily/blog.html/daily/github/test.html"/>
+    <updated>2025-12-06T09:14:25.000Z</updated>
+    <published>2025-12-06T09:14:25.000Z</published>
   </entry>
   <entry>
     <title type="text">PH今日热榜 | 2025-12-05</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-05.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-05.html"/>
-    <updated>2025-12-06T08:18:44.000Z</updated>
+    <updated>2025-12-06T09:14:25.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-documentation-ai"><span></span></a><a href="https://www.producthunt.com/products/documentation-ai" target="_blank" rel="noopener noreferrer">TOP1    Documentation.AI</a></h2>
 <p><img src="https://ph-files.imgix.net/1f62c3cc-4a56-4688-b004-6ec9ad70ac73.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Documentation.AI" loading="lazy"><br><br>
 <strong>【标语】</strong>：使用人工智能轻松构建和更新产品文档<br>
@@ -34,7 +41,7 @@
 <strong>【官网】</strong>：<a href="https://www.producthunt.com/r/I5HGT62NEWZBOY" target="_blank" rel="noopener noreferrer">立即访问</a><br>
 <strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/documentation-ai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
 <p><strong>关键词</strong>：文档,AI,内置,人工智能,代理,更新<br>
-<strong>票数</strong>： 🔺483<br>
+<strong>票数</strong>： 🔺484<br>
 <strong>是否精选</strong>：是<br>
 <strong>发布时间</strong>：2025年12月05日 PM04:01 (北京时间)<br><br></p>
 ]]></content>
@@ -45,7 +52,7 @@
     <title type="text">PH今日热榜 | 2025-12-04</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-04.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-04.html"/>
-    <updated>2025-12-06T08:18:44.000Z</updated>
+    <updated>2025-12-06T09:14:25.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-pylar"><span></span></a><a href="https://www.producthunt.com/products/pylar" target="_blank" rel="noopener noreferrer">TOP1    Pylar</a></h2>
 <p><img src="https://ph-files.imgix.net/337146af-bd04-4f10-9348-b9ae679c789e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Pylar" loading="lazy"><br><br>
 <strong>【标语】</strong>：将整个数据栈安全地连接到任何代理<br>
@@ -70,7 +77,7 @@
     <title type="text">PH今日热榜 | 2025-12-03</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-03.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-03.html"/>
-    <updated>2025-12-06T08:18:44.000Z</updated>
+    <updated>2025-12-06T09:14:25.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-aha-2-0"><span></span></a><a href="https://www.producthunt.com/products/aha-3" target="_blank" rel="noopener noreferrer">TOP1    Aha 2.0</a></h2>
 <p><img src="https://ph-files.imgix.net/2af0ca4b-6b85-45be-a0c9-326b8dcc4dd0.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Aha 2.0" loading="lazy"><br><br>
 <strong>【标语】</strong>：从头到尾运营影响者营销的人工智能员工<br>
@@ -95,7 +102,7 @@
     <title type="text">PH今日热榜 | 2025-12-02</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-02.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-02.html"/>
-    <updated>2025-12-06T08:18:44.000Z</updated>
+    <updated>2025-12-06T09:14:25.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-x-design-2-0"><span></span></a><a href="https://www.producthunt.com/products/x-design" target="_blank" rel="noopener noreferrer">TOP1    X-Design 2.0</a></h2>
 <p><img src="https://ph-files.imgix.net/ea3a3a74-784c-4054-b974-fa74fa321333.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="X-Design 2.0" loading="lazy"><br><br>
 <strong>【标语】</strong>：您用于生成品牌资产的创意人工智能代理<br>
@@ -120,7 +127,7 @@
     <title type="text">PH今日热榜 | 2025-12-01</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-01.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-01.html"/>
-    <updated>2025-12-06T08:18:44.000Z</updated>
+    <updated>2025-12-06T09:14:25.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-cybercut-ai"><span></span></a><a href="https://www.producthunt.com/products/cybercut" target="_blank" rel="noopener noreferrer">TOP1    CyberCut AI</a></h2>
 <p><img src="https://ph-files.imgix.net/083fc8ce-32f8-4684-853e-6b222f34d480.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="CyberCut AI" loading="lazy"><br><br>
 <strong>【标语】</strong>：AI视频工作室用于病毒式社交剪辑<br>
@@ -145,7 +152,7 @@
     <title type="text">PH今日热榜 | 2025-11-30</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-30.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-30.html"/>
-    <updated>2025-12-06T08:18:44.000Z</updated>
+    <updated>2025-12-06T09:14:25.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-ripplica"><span></span></a><a href="https://www.producthunt.com/products/ripplica" target="_blank" rel="noopener noreferrer">TOP1    Ripplica</a></h2>
 <p><img src="https://ph-files.imgix.net/009a15ea-3b51-4ea3-863d-fc8bef44c264.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Ripplica" loading="lazy"><br><br>
 <strong>【标语】</strong>：只需一个简单的视频即可自动化任何Web任务。<br>
@@ -170,7 +177,7 @@
     <title type="text">PH今日热榜 | 2025-11-29</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-29.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-29.html"/>
-    <updated>2025-12-06T08:18:44.000Z</updated>
+    <updated>2025-12-06T09:14:25.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-hero-widget"><span></span></a><a href="https://www.producthunt.com/products/hero-widget" target="_blank" rel="noopener noreferrer">TOP1    Hero Widget</a></h2>
 <p><img src="https://ph-files.imgix.net/5a4c37b8-3c6a-431c-9bcf-ac95edc1945e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Hero Widget" loading="lazy"><br><br>
 <strong>【标语】</strong>：实时MRR和用户计数跟踪<br>
@@ -195,7 +202,7 @@
     <title type="text">PH今日热榜 | 2025-11-28</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-28.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-28.html"/>
-    <updated>2025-12-06T08:18:44.000Z</updated>
+    <updated>2025-12-06T09:14:25.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-qoder-jetbrains-plugin"><span></span></a><a href="https://www.producthunt.com/products/qoder" target="_blank" rel="noopener noreferrer">TOP1    Qoder JetBrains Plugin</a></h2>
 <p><img src="https://ph-files.imgix.net/ddbcbe63-ff4d-450e-94e1-e9895be92d83.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Qoder JetBrains Plugin" loading="lazy"><br><br>
 <strong>【标语】</strong>：了解后台的真正复杂性，而不仅仅是语法<br>
@@ -215,30 +222,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2025-11-28T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2025-11-27</title>
-    <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-27.html</id>
-    <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-27.html"/>
-    <updated>2025-12-06T08:18:44.000Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-links-2-0"><span></span></a><a href="https://www.producthunt.com/products/links-save-all-your-links" target="_blank" rel="noopener noreferrer">TOP1    Links 2.0</a></h2>
-<p><img src="https://ph-files.imgix.net/4a89b99a-20c4-4bf1-aef8-aecf3b6c2489.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Links 2.0" loading="lazy"><br><br>
-<strong>【标语】</strong>：比以往任何时候都更快地保存、组织和找到您的链接<br>
-<strong>【介绍】</strong>：Links 2.0是对该应用程序的彻底重新设计，可帮助您保存、组织和查找所有设备上的链接。它专为iOS 26打造，引入了一个新的导航栏、更新的带有最近链接的主页、改进的过滤器、自定义强调色、新的设置屏幕和全新的应用程序图标。默认情况下是私人的，由iCloud同步提供支持，没有帐户或跟踪。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/BBDFUZO3CA3AUI" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/links-save-all-your-links" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-links-2-0"><span></span></a><a href="https://www.producthunt.com/products/links-save-all-your-links" target="_blank" rel="noopener noreferrer">TOP1    Links 2.0</a></h2>
-<p><img src="https://ph-files.imgix.net/4a89b99a-20c4-4bf1-aef8-aecf3b6c2489.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Links 2.0" loading="lazy"><br><br>
-<strong>【标语】</strong>：比以往任何时候都更快地保存、组织和找到您的链接<br>
-<strong>【介绍】</strong>：Links 2.0是对该应用程序的彻底重新设计，可帮助您保存、组织和查找所有设备上的链接。它专为iOS 26打造，引入了一个新的导航栏、更新的带有最近链接的主页、改进的过滤器、自定义强调色、新的设置屏幕和全新的应用程序图标。默认情况下是私人的，由iCloud同步提供支持，没有帐户或跟踪。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/BBDFUZO3CA3AUI" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/links-save-all-your-links" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：链接,应用程序,保存,自定义,Links,2.0<br>
-<strong>票数</strong>： 🔺381<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2025年11月27日 PM04:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2025-11-27T00:00:00.000Z</published>
   </entry>
 </feed>
