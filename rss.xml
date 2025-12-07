@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 07 Dec 2025 08:20:36 GMT</pubDate>
-    <lastBuildDate>Sun, 07 Dec 2025 08:20:36 GMT</lastBuildDate>
+    <pubDate>Sun, 07 Dec 2025 09:16:46 GMT</pubDate>
+    <lastBuildDate>Sun, 07 Dec 2025 09:16:46 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,14 +16,35 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Sat, 06 Dec 2025 09:14:25 GMT</pubDate>
+      <pubDate>Sun, 07 Dec 2025 08:18:25 GMT</pubDate>
     </item>
     <item>
       <title>test</title>
       <link>https://github.camscanner.top/daily/blog.html/daily/github/test.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github/test.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">test</source>
-      <pubDate>Sat, 06 Dec 2025 09:14:25 GMT</pubDate>
+      <pubDate>Sun, 07 Dec 2025 08:18:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>PH今日热榜 | 2025-12-06</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-06.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-06.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-12-06</source>
+      <description>TOP1 TruGen AI TruGen AI 【标语】：通过类人视频代理将人工智能带入生活。 【介绍】：TruGen AI提供超真实的视频代理，可以实时观看、聆听、记住和行动，将对话转化为自然的、类人互动。它具有可扩展性、安全性和API优先性，适合不同行业和语言。快速、安全且易于集成。 【官网】：立即访问 【Product Hunt】：View o...</description>
+      <category>PH</category>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-trugen-ai"><span></span></a><a href="https://www.producthunt.com/products/trugen-ai" target="_blank" rel="noopener noreferrer">TOP1    TruGen AI</a></h2>
+<p><img src="https://ph-files.imgix.net/e0e1e1c4-1cb9-46fa-b8e5-b3cbbf270329.gif?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="TruGen AI" loading="lazy"><br><br>
+<strong>【标语】</strong>：通过类人视频代理将人工智能带入生活。<br>
+<strong>【介绍】</strong>：TruGen AI提供超真实的视频代理，可以实时观看、聆听、记住和行动，将对话转化为自然的、类人互动。它具有可扩展性、安全性和API优先性，适合不同行业和语言。快速、安全且易于集成。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/QG6KYUTMQVOMI6" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/trugen-ai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：类人,视频,代理,可扩展性,TruGen,AI<br>
+<strong>票数</strong>： 🔺353<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2025年12月06日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/e0e1e1c4-1cb9-46fa-b8e5-b3cbbf270329.gif?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
     <item>
       <title>PH今日热榜 | 2025-12-05</title>
@@ -171,27 +192,6 @@
 <strong>发布时间</strong>：2025年11月29日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/5a4c37b8-3c6a-431c-9bcf-ac95edc1945e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2025-11-28</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-28.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-11-28.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-11-28</source>
-      <description>TOP1 Qoder JetBrains Plugin Qoder JetBrains Plugin 【标语】：了解后台的真正复杂性，而不仅仅是语法 【介绍】：JetBrains的AI插件，从架构上理解后台项目。直接访问Spring Bean图形、数据库模式和框架语义-而不仅仅是表面代码。为包含10万多个文件的复杂系统提供上下文感知建议。 【官网】：立...</description>
-      <category>PH</category>
-      <pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-qoder-jetbrains-plugin"><span></span></a><a href="https://www.producthunt.com/products/qoder" target="_blank" rel="noopener noreferrer">TOP1    Qoder JetBrains Plugin</a></h2>
-<p><img src="https://ph-files.imgix.net/ddbcbe63-ff4d-450e-94e1-e9895be92d83.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Qoder JetBrains Plugin" loading="lazy"><br><br>
-<strong>【标语】</strong>：了解后台的真正复杂性，而不仅仅是语法<br>
-<strong>【介绍】</strong>：JetBrains的AI插件，从架构上理解后台项目。直接访问Spring Bean图形、数据库模式和框架语义-而不仅仅是表面代码。为包含10万多个文件的复杂系统提供上下文感知建议。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/VEHI5WFLFDBW7X" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/qoder" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：后台,不仅仅,插件,JetBrains,AI,Spring<br>
-<strong>票数</strong>： 🔺352<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2025年11月28日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/ddbcbe63-ff4d-450e-94e1-e9895be92d83.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
