@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 11 Dec 2025 08:24:49 GMT</pubDate>
-    <lastBuildDate>Thu, 11 Dec 2025 08:24:49 GMT</lastBuildDate>
+    <pubDate>Thu, 11 Dec 2025 09:22:49 GMT</pubDate>
+    <lastBuildDate>Thu, 11 Dec 2025 09:22:49 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,7 +16,35 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Wed, 10 Dec 2025 09:24:39 GMT</pubDate>
+      <pubDate>Thu, 11 Dec 2025 08:22:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>test</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/github/test.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/github/test.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">test</source>
+      <pubDate>Thu, 11 Dec 2025 08:22:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>PH今日热榜 | 2025-12-10</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-10.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-10.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-12-10</source>
+      <description>TOP1 Incredible Incredible 【标语】：深度工作人工智能代理-由Agent MAX提供支持 【介绍】：创建24/7工作的AI代理，成本降低90%，并且不会对由Agent MAX驱动的数据产生幻觉。使用为自主工作而构建的世界上最先进的人工智能代理引擎自动化日常重复性任务。数百个集成。便宜90%。幻觉接近零。100倍内存。 【官网】...</description>
+      <category>PH</category>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-incredible"><span></span></a><a href="https://www.producthunt.com/products/incredible" target="_blank" rel="noopener noreferrer">TOP1    Incredible</a></h2>
+<p><img src="https://ph-files.imgix.net/7a637fb5-6167-4da9-bcc5-1bd7fa891a39.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Incredible" loading="lazy"><br><br>
+<strong>【标语】</strong>：深度工作人工智能代理-由Agent MAX提供支持<br>
+<strong>【介绍】</strong>：创建24/7工作的AI代理，成本降低90%，并且不会对由Agent MAX驱动的数据产生幻觉。使用为自主工作而构建的世界上最先进的人工智能代理引擎自动化日常重复性任务。数百个集成。便宜90%。幻觉接近零。100倍内存。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/MPJ4LKXZSH3Z42" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/incredible" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：Agent,MAX,90%,代理,人工智能,幻觉<br>
+<strong>票数</strong>： 🔺561<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2025年12月10日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/7a637fb5-6167-4da9-bcc5-1bd7fa891a39.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
     <item>
       <title>PH今日热榜 | 2025-12-09</title>
@@ -164,48 +192,6 @@
 <strong>发布时间</strong>：2025年12月03日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/2af0ca4b-6b85-45be-a0c9-326b8dcc4dd0.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2025-12-02</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-02.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-02.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-12-02</source>
-      <description>TOP1 X-Design 2.0 X-Design 2.0 【标语】：您用于生成品牌资产的创意人工智能代理 【介绍】：使用人工智能代理在几分钟内创建徽标、品牌套件和指南，该代理生成概念、细化视觉效果并输出可编辑资产（JPG、JPEG、PNG）。专为需要快速迭代、一致输出以及可供在线和现实世界使用的品牌系统的创始人、自由职业者和团队而设计。 【官网】：...</description>
-      <category>PH</category>
-      <pubDate>Tue, 02 Dec 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-x-design-2-0"><span></span></a><a href="https://www.producthunt.com/products/x-design" target="_blank" rel="noopener noreferrer">TOP1    X-Design 2.0</a></h2>
-<p><img src="https://ph-files.imgix.net/ea3a3a74-784c-4054-b974-fa74fa321333.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="X-Design 2.0" loading="lazy"><br><br>
-<strong>【标语】</strong>：您用于生成品牌资产的创意人工智能代理<br>
-<strong>【介绍】</strong>：使用人工智能代理在几分钟内创建徽标、品牌套件和指南，该代理生成概念、细化视觉效果并输出可编辑资产（JPG、JPEG、PNG）。专为需要快速迭代、一致输出以及可供在线和现实世界使用的品牌系统的创始人、自由职业者和团队而设计。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/33NYUNJNLWBESM" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/x-design" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：代理,人工智能,品牌,输出,生成,徽标<br>
-<strong>票数</strong>： 🔺464<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2025年12月02日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/ea3a3a74-784c-4054-b974-fa74fa321333.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2025-12-01</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-01.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-01.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-12-01</source>
-      <description>TOP1 CyberCut AI CyberCut AI 【标语】：AI视频工作室用于病毒式社交剪辑 【介绍】：CyberCut人工智能帮助创作者和团队快速制作病毒式视频。将长镜头自动切成适合社交的剪辑、生成营销视频、添加高精度字幕、按文本编辑、访问人工智能资产库、尝试虚拟模型试穿以及使用完整的人工智能工具包。 【官网】：立即访问 【Product H...</description>
-      <category>PH</category>
-      <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-cybercut-ai"><span></span></a><a href="https://www.producthunt.com/products/cybercut" target="_blank" rel="noopener noreferrer">TOP1    CyberCut AI</a></h2>
-<p><img src="https://ph-files.imgix.net/083fc8ce-32f8-4684-853e-6b222f34d480.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="CyberCut AI" loading="lazy"><br><br>
-<strong>【标语】</strong>：AI视频工作室用于病毒式社交剪辑<br>
-<strong>【介绍】</strong>：CyberCut人工智能帮助创作者和团队快速制作病毒式视频。将长镜头自动切成适合社交的剪辑、生成营销视频、添加高精度字幕、按文本编辑、访问人工智能资产库、尝试虚拟模型试穿以及使用完整的人工智能工具包。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/7WV5TJCC3ZQKKF" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/cybercut" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：人工智能,视频,剪辑,社交,病毒,文本编辑<br>
-<strong>票数</strong>： 🔺540<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2025年12月01日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/083fc8ce-32f8-4684-853e-6b222f34d480.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
