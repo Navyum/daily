@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 13 Dec 2025 09:16:42 GMT</pubDate>
-    <lastBuildDate>Sat, 13 Dec 2025 09:16:42 GMT</lastBuildDate>
+    <pubDate>Sun, 14 Dec 2025 08:21:22 GMT</pubDate>
+    <lastBuildDate>Sun, 14 Dec 2025 08:21:22 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,7 +16,14 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Sat, 13 Dec 2025 08:19:00 GMT</pubDate>
+      <pubDate>Sat, 13 Dec 2025 09:14:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>test</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/github/test.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/github/test.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">test</source>
+      <pubDate>Sat, 13 Dec 2025 09:14:39 GMT</pubDate>
     </item>
     <item>
       <title>PH今日热榜 | 2025-12-12</title>
@@ -33,7 +40,7 @@
 <strong>【官网】</strong>：<a href="https://www.producthunt.com/r/CRVOHMUBPBYCU7" target="_blank" rel="noopener noreferrer">立即访问</a><br>
 <strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/gemini-6" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
 <p><strong>关键词</strong>：开发人员,Gemini,Deep,Research,Agent,Interactions<br>
-<strong>票数</strong>： 🔺401<br>
+<strong>票数</strong>： 🔺403<br>
 <strong>是否精选</strong>：是<br>
 <strong>发布时间</strong>：2025年12月12日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
@@ -185,27 +192,6 @@
 <strong>发布时间</strong>：2025年12月05日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/1f62c3cc-4a56-4688-b004-6ec9ad70ac73.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2025-12-04</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-04.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-04.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-12-04</source>
-      <description>TOP1 Pylar Pylar 【标语】：将整个数据栈安全地连接到任何代理 【介绍】：Pylar将代理安全地连接到您的数据堆栈。连接到任何收件箱，准确定义代理可以看到的内容，将这些视图转化为自定义的LCP工具，并将它们发布到任何代理构建器-在每个人工智能部署中具有完全的可观察性。 【官网】：立即访问 【Product Hunt】：View on Pr...</description>
-      <category>PH</category>
-      <pubDate>Thu, 04 Dec 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-pylar"><span></span></a><a href="https://www.producthunt.com/products/pylar" target="_blank" rel="noopener noreferrer">TOP1    Pylar</a></h2>
-<p><img src="https://ph-files.imgix.net/337146af-bd04-4f10-9348-b9ae679c789e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Pylar" loading="lazy"><br><br>
-<strong>【标语】</strong>：将整个数据栈安全地连接到任何代理<br>
-<strong>【介绍】</strong>：Pylar将代理安全地连接到您的数据堆栈。连接到任何收件箱，准确定义代理可以看到的内容，将这些视图转化为自定义的LCP工具，并将它们发布到任何代理构建器-在每个人工智能部署中具有完全的可观察性。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/36BKFQXLMVGUJF" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/pylar" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：代理,连接,任何,收件箱,视图,自定义<br>
-<strong>票数</strong>： 🔺476<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2025年12月04日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/337146af-bd04-4f10-9348-b9ae679c789e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
