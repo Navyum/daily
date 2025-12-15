@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 15 Dec 2025 08:26:49 GMT</pubDate>
-    <lastBuildDate>Mon, 15 Dec 2025 08:26:49 GMT</lastBuildDate>
+    <pubDate>Mon, 15 Dec 2025 09:28:33 GMT</pubDate>
+    <lastBuildDate>Mon, 15 Dec 2025 09:28:33 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,7 +16,28 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Sun, 14 Dec 2025 09:15:00 GMT</pubDate>
+      <pubDate>Mon, 15 Dec 2025 08:24:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>PH今日热榜 | 2025-12-14</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-14.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-14.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-12-14</source>
+      <description>TOP1 Google Vids Google Vids 【标语】：人工智能驱动的工作视频创建 【介绍】：Google Vids是一款基于人工智能的工作视频创建工具。生成故事板、创建场景、录制自己、添加化身、动画图像以及实时协作。几分钟内将任何想法或文件转化为精美的视频。 【官网】：立即访问 【Product Hunt】：View on Product...</description>
+      <category>PH</category>
+      <pubDate>Sun, 14 Dec 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-google-vids"><span></span></a><a href="https://www.producthunt.com/products/google" target="_blank" rel="noopener noreferrer">TOP1    Google Vids</a></h2>
+<p><img src="https://ph-files.imgix.net/f4c960eb-1788-4455-9c0a-ab004527d118.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Google Vids" loading="lazy"><br><br>
+<strong>【标语】</strong>：人工智能驱动的工作视频创建<br>
+<strong>【介绍】</strong>：Google Vids是一款基于人工智能的工作视频创建工具。生成故事板、创建场景、录制自己、添加化身、动画图像以及实时协作。几分钟内将任何想法或文件转化为精美的视频。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/EMTHIEBEBENRRB" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/google" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：视频,创建,人工智能,Google,Vids,动画<br>
+<strong>票数</strong>： 🔺426<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2025年12月14日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/f4c960eb-1788-4455-9c0a-ab004527d118.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
     <item>
       <title>PH今日热榜 | 2025-12-13</title>
@@ -185,27 +206,6 @@
 <strong>发布时间</strong>：2025年12月06日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/e0e1e1c4-1cb9-46fa-b8e5-b3cbbf270329.gif?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2025-12-05</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-05.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-05.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-12-05</source>
-      <description>TOP1 Documentation.AI Documentation.AI 【标语】：使用人工智能轻松构建和更新产品文档 【介绍】：使用人工智能创建美丽、始终更新的产品文档。内置AI代理可帮助您编写和维护内容，并连接到上下文的开发和支持工具。通过网络、AI代理或文档即代码编辑。内置助理为用户提供即时的引用答案，减少支持负担。 【官网】：立即访问 【P...</description>
-      <category>PH</category>
-      <pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-documentation-ai"><span></span></a><a href="https://www.producthunt.com/products/documentation-ai" target="_blank" rel="noopener noreferrer">TOP1    Documentation.AI</a></h2>
-<p><img src="https://ph-files.imgix.net/1f62c3cc-4a56-4688-b004-6ec9ad70ac73.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Documentation.AI" loading="lazy"><br><br>
-<strong>【标语】</strong>：使用人工智能轻松构建和更新产品文档<br>
-<strong>【介绍】</strong>：使用人工智能创建美丽、始终更新的产品文档。内置AI代理可帮助您编写和维护内容，并连接到上下文的开发和支持工具。通过网络、AI代理或文档即代码编辑。内置助理为用户提供即时的引用答案，减少支持负担。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/I5HGT62NEWZBOY" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/documentation-ai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：文档,AI,内置,人工智能,代理,更新<br>
-<strong>票数</strong>： 🔺484<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2025年12月05日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/1f62c3cc-4a56-4688-b004-6ec9ad70ac73.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
