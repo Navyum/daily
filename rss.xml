@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 19 Dec 2025 08:24:12 GMT</pubDate>
-    <lastBuildDate>Fri, 19 Dec 2025 08:24:12 GMT</lastBuildDate>
+    <pubDate>Fri, 19 Dec 2025 09:21:12 GMT</pubDate>
+    <lastBuildDate>Fri, 19 Dec 2025 09:21:12 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,14 +16,35 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Thu, 18 Dec 2025 09:21:39 GMT</pubDate>
+      <pubDate>Fri, 19 Dec 2025 08:22:08 GMT</pubDate>
     </item>
     <item>
       <title>test</title>
       <link>https://github.camscanner.top/daily/blog.html/daily/github/test.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github/test.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">test</source>
-      <pubDate>Thu, 18 Dec 2025 09:21:39 GMT</pubDate>
+      <pubDate>Fri, 19 Dec 2025 08:22:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>PH今日热榜 | 2025-12-18</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-18.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-18.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-12-18</source>
+      <description>TOP1 TimeTuna TimeTuna 【标语】：如果Calendly有华丽的视频背景 【介绍】：自上次发布以来，我们已经：-更名为TimeTuna.com（以前称为Bookva.ai）-即使在免费计划中也提供视频背景-添加更多自定义功能，例如自定义徽标-添加Microsoft Outlook支持（包括企业帐户）-添加只读日历同步支持-添加自定义...</description>
+      <category>PH</category>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-timetuna"><span></span></a><a href="https://www.producthunt.com/products/bookva-ai" target="_blank" rel="noopener noreferrer">TOP1    TimeTuna</a></h2>
+<p><img src="https://ph-files.imgix.net/c066ef2b-0743-4414-b7d0-f788dbff720f.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="TimeTuna" loading="lazy"><br><br>
+<strong>【标语】</strong>：如果Calendly有华丽的视频背景<br>
+<strong>【介绍】</strong>：自上次发布以来，我们已经：-更名为TimeTuna.com（以前称为Bookva.ai）-即使在免费计划中也提供视频背景-添加更多自定义功能，例如自定义徽标-添加Microsoft Outlook支持（包括企业帐户）-添加只读日历同步支持-添加自定义字段（例如电话号码、Linkedin、会议目的）-更名着陆页<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/GIH5A4WVG2LV6Z" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/bookva-ai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：自定义,添加,视频,更名,徽标,Calendly<br>
+<strong>票数</strong>： 🔺355<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2025年12月18日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/c066ef2b-0743-4414-b7d0-f788dbff720f.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
     <item>
       <title>PH今日热榜 | 2025-12-17</title>
@@ -171,27 +192,6 @@
 <strong>发布时间</strong>：2025年12月11日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/31a7c2d4-dd3c-45cb-82a9-3afaab817c5e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2025-12-10</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-10.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-10.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-12-10</source>
-      <description>TOP1 Incredible Incredible 【标语】：深度工作人工智能代理-由Agent MAX提供支持 【介绍】：创建24/7工作的AI代理，成本降低90%，并且不会对由Agent MAX驱动的数据产生幻觉。使用为自主工作而构建的世界上最先进的人工智能代理引擎自动化日常重复性任务。数百个集成。便宜90%。幻觉接近零。100倍内存。 【官网】...</description>
-      <category>PH</category>
-      <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-incredible"><span></span></a><a href="https://www.producthunt.com/products/incredible" target="_blank" rel="noopener noreferrer">TOP1    Incredible</a></h2>
-<p><img src="https://ph-files.imgix.net/7a637fb5-6167-4da9-bcc5-1bd7fa891a39.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Incredible" loading="lazy"><br><br>
-<strong>【标语】</strong>：深度工作人工智能代理-由Agent MAX提供支持<br>
-<strong>【介绍】</strong>：创建24/7工作的AI代理，成本降低90%，并且不会对由Agent MAX驱动的数据产生幻觉。使用为自主工作而构建的世界上最先进的人工智能代理引擎自动化日常重复性任务。数百个集成。便宜90%。幻觉接近零。100倍内存。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/MPJ4LKXZSH3Z42" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/incredible" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：Agent,MAX,90%,代理,人工智能,幻觉<br>
-<strong>票数</strong>： 🔺572<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2025年12月10日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/7a637fb5-6167-4da9-bcc5-1bd7fa891a39.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
