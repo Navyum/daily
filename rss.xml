@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 20 Dec 2025 08:21:13 GMT</pubDate>
-    <lastBuildDate>Sat, 20 Dec 2025 08:21:13 GMT</lastBuildDate>
+    <pubDate>Sat, 20 Dec 2025 09:17:17 GMT</pubDate>
+    <lastBuildDate>Sat, 20 Dec 2025 09:17:17 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,14 +16,35 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Fri, 19 Dec 2025 09:19:15 GMT</pubDate>
+      <pubDate>Sat, 20 Dec 2025 08:19:12 GMT</pubDate>
     </item>
     <item>
       <title>test</title>
       <link>https://github.camscanner.top/daily/blog.html/daily/github/test.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github/test.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">test</source>
-      <pubDate>Fri, 19 Dec 2025 09:19:15 GMT</pubDate>
+      <pubDate>Sat, 20 Dec 2025 08:19:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>PH今日热榜 | 2025-12-19</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-19.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-19.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-12-19</source>
+      <description>TOP1 Loki.Build Loki.Build 【标语】：使用人工智能设计和运送工作室级着陆页面 【介绍】：Loki.Build是一个AI原生网站构建器，可以生成工作室级的着陆页，并让您在真实的实时编辑器中完全控制。内置SEO，托管和完全控制。别再找中介了。不再有刻板的模板。不再等待发货。 【官网】：立即访问 【Product Hunt】：Vie...</description>
+      <category>PH</category>
+      <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-loki-build"><span></span></a><a href="https://www.producthunt.com/products/loki-build-2" target="_blank" rel="noopener noreferrer">TOP1    Loki.Build</a></h2>
+<p><img src="https://ph-files.imgix.net/2375f3a3-6790-4714-ab5d-d7965b18c501.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Loki.Build" loading="lazy"><br><br>
+<strong>【标语】</strong>：使用人工智能设计和运送工作室级着陆页面<br>
+<strong>【介绍】</strong>：Loki.Build是一个AI原生网站构建器，可以生成工作室级的着陆页，并让您在真实的实时编辑器中完全控制。内置SEO，托管和完全控制。别再找中介了。不再有刻板的模板。不再等待发货。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/BCMWWBYEIQCDJZ" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/loki-build-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：工作室,着陆,Loki,Build,AI,SEO<br>
+<strong>票数</strong>： 🔺575<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2025年12月19日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/2375f3a3-6790-4714-ab5d-d7965b18c501.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
     <item>
       <title>PH今日热榜 | 2025-12-18</title>
@@ -171,27 +192,6 @@
 <strong>发布时间</strong>：2025年12月12日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/fa812fde-ba18-416a-88f4-9df75eff949e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2025-12-11</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-11.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-11.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-12-11</source>
-      <description>TOP1 ClickUp 4.0 ClickUp 4.0 【标语】：您所有的工作：任务、文档、聊天和具有100%上下文的人工智能 【介绍】：今天标志着Click Up的新时代，其定义是工艺、质量和融合。这是软件的未来，融合50多个应用程序，通过人工智能最大限度地提高人类生产力。Click Up 4.0精致、强大且制作完美.现在每个人都可以使用它。 【官...</description>
-      <category>PH</category>
-      <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-clickup-4-0"><span></span></a><a href="https://www.producthunt.com/products/clickup" target="_blank" rel="noopener noreferrer">TOP1    ClickUp 4.0</a></h2>
-<p><img src="https://ph-files.imgix.net/31a7c2d4-dd3c-45cb-82a9-3afaab817c5e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ClickUp 4.0" loading="lazy"><br><br>
-<strong>【标语】</strong>：您所有的工作：任务、文档、聊天和具有100%上下文的人工智能<br>
-<strong>【介绍】</strong>：今天标志着Click Up的新时代，其定义是工艺、质量和融合。这是软件的未来，融合50多个应用程序，通过人工智能最大限度地提高人类生产力。Click Up 4.0精致、强大且制作完美.现在每个人都可以使用它。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/B6JZUAABHPBU7O" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/clickup" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：Click,Up,人工智能,融合,100%,50<br>
-<strong>票数</strong>： 🔺570<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2025年12月11日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/31a7c2d4-dd3c-45cb-82a9-3afaab817c5e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
