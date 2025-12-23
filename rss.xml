@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 23 Dec 2025 08:24:34 GMT</pubDate>
-    <lastBuildDate>Tue, 23 Dec 2025 08:24:34 GMT</lastBuildDate>
+    <pubDate>Tue, 23 Dec 2025 09:22:34 GMT</pubDate>
+    <lastBuildDate>Tue, 23 Dec 2025 09:22:34 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,7 +16,35 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Mon, 22 Dec 2025 09:23:13 GMT</pubDate>
+      <pubDate>Tue, 23 Dec 2025 08:22:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>test</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/github/test.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/github/test.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">test</source>
+      <pubDate>Tue, 23 Dec 2025 08:22:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>PH今日热榜 | 2025-12-22</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-22.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-22.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-12-22</source>
+      <description>TOP1 ConnectMachine ConnectMachine 【标语】：管理您的网络和连接的私人人工智能代理 【介绍】：ConnectMachine是一款隐私优先的人工智能代理，可提升您的连接方式。制作定制数字名片，仅分享您选择的内容，并通过直观的语音或文本查询探索您的网络。它用智能联系人管理、自动分类连接并添加AI Agent来查询您的网络来...</description>
+      <category>PH</category>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-connectmachine"><span></span></a><a href="https://www.producthunt.com/products/connectmachine-2" target="_blank" rel="noopener noreferrer">TOP1    ConnectMachine</a></h2>
+<p><img src="https://ph-files.imgix.net/ee20068b-0164-4319-b014-c6cbb0d91845.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ConnectMachine" loading="lazy"><br><br>
+<strong>【标语】</strong>：管理您的网络和连接的私人人工智能代理<br>
+<strong>【介绍】</strong>：ConnectMachine是一款隐私优先的人工智能代理，可提升您的连接方式。制作定制数字名片，仅分享您选择的内容，并通过直观的语音或文本查询探索您的网络。它用智能联系人管理、自动分类连接并添加AI Agent来查询您的网络来取代社交广播。一个精致、智能的接触层，专为那些更喜欢意图而不是噪音、更喜欢优雅而不是过度的人打造。适用于iOS和Android。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/WU6NEKTONKXM65" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/connectmachine-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：连接,人工智能,网络,查询,代理,智能<br>
+<strong>票数</strong>： 🔺587<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2025年12月22日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/ee20068b-0164-4319-b014-c6cbb0d91845.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
     <item>
       <title>PH今日热榜 | 2025-12-21</title>
@@ -164,48 +192,6 @@
 <strong>发布时间</strong>：2025年12月15日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/dd1d973f-7103-4302-982f-9cb954929178.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2025-12-14</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-14.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-14.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-12-14</source>
-      <description>TOP1 Google Vids Google Vids 【标语】：人工智能驱动的工作视频创建 【介绍】：Google Vids是一款基于人工智能的工作视频创建工具。生成故事板、创建场景、录制自己、添加化身、动画图像以及实时协作。几分钟内将任何想法或文件转化为精美的视频。 【官网】：立即访问 【Product Hunt】：View on Product...</description>
-      <category>PH</category>
-      <pubDate>Sun, 14 Dec 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-google-vids"><span></span></a><a href="https://www.producthunt.com/products/google" target="_blank" rel="noopener noreferrer">TOP1    Google Vids</a></h2>
-<p><img src="https://ph-files.imgix.net/f4c960eb-1788-4455-9c0a-ab004527d118.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Google Vids" loading="lazy"><br><br>
-<strong>【标语】</strong>：人工智能驱动的工作视频创建<br>
-<strong>【介绍】</strong>：Google Vids是一款基于人工智能的工作视频创建工具。生成故事板、创建场景、录制自己、添加化身、动画图像以及实时协作。几分钟内将任何想法或文件转化为精美的视频。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/EMTHIEBEBENRRB" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/google" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：视频,创建,人工智能,Google,Vids,动画<br>
-<strong>票数</strong>： 🔺429<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2025年12月14日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/f4c960eb-1788-4455-9c0a-ab004527d118.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2025-12-13</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-13.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-13.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-12-13</source>
-      <description>TOP1 PlanEat AI PlanEat AI 【标语】：人工智能将您的健康目标变成7天菜单和杂货清单 【介绍】：大多数应用程序让你淹没在食谱中;聊天机器人让你淹没在文本中。PlanEat AI将您的健康数据和食物规则转化为一个现实的每周计划和一个分组的购物清单，因此您不必手动提示，复制粘贴或构建电子表格。设置一次，并尝试每周流与免费试用。 【官...</description>
-      <category>PH</category>
-      <pubDate>Sat, 13 Dec 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-planeat-ai"><span></span></a><a href="https://www.producthunt.com/products/planeat-ai-2" target="_blank" rel="noopener noreferrer">TOP1    PlanEat AI</a></h2>
-<p><img src="https://ph-files.imgix.net/dba30af7-c231-4af9-80b0-821907a048f0.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="PlanEat AI" loading="lazy"><br><br>
-<strong>【标语】</strong>：人工智能将您的健康目标变成7天菜单和杂货清单<br>
-<strong>【介绍】</strong>：大多数应用程序让你淹没在食谱中;聊天机器人让你淹没在文本中。PlanEat AI将您的健康数据和食物规则转化为一个现实的每周计划和一个分组的购物清单，因此您不必手动提示，复制粘贴或构建电子表格。设置一次，并尝试每周流与免费试用。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/LOTKQ2256PKXWE" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/planeat-ai-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：清单,淹没,每周,电子表格,PlanEat,AI<br>
-<strong>票数</strong>： 🔺461<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2025年12月13日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/dba30af7-c231-4af9-80b0-821907a048f0.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
