@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 25 Dec 2025 09:20:27 GMT</pubDate>
-    <lastBuildDate>Thu, 25 Dec 2025 09:20:27 GMT</lastBuildDate>
+    <pubDate>Fri, 26 Dec 2025 08:23:10 GMT</pubDate>
+    <lastBuildDate>Fri, 26 Dec 2025 08:23:10 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,7 +16,14 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Thu, 25 Dec 2025 08:21:36 GMT</pubDate>
+      <pubDate>Thu, 25 Dec 2025 09:18:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>test</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/github/test.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/github/test.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">test</source>
+      <pubDate>Thu, 25 Dec 2025 09:18:25 GMT</pubDate>
     </item>
     <item>
       <title>PH今日热榜 | 2025-12-24</title>
@@ -33,7 +40,7 @@
 <strong>【官网】</strong>：<a href="https://www.producthunt.com/r/2HGBXAF2FPYPQM" target="_blank" rel="noopener noreferrer">立即访问</a><br>
 <strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/typeless-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
 <p><strong>关键词</strong>：iPhone,iOS,Typeless,地以,10,打字<br>
-<strong>票数</strong>： 🔺469<br>
+<strong>票数</strong>： 🔺471<br>
 <strong>是否精选</strong>：是<br>
 <strong>发布时间</strong>：2025年12月24日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
@@ -185,27 +192,6 @@
 <strong>发布时间</strong>：2025年12月17日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/0de99619-6972-4c80-92d7-9b765eadab33.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2025-12-16</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-16.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-16.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-12-16</source>
-      <description>TOP1 NexaSDK for Mobile NexaSDK for Mobile 【标语】：将多模式人工智能部署到移动设备的最简单解决方案 【介绍】：NexaSDK for Mobile允许开发人员在iOS和Android应用程序上完全在设备上使用最新的多模式AI模型，并配备Apple Neural Engine和Snapdragon NPU加速。...</description>
-      <category>PH</category>
-      <pubDate>Tue, 16 Dec 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-nexasdk-for-mobile"><span></span></a><a href="https://www.producthunt.com/products/nexasdk-for-mobile" target="_blank" rel="noopener noreferrer">TOP1    NexaSDK for Mobile</a></h2>
-<p><img src="https://ph-files.imgix.net/2f4dda9a-f160-4cab-b760-0c61b896693d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="NexaSDK for Mobile" loading="lazy"><br><br>
-<strong>【标语】</strong>：将多模式人工智能部署到移动设备的最简单解决方案<br>
-<strong>【介绍】</strong>：NexaSDK for Mobile允许开发人员在iOS和Android应用程序上完全在设备上使用最新的多模式AI模型，并配备Apple Neural Engine和Snapdragon NPU加速。只需3行代码即可构建聊天、多模式、搜索和音频功能，无需云成本、完全隐私、速度快2倍、能源效率高9倍。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/IUKDN64BTRVP2R" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/nexasdk-for-mobile" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：模式,开发人员,NexaSDK,Mobile,iOS,Android<br>
-<strong>票数</strong>： 🔺381<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2025年12月16日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/2f4dda9a-f160-4cab-b760-0c61b896693d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
