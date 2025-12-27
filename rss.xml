@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 26 Dec 2025 09:19:44 GMT</pubDate>
-    <lastBuildDate>Fri, 26 Dec 2025 09:19:44 GMT</lastBuildDate>
+    <pubDate>Sat, 27 Dec 2025 09:17:42 GMT</pubDate>
+    <lastBuildDate>Sat, 27 Dec 2025 09:17:42 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,14 +16,7 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Fri, 26 Dec 2025 08:21:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>test</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/github/test.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/github/test.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">test</source>
-      <pubDate>Fri, 26 Dec 2025 08:21:12 GMT</pubDate>
+      <pubDate>Fri, 26 Dec 2025 09:17:40 GMT</pubDate>
     </item>
     <item>
       <title>PH今日热榜 | 2025-12-25</title>
@@ -192,6 +185,27 @@
 <strong>发布时间</strong>：2025年12月18日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/c066ef2b-0743-4414-b7d0-f788dbff720f.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
+    <item>
+      <title>PH今日热榜 | 2025-12-17</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-17.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-17.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-12-17</source>
+      <description>TOP1 ChatGPT Images ChatGPT Images 【标语】：由GPT提供支持Image 1.5：更快、更智能、更精确 【介绍】：ChatGPT Images由新的GPT Image 1.5型号提供支持。它提供精确的编辑，以保持灯光和面部相似性、更强的指令遵循以及4倍的生成速度。现已在ChatGPT中和通过API提供。 【官网】：立即...</description>
+      <category>PH</category>
+      <pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-chatgpt-images"><span></span></a><a href="https://www.producthunt.com/products/openai" target="_blank" rel="noopener noreferrer">TOP1    ChatGPT Images</a></h2>
+<p><img src="https://ph-files.imgix.net/0de99619-6972-4c80-92d7-9b765eadab33.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ChatGPT Images" loading="lazy"><br><br>
+<strong>【标语】</strong>：由GPT提供支持Image 1.5：更快、更智能、更精确<br>
+<strong>【介绍】</strong>：ChatGPT Images由新的GPT Image 1.5型号提供支持。它提供精确的编辑，以保持灯光和面部相似性、更强的指令遵循以及4倍的生成速度。现已在ChatGPT中和通过API提供。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/K5OJ34F5JTGUZN" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/openai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：GPT,Image,1.5,ChatGPT,提供,精确<br>
+<strong>票数</strong>： 🔺419<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2025年12月17日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/0de99619-6972-4c80-92d7-9b765eadab33.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
