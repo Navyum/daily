@@ -4,7 +4,7 @@
   <title>DAYHACK</title>
   <subtitle>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</subtitle>
   <icon>https://github.camscanner.top/daily/blog.html/daily/favicon.ico</icon>
-  <updated>2025-12-27T09:17:42.130Z</updated>
+  <updated>2025-12-28T08:22:00.565Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/blog.html/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/blog.html/daily/"/>
@@ -13,14 +13,46 @@
     <title type="text">Github 每日榜单</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/github.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/github.html"/>
-    <updated>2025-12-26T09:17:40.000Z</updated>
-    <published>2025-12-26T09:17:40.000Z</published>
+    <updated>2025-12-27T09:15:38.000Z</updated>
+    <published>2025-12-27T09:15:38.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">test</title>
+    <id>https://github.camscanner.top/daily/blog.html/daily/github/test.html</id>
+    <link href="https://github.camscanner.top/daily/blog.html/daily/github/test.html"/>
+    <updated>2025-12-27T09:15:38.000Z</updated>
+    <published>2025-12-27T09:15:38.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">PH今日热榜 | 2025-12-26</title>
+    <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-26.html</id>
+    <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-26.html"/>
+    <updated>2025-12-27T09:15:38.000Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-nbot"><span></span></a><a href="https://www.producthunt.com/products/nbot" target="_blank" rel="noopener noreferrer">TOP1    NBot</a></h2>
+<p><img src="https://ph-files.imgix.net/0cc57c71-6a9d-4953-9a7c-68ae236a3e8a.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="NBot" loading="lazy"><br><br>
+<strong>【标语】</strong>：个性化策展人，展现您所关心的内容<br>
+<strong>【介绍】</strong>：NBot为您阅读整个互联网--新闻、利基博客、社交媒体、论坛--然后消除99%的噪音，并掩盖1%真正重要的噪音。它将混乱重组为干净、可操作的动态和简报，以便您节省时间，领先于新出现的信号，并做出更快、更清晰的决策。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/6BRIPDK6UGAFOH" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/nbot" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-nbot"><span></span></a><a href="https://www.producthunt.com/products/nbot" target="_blank" rel="noopener noreferrer">TOP1    NBot</a></h2>
+<p><img src="https://ph-files.imgix.net/0cc57c71-6a9d-4953-9a7c-68ae236a3e8a.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="NBot" loading="lazy"><br><br>
+<strong>【标语】</strong>：个性化策展人，展现您所关心的内容<br>
+<strong>【介绍】</strong>：NBot为您阅读整个互联网--新闻、利基博客、社交媒体、论坛--然后消除99%的噪音，并掩盖1%真正重要的噪音。它将混乱重组为干净、可操作的动态和简报，以便您节省时间，领先于新出现的信号，并做出更快、更清晰的决策。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/6BRIPDK6UGAFOH" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/nbot" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：--,噪音,策展,NBot,99%,1%<br>
+<strong>票数</strong>： 🔺403<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2025年12月26日 PM04:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2025-12-26T00:00:00.000Z</published>
   </entry>
   <entry>
     <title type="text">PH今日热榜 | 2025-12-25</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-25.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-25.html"/>
-    <updated>2025-12-26T09:17:40.000Z</updated>
+    <updated>2025-12-27T09:15:38.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-diffsense"><span></span></a><a href="https://www.producthunt.com/products/diffsense" target="_blank" rel="noopener noreferrer">TOP1    DiffSense</a></h2>
 <p><img src="https://ph-files.imgix.net/5d63ac57-b6d4-408c-b673-69678534fa85.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="DiffSense" loading="lazy"><br><br>
 <strong>【标语】</strong>：Apple Silicon本地AI Git commit生成器<br>
@@ -45,7 +77,7 @@
     <title type="text">PH今日热榜 | 2025-12-24</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-24.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-24.html"/>
-    <updated>2025-12-26T09:17:40.000Z</updated>
+    <updated>2025-12-27T09:15:38.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-typeless-for-ios"><span></span></a><a href="https://www.producthunt.com/products/typeless-2" target="_blank" rel="noopener noreferrer">TOP1    Typeless for iOS</a></h2>
 <p><img src="https://ph-files.imgix.net/837925d4-35f3-4ae4-994f-1b1a01454090.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Typeless for iOS" loading="lazy"><br><br>
 <strong>【标语】</strong>：iPhone上现已安装人工智能语音键盘<br>
@@ -70,7 +102,7 @@
     <title type="text">PH今日热榜 | 2025-12-23</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-23.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-23.html"/>
-    <updated>2025-12-26T09:17:40.000Z</updated>
+    <updated>2025-12-27T09:15:38.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-super-agents-by-clickup"><span></span></a><a href="https://www.producthunt.com/products/clickup" target="_blank" rel="noopener noreferrer">TOP1    Super Agents by ClickUp</a></h2>
 <p><img src="https://ph-files.imgix.net/157f1d38-e50e-459a-838e-b81471801945.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Super Agents by ClickUp" loading="lazy"><br><br>
 <strong>【标语】</strong>：在您的日常工作流程中标记、发送消息和管理人工智能代理<br>
@@ -95,7 +127,7 @@
     <title type="text">PH今日热榜 | 2025-12-22</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-22.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-22.html"/>
-    <updated>2025-12-26T09:17:40.000Z</updated>
+    <updated>2025-12-27T09:15:38.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-connectmachine"><span></span></a><a href="https://www.producthunt.com/products/connectmachine-2" target="_blank" rel="noopener noreferrer">TOP1    ConnectMachine</a></h2>
 <p><img src="https://ph-files.imgix.net/ee20068b-0164-4319-b014-c6cbb0d91845.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ConnectMachine" loading="lazy"><br><br>
 <strong>【标语】</strong>：管理您的网络和连接的私人人工智能代理<br>
@@ -120,7 +152,7 @@
     <title type="text">PH今日热榜 | 2025-12-21</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-21.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-21.html"/>
-    <updated>2025-12-26T09:17:40.000Z</updated>
+    <updated>2025-12-27T09:15:38.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-touched-grass"><span></span></a><a href="https://www.producthunt.com/products/touched-grass" target="_blank" rel="noopener noreferrer">TOP1    Touched Grass</a></h2>
 <p><img src="https://ph-files.imgix.net/6fee8844-5658-4e2c-b674-f592fd707e1c.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Touched Grass" loading="lazy"><br><br>
 <strong>【标语】</strong>：向世界展示你触摸过草<br>
@@ -145,7 +177,7 @@
     <title type="text">PH今日热榜 | 2025-12-20</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-20.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-20.html"/>
-    <updated>2025-12-26T09:17:40.000Z</updated>
+    <updated>2025-12-27T09:15:38.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-hq0"><span></span></a><a href="https://www.producthunt.com/products/hq0" target="_blank" rel="noopener noreferrer">TOP1    hq0</a></h2>
 <p><img src="https://ph-files.imgix.net/f7a25d07-2e53-4d5e-8197-6ab13f6915be.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="hq0" loading="lazy"><br><br>
 <strong>【标语】</strong>：在您的网站上主持会议，而不是Zoom或Google Meet<br>
@@ -170,7 +202,7 @@
     <title type="text">PH今日热榜 | 2025-12-19</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-19.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-19.html"/>
-    <updated>2025-12-26T09:17:40.000Z</updated>
+    <updated>2025-12-27T09:15:38.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-loki-build"><span></span></a><a href="https://www.producthunt.com/products/loki-build-2" target="_blank" rel="noopener noreferrer">TOP1    Loki.Build</a></h2>
 <p><img src="https://ph-files.imgix.net/2375f3a3-6790-4714-ab5d-d7965b18c501.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Loki.Build" loading="lazy"><br><br>
 <strong>【标语】</strong>：使用人工智能设计和运送工作室级着陆页面<br>
@@ -190,55 +222,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2025-12-19T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2025-12-18</title>
-    <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-18.html</id>
-    <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-18.html"/>
-    <updated>2025-12-26T09:17:40.000Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-timetuna"><span></span></a><a href="https://www.producthunt.com/products/bookva-ai" target="_blank" rel="noopener noreferrer">TOP1    TimeTuna</a></h2>
-<p><img src="https://ph-files.imgix.net/c066ef2b-0743-4414-b7d0-f788dbff720f.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="TimeTuna" loading="lazy"><br><br>
-<strong>【标语】</strong>：如果Calendly有华丽的视频背景<br>
-<strong>【介绍】</strong>：自上次发布以来，我们已经：-更名为TimeTuna.com（以前称为Bookva.ai）-即使在免费计划中也提供视频背景-添加更多自定义功能，例如自定义徽标-添加Microsoft Outlook支持（包括企业帐户）-添加只读日历同步支持-添加自定义字段（例如电话号码、Linkedin、会议目的）-更名着陆页<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/GIH5A4WVG2LV6Z" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/bookva-ai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-timetuna"><span></span></a><a href="https://www.producthunt.com/products/bookva-ai" target="_blank" rel="noopener noreferrer">TOP1    TimeTuna</a></h2>
-<p><img src="https://ph-files.imgix.net/c066ef2b-0743-4414-b7d0-f788dbff720f.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="TimeTuna" loading="lazy"><br><br>
-<strong>【标语】</strong>：如果Calendly有华丽的视频背景<br>
-<strong>【介绍】</strong>：自上次发布以来，我们已经：-更名为TimeTuna.com（以前称为Bookva.ai）-即使在免费计划中也提供视频背景-添加更多自定义功能，例如自定义徽标-添加Microsoft Outlook支持（包括企业帐户）-添加只读日历同步支持-添加自定义字段（例如电话号码、Linkedin、会议目的）-更名着陆页<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/GIH5A4WVG2LV6Z" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/bookva-ai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：自定义,添加,视频,更名,徽标,Calendly<br>
-<strong>票数</strong>： 🔺359<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2025年12月18日 PM04:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2025-12-18T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2025-12-17</title>
-    <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-17.html</id>
-    <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-17.html"/>
-    <updated>2025-12-26T09:17:40.000Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-chatgpt-images"><span></span></a><a href="https://www.producthunt.com/products/openai" target="_blank" rel="noopener noreferrer">TOP1    ChatGPT Images</a></h2>
-<p><img src="https://ph-files.imgix.net/0de99619-6972-4c80-92d7-9b765eadab33.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ChatGPT Images" loading="lazy"><br><br>
-<strong>【标语】</strong>：由GPT提供支持Image 1.5：更快、更智能、更精确<br>
-<strong>【介绍】</strong>：ChatGPT Images由新的GPT Image 1.5型号提供支持。它提供精确的编辑，以保持灯光和面部相似性、更强的指令遵循以及4倍的生成速度。现已在ChatGPT中和通过API提供。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/K5OJ34F5JTGUZN" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/openai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-chatgpt-images"><span></span></a><a href="https://www.producthunt.com/products/openai" target="_blank" rel="noopener noreferrer">TOP1    ChatGPT Images</a></h2>
-<p><img src="https://ph-files.imgix.net/0de99619-6972-4c80-92d7-9b765eadab33.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ChatGPT Images" loading="lazy"><br><br>
-<strong>【标语】</strong>：由GPT提供支持Image 1.5：更快、更智能、更精确<br>
-<strong>【介绍】</strong>：ChatGPT Images由新的GPT Image 1.5型号提供支持。它提供精确的编辑，以保持灯光和面部相似性、更强的指令遵循以及4倍的生成速度。现已在ChatGPT中和通过API提供。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/K5OJ34F5JTGUZN" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/openai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：GPT,Image,1.5,ChatGPT,提供,精确<br>
-<strong>票数</strong>： 🔺419<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2025年12月17日 PM04:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2025-12-17T00:00:00.000Z</published>
   </entry>
 </feed>

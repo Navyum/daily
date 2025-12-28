@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 27 Dec 2025 09:17:42 GMT</pubDate>
-    <lastBuildDate>Sat, 27 Dec 2025 09:17:42 GMT</lastBuildDate>
+    <pubDate>Sun, 28 Dec 2025 08:22:00 GMT</pubDate>
+    <lastBuildDate>Sun, 28 Dec 2025 08:22:00 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,7 +16,35 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Fri, 26 Dec 2025 09:17:40 GMT</pubDate>
+      <pubDate>Sat, 27 Dec 2025 09:15:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>test</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/github/test.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/github/test.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">test</source>
+      <pubDate>Sat, 27 Dec 2025 09:15:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>PH今日热榜 | 2025-12-26</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-26.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-26.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-12-26</source>
+      <description>TOP1 NBot NBot 【标语】：个性化策展人，展现您所关心的内容 【介绍】：NBot为您阅读整个互联网--新闻、利基博客、社交媒体、论坛--然后消除99%的噪音，并掩盖1%真正重要的噪音。它将混乱重组为干净、可操作的动态和简报，以便您节省时间，领先于新出现的信号，并做出更快、更清晰的决策。 【官网】：立即访问 【Product Hunt】：Vi...</description>
+      <category>PH</category>
+      <pubDate>Fri, 26 Dec 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-nbot"><span></span></a><a href="https://www.producthunt.com/products/nbot" target="_blank" rel="noopener noreferrer">TOP1    NBot</a></h2>
+<p><img src="https://ph-files.imgix.net/0cc57c71-6a9d-4953-9a7c-68ae236a3e8a.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="NBot" loading="lazy"><br><br>
+<strong>【标语】</strong>：个性化策展人，展现您所关心的内容<br>
+<strong>【介绍】</strong>：NBot为您阅读整个互联网--新闻、利基博客、社交媒体、论坛--然后消除99%的噪音，并掩盖1%真正重要的噪音。它将混乱重组为干净、可操作的动态和简报，以便您节省时间，领先于新出现的信号，并做出更快、更清晰的决策。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/6BRIPDK6UGAFOH" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/nbot" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：--,噪音,策展,NBot,99%,1%<br>
+<strong>票数</strong>： 🔺403<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2025年12月26日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/0cc57c71-6a9d-4953-9a7c-68ae236a3e8a.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
     <item>
       <title>PH今日热榜 | 2025-12-25</title>
@@ -164,48 +192,6 @@
 <strong>发布时间</strong>：2025年12月19日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/2375f3a3-6790-4714-ab5d-d7965b18c501.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2025-12-18</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-18.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-18.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-12-18</source>
-      <description>TOP1 TimeTuna TimeTuna 【标语】：如果Calendly有华丽的视频背景 【介绍】：自上次发布以来，我们已经：-更名为TimeTuna.com（以前称为Bookva.ai）-即使在免费计划中也提供视频背景-添加更多自定义功能，例如自定义徽标-添加Microsoft Outlook支持（包括企业帐户）-添加只读日历同步支持-添加自定义...</description>
-      <category>PH</category>
-      <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-timetuna"><span></span></a><a href="https://www.producthunt.com/products/bookva-ai" target="_blank" rel="noopener noreferrer">TOP1    TimeTuna</a></h2>
-<p><img src="https://ph-files.imgix.net/c066ef2b-0743-4414-b7d0-f788dbff720f.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="TimeTuna" loading="lazy"><br><br>
-<strong>【标语】</strong>：如果Calendly有华丽的视频背景<br>
-<strong>【介绍】</strong>：自上次发布以来，我们已经：-更名为TimeTuna.com（以前称为Bookva.ai）-即使在免费计划中也提供视频背景-添加更多自定义功能，例如自定义徽标-添加Microsoft Outlook支持（包括企业帐户）-添加只读日历同步支持-添加自定义字段（例如电话号码、Linkedin、会议目的）-更名着陆页<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/GIH5A4WVG2LV6Z" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/bookva-ai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：自定义,添加,视频,更名,徽标,Calendly<br>
-<strong>票数</strong>： 🔺359<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2025年12月18日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/c066ef2b-0743-4414-b7d0-f788dbff720f.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2025-12-17</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-17.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-17.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-12-17</source>
-      <description>TOP1 ChatGPT Images ChatGPT Images 【标语】：由GPT提供支持Image 1.5：更快、更智能、更精确 【介绍】：ChatGPT Images由新的GPT Image 1.5型号提供支持。它提供精确的编辑，以保持灯光和面部相似性、更强的指令遵循以及4倍的生成速度。现已在ChatGPT中和通过API提供。 【官网】：立即...</description>
-      <category>PH</category>
-      <pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-chatgpt-images"><span></span></a><a href="https://www.producthunt.com/products/openai" target="_blank" rel="noopener noreferrer">TOP1    ChatGPT Images</a></h2>
-<p><img src="https://ph-files.imgix.net/0de99619-6972-4c80-92d7-9b765eadab33.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ChatGPT Images" loading="lazy"><br><br>
-<strong>【标语】</strong>：由GPT提供支持Image 1.5：更快、更智能、更精确<br>
-<strong>【介绍】</strong>：ChatGPT Images由新的GPT Image 1.5型号提供支持。它提供精确的编辑，以保持灯光和面部相似性、更强的指令遵循以及4倍的生成速度。现已在ChatGPT中和通过API提供。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/K5OJ34F5JTGUZN" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/openai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：GPT,Image,1.5,ChatGPT,提供,精确<br>
-<strong>票数</strong>： 🔺419<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2025年12月17日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/0de99619-6972-4c80-92d7-9b765eadab33.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
