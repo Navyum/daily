@@ -4,7 +4,7 @@
   <title>DAYHACK</title>
   <subtitle>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</subtitle>
   <icon>https://github.camscanner.top/daily/blog.html/daily/favicon.ico</icon>
-  <updated>2026-01-01T08:24:19.307Z</updated>
+  <updated>2026-01-01T09:21:45.772Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/blog.html/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/blog.html/daily/"/>
@@ -13,14 +13,46 @@
     <title type="text">Github 每日榜单</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/github.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/github.html"/>
-    <updated>2025-12-31T09:19:30.000Z</updated>
-    <published>2025-12-31T09:19:30.000Z</published>
+    <updated>2026-01-01T08:22:20.000Z</updated>
+    <published>2026-01-01T08:22:20.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">test</title>
+    <id>https://github.camscanner.top/daily/blog.html/daily/github/test.html</id>
+    <link href="https://github.camscanner.top/daily/blog.html/daily/github/test.html"/>
+    <updated>2026-01-01T08:22:20.000Z</updated>
+    <published>2026-01-01T08:22:20.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">PH今日热榜 | 2025-12-31</title>
+    <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-31.html</id>
+    <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-31.html"/>
+    <updated>2026-01-01T08:22:20.000Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-creaibo"><span></span></a><a href="https://www.producthunt.com/products/creaibo-3" target="_blank" rel="noopener noreferrer">TOP1    Creaibo</a></h2>
+<p><img src="https://ph-files.imgix.net/acc2e13a-f552-4063-a2ec-2bf5e34462f2.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Creaibo" loading="lazy"><br><br>
+<strong>【标语】</strong>：更快地创建10倍更好、听起来像您的内容<br>
+<strong>【介绍】</strong>：Creaibo是一个人工智能原生集成创作空间，支持整个工作流程--从最初的想法和结构化框架到即用内容。它专为拒绝通用机器人输出的原创内容创作者而设计，可以帮助您保留和扩展您独特的创造力。Creaibo解决了一个核心问题：显着提高创意效率和内容质量，同时保持一致的风格-无论格式如何，无论是博客、长/短视频还是任何视觉文本帖子。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/HPBPD4Y56MREDC" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/creaibo-3" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-creaibo"><span></span></a><a href="https://www.producthunt.com/products/creaibo-3" target="_blank" rel="noopener noreferrer">TOP1    Creaibo</a></h2>
+<p><img src="https://ph-files.imgix.net/acc2e13a-f552-4063-a2ec-2bf5e34462f2.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Creaibo" loading="lazy"><br><br>
+<strong>【标语】</strong>：更快地创建10倍更好、听起来像您的内容<br>
+<strong>【介绍】</strong>：Creaibo是一个人工智能原生集成创作空间，支持整个工作流程--从最初的想法和结构化框架到即用内容。它专为拒绝通用机器人输出的原创内容创作者而设计，可以帮助您保留和扩展您独特的创造力。Creaibo解决了一个核心问题：显着提高创意效率和内容质量，同时保持一致的风格-无论格式如何，无论是博客、长/短视频还是任何视觉文本帖子。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/HPBPD4Y56MREDC" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/creaibo-3" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：Creaibo,内容,10,--,创作者,人工智能<br>
+<strong>票数</strong>： 🔺413<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2025年12月31日 PM04:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2025-12-31T00:00:00.000Z</published>
   </entry>
   <entry>
     <title type="text">PH今日热榜 | 2025-12-30</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-30.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-30.html"/>
-    <updated>2025-12-31T09:19:30.000Z</updated>
+    <updated>2026-01-01T08:22:20.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-brief-my-meeting"><span></span></a><a href="https://www.producthunt.com/products/brief-my-meeting" target="_blank" rel="noopener noreferrer">TOP1    Brief My Meeting</a></h2>
 <p><img src="https://ph-files.imgix.net/274c74bb-b94d-4c01-96d2-d486657bdaa4.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Brief My Meeting" loading="lazy"><br><br>
 <strong>【标语】</strong>：人工智能会议简报发送到您的收件箱。开源<br>
@@ -45,7 +77,7 @@
     <title type="text">PH今日热榜 | 2025-12-29</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-29.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-29.html"/>
-    <updated>2025-12-31T09:19:30.000Z</updated>
+    <updated>2026-01-01T08:22:20.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-bizcard"><span></span></a><a href="https://www.producthunt.com/products/bizcard-3" target="_blank" rel="noopener noreferrer">TOP1    BizCard</a></h2>
 <p><img src="https://ph-files.imgix.net/d3ae8ba3-3d33-46ea-84a1-1f4ecd872a2d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="BizCard" loading="lazy"><br><br>
 <strong>【标语】</strong>：删除LinkedIn QR联系人。相反，建立真正的联系。<br>
@@ -70,7 +102,7 @@
     <title type="text">PH今日热榜 | 2025-12-28</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-28.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-28.html"/>
-    <updated>2025-12-31T09:19:30.000Z</updated>
+    <updated>2026-01-01T08:22:20.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-vibrantsnap"><span></span></a><a href="https://www.producthunt.com/products/vibrantsnap" target="_blank" rel="noopener noreferrer">TOP1    VibrantSnap</a></h2>
 <p><img src="https://ph-files.imgix.net/dbd6abe6-79d7-4cbf-9981-546c1ff468c0.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="VibrantSnap" loading="lazy"><br><br>
 <strong>【标语】</strong>：创建并分享可转换的视频<br>
@@ -95,7 +127,7 @@
     <title type="text">PH今日热榜 | 2025-12-27</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-27.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-27.html"/>
-    <updated>2025-12-31T09:19:30.000Z</updated>
+    <updated>2026-01-01T08:22:20.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-product-hunt-wrapped-2025"><span></span></a><a href="https://www.producthunt.com/products/product-hunt-wrapped-2025" target="_blank" rel="noopener noreferrer">TOP1    Product Hunt Wrapped 2025</a></h2>
 <p><img src="https://ph-files.imgix.net/139229c7-00f9-4ff3-97c8-76078b02a38b.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Product Hunt Wrapped 2025" loading="lazy"><br><br>
 <strong>【标语】</strong>：您的2025年创客之旅，可视化。<br>
@@ -120,7 +152,7 @@
     <title type="text">PH今日热榜 | 2025-12-26</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-26.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-26.html"/>
-    <updated>2025-12-31T09:19:30.000Z</updated>
+    <updated>2026-01-01T08:22:20.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-nbot"><span></span></a><a href="https://www.producthunt.com/products/nbot" target="_blank" rel="noopener noreferrer">TOP1    NBot</a></h2>
 <p><img src="https://ph-files.imgix.net/0cc57c71-6a9d-4953-9a7c-68ae236a3e8a.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="NBot" loading="lazy"><br><br>
 <strong>【标语】</strong>：个性化策展人，展现您所关心的内容<br>
@@ -145,7 +177,7 @@
     <title type="text">PH今日热榜 | 2025-12-25</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-25.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-25.html"/>
-    <updated>2025-12-31T09:19:30.000Z</updated>
+    <updated>2026-01-01T08:22:20.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-diffsense"><span></span></a><a href="https://www.producthunt.com/products/diffsense" target="_blank" rel="noopener noreferrer">TOP1    DiffSense</a></h2>
 <p><img src="https://ph-files.imgix.net/5d63ac57-b6d4-408c-b673-69678534fa85.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="DiffSense" loading="lazy"><br><br>
 <strong>【标语】</strong>：Apple Silicon本地AI Git commit生成器<br>
@@ -170,7 +202,7 @@
     <title type="text">PH今日热榜 | 2025-12-24</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-24.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-24.html"/>
-    <updated>2025-12-31T09:19:30.000Z</updated>
+    <updated>2026-01-01T08:22:20.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-typeless-for-ios"><span></span></a><a href="https://www.producthunt.com/products/typeless-2" target="_blank" rel="noopener noreferrer">TOP1    Typeless for iOS</a></h2>
 <p><img src="https://ph-files.imgix.net/837925d4-35f3-4ae4-994f-1b1a01454090.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Typeless for iOS" loading="lazy"><br><br>
 <strong>【标语】</strong>：iPhone上现已安装人工智能语音键盘<br>
@@ -190,55 +222,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2025-12-24T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2025-12-23</title>
-    <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-23.html</id>
-    <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-23.html"/>
-    <updated>2025-12-31T09:19:30.000Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-super-agents-by-clickup"><span></span></a><a href="https://www.producthunt.com/products/clickup" target="_blank" rel="noopener noreferrer">TOP1    Super Agents by ClickUp</a></h2>
-<p><img src="https://ph-files.imgix.net/157f1d38-e50e-459a-838e-b81471801945.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Super Agents by ClickUp" loading="lazy"><br><br>
-<strong>【标语】</strong>：在您的日常工作流程中标记、发送消息和管理人工智能代理<br>
-<strong>【介绍】</strong>：超级特工是人工智能队友，您可以在几秒钟内启动，以在Click Up中运行整个工作流程。任何人都可以构建超级代理和@提及、分配、发送消息并安排他们进行分类、管理、发送电子邮件、编码、设计或保持任何类型的工作进展。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/WIYXCWNREU2S7E" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/clickup" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-super-agents-by-clickup"><span></span></a><a href="https://www.producthunt.com/products/clickup" target="_blank" rel="noopener noreferrer">TOP1    Super Agents by ClickUp</a></h2>
-<p><img src="https://ph-files.imgix.net/157f1d38-e50e-459a-838e-b81471801945.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Super Agents by ClickUp" loading="lazy"><br><br>
-<strong>【标语】</strong>：在您的日常工作流程中标记、发送消息和管理人工智能代理<br>
-<strong>【介绍】</strong>：超级特工是人工智能队友，您可以在几秒钟内启动，以在Click Up中运行整个工作流程。任何人都可以构建超级代理和@提及、分配、发送消息并安排他们进行分类、管理、发送电子邮件、编码、设计或保持任何类型的工作进展。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/WIYXCWNREU2S7E" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/clickup" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：发送,人工智能,流程,超级,代理,Click<br>
-<strong>票数</strong>： 🔺512<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2025年12月23日 PM04:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2025-12-23T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2025-12-22</title>
-    <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-22.html</id>
-    <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-22.html"/>
-    <updated>2025-12-31T09:19:30.000Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-connectmachine"><span></span></a><a href="https://www.producthunt.com/products/connectmachine-2" target="_blank" rel="noopener noreferrer">TOP1    ConnectMachine</a></h2>
-<p><img src="https://ph-files.imgix.net/ee20068b-0164-4319-b014-c6cbb0d91845.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ConnectMachine" loading="lazy"><br><br>
-<strong>【标语】</strong>：管理您的网络和连接的私人人工智能代理<br>
-<strong>【介绍】</strong>：ConnectMachine是一款隐私优先的人工智能代理，可提升您的连接方式。制作定制数字名片，仅分享您选择的内容，并通过直观的语音或文本查询探索您的网络。它用智能联系人管理、自动分类连接并添加AI Agent来查询您的网络来取代社交广播。一个精致、智能的接触层，专为那些更喜欢意图而不是噪音、更喜欢优雅而不是过度的人打造。适用于iOS和Android。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/WU6NEKTONKXM65" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/connectmachine-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-connectmachine"><span></span></a><a href="https://www.producthunt.com/products/connectmachine-2" target="_blank" rel="noopener noreferrer">TOP1    ConnectMachine</a></h2>
-<p><img src="https://ph-files.imgix.net/ee20068b-0164-4319-b014-c6cbb0d91845.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ConnectMachine" loading="lazy"><br><br>
-<strong>【标语】</strong>：管理您的网络和连接的私人人工智能代理<br>
-<strong>【介绍】</strong>：ConnectMachine是一款隐私优先的人工智能代理，可提升您的连接方式。制作定制数字名片，仅分享您选择的内容，并通过直观的语音或文本查询探索您的网络。它用智能联系人管理、自动分类连接并添加AI Agent来查询您的网络来取代社交广播。一个精致、智能的接触层，专为那些更喜欢意图而不是噪音、更喜欢优雅而不是过度的人打造。适用于iOS和Android。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/WU6NEKTONKXM65" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/connectmachine-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：连接,人工智能,网络,查询,代理,智能<br>
-<strong>票数</strong>： 🔺589<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2025年12月22日 PM04:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2025-12-22T00:00:00.000Z</published>
   </entry>
 </feed>
