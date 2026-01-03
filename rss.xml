@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 03 Jan 2026 08:22:25 GMT</pubDate>
-    <lastBuildDate>Sat, 03 Jan 2026 08:22:25 GMT</lastBuildDate>
+    <pubDate>Sat, 03 Jan 2026 09:18:02 GMT</pubDate>
+    <lastBuildDate>Sat, 03 Jan 2026 09:18:02 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,14 +16,35 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Fri, 02 Jan 2026 09:19:29 GMT</pubDate>
+      <pubDate>Sat, 03 Jan 2026 08:20:22 GMT</pubDate>
     </item>
     <item>
       <title>test</title>
       <link>https://github.camscanner.top/daily/blog.html/daily/github/test.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github/test.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">test</source>
-      <pubDate>Fri, 02 Jan 2026 09:19:29 GMT</pubDate>
+      <pubDate>Sat, 03 Jan 2026 08:20:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>PH今日热榜 | 2026-01-02</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-02.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-02.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-01-02</source>
+      <description>TOP1 Community Figma MCP server Community Figma MCP server 【标语】：允许人工智能代理帮助您进行Figma设计！ 【介绍】：非官方的Figma模型上下文协议（HCP）服务器是您的AI代理和Figma设计文档之间缺失的链接。现在，人工智能代理可以创建、编辑和安排您的Figma设计。您可以将其与Ch...</description>
+      <category>PH</category>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-community-figma-mcp-server"><span></span></a><a href="https://www.producthunt.com/products/community-figma-mcp-server" target="_blank" rel="noopener noreferrer">TOP1    Community Figma MCP server</a></h2>
+<p><img src="https://ph-files.imgix.net/1226551e-c05a-4d62-8718-28fb46495153.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Community Figma MCP server" loading="lazy"><br><br>
+<strong>【标语】</strong>：允许人工智能代理帮助您进行Figma设计！<br>
+<strong>【介绍】</strong>：非官方的Figma模型上下文协议（HCP）服务器是您的AI代理和Figma设计文档之间缺失的链接。现在，人工智能代理可以创建、编辑和安排您的Figma设计。您可以将其与ChatGPT、Claude桌面、Cursor或任何其他支持LCP的客户端一起使用。该项目是免费且开源的。您不需要任何额外的东西。您将Figma与LLM一起使用。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/DXMHWMCOGSVI4E" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/community-figma-mcp-server" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：Figma,代理,人工智能,设计,HCP,AI<br>
+<strong>票数</strong>： 🔺313<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年01月02日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/1226551e-c05a-4d62-8718-28fb46495153.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
     <item>
       <title>PH今日热榜 | 2026-01-01</title>
@@ -171,27 +192,6 @@
 <strong>发布时间</strong>：2025年12月26日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/0cc57c71-6a9d-4953-9a7c-68ae236a3e8a.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2025-12-25</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-25.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-25.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-12-25</source>
-      <description>TOP1 DiffSense DiffSense 【标语】：Apple Silicon本地AI Git commit生成器 【介绍】：迪夫Sense使用Apple Silicon上的原生Atom 3B模型来免费生成git commit消息。它以零延迟在本地运行，确保您的代码保持私密性。具有可定制的消息样式和强大的别名宏。 【官网】：立即访问 【Prod...</description>
-      <category>PH</category>
-      <pubDate>Thu, 25 Dec 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-diffsense"><span></span></a><a href="https://www.producthunt.com/products/diffsense" target="_blank" rel="noopener noreferrer">TOP1    DiffSense</a></h2>
-<p><img src="https://ph-files.imgix.net/5d63ac57-b6d4-408c-b673-69678534fa85.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="DiffSense" loading="lazy"><br><br>
-<strong>【标语】</strong>：Apple Silicon本地AI Git commit生成器<br>
-<strong>【介绍】</strong>：迪夫Sense使用Apple Silicon上的原生Atom 3B模型来免费生成git commit消息。它以零延迟在本地运行，确保您的代码保持私密性。具有可定制的消息样式和强大的别名宏。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/BKGKR2AGRSPSWK" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/diffsense" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：Apple,Silicon,commit,本地,生成器,确保您<br>
-<strong>票数</strong>： 🔺359<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2025年12月25日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/5d63ac57-b6d4-408c-b673-69678534fa85.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
