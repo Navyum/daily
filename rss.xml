@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 06 Jan 2026 08:25:05 GMT</pubDate>
-    <lastBuildDate>Tue, 06 Jan 2026 08:25:05 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Jan 2026 09:23:53 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Jan 2026 09:23:53 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,14 +16,28 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Mon, 05 Jan 2026 09:26:44 GMT</pubDate>
+      <pubDate>Tue, 06 Jan 2026 08:23:05 GMT</pubDate>
     </item>
     <item>
-      <title>test</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/github/test.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/github/test.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">test</source>
-      <pubDate>Mon, 05 Jan 2026 09:26:44 GMT</pubDate>
+      <title>PH今日热榜 | 2026-01-05</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-05.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-05.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-01-05</source>
+      <description>TOP1 PostSyncer PostSyncer 【标语】：AI内容制作者，用于社交媒体出版 【介绍】：大规模管理所有社交帐户的最强大工具。跨10+个平台创建、安排和回复。从病毒式内容库中获取灵感，使用人工智能（Sora、Veo等）生成媒体，连接无限帐户并在专用收件箱中管理客户。 【官网】：立即访问 【Product Hunt】：View on P...</description>
+      <category>PH</category>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-postsyncer"><span></span></a><a href="https://www.producthunt.com/products/postsyncer-2" target="_blank" rel="noopener noreferrer">TOP1    PostSyncer</a></h2>
+<p><img src="https://ph-files.imgix.net/b58fd1f5-6703-4e5b-8f3a-c04eb6e1f810.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="PostSyncer" loading="lazy"><br><br>
+<strong>【标语】</strong>：AI内容制作者，用于社交媒体出版<br>
+<strong>【介绍】</strong>：大规模管理所有社交帐户的最强大工具。跨10+个平台创建、安排和回复。从病毒式内容库中获取灵感，使用人工智能（Sora、Veo等）生成媒体，连接无限帐户并在专用收件箱中管理客户。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/FNMGXE5SRJIZLT" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/postsyncer-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：社交,帐户,收件箱,媒体,AI,10<br>
+<strong>票数</strong>： 🔺602<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年01月05日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/b58fd1f5-6703-4e5b-8f3a-c04eb6e1f810.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
     <item>
       <title>PH今日热榜 | 2026-01-04</title>
