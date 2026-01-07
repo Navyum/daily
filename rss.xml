@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 07 Jan 2026 08:25:15 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Jan 2026 08:25:15 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Jan 2026 09:25:36 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Jan 2026 09:25:36 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,7 +16,35 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Tue, 06 Jan 2026 09:21:44 GMT</pubDate>
+      <pubDate>Wed, 07 Jan 2026 08:22:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>test</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/github/test.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/github/test.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">test</source>
+      <pubDate>Wed, 07 Jan 2026 08:22:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>PH今日热榜 | 2026-01-06</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-06.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-06.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-01-06</source>
+      <description>TOP1 2-b.ai 2-b.ai 【标语】：Todoist在您的浏览器中遇到ChatGPT 【介绍】：如果您的待办事项列表直接在您的浏览器中遇到ChatGPT怎么办？2-b.ai将任务管理器（如Todoist）的结构与LLM（如ChatGPT）的大脑相结合。突出显示以捕获：突出显示文本以将其从任何选项卡转换为任务。人工智能规划：立即将目标分解为可操...</description>
+      <category>PH</category>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-2-b-ai"><span></span></a><a href="https://www.producthunt.com/products/2-b-ai" target="_blank" rel="noopener noreferrer">TOP1    2-b.ai</a></h2>
+<p><img src="https://ph-files.imgix.net/94f3e051-09dc-4d62-8423-5a81f574851f.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="2-b.ai" loading="lazy"><br><br>
+<strong>【标语】</strong>：Todoist在您的浏览器中遇到ChatGPT<br>
+<strong>【介绍】</strong>：如果您的待办事项列表直接在您的浏览器中遇到ChatGPT怎么办？2-b.ai将任务管理器（如Todoist）的结构与LLM（如ChatGPT）的大脑相结合。突出显示以捕获：突出显示文本以将其从任何选项卡转换为任务。人工智能规划：立即将目标分解为可操作的步骤。聊天执行：请求人工智能帮助您完成工作。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/JVSRDWMUKBELLD" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/2-b-ai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：ChatGPT,Todoist,浏览器,人工智能,管理器,待办<br>
+<strong>票数</strong>： 🔺356<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年01月06日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/94f3e051-09dc-4d62-8423-5a81f574851f.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
     <item>
       <title>PH今日热榜 | 2026-01-05</title>
@@ -164,48 +192,6 @@
 <strong>发布时间</strong>：2025年12月30日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/274c74bb-b94d-4c01-96d2-d486657bdaa4.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2025-12-29</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-29.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-29.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-12-29</source>
-      <description>TOP1 BizCard BizCard 【标语】：删除LinkedIn QR联系人。相反，建立真正的联系。 【介绍】：交换LinkedIn二维码需要您拿出手机并中断对话。BizCard用不受干扰的E-ink名片取代了二维码，可以一目了然地显示您的实时个人资料。干净、轻松、以人为本的网络。 【官网】：立即访问 【Product Hunt】：View o...</description>
-      <category>PH</category>
-      <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-bizcard"><span></span></a><a href="https://www.producthunt.com/products/bizcard-3" target="_blank" rel="noopener noreferrer">TOP1    BizCard</a></h2>
-<p><img src="https://ph-files.imgix.net/d3ae8ba3-3d33-46ea-84a1-1f4ecd872a2d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="BizCard" loading="lazy"><br><br>
-<strong>【标语】</strong>：删除LinkedIn QR联系人。相反，建立真正的联系。<br>
-<strong>【介绍】</strong>：交换LinkedIn二维码需要您拿出手机并中断对话。BizCard用不受干扰的E-ink名片取代了二维码，可以一目了然地显示您的实时个人资料。干净、轻松、以人为本的网络。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/NKLVZ44CI4CZX7" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/bizcard-3" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：LinkedIn,二维码,QR,BizCard,用不受,ink<br>
-<strong>票数</strong>： 🔺434<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2025年12月29日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/d3ae8ba3-3d33-46ea-84a1-1f4ecd872a2d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2025-12-28</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-28.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-28.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-12-28</source>
-      <description>TOP1 VibrantSnap VibrantSnap 【标语】：创建并分享可转换的视频 【介绍】：记录您的屏幕、突出显示关键时刻，并立即分享将观众变成客户的演示。 【官网】：立即访问 【Product Hunt】：View on Product Hunt 关键词：分享,演示,屏幕,关键时刻,视频,观众 票数： 🔺300 是否精选：是 发布时间：2...</description>
-      <category>PH</category>
-      <pubDate>Sun, 28 Dec 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-vibrantsnap"><span></span></a><a href="https://www.producthunt.com/products/vibrantsnap" target="_blank" rel="noopener noreferrer">TOP1    VibrantSnap</a></h2>
-<p><img src="https://ph-files.imgix.net/dbd6abe6-79d7-4cbf-9981-546c1ff468c0.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="VibrantSnap" loading="lazy"><br><br>
-<strong>【标语】</strong>：创建并分享可转换的视频<br>
-<strong>【介绍】</strong>：记录您的屏幕、突出显示关键时刻，并立即分享将观众变成客户的演示。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/QRNRG4XPPKNIW4" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/vibrantsnap" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：分享,演示,屏幕,关键时刻,视频,观众<br>
-<strong>票数</strong>： 🔺300<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2025年12月28日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/dbd6abe6-79d7-4cbf-9981-546c1ff468c0.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
