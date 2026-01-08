@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 08 Jan 2026 08:25:09 GMT</pubDate>
-    <lastBuildDate>Thu, 08 Jan 2026 08:25:09 GMT</lastBuildDate>
+    <pubDate>Thu, 08 Jan 2026 09:25:21 GMT</pubDate>
+    <lastBuildDate>Thu, 08 Jan 2026 09:25:21 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,7 +16,35 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Wed, 07 Jan 2026 09:23:30 GMT</pubDate>
+      <pubDate>Thu, 08 Jan 2026 08:23:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>test</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/github/test.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/github/test.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">test</source>
+      <pubDate>Thu, 08 Jan 2026 08:23:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>PH今日热榜 | 2026-01-07</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-07.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-07.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-01-07</source>
+      <description>TOP1 LEGO SMART Play LEGO SMART Play 【标语】：以前所未有的方式将乐高创意带入生活 【介绍】：该平台由新的Smart Brick提供支持，使用传感器对运动和游戏做出反应，将创作带入生活。它无屏幕，并与现有设备兼容。 【官网】：立即访问 【Product Hunt】：View on Product Hunt 关键词：带...</description>
+      <category>PH</category>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-lego-smart-play"><span></span></a><a href="https://www.producthunt.com/products/lego-jurassic-world" target="_blank" rel="noopener noreferrer">TOP1    LEGO SMART Play</a></h2>
+<p><img src="https://ph-files.imgix.net/b1a732bf-3cab-4520-9ec4-fb0641deb356.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="LEGO SMART Play" loading="lazy"><br><br>
+<strong>【标语】</strong>：以前所未有的方式将乐高创意带入生活<br>
+<strong>【介绍】</strong>：该平台由新的Smart Brick提供支持，使用传感器对运动和游戏做出反应，将创作带入生活。它无屏幕，并与现有设备兼容。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/XURYYFD4PF77QV" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/lego-jurassic-world" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：带入,将乐高,Smart,Brick,兼容,生活<br>
+<strong>票数</strong>： 🔺347<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年01月07日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/b1a732bf-3cab-4520-9ec4-fb0641deb356.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
     <item>
       <title>PH今日热榜 | 2026-01-06</title>
@@ -164,48 +192,6 @@
 <strong>发布时间</strong>：2025年12月31日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/acc2e13a-f552-4063-a2ec-2bf5e34462f2.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2025-12-30</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-30.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-30.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-12-30</source>
-      <description>TOP1 Brief My Meeting Brief My Meeting 【标语】：人工智能会议简报发送到您的收件箱。开源 【介绍】：每次会议之前都获取一封AI简报电子邮件，其中包含有关您正在会见的人以及收件箱和日历中的完整上下文的研究。不再问“上次我们讨论了什么？”“或者挖掘那一种依恋。“简短的我的会议”会在您通话前4小时自动显示所有内容。完全开...</description>
-      <category>PH</category>
-      <pubDate>Tue, 30 Dec 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-brief-my-meeting"><span></span></a><a href="https://www.producthunt.com/products/brief-my-meeting" target="_blank" rel="noopener noreferrer">TOP1    Brief My Meeting</a></h2>
-<p><img src="https://ph-files.imgix.net/274c74bb-b94d-4c01-96d2-d486657bdaa4.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Brief My Meeting" loading="lazy"><br><br>
-<strong>【标语】</strong>：人工智能会议简报发送到您的收件箱。开源<br>
-<strong>【介绍】</strong>：每次会议之前都获取一封AI简报电子邮件，其中包含有关您正在会见的人以及收件箱和日历中的完整上下文的研究。不再问“上次我们讨论了什么？”“或者挖掘那一种依恋。“简短的我的会议”会在您通话前4小时自动显示所有内容。完全开源。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/TZAJRVNV276LQ6" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/brief-my-meeting" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：收件箱,开源,简报,会议,AI,发送到<br>
-<strong>票数</strong>： 🔺433<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2025年12月30日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/274c74bb-b94d-4c01-96d2-d486657bdaa4.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2025-12-29</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-29.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2025-12-29.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2025-12-29</source>
-      <description>TOP1 BizCard BizCard 【标语】：删除LinkedIn QR联系人。相反，建立真正的联系。 【介绍】：交换LinkedIn二维码需要您拿出手机并中断对话。BizCard用不受干扰的E-ink名片取代了二维码，可以一目了然地显示您的实时个人资料。干净、轻松、以人为本的网络。 【官网】：立即访问 【Product Hunt】：View o...</description>
-      <category>PH</category>
-      <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-bizcard"><span></span></a><a href="https://www.producthunt.com/products/bizcard-3" target="_blank" rel="noopener noreferrer">TOP1    BizCard</a></h2>
-<p><img src="https://ph-files.imgix.net/d3ae8ba3-3d33-46ea-84a1-1f4ecd872a2d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="BizCard" loading="lazy"><br><br>
-<strong>【标语】</strong>：删除LinkedIn QR联系人。相反，建立真正的联系。<br>
-<strong>【介绍】</strong>：交换LinkedIn二维码需要您拿出手机并中断对话。BizCard用不受干扰的E-ink名片取代了二维码，可以一目了然地显示您的实时个人资料。干净、轻松、以人为本的网络。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/NKLVZ44CI4CZX7" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/bizcard-3" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：LinkedIn,二维码,QR,BizCard,用不受,ink<br>
-<strong>票数</strong>： 🔺434<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2025年12月29日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/d3ae8ba3-3d33-46ea-84a1-1f4ecd872a2d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
