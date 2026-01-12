@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 11 Jan 2026 09:18:07 GMT</pubDate>
-    <lastBuildDate>Sun, 11 Jan 2026 09:18:07 GMT</lastBuildDate>
+    <pubDate>Mon, 12 Jan 2026 09:29:34 GMT</pubDate>
+    <lastBuildDate>Mon, 12 Jan 2026 09:29:34 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,7 +16,14 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Sun, 11 Jan 2026 08:20:18 GMT</pubDate>
+      <pubDate>Sun, 11 Jan 2026 09:15:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>test</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/github/test.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/github/test.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">test</source>
+      <pubDate>Sun, 11 Jan 2026 09:15:56 GMT</pubDate>
     </item>
     <item>
       <title>PH今日热榜 | 2026-01-10</title>
@@ -33,7 +40,7 @@
 <strong>【官网】</strong>：<a href="https://www.producthunt.com/r/RSRYDMBA52EAGO" target="_blank" rel="noopener noreferrer">立即访问</a><br>
 <strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/settle-it" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
 <p><strong>关键词</strong>：链接,民意调查,投票,分享,快速,发送给<br>
-<strong>票数</strong>： 🔺302<br>
+<strong>票数</strong>： 🔺303<br>
 <strong>是否精选</strong>：是<br>
 <strong>发布时间</strong>：2026年01月10日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
@@ -185,27 +192,6 @@
 <strong>发布时间</strong>：2026年01月03日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/8a85718c-73aa-4499-a192-b525349670f0.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-01-02</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-02.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-02.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-01-02</source>
-      <description>TOP1 Community Figma MCP server Community Figma MCP server 【标语】：允许人工智能代理帮助您进行Figma设计！ 【介绍】：非官方的Figma模型上下文协议（HCP）服务器是您的AI代理和Figma设计文档之间缺失的链接。现在，人工智能代理可以创建、编辑和安排您的Figma设计。您可以将其与Ch...</description>
-      <category>PH</category>
-      <pubDate>Fri, 02 Jan 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-community-figma-mcp-server"><span></span></a><a href="https://www.producthunt.com/products/community-figma-mcp-server" target="_blank" rel="noopener noreferrer">TOP1    Community Figma MCP server</a></h2>
-<p><img src="https://ph-files.imgix.net/1226551e-c05a-4d62-8718-28fb46495153.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Community Figma MCP server" loading="lazy"><br><br>
-<strong>【标语】</strong>：允许人工智能代理帮助您进行Figma设计！<br>
-<strong>【介绍】</strong>：非官方的Figma模型上下文协议（HCP）服务器是您的AI代理和Figma设计文档之间缺失的链接。现在，人工智能代理可以创建、编辑和安排您的Figma设计。您可以将其与ChatGPT、Claude桌面、Cursor或任何其他支持LCP的客户端一起使用。该项目是免费且开源的。您不需要任何额外的东西。您将Figma与LLM一起使用。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/DXMHWMCOGSVI4E" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/community-figma-mcp-server" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：Figma,代理,人工智能,设计,HCP,AI<br>
-<strong>票数</strong>： 🔺314<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年01月02日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/1226551e-c05a-4d62-8718-28fb46495153.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
