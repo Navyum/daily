@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 13 Jan 2026 08:25:12 GMT</pubDate>
-    <lastBuildDate>Tue, 13 Jan 2026 08:25:12 GMT</lastBuildDate>
+    <pubDate>Tue, 13 Jan 2026 09:25:41 GMT</pubDate>
+    <lastBuildDate>Tue, 13 Jan 2026 09:25:41 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,7 +16,28 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Mon, 12 Jan 2026 09:27:28 GMT</pubDate>
+      <pubDate>Tue, 13 Jan 2026 08:23:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>PH今日热榜 | 2026-01-12</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-12.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-12.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-01-12</source>
+      <description>TOP1 Atlas.new Atlas.new 【标语】：地图和空间数据的人工智能代理 【介绍】：使用人工智能创建地图、运行分析和构建空间应用程序-不需要地理信息系统专家 【官网】：立即访问 【Product Hunt】：View on Product Hunt 关键词：人工智能,地图,空间数据,地理信息系统,应用程序,构建 票数： 🔺437 是否...</description>
+      <category>PH</category>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-atlas-new"><span></span></a><a href="https://www.producthunt.com/products/atlas-co-2" target="_blank" rel="noopener noreferrer">TOP1    Atlas.new</a></h2>
+<p><img src="https://ph-files.imgix.net/6726a66e-2e5f-430b-a4c3-4c7188bfd3c1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Atlas.new" loading="lazy"><br><br>
+<strong>【标语】</strong>：地图和空间数据的人工智能代理<br>
+<strong>【介绍】</strong>：使用人工智能创建地图、运行分析和构建空间应用程序-不需要地理信息系统专家<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/CXHTGA464IMMY4" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/atlas-co-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：人工智能,地图,空间数据,地理信息系统,应用程序,构建<br>
+<strong>票数</strong>： 🔺437<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年01月12日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/6726a66e-2e5f-430b-a4c3-4c7188bfd3c1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
     <item>
       <title>PH今日热榜 | 2026-01-11</title>
@@ -185,27 +206,6 @@
 <strong>发布时间</strong>：2026年01月04日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/ccd3f865-3210-4952-8838-d110650ce64c.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-01-03</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-03.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-03.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-01-03</source>
-      <description>TOP1 Flux Flux 【标语】：在iMessage中构建您自己的代理 【介绍】：人工智能没有智能问题--它有接口问题。Flux是第一个构建个性化对话代理的平台，该代理位于iMessage和WhatsApp等消息传递平台内。通过在用户已经进行沟通的地方与他们会面，Flux使代理人感觉不像软件，而更像人--值得信赖的朋友、导师或助理。人工智能的未来...</description>
-      <category>PH</category>
-      <pubDate>Sat, 03 Jan 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-flux"><span></span></a><a href="https://www.producthunt.com/products/flux-14" target="_blank" rel="noopener noreferrer">TOP1    Flux</a></h2>
-<p><img src="https://ph-files.imgix.net/8a85718c-73aa-4499-a192-b525349670f0.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Flux" loading="lazy"><br><br>
-<strong>【标语】</strong>：在iMessage中构建您自己的代理<br>
-<strong>【介绍】</strong>：人工智能没有智能问题--它有接口问题。Flux是第一个构建个性化对话代理的平台，该代理位于iMessage和WhatsApp等消息传递平台内。通过在用户已经进行沟通的地方与他们会面，Flux使代理人感觉不像软件，而更像人--值得信赖的朋友、导师或助理。人工智能的未来不是另一个应用程序。它是在情感层面与人类互动的代理。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/7J7A5EAKRN34PA" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/flux-14" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：代理,iMessage,--,Flux,人工智能,构建<br>
-<strong>票数</strong>： 🔺352<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年01月03日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/8a85718c-73aa-4499-a192-b525349670f0.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
