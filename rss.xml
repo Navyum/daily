@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 12 Jan 2026 09:29:34 GMT</pubDate>
-    <lastBuildDate>Mon, 12 Jan 2026 09:29:34 GMT</lastBuildDate>
+    <pubDate>Tue, 13 Jan 2026 08:25:12 GMT</pubDate>
+    <lastBuildDate>Tue, 13 Jan 2026 08:25:12 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,14 +16,28 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Sun, 11 Jan 2026 09:15:56 GMT</pubDate>
+      <pubDate>Mon, 12 Jan 2026 09:27:28 GMT</pubDate>
     </item>
     <item>
-      <title>test</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/github/test.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/github/test.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">test</source>
-      <pubDate>Sun, 11 Jan 2026 09:15:56 GMT</pubDate>
+      <title>PH今日热榜 | 2026-01-11</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-11.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-11.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-01-11</source>
+      <description>TOP1 Elser AI Elser AI 【标语】：只需几分钟提示即可创建完整的动漫短片 【介绍】：Elser AI帮助创作者将创意转化为完整的动漫故事视频。只需输入一个想法，Elser AI就可以创建具有一致角色、清晰故事流程和电影风格的长篇视频，所有这些都只需一个提示即可。在长格式基准测试中，Elser在180多个场景中的角色一致性比其他AI视...</description>
+      <category>PH</category>
+      <pubDate>Sun, 11 Jan 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-elser-ai"><span></span></a><a href="https://www.producthunt.com/products/elser-ai-3" target="_blank" rel="noopener noreferrer">TOP1    Elser AI</a></h2>
+<p><img src="https://ph-files.imgix.net/93ee919d-6101-46fc-9b0f-34e6464c0b93.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Elser AI" loading="lazy"><br><br>
+<strong>【标语】</strong>：只需几分钟提示即可创建完整的动漫短片<br>
+<strong>【介绍】</strong>：Elser AI帮助创作者将创意转化为完整的动漫故事视频。只需输入一个想法，Elser AI就可以创建具有一致角色、清晰故事流程和电影风格的长篇视频，所有这些都只需一个提示即可。在长格式基准测试中，Elser在180多个场景中的角色一致性比其他AI视频工具高出30%以上。专为那些想要的不仅仅是短剪辑的故事讲述者、动画师和创作者而设计。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/GVHAQPILA3E62V" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/elser-ai-3" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：Elser,AI,创作者,故事,动漫,视频<br>
+<strong>票数</strong>： 🔺370<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年01月11日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/93ee919d-6101-46fc-9b0f-34e6464c0b93.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
     <item>
       <title>PH今日热榜 | 2026-01-10</title>
