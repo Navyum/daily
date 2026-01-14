@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 14 Jan 2026 08:25:04 GMT</pubDate>
-    <lastBuildDate>Wed, 14 Jan 2026 08:25:04 GMT</lastBuildDate>
+    <pubDate>Wed, 14 Jan 2026 09:26:26 GMT</pubDate>
+    <lastBuildDate>Wed, 14 Jan 2026 09:26:26 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,7 +16,35 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Tue, 13 Jan 2026 09:23:19 GMT</pubDate>
+      <pubDate>Wed, 14 Jan 2026 08:22:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>test</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/github/test.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/github/test.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">test</source>
+      <pubDate>Wed, 14 Jan 2026 08:22:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>PH今日热榜 | 2026-01-13</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-13.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-13.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-01-13</source>
+      <description>TOP1 Cowork Cowork 【标语】：将克劳德变成您的数字同事 【介绍】：考沃克将克劳德变成了一名真正的同事。赋予它访问您计算机上的文件夹的权限并分配任务而不是聊天。Claude可以读取、编辑和创建文件、规划其工作并端到端执行任务，同时让您保持控制。少一点来回，多一点完成。 【官网】：立即访问 【Product Hunt】：View on P...</description>
+      <category>PH</category>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-cowork"><span></span></a><a href="https://www.producthunt.com/products/claude" target="_blank" rel="noopener noreferrer">TOP1    Cowork</a></h2>
+<p><img src="https://ph-files.imgix.net/1bc96be0-0a2f-46d8-b435-f8151ba36eb5.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Cowork" loading="lazy"><br><br>
+<strong>【标语】</strong>：将克劳德变成您的数字同事<br>
+<strong>【介绍】</strong>：考沃克将克劳德变成了一名真正的同事。赋予它访问您计算机上的文件夹的权限并分配任务而不是聊天。Claude可以读取、编辑和创建文件、规划其工作并端到端执行任务，同时让您保持控制。少一点来回，多一点完成。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/N6NGJCGOTQURKX" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/claude" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：克劳德,同事,分配任务,考沃克,Claude,并端<br>
+<strong>票数</strong>： 🔺583<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年01月13日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/1bc96be0-0a2f-46d8-b435-f8151ba36eb5.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
     <item>
       <title>PH今日热榜 | 2026-01-12</title>
@@ -164,48 +192,6 @@
 <strong>发布时间</strong>：2026年01月06日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/94f3e051-09dc-4d62-8423-5a81f574851f.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-01-05</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-05.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-05.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-01-05</source>
-      <description>TOP1 PostSyncer PostSyncer 【标语】：AI内容制作者，用于社交媒体出版 【介绍】：大规模管理所有社交帐户的最强大工具。跨10+个平台创建、安排和回复。从病毒式内容库中获取灵感，使用人工智能（Sora、Veo等）生成媒体，连接无限帐户并在专用收件箱中管理客户。 【官网】：立即访问 【Product Hunt】：View on P...</description>
-      <category>PH</category>
-      <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-postsyncer"><span></span></a><a href="https://www.producthunt.com/products/postsyncer-2" target="_blank" rel="noopener noreferrer">TOP1    PostSyncer</a></h2>
-<p><img src="https://ph-files.imgix.net/b58fd1f5-6703-4e5b-8f3a-c04eb6e1f810.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="PostSyncer" loading="lazy"><br><br>
-<strong>【标语】</strong>：AI内容制作者，用于社交媒体出版<br>
-<strong>【介绍】</strong>：大规模管理所有社交帐户的最强大工具。跨10+个平台创建、安排和回复。从病毒式内容库中获取灵感，使用人工智能（Sora、Veo等）生成媒体，连接无限帐户并在专用收件箱中管理客户。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/FNMGXE5SRJIZLT" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/postsyncer-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：社交,帐户,收件箱,媒体,AI,10<br>
-<strong>票数</strong>： 🔺604<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年01月05日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/b58fd1f5-6703-4e5b-8f3a-c04eb6e1f810.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-01-04</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-04.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-04.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-01-04</source>
-      <description>TOP1 Joodle Joodle 【标语】：将多年的回忆变成个人涂鸦 【介绍】：用简单的日常涂鸦捕捉生活转瞬即逝的时刻。不需要任何艺术技能--只需画出最重要的东西即可。Joodle将您的日常想法转化为生动的视觉时间轴，并通过小部件将您的记忆直接带到主屏幕。iCloud同步在您的所有设备上安全同步。倒计时有意义的日期，探索实验特征，并发现新的反思方式...</description>
-      <category>PH</category>
-      <pubDate>Sun, 04 Jan 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-joodle"><span></span></a><a href="https://www.producthunt.com/products/joodle-journaling-with-doodle" target="_blank" rel="noopener noreferrer">TOP1    Joodle</a></h2>
-<p><img src="https://ph-files.imgix.net/ccd3f865-3210-4952-8838-d110650ce64c.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Joodle" loading="lazy"><br><br>
-<strong>【标语】</strong>：将多年的回忆变成个人涂鸦<br>
-<strong>【介绍】</strong>：用简单的日常涂鸦捕捉生活转瞬即逝的时刻。不需要任何艺术技能--只需画出最重要的东西即可。Joodle将您的日常想法转化为生动的视觉时间轴，并通过小部件将您的记忆直接带到主屏幕。iCloud同步在您的所有设备上安全同步。倒计时有意义的日期，探索实验特征，并发现新的反思方式。慢慢地，平凡的日子变成了非凡的视觉日记。你的故事，一次涂鸦。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/GICZRA32MIV7WR" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/joodle-journaling-with-doodle" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：涂鸦,视觉,同步,日常,时间轴,--<br>
-<strong>票数</strong>： 🔺373<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年01月04日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/ccd3f865-3210-4952-8838-d110650ce64c.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
