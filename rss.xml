@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 15 Jan 2026 09:25:25 GMT</pubDate>
-    <lastBuildDate>Thu, 15 Jan 2026 09:25:25 GMT</lastBuildDate>
+    <pubDate>Fri, 16 Jan 2026 08:25:04 GMT</pubDate>
+    <lastBuildDate>Fri, 16 Jan 2026 08:25:04 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,7 +16,14 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Thu, 15 Jan 2026 08:23:42 GMT</pubDate>
+      <pubDate>Thu, 15 Jan 2026 09:23:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>test</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/github/test.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/github/test.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">test</source>
+      <pubDate>Thu, 15 Jan 2026 09:23:08 GMT</pubDate>
     </item>
     <item>
       <title>PH今日热榜 | 2026-01-14</title>
@@ -33,7 +40,7 @@
 <strong>【官网】</strong>：<a href="https://www.producthunt.com/r/JIA6D32JI237NZ" target="_blank" rel="noopener noreferrer">立即访问</a><br>
 <strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/remio-ai-note-taker" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
 <p><strong>关键词</strong>：remio,2.0,一个零,知识库,搬运工,上下文<br>
-<strong>票数</strong>： 🔺464<br>
+<strong>票数</strong>： 🔺469<br>
 <strong>是否精选</strong>：是<br>
 <strong>发布时间</strong>：2026年01月14日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
@@ -185,27 +192,6 @@
 <strong>发布时间</strong>：2026年01月07日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/b1a732bf-3cab-4520-9ec4-fb0641deb356.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-01-06</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-06.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-06.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-01-06</source>
-      <description>TOP1 2-b.ai 2-b.ai 【标语】：Todoist在您的浏览器中遇到ChatGPT 【介绍】：如果您的待办事项列表直接在您的浏览器中遇到ChatGPT怎么办？2-b.ai将任务管理器（如Todoist）的结构与LLM（如ChatGPT）的大脑相结合。突出显示以捕获：突出显示文本以将其从任何选项卡转换为任务。人工智能规划：立即将目标分解为可操...</description>
-      <category>PH</category>
-      <pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-2-b-ai"><span></span></a><a href="https://www.producthunt.com/products/2-b-ai" target="_blank" rel="noopener noreferrer">TOP1    2-b.ai</a></h2>
-<p><img src="https://ph-files.imgix.net/94f3e051-09dc-4d62-8423-5a81f574851f.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="2-b.ai" loading="lazy"><br><br>
-<strong>【标语】</strong>：Todoist在您的浏览器中遇到ChatGPT<br>
-<strong>【介绍】</strong>：如果您的待办事项列表直接在您的浏览器中遇到ChatGPT怎么办？2-b.ai将任务管理器（如Todoist）的结构与LLM（如ChatGPT）的大脑相结合。突出显示以捕获：突出显示文本以将其从任何选项卡转换为任务。人工智能规划：立即将目标分解为可操作的步骤。聊天执行：请求人工智能帮助您完成工作。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/JVSRDWMUKBELLD" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/2-b-ai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：ChatGPT,Todoist,浏览器,人工智能,管理器,待办<br>
-<strong>票数</strong>： 🔺357<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年01月06日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/94f3e051-09dc-4d62-8423-5a81f574851f.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>

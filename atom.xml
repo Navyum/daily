@@ -4,7 +4,7 @@
   <title>DAYHACK</title>
   <subtitle>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</subtitle>
   <icon>https://github.camscanner.top/daily/blog.html/daily/favicon.ico</icon>
-  <updated>2026-01-15T09:25:25.276Z</updated>
+  <updated>2026-01-16T08:25:04.821Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/blog.html/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/blog.html/daily/"/>
@@ -13,14 +13,21 @@
     <title type="text">Github 每日榜单</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/github.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/github.html"/>
-    <updated>2026-01-15T08:23:42.000Z</updated>
-    <published>2026-01-15T08:23:42.000Z</published>
+    <updated>2026-01-15T09:23:08.000Z</updated>
+    <published>2026-01-15T09:23:08.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">test</title>
+    <id>https://github.camscanner.top/daily/blog.html/daily/github/test.html</id>
+    <link href="https://github.camscanner.top/daily/blog.html/daily/github/test.html"/>
+    <updated>2026-01-15T09:23:08.000Z</updated>
+    <published>2026-01-15T09:23:08.000Z</published>
   </entry>
   <entry>
     <title type="text">PH今日热榜 | 2026-01-14</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-14.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-14.html"/>
-    <updated>2026-01-15T08:23:42.000Z</updated>
+    <updated>2026-01-15T09:23:08.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-remio-2-0"><span></span></a><a href="https://www.producthunt.com/products/remio-ai-note-taker" target="_blank" rel="noopener noreferrer">TOP1    remio 2.0</a></h2>
 <p><img src="https://ph-files.imgix.net/a1387d0a-d843-46c0-bb72-99a07614b30a.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="remio 2.0" loading="lazy"><br><br>
 <strong>【标语】</strong>：捕获您的作品以建立可搜索的知识库<br>
@@ -34,7 +41,7 @@
 <strong>【官网】</strong>：<a href="https://www.producthunt.com/r/JIA6D32JI237NZ" target="_blank" rel="noopener noreferrer">立即访问</a><br>
 <strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/remio-ai-note-taker" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
 <p><strong>关键词</strong>：remio,2.0,一个零,知识库,搬运工,上下文<br>
-<strong>票数</strong>： 🔺464<br>
+<strong>票数</strong>： 🔺469<br>
 <strong>是否精选</strong>：是<br>
 <strong>发布时间</strong>：2026年01月14日 PM04:01 (北京时间)<br><br></p>
 ]]></content>
@@ -45,7 +52,7 @@
     <title type="text">PH今日热榜 | 2026-01-13</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-13.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-13.html"/>
-    <updated>2026-01-15T08:23:42.000Z</updated>
+    <updated>2026-01-15T09:23:08.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-cowork"><span></span></a><a href="https://www.producthunt.com/products/claude" target="_blank" rel="noopener noreferrer">TOP1    Cowork</a></h2>
 <p><img src="https://ph-files.imgix.net/1bc96be0-0a2f-46d8-b435-f8151ba36eb5.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Cowork" loading="lazy"><br><br>
 <strong>【标语】</strong>：将克劳德变成您的数字同事<br>
@@ -70,7 +77,7 @@
     <title type="text">PH今日热榜 | 2026-01-12</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-12.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-12.html"/>
-    <updated>2026-01-15T08:23:42.000Z</updated>
+    <updated>2026-01-15T09:23:08.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-atlas-new"><span></span></a><a href="https://www.producthunt.com/products/atlas-co-2" target="_blank" rel="noopener noreferrer">TOP1    Atlas.new</a></h2>
 <p><img src="https://ph-files.imgix.net/6726a66e-2e5f-430b-a4c3-4c7188bfd3c1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Atlas.new" loading="lazy"><br><br>
 <strong>【标语】</strong>：地图和空间数据的人工智能代理<br>
@@ -95,7 +102,7 @@
     <title type="text">PH今日热榜 | 2026-01-11</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-11.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-11.html"/>
-    <updated>2026-01-15T08:23:42.000Z</updated>
+    <updated>2026-01-15T09:23:08.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-elser-ai"><span></span></a><a href="https://www.producthunt.com/products/elser-ai-3" target="_blank" rel="noopener noreferrer">TOP1    Elser AI</a></h2>
 <p><img src="https://ph-files.imgix.net/93ee919d-6101-46fc-9b0f-34e6464c0b93.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Elser AI" loading="lazy"><br><br>
 <strong>【标语】</strong>：只需几分钟提示即可创建完整的动漫短片<br>
@@ -120,7 +127,7 @@
     <title type="text">PH今日热榜 | 2026-01-10</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-10.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-10.html"/>
-    <updated>2026-01-15T08:23:42.000Z</updated>
+    <updated>2026-01-15T09:23:08.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-settle-it"><span></span></a><a href="https://www.producthunt.com/products/settle-it" target="_blank" rel="noopener noreferrer">TOP1    Settle It</a></h2>
 <p><img src="https://ph-files.imgix.net/7e08f186-b80c-4d62-b58d-249cdc7ed524.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Settle It" loading="lazy"><br><br>
 <strong>【标语】</strong>：快速投票解决小决定<br>
@@ -145,7 +152,7 @@
     <title type="text">PH今日热榜 | 2026-01-09</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-09.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-09.html"/>
-    <updated>2026-01-15T08:23:42.000Z</updated>
+    <updated>2026-01-15T09:23:08.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-seorce"><span></span></a><a href="https://www.producthunt.com/products/seorce" target="_blank" rel="noopener noreferrer">TOP1    SEORCE</a></h2>
 <p><img src="https://ph-files.imgix.net/f1b5a114-95f1-4081-9327-dd4f0c2171b9.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="SEORCE" loading="lazy"><br><br>
 <strong>【标语】</strong>：查看您的品牌在哪里被发现并修复阻碍它的因素<br>
@@ -170,7 +177,7 @@
     <title type="text">PH今日热榜 | 2026-01-08</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-08.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-08.html"/>
-    <updated>2026-01-15T08:23:42.000Z</updated>
+    <updated>2026-01-15T09:23:08.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-livedocs"><span></span></a><a href="https://www.producthunt.com/products/livedocs-2" target="_blank" rel="noopener noreferrer">TOP1    Livedocs</a></h2>
 <p><img src="https://ph-files.imgix.net/ebd2626c-bd37-4128-b7b5-692bdd9dd518.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Livedocs" loading="lazy"><br><br>
 <strong>【标语】</strong>：通用数据代理<br>
@@ -195,7 +202,7 @@
     <title type="text">PH今日热榜 | 2026-01-07</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-07.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-07.html"/>
-    <updated>2026-01-15T08:23:42.000Z</updated>
+    <updated>2026-01-15T09:23:08.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-lego-smart-play"><span></span></a><a href="https://www.producthunt.com/products/lego-jurassic-world" target="_blank" rel="noopener noreferrer">TOP1    LEGO SMART Play</a></h2>
 <p><img src="https://ph-files.imgix.net/b1a732bf-3cab-4520-9ec4-fb0641deb356.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="LEGO SMART Play" loading="lazy"><br><br>
 <strong>【标语】</strong>：以前所未有的方式将乐高创意带入生活<br>
@@ -215,30 +222,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2026-01-07T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2026-01-06</title>
-    <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-06.html</id>
-    <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-06.html"/>
-    <updated>2026-01-15T08:23:42.000Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-2-b-ai"><span></span></a><a href="https://www.producthunt.com/products/2-b-ai" target="_blank" rel="noopener noreferrer">TOP1    2-b.ai</a></h2>
-<p><img src="https://ph-files.imgix.net/94f3e051-09dc-4d62-8423-5a81f574851f.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="2-b.ai" loading="lazy"><br><br>
-<strong>【标语】</strong>：Todoist在您的浏览器中遇到ChatGPT<br>
-<strong>【介绍】</strong>：如果您的待办事项列表直接在您的浏览器中遇到ChatGPT怎么办？2-b.ai将任务管理器（如Todoist）的结构与LLM（如ChatGPT）的大脑相结合。突出显示以捕获：突出显示文本以将其从任何选项卡转换为任务。人工智能规划：立即将目标分解为可操作的步骤。聊天执行：请求人工智能帮助您完成工作。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/JVSRDWMUKBELLD" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/2-b-ai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-2-b-ai"><span></span></a><a href="https://www.producthunt.com/products/2-b-ai" target="_blank" rel="noopener noreferrer">TOP1    2-b.ai</a></h2>
-<p><img src="https://ph-files.imgix.net/94f3e051-09dc-4d62-8423-5a81f574851f.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="2-b.ai" loading="lazy"><br><br>
-<strong>【标语】</strong>：Todoist在您的浏览器中遇到ChatGPT<br>
-<strong>【介绍】</strong>：如果您的待办事项列表直接在您的浏览器中遇到ChatGPT怎么办？2-b.ai将任务管理器（如Todoist）的结构与LLM（如ChatGPT）的大脑相结合。突出显示以捕获：突出显示文本以将其从任何选项卡转换为任务。人工智能规划：立即将目标分解为可操作的步骤。聊天执行：请求人工智能帮助您完成工作。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/JVSRDWMUKBELLD" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/2-b-ai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：ChatGPT,Todoist,浏览器,人工智能,管理器,待办<br>
-<strong>票数</strong>： 🔺357<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年01月06日 PM04:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2026-01-06T00:00:00.000Z</published>
   </entry>
 </feed>
