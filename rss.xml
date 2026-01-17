@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 17 Jan 2026 08:21:53 GMT</pubDate>
-    <lastBuildDate>Sat, 17 Jan 2026 08:21:53 GMT</lastBuildDate>
+    <pubDate>Sat, 17 Jan 2026 09:17:35 GMT</pubDate>
+    <lastBuildDate>Sat, 17 Jan 2026 09:17:35 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,7 +16,28 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Fri, 16 Jan 2026 09:21:34 GMT</pubDate>
+      <pubDate>Sat, 17 Jan 2026 08:19:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>PH今日热榜 | 2026-01-16</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-16.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-16.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-01-16</source>
+      <description>TOP1 1Code 1Code 【标语】：Claude Code开源类似Cursor的UI 【介绍】：1代码是什么？一款并行运行Claude Code代理的应用程序，可在Mac和Web上运行。在Mac上-本地运行，无论有没有工作树。在Web上-在远程沙箱中运行，并实时预览您的应用程序（包括移动设备），以便您可以从任何地方检查代理。并行运行多个Clau...</description>
+      <category>PH</category>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-1code"><span></span></a><a href="https://www.producthunt.com/products/1code-cursor-like-ui-for-claude-code" target="_blank" rel="noopener noreferrer">TOP1    1Code</a></h2>
+<p><img src="https://ph-files.imgix.net/e5a424df-c638-49a7-8fff-7bd82e18cd80.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="1Code" loading="lazy"><br><br>
+<strong>【标语】</strong>：Claude Code开源类似Cursor的UI<br>
+<strong>【介绍】</strong>：1代码是什么？一款并行运行Claude Code代理的应用程序，可在Mac和Web上运行。在Mac上-本地运行，无论有没有工作树。在Web上-在远程沙箱中运行，并实时预览您的应用程序（包括移动设备），以便您可以从任何地方检查代理。并行运行多个Claude Codes极大地加快了我们构建功能的速度。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/YGTESR73YSIAM7" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/1code-cursor-like-ui-for-claude-code" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：Claude,运行,Code,Mac,Web,应用程序<br>
+<strong>票数</strong>： 🔺452<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年01月16日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/e5a424df-c638-49a7-8fff-7bd82e18cd80.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
     <item>
       <title>PH今日热榜 | 2026-01-15</title>
@@ -185,27 +206,6 @@
 <strong>发布时间</strong>：2026年01月08日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/ebd2626c-bd37-4128-b7b5-692bdd9dd518.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-01-07</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-07.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-07.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-01-07</source>
-      <description>TOP1 LEGO SMART Play LEGO SMART Play 【标语】：以前所未有的方式将乐高创意带入生活 【介绍】：该平台由新的Smart Brick提供支持，使用传感器对运动和游戏做出反应，将创作带入生活。它无屏幕，并与现有设备兼容。 【官网】：立即访问 【Product Hunt】：View on Product Hunt 关键词：带...</description>
-      <category>PH</category>
-      <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-lego-smart-play"><span></span></a><a href="https://www.producthunt.com/products/lego-jurassic-world" target="_blank" rel="noopener noreferrer">TOP1    LEGO SMART Play</a></h2>
-<p><img src="https://ph-files.imgix.net/b1a732bf-3cab-4520-9ec4-fb0641deb356.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="LEGO SMART Play" loading="lazy"><br><br>
-<strong>【标语】</strong>：以前所未有的方式将乐高创意带入生活<br>
-<strong>【介绍】</strong>：该平台由新的Smart Brick提供支持，使用传感器对运动和游戏做出反应，将创作带入生活。它无屏幕，并与现有设备兼容。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/XURYYFD4PF77QV" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/lego-jurassic-world" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：带入,将乐高,Smart,Brick,兼容,生活<br>
-<strong>票数</strong>： 🔺349<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年01月07日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/b1a732bf-3cab-4520-9ec4-fb0641deb356.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,7 @@
   <title>DAYHACK</title>
   <subtitle>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</subtitle>
   <icon>https://github.camscanner.top/daily/blog.html/daily/favicon.ico</icon>
-  <updated>2026-01-17T08:21:53.094Z</updated>
+  <updated>2026-01-17T09:17:35.989Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/blog.html/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/blog.html/daily/"/>
@@ -13,14 +13,39 @@
     <title type="text">Github 每日榜单</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/github.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/github.html"/>
-    <updated>2026-01-16T09:21:34.000Z</updated>
-    <published>2026-01-16T09:21:34.000Z</published>
+    <updated>2026-01-17T08:19:43.000Z</updated>
+    <published>2026-01-17T08:19:43.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">PH今日热榜 | 2026-01-16</title>
+    <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-16.html</id>
+    <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-16.html"/>
+    <updated>2026-01-17T08:19:43.000Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-1code"><span></span></a><a href="https://www.producthunt.com/products/1code-cursor-like-ui-for-claude-code" target="_blank" rel="noopener noreferrer">TOP1    1Code</a></h2>
+<p><img src="https://ph-files.imgix.net/e5a424df-c638-49a7-8fff-7bd82e18cd80.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="1Code" loading="lazy"><br><br>
+<strong>【标语】</strong>：Claude Code开源类似Cursor的UI<br>
+<strong>【介绍】</strong>：1代码是什么？一款并行运行Claude Code代理的应用程序，可在Mac和Web上运行。在Mac上-本地运行，无论有没有工作树。在Web上-在远程沙箱中运行，并实时预览您的应用程序（包括移动设备），以便您可以从任何地方检查代理。并行运行多个Claude Codes极大地加快了我们构建功能的速度。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/YGTESR73YSIAM7" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/1code-cursor-like-ui-for-claude-code" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-1code"><span></span></a><a href="https://www.producthunt.com/products/1code-cursor-like-ui-for-claude-code" target="_blank" rel="noopener noreferrer">TOP1    1Code</a></h2>
+<p><img src="https://ph-files.imgix.net/e5a424df-c638-49a7-8fff-7bd82e18cd80.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="1Code" loading="lazy"><br><br>
+<strong>【标语】</strong>：Claude Code开源类似Cursor的UI<br>
+<strong>【介绍】</strong>：1代码是什么？一款并行运行Claude Code代理的应用程序，可在Mac和Web上运行。在Mac上-本地运行，无论有没有工作树。在Web上-在远程沙箱中运行，并实时预览您的应用程序（包括移动设备），以便您可以从任何地方检查代理。并行运行多个Claude Codes极大地加快了我们构建功能的速度。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/YGTESR73YSIAM7" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/1code-cursor-like-ui-for-claude-code" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：Claude,运行,Code,Mac,Web,应用程序<br>
+<strong>票数</strong>： 🔺452<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年01月16日 PM04:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2026-01-16T00:00:00.000Z</published>
   </entry>
   <entry>
     <title type="text">PH今日热榜 | 2026-01-15</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-15.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-15.html"/>
-    <updated>2026-01-16T09:21:34.000Z</updated>
+    <updated>2026-01-17T08:19:43.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-cal-com-companion-apps"><span></span></a><a href="https://www.producthunt.com/products/cal" target="_blank" rel="noopener noreferrer">TOP1    Cal.com Companion Apps</a></h2>
 <p><img src="https://ph-files.imgix.net/87f42c5e-e9b7-4715-9f8e-96e7bb8e671b.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Cal.com Companion Apps" loading="lazy"><br><br>
 <strong>【标语】</strong>：用于安排的原生iOS和Android应用程序+浏览器扩展<br>
@@ -45,7 +70,7 @@
     <title type="text">PH今日热榜 | 2026-01-14</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-14.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-14.html"/>
-    <updated>2026-01-16T09:21:34.000Z</updated>
+    <updated>2026-01-17T08:19:43.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-remio-2-0"><span></span></a><a href="https://www.producthunt.com/products/remio-ai-note-taker" target="_blank" rel="noopener noreferrer">TOP1    remio 2.0</a></h2>
 <p><img src="https://ph-files.imgix.net/a1387d0a-d843-46c0-bb72-99a07614b30a.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="remio 2.0" loading="lazy"><br><br>
 <strong>【标语】</strong>：捕获您的作品以建立可搜索的知识库<br>
@@ -70,7 +95,7 @@
     <title type="text">PH今日热榜 | 2026-01-13</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-13.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-13.html"/>
-    <updated>2026-01-16T09:21:34.000Z</updated>
+    <updated>2026-01-17T08:19:43.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-cowork"><span></span></a><a href="https://www.producthunt.com/products/claude" target="_blank" rel="noopener noreferrer">TOP1    Cowork</a></h2>
 <p><img src="https://ph-files.imgix.net/1bc96be0-0a2f-46d8-b435-f8151ba36eb5.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Cowork" loading="lazy"><br><br>
 <strong>【标语】</strong>：将克劳德变成您的数字同事<br>
@@ -95,7 +120,7 @@
     <title type="text">PH今日热榜 | 2026-01-12</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-12.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-12.html"/>
-    <updated>2026-01-16T09:21:34.000Z</updated>
+    <updated>2026-01-17T08:19:43.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-atlas-new"><span></span></a><a href="https://www.producthunt.com/products/atlas-co-2" target="_blank" rel="noopener noreferrer">TOP1    Atlas.new</a></h2>
 <p><img src="https://ph-files.imgix.net/6726a66e-2e5f-430b-a4c3-4c7188bfd3c1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Atlas.new" loading="lazy"><br><br>
 <strong>【标语】</strong>：地图和空间数据的人工智能代理<br>
@@ -120,7 +145,7 @@
     <title type="text">PH今日热榜 | 2026-01-11</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-11.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-11.html"/>
-    <updated>2026-01-16T09:21:34.000Z</updated>
+    <updated>2026-01-17T08:19:43.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-elser-ai"><span></span></a><a href="https://www.producthunt.com/products/elser-ai-3" target="_blank" rel="noopener noreferrer">TOP1    Elser AI</a></h2>
 <p><img src="https://ph-files.imgix.net/93ee919d-6101-46fc-9b0f-34e6464c0b93.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Elser AI" loading="lazy"><br><br>
 <strong>【标语】</strong>：只需几分钟提示即可创建完整的动漫短片<br>
@@ -145,7 +170,7 @@
     <title type="text">PH今日热榜 | 2026-01-10</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-10.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-10.html"/>
-    <updated>2026-01-16T09:21:34.000Z</updated>
+    <updated>2026-01-17T08:19:43.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-settle-it"><span></span></a><a href="https://www.producthunt.com/products/settle-it" target="_blank" rel="noopener noreferrer">TOP1    Settle It</a></h2>
 <p><img src="https://ph-files.imgix.net/7e08f186-b80c-4d62-b58d-249cdc7ed524.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Settle It" loading="lazy"><br><br>
 <strong>【标语】</strong>：快速投票解决小决定<br>
@@ -170,7 +195,7 @@
     <title type="text">PH今日热榜 | 2026-01-09</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-09.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-09.html"/>
-    <updated>2026-01-16T09:21:34.000Z</updated>
+    <updated>2026-01-17T08:19:43.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-seorce"><span></span></a><a href="https://www.producthunt.com/products/seorce" target="_blank" rel="noopener noreferrer">TOP1    SEORCE</a></h2>
 <p><img src="https://ph-files.imgix.net/f1b5a114-95f1-4081-9327-dd4f0c2171b9.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="SEORCE" loading="lazy"><br><br>
 <strong>【标语】</strong>：查看您的品牌在哪里被发现并修复阻碍它的因素<br>
@@ -195,7 +220,7 @@
     <title type="text">PH今日热榜 | 2026-01-08</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-08.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-08.html"/>
-    <updated>2026-01-16T09:21:34.000Z</updated>
+    <updated>2026-01-17T08:19:43.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-livedocs"><span></span></a><a href="https://www.producthunt.com/products/livedocs-2" target="_blank" rel="noopener noreferrer">TOP1    Livedocs</a></h2>
 <p><img src="https://ph-files.imgix.net/ebd2626c-bd37-4128-b7b5-692bdd9dd518.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Livedocs" loading="lazy"><br><br>
 <strong>【标语】</strong>：通用数据代理<br>
@@ -215,30 +240,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2026-01-08T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2026-01-07</title>
-    <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-07.html</id>
-    <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-07.html"/>
-    <updated>2026-01-16T09:21:34.000Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-lego-smart-play"><span></span></a><a href="https://www.producthunt.com/products/lego-jurassic-world" target="_blank" rel="noopener noreferrer">TOP1    LEGO SMART Play</a></h2>
-<p><img src="https://ph-files.imgix.net/b1a732bf-3cab-4520-9ec4-fb0641deb356.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="LEGO SMART Play" loading="lazy"><br><br>
-<strong>【标语】</strong>：以前所未有的方式将乐高创意带入生活<br>
-<strong>【介绍】</strong>：该平台由新的Smart Brick提供支持，使用传感器对运动和游戏做出反应，将创作带入生活。它无屏幕，并与现有设备兼容。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/XURYYFD4PF77QV" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/lego-jurassic-world" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-lego-smart-play"><span></span></a><a href="https://www.producthunt.com/products/lego-jurassic-world" target="_blank" rel="noopener noreferrer">TOP1    LEGO SMART Play</a></h2>
-<p><img src="https://ph-files.imgix.net/b1a732bf-3cab-4520-9ec4-fb0641deb356.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="LEGO SMART Play" loading="lazy"><br><br>
-<strong>【标语】</strong>：以前所未有的方式将乐高创意带入生活<br>
-<strong>【介绍】</strong>：该平台由新的Smart Brick提供支持，使用传感器对运动和游戏做出反应，将创作带入生活。它无屏幕，并与现有设备兼容。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/XURYYFD4PF77QV" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/lego-jurassic-world" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：带入,将乐高,Smart,Brick,兼容,生活<br>
-<strong>票数</strong>： 🔺349<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年01月07日 PM04:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2026-01-07T00:00:00.000Z</published>
   </entry>
 </feed>
