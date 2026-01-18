@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 18 Jan 2026 08:22:40 GMT</pubDate>
-    <lastBuildDate>Sun, 18 Jan 2026 08:22:40 GMT</lastBuildDate>
+    <pubDate>Sun, 18 Jan 2026 09:18:07 GMT</pubDate>
+    <lastBuildDate>Sun, 18 Jan 2026 09:18:07 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,7 +16,28 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Sat, 17 Jan 2026 09:15:31 GMT</pubDate>
+      <pubDate>Sun, 18 Jan 2026 08:20:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>PH今日热榜 | 2026-01-17</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-17.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-17.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-01-17</source>
+      <description>TOP1 Sled Sled 【标语】：通过语音从手机运行编码代理 【介绍】：Sled允许您使用语音从手机运行编码代理。编码代理需要频繁的输入，但当你离开办公桌时，它们只是无所事事。Sled通过为您提供一个语音接口来解决这个问题，该接口可以通过Tailscale安全地连接到您的本地代理。你的代码永远不会离开你的机器。你说话，代理在本地工作，然后你会听到...</description>
+      <category>PH</category>
+      <pubDate>Sat, 17 Jan 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-sled"><span></span></a><a href="https://www.producthunt.com/products/sled-voice-interface-for-claude-code" target="_blank" rel="noopener noreferrer">TOP1    Sled</a></h2>
+<p><img src="https://ph-files.imgix.net/2d7e6716-7493-4b97-add0-c95b9a8edb37.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Sled" loading="lazy"><br><br>
+<strong>【标语】</strong>：通过语音从手机运行编码代理<br>
+<strong>【介绍】</strong>：Sled允许您使用语音从手机运行编码代理。编码代理需要频繁的输入，但当你离开办公桌时，它们只是无所事事。Sled通过为您提供一个语音接口来解决这个问题，该接口可以通过Tailscale安全地连接到您的本地代理。你的代码永远不会离开你的机器。你说话，代理在本地工作，然后你会听到读回的结果。与Claude Code、OpenAI Codex和Gemini CLI合作。完全开源。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/GIST7WKSWTFZZE" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/sled-voice-interface-for-claude-code" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：代理,编码,语音,Sled,接口,本地<br>
+<strong>票数</strong>： 🔺356<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年01月17日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/2d7e6716-7493-4b97-add0-c95b9a8edb37.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
     <item>
       <title>PH今日热榜 | 2026-01-16</title>
@@ -185,27 +206,6 @@
 <strong>发布时间</strong>：2026年01月09日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/f1b5a114-95f1-4081-9327-dd4f0c2171b9.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-01-08</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-08.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-08.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-01-08</source>
-      <description>TOP1 Livedocs Livedocs 【标语】：通用数据代理 【介绍】：Livedocs是一个通用数据代理，可以执行BI、ML、构建仪表板以及编写代码和查询（人类数据科学家会做的任何事情！）Livedocs可帮助您立即了解数据。上传CSV、电子表格或连接您的数据库，然后用简单的英语提问。Livedocs使用人工智能生成图表、指标和明确答案-没有...</description>
-      <category>PH</category>
-      <pubDate>Thu, 08 Jan 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-livedocs"><span></span></a><a href="https://www.producthunt.com/products/livedocs-2" target="_blank" rel="noopener noreferrer">TOP1    Livedocs</a></h2>
-<p><img src="https://ph-files.imgix.net/ebd2626c-bd37-4128-b7b5-692bdd9dd518.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Livedocs" loading="lazy"><br><br>
-<strong>【标语】</strong>：通用数据代理<br>
-<strong>【介绍】</strong>：Livedocs是一个通用数据代理，可以执行BI、ML、构建仪表板以及编写代码和查询（人类数据科学家会做的任何事情！）Livedocs可帮助您立即了解数据。上传CSV、电子表格或连接您的数据库，然后用简单的英语提问。Livedocs使用人工智能生成图表、指标和明确答案-没有SQL、没有仪表板、没有设置。专为任何需要快速见解的人而设计，无论您是否是技术人员。只需带上您的数据并开始询问即可。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/B7LEUXYIUUXQKW" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/livedocs-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：Livedocs,数据,仪表板,代理,电子表格,通用<br>
-<strong>票数</strong>： 🔺441<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年01月08日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/ebd2626c-bd37-4128-b7b5-692bdd9dd518.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
