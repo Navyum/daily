@@ -4,7 +4,7 @@
   <title>DAYHACK</title>
   <subtitle>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</subtitle>
   <icon>https://github.camscanner.top/daily/blog.html/daily/favicon.ico</icon>
-  <updated>2026-01-20T09:30:36.529Z</updated>
+  <updated>2026-01-21T08:26:36.328Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/blog.html/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/blog.html/daily/"/>
@@ -13,14 +13,21 @@
     <title type="text">Github 每日榜单</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/github.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/github.html"/>
-    <updated>2026-01-20T08:24:33.000Z</updated>
-    <published>2026-01-20T08:24:33.000Z</published>
+    <updated>2026-01-20T09:28:26.000Z</updated>
+    <published>2026-01-20T09:28:26.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">test</title>
+    <id>https://github.camscanner.top/daily/blog.html/daily/github/test.html</id>
+    <link href="https://github.camscanner.top/daily/blog.html/daily/github/test.html"/>
+    <updated>2026-01-20T09:28:26.000Z</updated>
+    <published>2026-01-20T09:28:26.000Z</published>
   </entry>
   <entry>
     <title type="text">PH今日热榜 | 2026-01-19</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-19.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-19.html"/>
-    <updated>2026-01-20T08:24:33.000Z</updated>
+    <updated>2026-01-20T09:28:26.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-noodle-seed"><span></span></a><a href="https://www.producthunt.com/products/noodle-seed" target="_blank" rel="noopener noreferrer">TOP1    Noodle Seed</a></h2>
 <p><img src="https://ph-files.imgix.net/eea7da7e-b8ff-4e52-a1cc-da8607f1aa0e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Noodle Seed" loading="lazy"><br><br>
 <strong>【标语】</strong>：几分钟内将您的业务与人工智能对话连接<br>
@@ -34,7 +41,7 @@
 <strong>【官网】</strong>：<a href="https://www.producthunt.com/r/OK6WMXUV37WSIV" target="_blank" rel="noopener noreferrer">立即访问</a><br>
 <strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/noodle-seed" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
 <p><strong>关键词</strong>：人工智能,应用程序,客户,几分钟,搜索,问题解答<br>
-<strong>票数</strong>： 🔺373<br>
+<strong>票数</strong>： 🔺370<br>
 <strong>是否精选</strong>：是<br>
 <strong>发布时间</strong>：2026年01月19日 PM04:01 (北京时间)<br><br></p>
 ]]></content>
@@ -45,7 +52,7 @@
     <title type="text">PH今日热榜 | 2026-01-18</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-18.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-18.html"/>
-    <updated>2026-01-20T08:24:33.000Z</updated>
+    <updated>2026-01-20T09:28:26.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-omega-ωtm"><span></span></a><a href="https://www.producthunt.com/products/omega-fastest-lightest-browser-ever" target="_blank" rel="noopener noreferrer">TOP1    OMEGA Ω™</a></h2>
 <p><img src="https://ph-files.imgix.net/12a79172-459a-42e6-a477-411486a1aa9c.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="OMEGA Ω™" loading="lazy"><br><br>
 <strong>【标语】</strong>：3.6MB浏览器，从不跟踪、分析或出售数据<br>
@@ -70,7 +77,7 @@
     <title type="text">PH今日热榜 | 2026-01-17</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-17.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-17.html"/>
-    <updated>2026-01-20T08:24:33.000Z</updated>
+    <updated>2026-01-20T09:28:26.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-sled"><span></span></a><a href="https://www.producthunt.com/products/sled-voice-interface-for-claude-code" target="_blank" rel="noopener noreferrer">TOP1    Sled</a></h2>
 <p><img src="https://ph-files.imgix.net/2d7e6716-7493-4b97-add0-c95b9a8edb37.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Sled" loading="lazy"><br><br>
 <strong>【标语】</strong>：通过语音从手机运行编码代理<br>
@@ -95,7 +102,7 @@
     <title type="text">PH今日热榜 | 2026-01-16</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-16.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-16.html"/>
-    <updated>2026-01-20T08:24:33.000Z</updated>
+    <updated>2026-01-20T09:28:26.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-1code"><span></span></a><a href="https://www.producthunt.com/products/1code-cursor-like-ui-for-claude-code" target="_blank" rel="noopener noreferrer">TOP1    1Code</a></h2>
 <p><img src="https://ph-files.imgix.net/e5a424df-c638-49a7-8fff-7bd82e18cd80.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="1Code" loading="lazy"><br><br>
 <strong>【标语】</strong>：Claude Code开源类似Cursor的UI<br>
@@ -120,7 +127,7 @@
     <title type="text">PH今日热榜 | 2026-01-15</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-15.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-15.html"/>
-    <updated>2026-01-20T08:24:33.000Z</updated>
+    <updated>2026-01-20T09:28:26.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-cal-com-companion-apps"><span></span></a><a href="https://www.producthunt.com/products/cal" target="_blank" rel="noopener noreferrer">TOP1    Cal.com Companion Apps</a></h2>
 <p><img src="https://ph-files.imgix.net/87f42c5e-e9b7-4715-9f8e-96e7bb8e671b.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Cal.com Companion Apps" loading="lazy"><br><br>
 <strong>【标语】</strong>：用于安排的原生iOS和Android应用程序+浏览器扩展<br>
@@ -145,7 +152,7 @@
     <title type="text">PH今日热榜 | 2026-01-14</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-14.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-14.html"/>
-    <updated>2026-01-20T08:24:33.000Z</updated>
+    <updated>2026-01-20T09:28:26.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-remio-2-0"><span></span></a><a href="https://www.producthunt.com/products/remio-ai-note-taker" target="_blank" rel="noopener noreferrer">TOP1    remio 2.0</a></h2>
 <p><img src="https://ph-files.imgix.net/a1387d0a-d843-46c0-bb72-99a07614b30a.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="remio 2.0" loading="lazy"><br><br>
 <strong>【标语】</strong>：捕获您的作品以建立可搜索的知识库<br>
@@ -170,7 +177,7 @@
     <title type="text">PH今日热榜 | 2026-01-13</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-13.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-13.html"/>
-    <updated>2026-01-20T08:24:33.000Z</updated>
+    <updated>2026-01-20T09:28:26.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-cowork"><span></span></a><a href="https://www.producthunt.com/products/claude" target="_blank" rel="noopener noreferrer">TOP1    Cowork</a></h2>
 <p><img src="https://ph-files.imgix.net/1bc96be0-0a2f-46d8-b435-f8151ba36eb5.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Cowork" loading="lazy"><br><br>
 <strong>【标语】</strong>：将克劳德变成您的数字同事<br>
@@ -195,7 +202,7 @@
     <title type="text">PH今日热榜 | 2026-01-12</title>
     <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-12.html</id>
     <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-12.html"/>
-    <updated>2026-01-20T08:24:33.000Z</updated>
+    <updated>2026-01-20T09:28:26.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-atlas-new"><span></span></a><a href="https://www.producthunt.com/products/atlas-co-2" target="_blank" rel="noopener noreferrer">TOP1    Atlas.new</a></h2>
 <p><img src="https://ph-files.imgix.net/6726a66e-2e5f-430b-a4c3-4c7188bfd3c1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Atlas.new" loading="lazy"><br><br>
 <strong>【标语】</strong>：地图和空间数据的人工智能代理<br>
@@ -215,30 +222,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2026-01-12T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2026-01-11</title>
-    <id>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-11.html</id>
-    <link href="https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-11.html"/>
-    <updated>2026-01-20T08:24:33.000Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-elser-ai"><span></span></a><a href="https://www.producthunt.com/products/elser-ai-3" target="_blank" rel="noopener noreferrer">TOP1    Elser AI</a></h2>
-<p><img src="https://ph-files.imgix.net/93ee919d-6101-46fc-9b0f-34e6464c0b93.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Elser AI" loading="lazy"><br><br>
-<strong>【标语】</strong>：只需几分钟提示即可创建完整的动漫短片<br>
-<strong>【介绍】</strong>：Elser AI帮助创作者将创意转化为完整的动漫故事视频。只需输入一个想法，Elser AI就可以创建具有一致角色、清晰故事流程和电影风格的长篇视频，所有这些都只需一个提示即可。在长格式基准测试中，Elser在180多个场景中的角色一致性比其他AI视频工具高出30%以上。专为那些想要的不仅仅是短剪辑的故事讲述者、动画师和创作者而设计。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/GVHAQPILA3E62V" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/elser-ai-3" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-elser-ai"><span></span></a><a href="https://www.producthunt.com/products/elser-ai-3" target="_blank" rel="noopener noreferrer">TOP1    Elser AI</a></h2>
-<p><img src="https://ph-files.imgix.net/93ee919d-6101-46fc-9b0f-34e6464c0b93.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Elser AI" loading="lazy"><br><br>
-<strong>【标语】</strong>：只需几分钟提示即可创建完整的动漫短片<br>
-<strong>【介绍】</strong>：Elser AI帮助创作者将创意转化为完整的动漫故事视频。只需输入一个想法，Elser AI就可以创建具有一致角色、清晰故事流程和电影风格的长篇视频，所有这些都只需一个提示即可。在长格式基准测试中，Elser在180多个场景中的角色一致性比其他AI视频工具高出30%以上。专为那些想要的不仅仅是短剪辑的故事讲述者、动画师和创作者而设计。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/GVHAQPILA3E62V" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/elser-ai-3" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：Elser,AI,创作者,故事,动漫,视频<br>
-<strong>票数</strong>： 🔺370<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年01月11日 PM04:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2026-01-11T00:00:00.000Z</published>
   </entry>
 </feed>
