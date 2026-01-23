@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 23 Jan 2026 08:25:15 GMT</pubDate>
-    <lastBuildDate>Fri, 23 Jan 2026 08:25:15 GMT</lastBuildDate>
+    <pubDate>Fri, 23 Jan 2026 09:27:10 GMT</pubDate>
+    <lastBuildDate>Fri, 23 Jan 2026 09:27:10 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,14 +16,28 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Thu, 22 Jan 2026 09:28:09 GMT</pubDate>
+      <pubDate>Fri, 23 Jan 2026 08:23:07 GMT</pubDate>
     </item>
     <item>
-      <title>test</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/github/test.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/github/test.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">test</source>
-      <pubDate>Thu, 22 Jan 2026 09:28:09 GMT</pubDate>
+      <title>PH今日热榜 | 2026-01-22</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-22.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-22.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-01-22</source>
+      <description>TOP1 ChartGen AI ChartGen AI 【标语】：几秒钟内将数据转化为具有洞察力的专业图表 【介绍】：ChartGen AI是Ada.im的制造商，是一款AI图表生成器，可将原始数据转化为省钱的见解。它专门使在线营销人员能够连接所有不同的数据源（从Facebook到TikTok），以生成即时视觉图表。停止猜测：看看你的预算到底花在哪里...</description>
+      <category>PH</category>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-chartgen-ai"><span></span></a><a href="https://www.producthunt.com/products/ada-2" target="_blank" rel="noopener noreferrer">TOP1    ChartGen AI</a></h2>
+<p><img src="https://ph-files.imgix.net/dc38695c-2b4c-429c-bc92-a97dc35ff3cf.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ChartGen AI" loading="lazy"><br><br>
+<strong>【标语】</strong>：几秒钟内将数据转化为具有洞察力的专业图表<br>
+<strong>【介绍】</strong>：ChartGen AI是Ada.im的制造商，是一款AI图表生成器，可将原始数据转化为省钱的见解。它专门使在线营销人员能够连接所有不同的数据源（从Facebook到TikTok），以生成即时视觉图表。停止猜测：看看你的预算到底花在哪里，这样你就可以停止浪费钱了。无论您是优化广告支出还是分析业务趋势，都可以使用ChartGen AI在几秒钟内将您的数据转换为可操作的图形。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/WNQF46TLOBPSCD" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/ada-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：AI,图表,ChartGen,几秒钟,生成器,数据源<br>
+<strong>票数</strong>： 🔺448<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年01月22日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/dc38695c-2b4c-429c-bc92-a97dc35ff3cf.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
     <item>
       <title>PH今日热榜 | 2026-01-21</title>
