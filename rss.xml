@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 24 Jan 2026 08:22:16 GMT</pubDate>
-    <lastBuildDate>Sat, 24 Jan 2026 08:22:16 GMT</lastBuildDate>
+    <pubDate>Sat, 24 Jan 2026 09:18:21 GMT</pubDate>
+    <lastBuildDate>Sat, 24 Jan 2026 09:18:21 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,14 +16,35 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Fri, 23 Jan 2026 09:25:01 GMT</pubDate>
+      <pubDate>Sat, 24 Jan 2026 08:20:11 GMT</pubDate>
     </item>
     <item>
       <title>test</title>
       <link>https://github.camscanner.top/daily/blog.html/daily/github/test.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github/test.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">test</source>
-      <pubDate>Fri, 23 Jan 2026 09:25:01 GMT</pubDate>
+      <pubDate>Sat, 24 Jan 2026 08:20:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>PH今日热榜 | 2026-01-23</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-23.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-23.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-01-23</source>
+      <description>TOP1 Tonkotsu Tonkotsu 【标语】：从文档中管理编码代理团队 【介绍】：Tonkotsu是一种新的方法：一种干净、有针对性的图形用户界面，让您可以从文档中管理编码代理团队。在我们的抢先体验计划期间免费。 【官网】：立即访问 【Product Hunt】：View on Product Hunt 关键词：文档,编码,代理,团队,图形用...</description>
+      <category>PH</category>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-tonkotsu"><span></span></a><a href="https://www.producthunt.com/products/tonkotsu" target="_blank" rel="noopener noreferrer">TOP1    Tonkotsu</a></h2>
+<p><img src="https://ph-files.imgix.net/125e8ba2-a0e4-4236-ac7b-6a0df2965807.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Tonkotsu" loading="lazy"><br><br>
+<strong>【标语】</strong>：从文档中管理编码代理团队<br>
+<strong>【介绍】</strong>：Tonkotsu是一种新的方法：一种干净、有针对性的图形用户界面，让您可以从文档中管理编码代理团队。在我们的抢先体验计划期间免费。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/S447QNSUNBRDF3" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/tonkotsu" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：文档,编码,代理,团队,图形用户界面,Tonkotsu<br>
+<strong>票数</strong>： 🔺347<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年01月23日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/125e8ba2-a0e4-4236-ac7b-6a0df2965807.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
     <item>
       <title>PH今日热榜 | 2026-01-22</title>
@@ -171,27 +192,6 @@
 <strong>发布时间</strong>：2026年01月16日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/e5a424df-c638-49a7-8fff-7bd82e18cd80.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-01-15</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-15.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-15.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-01-15</source>
-      <description>TOP1 Cal.com Companion Apps Cal.com Companion Apps 【标语】：用于安排的原生iOS和Android应用程序+浏览器扩展 【介绍】：经过4年的多次客户请求，我们终于推出了原生iOS和Android应用程序+Google Chrome、Firefox、Safari和Edge的浏览器扩展 【官网】：立即访问 ...</description>
-      <category>PH</category>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-cal-com-companion-apps"><span></span></a><a href="https://www.producthunt.com/products/cal" target="_blank" rel="noopener noreferrer">TOP1    Cal.com Companion Apps</a></h2>
-<p><img src="https://ph-files.imgix.net/87f42c5e-e9b7-4715-9f8e-96e7bb8e671b.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Cal.com Companion Apps" loading="lazy"><br><br>
-<strong>【标语】</strong>：用于安排的原生iOS和Android应用程序+浏览器扩展<br>
-<strong>【介绍】</strong>：经过4年的多次客户请求，我们终于推出了原生iOS和Android应用程序+Google Chrome、Firefox、Safari和Edge的浏览器扩展<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/C4I5SLMH56UEOR" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/cal" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：iOS,Android,浏览器,应用程序,原生,扩展<br>
-<strong>票数</strong>： 🔺523<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年01月15日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/87f42c5e-e9b7-4715-9f8e-96e7bb8e671b.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
