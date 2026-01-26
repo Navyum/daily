@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 26 Jan 2026 08:27:16 GMT</pubDate>
-    <lastBuildDate>Mon, 26 Jan 2026 08:27:16 GMT</lastBuildDate>
+    <pubDate>Mon, 26 Jan 2026 09:31:34 GMT</pubDate>
+    <lastBuildDate>Mon, 26 Jan 2026 09:31:34 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,14 +16,35 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Sun, 25 Jan 2026 09:16:50 GMT</pubDate>
+      <pubDate>Mon, 26 Jan 2026 08:24:57 GMT</pubDate>
     </item>
     <item>
       <title>test</title>
       <link>https://github.camscanner.top/daily/blog.html/daily/github/test.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github/test.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">test</source>
-      <pubDate>Sun, 25 Jan 2026 09:16:50 GMT</pubDate>
+      <pubDate>Mon, 26 Jan 2026 08:24:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>PH今日热榜 | 2026-01-25</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-25.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-25.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-01-25</source>
+      <description>TOP1 Thumbfa.st Thumbfa.st 【标语】：YouTube缩略图的中途--每次都是你的脸 【介绍】：直面你的脸，从任何YouTube缩略图中获取灵感，描述你的愿景-人工智能会立即生成它。迭代直至完美。比缩略图设计师便宜100倍。 【官网】：立即访问 【Product Hunt】：View on Product Hunt 关键词：缩略...</description>
+      <category>PH</category>
+      <pubDate>Sun, 25 Jan 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-thumbfa-st"><span></span></a><a href="https://www.producthunt.com/products/thumbfa-st" target="_blank" rel="noopener noreferrer">TOP1    Thumbfa.st</a></h2>
+<p><img src="https://ph-files.imgix.net/b23ea318-a573-4728-8149-9b8c1ced7634.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Thumbfa.st" loading="lazy"><br><br>
+<strong>【标语】</strong>：YouTube缩略图的中途--每次都是你的脸<br>
+<strong>【介绍】</strong>：直面你的脸，从任何YouTube缩略图中获取灵感，描述你的愿景-人工智能会立即生成它。迭代直至完美。比缩略图设计师便宜100倍。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/R767MAKYMFJ6FR" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/thumbfa-st" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：缩略图,YouTube,--,愿景,100,迭代<br>
+<strong>票数</strong>： 🔺389<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年01月25日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/b23ea318-a573-4728-8149-9b8c1ced7634.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
     <item>
       <title>PH今日热榜 | 2026-01-24</title>
@@ -171,27 +192,6 @@
 <strong>发布时间</strong>：2026年01月18日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/12a79172-459a-42e6-a477-411486a1aa9c.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-01-17</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-17.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-17.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-01-17</source>
-      <description>TOP1 Sled Sled 【标语】：通过语音从手机运行编码代理 【介绍】：Sled允许您使用语音从手机运行编码代理。编码代理需要频繁的输入，但当你离开办公桌时，它们只是无所事事。Sled通过为您提供一个语音接口来解决这个问题，该接口可以通过Tailscale安全地连接到您的本地代理。你的代码永远不会离开你的机器。你说话，代理在本地工作，然后你会听到...</description>
-      <category>PH</category>
-      <pubDate>Sat, 17 Jan 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-sled"><span></span></a><a href="https://www.producthunt.com/products/sled-voice-interface-for-claude-code" target="_blank" rel="noopener noreferrer">TOP1    Sled</a></h2>
-<p><img src="https://ph-files.imgix.net/2d7e6716-7493-4b97-add0-c95b9a8edb37.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Sled" loading="lazy"><br><br>
-<strong>【标语】</strong>：通过语音从手机运行编码代理<br>
-<strong>【介绍】</strong>：Sled允许您使用语音从手机运行编码代理。编码代理需要频繁的输入，但当你离开办公桌时，它们只是无所事事。Sled通过为您提供一个语音接口来解决这个问题，该接口可以通过Tailscale安全地连接到您的本地代理。你的代码永远不会离开你的机器。你说话，代理在本地工作，然后你会听到读回的结果。与Claude Code、OpenAI Codex和Gemini CLI合作。完全开源。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/GIST7WKSWTFZZE" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/sled-voice-interface-for-claude-code" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：代理,编码,语音,Sled,接口,本地<br>
-<strong>票数</strong>： 🔺357<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年01月17日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/2d7e6716-7493-4b97-add0-c95b9a8edb37.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
