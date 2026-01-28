@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 28 Jan 2026 08:26:30 GMT</pubDate>
-    <lastBuildDate>Wed, 28 Jan 2026 08:26:30 GMT</lastBuildDate>
+    <pubDate>Wed, 28 Jan 2026 09:31:25 GMT</pubDate>
+    <lastBuildDate>Wed, 28 Jan 2026 09:31:25 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,14 +16,35 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Tue, 27 Jan 2026 09:27:55 GMT</pubDate>
+      <pubDate>Wed, 28 Jan 2026 08:24:16 GMT</pubDate>
     </item>
     <item>
       <title>test</title>
       <link>https://github.camscanner.top/daily/blog.html/daily/github/test.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github/test.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">test</source>
-      <pubDate>Tue, 27 Jan 2026 09:27:55 GMT</pubDate>
+      <pubDate>Wed, 28 Jan 2026 08:24:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>PH今日热榜 | 2026-01-27</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-27.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-27.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-01-27</source>
+      <description>TOP1 Kilo Code Reviewer Kilo Code Reviewer 【标语】：打开PR的那一刻，人工智能驱动的代码自动审查 【介绍】：自动化代码审查代理，分析拉取请求，提出改进建议，捕获错误，并确保代码质量标准。从500多个模型中挑选（Claude，GPT，Gemini和几个免费选项），在合并之前获得即时反馈。 【官网】：立即访问 【...</description>
+      <category>PH</category>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-kilo-code-reviewer"><span></span></a><a href="https://www.producthunt.com/products/kilocode" target="_blank" rel="noopener noreferrer">TOP1    Kilo Code Reviewer</a></h2>
+<p><img src="https://ph-files.imgix.net/2ac59e44-1404-4345-b1bc-32dcb863fb57.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Kilo Code Reviewer" loading="lazy"><br><br>
+<strong>【标语】</strong>：打开PR的那一刻，人工智能驱动的代码自动审查<br>
+<strong>【介绍】</strong>：自动化代码审查代理，分析拉取请求，提出改进建议，捕获错误，并确保代码质量标准。从500多个模型中挑选（Claude，GPT，Gemini和几个免费选项），在合并之前获得即时反馈。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/UC7UGH7TPGH7PX" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/kilocode" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：代码,审查,PR,拉取,500,Claude<br>
+<strong>票数</strong>： 🔺610<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年01月27日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/2ac59e44-1404-4345-b1bc-32dcb863fb57.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
     <item>
       <title>PH今日热榜 | 2026-01-26</title>
@@ -171,27 +192,6 @@
 <strong>发布时间</strong>：2026年01月20日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/4d110a8e-567c-46b8-a91e-24ca84fde559.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-01-19</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-19.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-19.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-01-19</source>
-      <description>TOP1 Noodle Seed Noodle Seed 【标语】：几分钟内将您的业务与人工智能对话连接 【介绍】：发现您的客户已经在搜索的地方。几分钟内构建您的品牌AI应用程序。不需要代码。从ChatGPT开始，每周有超过8亿人进行搜索。在其他平台开设应用商店时扩展到他们。捕捉潜在客户、预订预约并销售产品。使用人工智能生成常见问题解答和推荐。上传文档...</description>
-      <category>PH</category>
-      <pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-noodle-seed"><span></span></a><a href="https://www.producthunt.com/products/noodle-seed" target="_blank" rel="noopener noreferrer">TOP1    Noodle Seed</a></h2>
-<p><img src="https://ph-files.imgix.net/eea7da7e-b8ff-4e52-a1cc-da8607f1aa0e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Noodle Seed" loading="lazy"><br><br>
-<strong>【标语】</strong>：几分钟内将您的业务与人工智能对话连接<br>
-<strong>【介绍】</strong>：发现您的客户已经在搜索的地方。几分钟内构建您的品牌AI应用程序。不需要代码。从ChatGPT开始，每周有超过8亿人进行搜索。在其他平台开设应用商店时扩展到他们。捕捉潜在客户、预订预约并销售产品。使用人工智能生成常见问题解答和推荐。上传文档使您的应用程序变得更智能。自动同步到HubSpot。您的客户正在向人工智能寻求建议。成为答案。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/OK6WMXUV37WSIV" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/noodle-seed" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：人工智能,应用程序,客户,几分钟,搜索,问题解答<br>
-<strong>票数</strong>： 🔺370<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年01月19日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/eea7da7e-b8ff-4e52-a1cc-da8607f1aa0e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
