@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 30 Jan 2026 08:32:50 GMT</pubDate>
-    <lastBuildDate>Fri, 30 Jan 2026 08:32:50 GMT</lastBuildDate>
+    <pubDate>Fri, 30 Jan 2026 09:35:13 GMT</pubDate>
+    <lastBuildDate>Fri, 30 Jan 2026 09:35:13 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,7 +16,35 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Thu, 29 Jan 2026 09:36:29 GMT</pubDate>
+      <pubDate>Fri, 30 Jan 2026 08:30:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>test</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/github/test.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/github/test.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">test</source>
+      <pubDate>Fri, 30 Jan 2026 08:30:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>PH今日热榜 | 2026-01-29</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-29.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-29.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-01-29</source>
+      <description>TOP1 Pandada AI Pandada AI 【标语】：建立数据财富：将文件转化为麦肯锡级别的见解 【介绍】：Pandada使非技术运营商和数据科学家能够实现数据财富。超越与数据“聊天”-Pandada将凌乱的CSV、pdf、优秀文件甚至照片变成可下载且可共享的麦肯锡级报告和演示文稿-以便您可以根据数据做出更好的决策。 【官网】：立即访问 【P...</description>
+      <category>PH</category>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-pandada-ai"><span></span></a><a href="https://www.producthunt.com/products/pandada-ai" target="_blank" rel="noopener noreferrer">TOP1    Pandada AI</a></h2>
+<p><img src="https://ph-files.imgix.net/0cb3ac4f-97e6-4a6b-86a1-1ce739839582.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Pandada AI" loading="lazy"><br><br>
+<strong>【标语】</strong>：建立数据财富：将文件转化为麦肯锡级别的见解<br>
+<strong>【介绍】</strong>：Pandada使非技术运营商和数据科学家能够实现数据财富。超越与数据“聊天”-Pandada将凌乱的CSV、pdf、优秀文件甚至照片变成可下载且可共享的麦肯锡级报告和演示文稿-以便您可以根据数据做出更好的决策。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/OHUCDJCH2FPVTU" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/pandada-ai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：麦肯锡,Pandada,数据,非技术,财富,文件<br>
+<strong>票数</strong>： 🔺544<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年01月29日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/0cb3ac4f-97e6-4a6b-86a1-1ce739839582.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
     <item>
       <title>PH今日热榜 | 2026-01-28</title>
@@ -164,48 +192,6 @@
 <strong>发布时间</strong>：2026年01月22日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/dc38695c-2b4c-429c-bc92-a97dc35ff3cf.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-01-21</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-21.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-21.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-01-21</source>
-      <description>TOP1 Blink Agent Builder Blink Agent Builder 【标语】：您现在可以感知代码代理人工智能应用程序 【介绍】：Blink是第一个构建人工智能代理的氛围编码平台。描述您想要什么- Blink创建一个代理，可以思考、使用工具并端到端完成任务。内置网络搜索、代码执行、载体数据库、沙盒和180+个AI模型。我们用它在几分...</description>
-      <category>PH</category>
-      <pubDate>Wed, 21 Jan 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-blink-agent-builder"><span></span></a><a href="https://www.producthunt.com/products/blink-21" target="_blank" rel="noopener noreferrer">TOP1    Blink Agent Builder</a></h2>
-<p><img src="https://ph-files.imgix.net/7b9cd117-171e-4ea8-8cfe-8f28d2920a6a.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Blink Agent Builder" loading="lazy"><br><br>
-<strong>【标语】</strong>：您现在可以感知代码代理人工智能应用程序<br>
-<strong>【介绍】</strong>：Blink是第一个构建人工智能代理的氛围编码平台。描述您想要什么- Blink创建一个代理，可以思考、使用工具并端到端完成任务。内置网络搜索、代码执行、载体数据库、沙盒和180+个AI模型。我们用它在几分钟内重新创建了Cursor、Perplexity和Buttons。现在轮到你了<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/IHQ54WYAC3Z5Z2" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/blink-21" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：Blink,代理,人工智能,代码执行,创建,并端<br>
-<strong>票数</strong>： 🔺474<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年01月21日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/7b9cd117-171e-4ea8-8cfe-8f28d2920a6a.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-01-20</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-20.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-20.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-01-20</source>
-      <description>TOP1 Interactpitch Interactpitch 【标语】：具有实时观众洞察的互动式球场平台 【介绍】：InteractPitch将您的球场甲板变成互动体验。在您在电话会议前分享内容后，投资者将在您的人工智能化身介入的情况下进行解释并添加上下文。Interactpitch让创始人实时了解谁观看了该推介、他们参与程度如何、哪些部分重要以及...</description>
-      <category>PH</category>
-      <pubDate>Tue, 20 Jan 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-interactpitch"><span></span></a><a href="https://www.producthunt.com/products/interactpitch-2" target="_blank" rel="noopener noreferrer">TOP1    Interactpitch</a></h2>
-<p><img src="https://ph-files.imgix.net/4d110a8e-567c-46b8-a91e-24ca84fde559.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Interactpitch" loading="lazy"><br><br>
-<strong>【标语】</strong>：具有实时观众洞察的互动式球场平台<br>
-<strong>【介绍】</strong>：InteractPitch将您的球场甲板变成互动体验。在您在电话会议前分享内容后，投资者将在您的人工智能化身介入的情况下进行解释并添加上下文。Interactpitch让创始人实时了解谁观看了该推介、他们参与程度如何、哪些部分重要以及出现了哪些问题，因此您的第一次投资者电话会议充满信心并做好充分准备。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/74D2RMOJ62ICG3" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/interactpitch-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：电话会议,球场,实时,哪些,互动式,InteractPitch<br>
-<strong>票数</strong>： 🔺403<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年01月20日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/4d110a8e-567c-46b8-a91e-24ca84fde559.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
