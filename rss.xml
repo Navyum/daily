@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 30 Jan 2026 09:35:13 GMT</pubDate>
-    <lastBuildDate>Fri, 30 Jan 2026 09:35:13 GMT</lastBuildDate>
+    <pubDate>Sat, 31 Jan 2026 08:24:38 GMT</pubDate>
+    <lastBuildDate>Sat, 31 Jan 2026 08:24:38 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,14 +16,7 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Fri, 30 Jan 2026 08:30:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>test</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/github/test.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/github/test.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">test</source>
-      <pubDate>Fri, 30 Jan 2026 08:30:41 GMT</pubDate>
+      <pubDate>Fri, 30 Jan 2026 09:33:05 GMT</pubDate>
     </item>
     <item>
       <title>PH今日热榜 | 2026-01-29</title>
@@ -40,7 +33,7 @@
 <strong>【官网】</strong>：<a href="https://www.producthunt.com/r/OHUCDJCH2FPVTU" target="_blank" rel="noopener noreferrer">立即访问</a><br>
 <strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/pandada-ai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
 <p><strong>关键词</strong>：麦肯锡,Pandada,数据,非技术,财富,文件<br>
-<strong>票数</strong>： 🔺544<br>
+<strong>票数</strong>： 🔺547<br>
 <strong>是否精选</strong>：是<br>
 <strong>发布时间</strong>：2026年01月29日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
@@ -192,6 +185,27 @@
 <strong>发布时间</strong>：2026年01月22日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/dc38695c-2b4c-429c-bc92-a97dc35ff3cf.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
+    <item>
+      <title>PH今日热榜 | 2026-01-21</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-21.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-21.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-01-21</source>
+      <description>TOP1 Blink Agent Builder Blink Agent Builder 【标语】：您现在可以感知代码代理人工智能应用程序 【介绍】：Blink是第一个构建人工智能代理的氛围编码平台。描述您想要什么- Blink创建一个代理，可以思考、使用工具并端到端完成任务。内置网络搜索、代码执行、载体数据库、沙盒和180+个AI模型。我们用它在几分...</description>
+      <category>PH</category>
+      <pubDate>Wed, 21 Jan 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-blink-agent-builder"><span></span></a><a href="https://www.producthunt.com/products/blink-21" target="_blank" rel="noopener noreferrer">TOP1    Blink Agent Builder</a></h2>
+<p><img src="https://ph-files.imgix.net/7b9cd117-171e-4ea8-8cfe-8f28d2920a6a.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Blink Agent Builder" loading="lazy"><br><br>
+<strong>【标语】</strong>：您现在可以感知代码代理人工智能应用程序<br>
+<strong>【介绍】</strong>：Blink是第一个构建人工智能代理的氛围编码平台。描述您想要什么- Blink创建一个代理，可以思考、使用工具并端到端完成任务。内置网络搜索、代码执行、载体数据库、沙盒和180+个AI模型。我们用它在几分钟内重新创建了Cursor、Perplexity和Buttons。现在轮到你了<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/IHQ54WYAC3Z5Z2" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/blink-21" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：Blink,代理,人工智能,代码执行,创建,并端<br>
+<strong>票数</strong>： 🔺474<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年01月21日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/7b9cd117-171e-4ea8-8cfe-8f28d2920a6a.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
