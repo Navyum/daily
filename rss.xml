@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 02 Feb 2026 08:38:21 GMT</pubDate>
-    <lastBuildDate>Mon, 02 Feb 2026 08:38:21 GMT</lastBuildDate>
+    <pubDate>Mon, 02 Feb 2026 09:42:23 GMT</pubDate>
+    <lastBuildDate>Mon, 02 Feb 2026 09:42:23 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,14 +16,35 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Sun, 01 Feb 2026 09:25:11 GMT</pubDate>
+      <pubDate>Mon, 02 Feb 2026 08:36:07 GMT</pubDate>
     </item>
     <item>
       <title>test</title>
       <link>https://github.camscanner.top/daily/blog.html/daily/github/test.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github/test.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">test</source>
-      <pubDate>Sun, 01 Feb 2026 09:25:11 GMT</pubDate>
+      <pubDate>Mon, 02 Feb 2026 08:36:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>PH今日热榜 | 2026-02-01</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-02-01.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-02-01.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-02-01</source>
+      <description>TOP1 Dottie Dottie 【标语】：私人人工智能杂志 【介绍】：帮助您反思的私人人工智能日记。所有数据都存储在设备上，以获得最大的隐私。使用Apple Intelligence作为LLM时，个人数据永远不会离开您的设备。chatGPT、Gemini和Claude在云中运行，但不会存储数据或将其用于培训。 【官网】：立即访问 【Product...</description>
+      <category>PH</category>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-dottie"><span></span></a><a href="https://www.producthunt.com/products/dottie" target="_blank" rel="noopener noreferrer">TOP1    Dottie</a></h2>
+<p><img src="https://ph-files.imgix.net/ba279760-a59d-4e56-ad25-60b5554821e4.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Dottie" loading="lazy"><br><br>
+<strong>【标语】</strong>：私人人工智能杂志<br>
+<strong>【介绍】</strong>：帮助您反思的私人人工智能日记。所有数据都存储在设备上，以获得最大的隐私。使用Apple Intelligence作为LLM时，个人数据永远不会离开您的设备。chatGPT、Gemini和Claude在云中运行，但不会存储数据或将其用于培训。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/QUOKHX2VQBZ2MQ" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/dottie" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：人工智能,存储,数据,私人,Apple,Intelligence<br>
+<strong>票数</strong>： 🔺364<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年02月01日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/ba279760-a59d-4e56-ad25-60b5554821e4.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
     <item>
       <title>PH今日热榜 | 2026-01-31</title>
@@ -171,27 +192,6 @@
 <strong>发布时间</strong>：2026年01月25日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/b23ea318-a573-4728-8149-9b8c1ced7634.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-01-24</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-24.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-24.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-01-24</source>
-      <description>TOP1 Humans in the Loop Humans in the Loop 【标语】：一个免费社区来谈论所有事物-代理编码-AI 【介绍】：Human in the Loop是一个适合那些喜欢使用人工智能来更快地发货的人的地方，是一个免费社区，可以加入并分享有关Claude Code、Cursor、HCP服务器、人工智能代码审查等的见解和最佳...</description>
-      <category>PH</category>
-      <pubDate>Sat, 24 Jan 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-humans-in-the-loop"><span></span></a><a href="https://www.producthunt.com/products/humans-in-the-loop" target="_blank" rel="noopener noreferrer">TOP1    Humans in the Loop</a></h2>
-<p><img src="https://ph-files.imgix.net/04b1468b-5287-4ac5-aabf-bcf23cb2484a.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Humans in the Loop" loading="lazy"><br><br>
-<strong>【标语】</strong>：一个免费社区来谈论所有事物-代理编码-AI<br>
-<strong>【介绍】</strong>：Human in the Loop是一个适合那些喜欢使用人工智能来更快地发货的人的地方，是一个免费社区，可以加入并分享有关Claude Code、Cursor、HCP服务器、人工智能代码审查等的见解和最佳实践。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/DNF5WIL5L4PZLM" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/humans-in-the-loop" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：人工智能,社区,免费,AIHuman,Loop,Claude<br>
-<strong>票数</strong>： 🔺441<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年01月24日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/04b1468b-5287-4ac5-aabf-bcf23cb2484a.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
