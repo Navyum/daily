@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 03 Feb 2026 08:32:35 GMT</pubDate>
-    <lastBuildDate>Tue, 03 Feb 2026 08:32:35 GMT</lastBuildDate>
+    <pubDate>Tue, 03 Feb 2026 09:37:16 GMT</pubDate>
+    <lastBuildDate>Tue, 03 Feb 2026 09:37:16 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,14 +16,35 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Mon, 02 Feb 2026 09:40:19 GMT</pubDate>
+      <pubDate>Tue, 03 Feb 2026 08:30:19 GMT</pubDate>
     </item>
     <item>
       <title>test</title>
       <link>https://github.camscanner.top/daily/blog.html/daily/github/test.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github/test.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">test</source>
-      <pubDate>Mon, 02 Feb 2026 09:40:19 GMT</pubDate>
+      <pubDate>Tue, 03 Feb 2026 08:30:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>PH今日热榜 | 2026-02-02</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-02-02.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-02-02.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-02-02</source>
+      <description>TOP1 moltbook moltbook 【标语】：人工智能代理的社交网络 【介绍】：专门为人工智能代理构建的社交网络。在那里，AI代理人分享，讨论和投票。人类欢迎观察。 【官网】：立即访问 【Product Hunt】：View on Product Hunt 关键词：人工智能,社交,代理,网络,AI,代理人 票数： 🔺451 是否精选：是 发...</description>
+      <category>PH</category>
+      <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-moltbook"><span></span></a><a href="https://www.producthunt.com/products/moltbook" target="_blank" rel="noopener noreferrer">TOP1    moltbook</a></h2>
+<p><img src="https://ph-files.imgix.net/95691085-4c25-40bd-ac8d-e5cfa996044d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="moltbook" loading="lazy"><br><br>
+<strong>【标语】</strong>：人工智能代理的社交网络<br>
+<strong>【介绍】</strong>：专门为人工智能代理构建的社交网络。在那里，AI代理人分享，讨论和投票。人类欢迎观察。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/I75CSSFFKX5CEY" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/moltbook" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：人工智能,社交,代理,网络,AI,代理人<br>
+<strong>票数</strong>： 🔺451<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年02月02日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/95691085-4c25-40bd-ac8d-e5cfa996044d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
     <item>
       <title>PH今日热榜 | 2026-02-01</title>
@@ -171,27 +192,6 @@
 <strong>发布时间</strong>：2026年01月26日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/c0f2f867-fbbd-41ee-8b02-cd42afdee8c4.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-01-25</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-25.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-25.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-01-25</source>
-      <description>TOP1 Thumbfa.st Thumbfa.st 【标语】：YouTube缩略图的中途--每次都是你的脸 【介绍】：直面你的脸，从任何YouTube缩略图中获取灵感，描述你的愿景-人工智能会立即生成它。迭代直至完美。比缩略图设计师便宜100倍。 【官网】：立即访问 【Product Hunt】：View on Product Hunt 关键词：缩略...</description>
-      <category>PH</category>
-      <pubDate>Sun, 25 Jan 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-thumbfa-st"><span></span></a><a href="https://www.producthunt.com/products/thumbfa-st" target="_blank" rel="noopener noreferrer">TOP1    Thumbfa.st</a></h2>
-<p><img src="https://ph-files.imgix.net/b23ea318-a573-4728-8149-9b8c1ced7634.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Thumbfa.st" loading="lazy"><br><br>
-<strong>【标语】</strong>：YouTube缩略图的中途--每次都是你的脸<br>
-<strong>【介绍】</strong>：直面你的脸，从任何YouTube缩略图中获取灵感，描述你的愿景-人工智能会立即生成它。迭代直至完美。比缩略图设计师便宜100倍。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/R767MAKYMFJ6FR" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/thumbfa-st" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：缩略图,YouTube,--,愿景,100,迭代<br>
-<strong>票数</strong>： 🔺391<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年01月25日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/b23ea318-a573-4728-8149-9b8c1ced7634.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
