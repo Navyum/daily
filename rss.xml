@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 08 Feb 2026 08:28:30 GMT</pubDate>
-    <lastBuildDate>Sun, 08 Feb 2026 08:28:30 GMT</lastBuildDate>
+    <pubDate>Sun, 08 Feb 2026 09:27:11 GMT</pubDate>
+    <lastBuildDate>Sun, 08 Feb 2026 09:27:11 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,14 +16,35 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Sat, 07 Feb 2026 09:25:38 GMT</pubDate>
+      <pubDate>Sun, 08 Feb 2026 08:26:21 GMT</pubDate>
     </item>
     <item>
       <title>test</title>
       <link>https://github.camscanner.top/daily/blog.html/daily/github/test.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github/test.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">test</source>
-      <pubDate>Sat, 07 Feb 2026 09:25:38 GMT</pubDate>
+      <pubDate>Sun, 08 Feb 2026 08:26:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>PH今日热榜 | 2026-02-07</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-02-07.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-02-07.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-02-07</source>
+      <description>TOP1 InspireNote InspireNote 【标语】：创意头脑风暴纸牌和笔记应用程序 【介绍】：InspireNote是一款应用程序，旨在帮助您更有效、更有创造性地进行头脑风暴。它拥有超过150张创意方法卡，帮助您从不同的角度解决问题。您可以使用这些卡片作为激发新想法的提示，甚至创建自己的定制卡片来不断扩展您的创意方法库。” 【官网】：立...</description>
+      <category>PH</category>
+      <pubDate>Sat, 07 Feb 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-inspirenote"><span></span></a><a href="https://www.producthunt.com/products/inspirenote" target="_blank" rel="noopener noreferrer">TOP1    InspireNote</a></h2>
+<p><img src="https://ph-files.imgix.net/53bda886-5d1d-4c62-92bd-717fc4f8496b.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="InspireNote" loading="lazy"><br><br>
+<strong>【标语】</strong>：创意头脑风暴纸牌和笔记应用程序<br>
+<strong>【介绍】</strong>：InspireNote是一款应用程序，旨在帮助您更有效、更有创造性地进行头脑风暴。它拥有超过150张创意方法卡，帮助您从不同的角度解决问题。您可以使用这些卡片作为激发新想法的提示，甚至创建自己的定制卡片来不断扩展您的创意方法库。”<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/GP7WAR7JCOTRMF" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/inspirenote" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：创意,应用程序,卡片,风暴,头脑,InspireNote<br>
+<strong>票数</strong>： 🔺287<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年02月07日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/53bda886-5d1d-4c62-92bd-717fc4f8496b.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
     <item>
       <title>PH今日热榜 | 2026-02-06</title>
@@ -171,27 +192,6 @@
 <strong>发布时间</strong>：2026年01月31日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/4cddac21-0fcd-4800-bf7c-6981913536af.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-01-30</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-30.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-30.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-01-30</source>
-      <description>TOP1 Leapility Leapility 【标语】：将您的重复性工作流程转化为人工智能驱动的剧本 【介绍】：适合那些想要以更少的努力获得更多产出的专业人士。同样的工作你已经做了几十次了。然而，你仍然在玩弄人工智能工具，中途失去了注意力。💻Leapility让您用简单的语言将您的专业知识描述为剧本。添加您的来源、步骤、工具和规则。然后点击运行并...</description>
-      <category>PH</category>
-      <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-leapility"><span></span></a><a href="https://www.producthunt.com/products/leapility-3" target="_blank" rel="noopener noreferrer">TOP1    Leapility</a></h2>
-<p><img src="https://ph-files.imgix.net/ce9fe828-3d3e-4172-b6ef-72954229d42d.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Leapility" loading="lazy"><br><br>
-<strong>【标语】</strong>：将您的重复性工作流程转化为人工智能驱动的剧本<br>
-<strong>【介绍】</strong>：适合那些想要以更少的努力获得更多产出的专业人士。同样的工作你已经做了几十次了。然而，你仍然在玩弄人工智能工具，中途失去了注意力。💻Leapility让您用简单的语言将您的专业知识描述为剧本。添加您的来源、步骤、工具和规则。然后点击运行并让人工智能完成其余的工作。✌️ Build once, reuse every time.调整你的产出，而不是你的工作时间。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/OFFETNDGKWLTHT" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/leapility-3" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：人工智能,工作,产出,剧本,工具,Leapility<br>
-<strong>票数</strong>： 🔺459<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年01月30日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/ce9fe828-3d3e-4172-b6ef-72954229d42d.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
