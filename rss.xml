@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 07 Feb 2026 09:27:43 GMT</pubDate>
-    <lastBuildDate>Sat, 07 Feb 2026 09:27:43 GMT</lastBuildDate>
+    <pubDate>Sun, 08 Feb 2026 08:28:30 GMT</pubDate>
+    <lastBuildDate>Sun, 08 Feb 2026 08:28:30 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,7 +16,14 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Sat, 07 Feb 2026 08:23:45 GMT</pubDate>
+      <pubDate>Sat, 07 Feb 2026 09:25:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>test</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/github/test.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/github/test.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">test</source>
+      <pubDate>Sat, 07 Feb 2026 09:25:38 GMT</pubDate>
     </item>
     <item>
       <title>PH今日热榜 | 2026-02-06</title>
@@ -33,7 +40,7 @@
 <strong>【官网】</strong>：<a href="https://www.producthunt.com/r/S43XIOYZUO4TJS" target="_blank" rel="noopener noreferrer">立即访问</a><br>
 <strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/anthropic-5" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
 <p><strong>关键词</strong>：Claude,代理,代币,先进,任务模型,Opus<br>
-<strong>票数</strong>： 🔺562<br>
+<strong>票数</strong>： 🔺566<br>
 <strong>是否精选</strong>：是<br>
 <strong>发布时间</strong>：2026年02月06日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
@@ -185,27 +192,6 @@
 <strong>发布时间</strong>：2026年01月30日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/ce9fe828-3d3e-4172-b6ef-72954229d42d.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-01-29</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-29.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-29.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-01-29</source>
-      <description>TOP1 Pandada AI Pandada AI 【标语】：建立数据财富：将文件转化为麦肯锡级别的见解 【介绍】：Pandada使非技术运营商和数据科学家能够实现数据财富。超越与数据“聊天”-Pandada将凌乱的CSV、pdf、优秀文件甚至照片变成可下载且可共享的麦肯锡级报告和演示文稿-以便您可以根据数据做出更好的决策。 【官网】：立即访问 【P...</description>
-      <category>PH</category>
-      <pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-pandada-ai"><span></span></a><a href="https://www.producthunt.com/products/pandada-ai" target="_blank" rel="noopener noreferrer">TOP1    Pandada AI</a></h2>
-<p><img src="https://ph-files.imgix.net/0cb3ac4f-97e6-4a6b-86a1-1ce739839582.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Pandada AI" loading="lazy"><br><br>
-<strong>【标语】</strong>：建立数据财富：将文件转化为麦肯锡级别的见解<br>
-<strong>【介绍】</strong>：Pandada使非技术运营商和数据科学家能够实现数据财富。超越与数据“聊天”-Pandada将凌乱的CSV、pdf、优秀文件甚至照片变成可下载且可共享的麦肯锡级报告和演示文稿-以便您可以根据数据做出更好的决策。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/OHUCDJCH2FPVTU" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/pandada-ai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：麦肯锡,Pandada,数据,非技术,财富,文件<br>
-<strong>票数</strong>： 🔺547<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年01月29日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/0cb3ac4f-97e6-4a6b-86a1-1ce739839582.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
