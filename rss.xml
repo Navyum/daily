@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 08 Feb 2026 09:27:11 GMT</pubDate>
-    <lastBuildDate>Sun, 08 Feb 2026 09:27:11 GMT</lastBuildDate>
+    <pubDate>Mon, 09 Feb 2026 08:44:53 GMT</pubDate>
+    <lastBuildDate>Mon, 09 Feb 2026 08:44:53 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,14 +16,14 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Sun, 08 Feb 2026 08:26:21 GMT</pubDate>
+      <pubDate>Sun, 08 Feb 2026 09:25:04 GMT</pubDate>
     </item>
     <item>
       <title>test</title>
       <link>https://github.camscanner.top/daily/blog.html/daily/github/test.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github/test.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">test</source>
-      <pubDate>Sun, 08 Feb 2026 08:26:21 GMT</pubDate>
+      <pubDate>Sun, 08 Feb 2026 09:25:04 GMT</pubDate>
     </item>
     <item>
       <title>PH今日热榜 | 2026-02-07</title>
