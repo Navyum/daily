@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 09 Feb 2026 08:44:53 GMT</pubDate>
-    <lastBuildDate>Mon, 09 Feb 2026 08:44:53 GMT</lastBuildDate>
+    <pubDate>Mon, 09 Feb 2026 09:59:31 GMT</pubDate>
+    <lastBuildDate>Mon, 09 Feb 2026 09:59:31 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,14 +16,35 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Sun, 08 Feb 2026 09:25:04 GMT</pubDate>
+      <pubDate>Mon, 09 Feb 2026 08:42:44 GMT</pubDate>
     </item>
     <item>
       <title>test</title>
       <link>https://github.camscanner.top/daily/blog.html/daily/github/test.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github/test.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">test</source>
-      <pubDate>Sun, 08 Feb 2026 09:25:04 GMT</pubDate>
+      <pubDate>Mon, 09 Feb 2026 08:42:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>PH今日热榜 | 2026-02-08</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-02-08.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-02-08.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-02-08</source>
+      <description>TOP1 Inspector Inspector 【标语】：克劳德代码的 Figma 【介绍】：Inspector是一个视觉编辑器，可以连接到您最喜欢的人工智能代理（Claude Code、Codex、Cursor）。单击UI中的一个元素，在视觉上对其进行调整，Inspector就会将更改写入您的代码库。不再需要设计交接，只需推入回购即可。 【官网】：...</description>
+      <category>PH</category>
+      <pubDate>Sun, 08 Feb 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-inspector"><span></span></a><a href="https://www.producthunt.com/products/inspector-3" target="_blank" rel="noopener noreferrer">TOP1    Inspector</a></h2>
+<p><img src="https://ph-files.imgix.net/ee078168-a8fc-4d8a-8d6b-4d3db293c410.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Inspector" loading="lazy"><br><br>
+<strong>【标语】</strong>：克劳德代码的 Figma<br>
+<strong>【介绍】</strong>：Inspector是一个视觉编辑器，可以连接到您最喜欢的人工智能代理（Claude Code、Codex、Cursor）。单击UI中的一个元素，在视觉上对其进行调整，Inspector就会将更改写入您的代码库。不再需要设计交接，只需推入回购即可。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/NGGCIBG5JC5YUI" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/inspector-3" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：视觉,代码,FigmaInspector,Claude,Code,Codex<br>
+<strong>票数</strong>： 🔺458<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年02月08日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/ee078168-a8fc-4d8a-8d6b-4d3db293c410.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
     <item>
       <title>PH今日热榜 | 2026-02-07</title>
@@ -171,27 +192,6 @@
 <strong>发布时间</strong>：2026年02月01日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/ba279760-a59d-4e56-ad25-60b5554821e4.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-01-31</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-31.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-01-31.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-01-31</source>
-      <description>TOP1 ClaudeUsageBar ClaudeUsageBar 【标语】：一眼就知道你还剩下多少克劳德 【介绍】：免费开源macOS菜单栏应用程序，可显示您的Claude AI使用率。在达到极限之前收到通知。轻量级、私密、原生。 【官网】：立即访问 【Product Hunt】：View on Product Hunt 关键词：轻量级,macOS...</description>
-      <category>PH</category>
-      <pubDate>Sat, 31 Jan 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-claudeusagebar"><span></span></a><a href="https://www.producthunt.com/products/claudeusagebar" target="_blank" rel="noopener noreferrer">TOP1    ClaudeUsageBar</a></h2>
-<p><img src="https://ph-files.imgix.net/4cddac21-0fcd-4800-bf7c-6981913536af.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ClaudeUsageBar" loading="lazy"><br><br>
-<strong>【标语】</strong>：一眼就知道你还剩下多少克劳德<br>
-<strong>【介绍】</strong>：免费开源macOS菜单栏应用程序，可显示您的Claude AI使用率。在达到极限之前收到通知。轻量级、私密、原生。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/Y5CVEMRMDMYE4K" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/claudeusagebar" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：轻量级,macOS,菜单栏,Claude,AI,克劳德<br>
-<strong>票数</strong>： 🔺343<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年01月31日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/4cddac21-0fcd-4800-bf7c-6981913536af.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
