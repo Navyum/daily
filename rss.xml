@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 13 Feb 2026 08:38:37 GMT</pubDate>
-    <lastBuildDate>Fri, 13 Feb 2026 08:38:37 GMT</lastBuildDate>
+    <pubDate>Fri, 13 Feb 2026 09:40:06 GMT</pubDate>
+    <lastBuildDate>Fri, 13 Feb 2026 09:40:06 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,14 +16,35 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Thu, 12 Feb 2026 09:42:33 GMT</pubDate>
+      <pubDate>Fri, 13 Feb 2026 08:36:25 GMT</pubDate>
     </item>
     <item>
       <title>test</title>
       <link>https://github.camscanner.top/daily/blog.html/daily/github/test.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github/test.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">test</source>
-      <pubDate>Thu, 12 Feb 2026 09:42:33 GMT</pubDate>
+      <pubDate>Fri, 13 Feb 2026 08:36:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>PH今日热榜 | 2026-02-12</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-02-12.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-02-12.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-02-12</source>
+      <description>TOP1 Starnus Starnus 【标语】：在自动驾驶仪上寻找并接触您的下一个客户 【介绍】：Starnus通过简单的提示帮助创始人和B2B团队进行出境运行。在一个平台中定义您的IP、寻找相似的潜在客户、丰富业务+联系人数据、生成个性化的外展并跟踪回复。 【官网】：立即访问 【Product Hunt】：View on Product Hunt...</description>
+      <category>PH</category>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-starnus"><span></span></a><a href="https://www.producthunt.com/products/starnus" target="_blank" rel="noopener noreferrer">TOP1    Starnus</a></h2>
+<p><img src="https://ph-files.imgix.net/29111c34-6766-4421-8357-a3a5efbb17bc.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Starnus" loading="lazy"><br><br>
+<strong>【标语】</strong>：在自动驾驶仪上寻找并接触您的下一个客户<br>
+<strong>【介绍】</strong>：Starnus通过简单的提示帮助创始人和B2B团队进行出境运行。在一个平台中定义您的IP、寻找相似的潜在客户、丰富业务+联系人数据、生成个性化的外展并跟踪回复。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/62DHGBY3FZFEKH" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/starnus" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：客户,寻找,Starnus,B2B,IP,外展<br>
+<strong>票数</strong>： 🔺471<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年02月12日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/29111c34-6766-4421-8357-a3a5efbb17bc.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
     <item>
       <title>PH今日热榜 | 2026-02-11</title>
@@ -171,27 +192,6 @@
 <strong>发布时间</strong>：2026年02月05日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/b0fd7d97-edc6-4371-853b-fddb8f748f1c.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-02-04</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-02-04.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-02-04.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-02-04</source>
-      <description>TOP1 CreateOS CreateOS 【标语】：在一个地方通过任何人工智能编码工具构建和部署应用程序 【介绍】：DeliverOS是一个用于构建、部署和扩展应用程序的统一工作空间-没有DevOps，没有工具蔓延。通过专为速度、专注度和产品动力而构建的一体化工作流程，消除复杂性并更快地发货。 【官网】：立即访问 【Product Hunt】：Vi...</description>
-      <category>PH</category>
-      <pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-createos"><span></span></a><a href="https://www.producthunt.com/products/createos" target="_blank" rel="noopener noreferrer">TOP1    CreateOS</a></h2>
-<p><img src="https://ph-files.imgix.net/a1feb16b-580a-4edd-8fd4-2dfc679dd63a.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="CreateOS" loading="lazy"><br><br>
-<strong>【标语】</strong>：在一个地方通过任何人工智能编码工具构建和部署应用程序<br>
-<strong>【介绍】</strong>：DeliverOS是一个用于构建、部署和扩展应用程序的统一工作空间-没有DevOps，没有工具蔓延。通过专为速度、专注度和产品动力而构建的一体化工作流程，消除复杂性并更快地发货。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/2J6ZEMSMJLCGOA" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/createos" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：构建,应用程序,部署,工具,DeliverOS,DevOps<br>
-<strong>票数</strong>： 🔺466<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年02月04日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/a1feb16b-580a-4edd-8fd4-2dfc679dd63a.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
