@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 14 Feb 2026 08:27:11 GMT</pubDate>
-    <lastBuildDate>Sat, 14 Feb 2026 08:27:11 GMT</lastBuildDate>
+    <pubDate>Sat, 14 Feb 2026 09:27:40 GMT</pubDate>
+    <lastBuildDate>Sat, 14 Feb 2026 09:27:40 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,14 +16,35 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Fri, 13 Feb 2026 09:37:54 GMT</pubDate>
+      <pubDate>Sat, 14 Feb 2026 08:25:06 GMT</pubDate>
     </item>
     <item>
       <title>test</title>
       <link>https://github.camscanner.top/daily/blog.html/daily/github/test.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github/test.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">test</source>
-      <pubDate>Fri, 13 Feb 2026 09:37:54 GMT</pubDate>
+      <pubDate>Sat, 14 Feb 2026 08:25:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>PH今日热榜 | 2026-02-13</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-02-13.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-02-13.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-02-13</source>
+      <description>TOP1 Lovon AI Therapy Lovon AI Therapy 【标语】：说出来感觉好点 【介绍】：您可以真正交谈的人工智能治疗。只需自然地说话并随时获得支持即可。 【官网】：立即访问 【Product Hunt】：View on Product Hunt 关键词：好点,人工智能,交谈,即可,随时,治疗 票数： 🔺567 是否精选：是 ...</description>
+      <category>PH</category>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-lovon-ai-therapy"><span></span></a><a href="https://www.producthunt.com/products/lovon" target="_blank" rel="noopener noreferrer">TOP1    Lovon AI Therapy</a></h2>
+<p><img src="https://ph-files.imgix.net/edf0d82b-e31a-4eb9-985d-a2753138337d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Lovon AI Therapy" loading="lazy"><br><br>
+<strong>【标语】</strong>：说出来感觉好点<br>
+<strong>【介绍】</strong>：您可以真正交谈的人工智能治疗。只需自然地说话并随时获得支持即可。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/FDD2MZA3SHTP2Q" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/lovon" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：好点,人工智能,交谈,即可,随时,治疗<br>
+<strong>票数</strong>： 🔺567<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年02月13日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/edf0d82b-e31a-4eb9-985d-a2753138337d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
     <item>
       <title>PH今日热榜 | 2026-02-12</title>
@@ -171,27 +192,6 @@
 <strong>发布时间</strong>：2026年02月06日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/1285a778-84a8-48b3-b27b-fa4ae88bbbd5.webp?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-02-05</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-02-05.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-02-05.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-02-05</source>
-      <description>TOP1 Supaboard Supaboard 【标语】：用简单的英语询问。从您的数据中获取准确的答案 【介绍】：用简单的英语提问。从您的所有业务数据中获取准确、可行的答案，无需SQL，无需等待。Supaboard连接到600多个数据源，让您的团队能够立即分析、决策和采取行动。我们的内置代理应用您的业务逻辑，因此您得到的答案不仅聪明，而且正确。完全治...</description>
-      <category>PH</category>
-      <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-supaboard"><span></span></a><a href="https://www.producthunt.com/products/supaboard-ai" target="_blank" rel="noopener noreferrer">TOP1    Supaboard</a></h2>
-<p><img src="https://ph-files.imgix.net/b0fd7d97-edc6-4371-853b-fddb8f748f1c.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Supaboard" loading="lazy"><br><br>
-<strong>【标语】</strong>：用简单的英语询问。从您的数据中获取准确的答案<br>
-<strong>【介绍】</strong>：用简单的英语提问。从您的所有业务数据中获取准确、可行的答案，无需SQL，无需等待。Supaboard连接到600多个数据源，让您的团队能够立即分析、决策和采取行动。我们的内置代理应用您的业务逻辑，因此您得到的答案不仅聪明，而且正确。完全治理。没有数据泄露。不需要技术技能。商业智能，终于适合每个人。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/OK5L44UWHUZNV7" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/supaboard-ai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：答案,无需,英语,数据,数据源,获取<br>
-<strong>票数</strong>： 🔺540<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年02月05日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/b0fd7d97-edc6-4371-853b-fddb8f748f1c.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
