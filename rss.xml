@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 15 Feb 2026 08:28:48 GMT</pubDate>
-    <lastBuildDate>Sun, 15 Feb 2026 08:28:48 GMT</lastBuildDate>
+    <pubDate>Sun, 15 Feb 2026 09:28:14 GMT</pubDate>
+    <lastBuildDate>Sun, 15 Feb 2026 09:28:14 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,14 +16,28 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Sat, 14 Feb 2026 09:25:17 GMT</pubDate>
+      <pubDate>Sun, 15 Feb 2026 08:26:40 GMT</pubDate>
     </item>
     <item>
-      <title>test</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/github/test.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/github/test.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">test</source>
-      <pubDate>Sat, 14 Feb 2026 09:25:17 GMT</pubDate>
+      <title>PH今日热榜 | 2026-02-14</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-02-14.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-02-14.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-02-14</source>
+      <description>TOP1 Seedance 2.0 Seedance 2.0 【标语】：先进的人工智能视频创作，具有精确的叙事控制 【介绍】：字节跳动的Seedance 2.0是一个先进的人工智能视频生成模型，专为电影式、多镜头讲故事而构建。它可以通过简单的提示创建一致的角色、平滑的过渡和动态的相机移动。它专为创作者、营销人员和电影制片人设计，让您更好地控制动作、场景...</description>
+      <category>PH</category>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-seedance-2-0"><span></span></a><a href="https://www.producthunt.com/products/pixeldance-seaweed" target="_blank" rel="noopener noreferrer">TOP1    Seedance 2.0</a></h2>
+<p><img src="https://ph-files.imgix.net/88dd34d1-7ee2-4f2b-b956-b48c4a9c6a7b.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Seedance 2.0" loading="lazy"><br><br>
+<strong>【标语】</strong>：先进的人工智能视频创作，具有精确的叙事控制<br>
+<strong>【介绍】</strong>：字节跳动的Seedance 2.0是一个先进的人工智能视频生成模型，专为电影式、多镜头讲故事而构建。它可以通过简单的提示创建一致的角色、平滑的过渡和动态的相机移动。它专为创作者、营销人员和电影制片人设计，让您更好地控制动作、场景构成和叙事流程制作人工智能视频感觉更像是在导演一部真正的电影。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/G4VYCRVVQO73BJ" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/pixeldance-seaweed" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：人工智能,视频,电影,叙事,先进,Seedance<br>
+<strong>票数</strong>： 🔺344<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年02月14日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/88dd34d1-7ee2-4f2b-b956-b48c4a9c6a7b.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
     <item>
       <title>PH今日热榜 | 2026-02-13</title>
