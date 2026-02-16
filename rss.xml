@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 15 Feb 2026 09:28:14 GMT</pubDate>
-    <lastBuildDate>Sun, 15 Feb 2026 09:28:14 GMT</lastBuildDate>
+    <pubDate>Mon, 16 Feb 2026 08:42:11 GMT</pubDate>
+    <lastBuildDate>Mon, 16 Feb 2026 08:42:11 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,7 +16,14 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Sun, 15 Feb 2026 08:26:40 GMT</pubDate>
+      <pubDate>Sun, 15 Feb 2026 09:26:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>test</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/github/test.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/github/test.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">test</source>
+      <pubDate>Sun, 15 Feb 2026 09:26:03 GMT</pubDate>
     </item>
     <item>
       <title>PH今日热榜 | 2026-02-14</title>
@@ -33,7 +40,7 @@
 <strong>【官网】</strong>：<a href="https://www.producthunt.com/r/G4VYCRVVQO73BJ" target="_blank" rel="noopener noreferrer">立即访问</a><br>
 <strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/pixeldance-seaweed" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
 <p><strong>关键词</strong>：人工智能,视频,电影,叙事,先进,Seedance<br>
-<strong>票数</strong>： 🔺344<br>
+<strong>票数</strong>： 🔺352<br>
 <strong>是否精选</strong>：是<br>
 <strong>发布时间</strong>：2026年02月14日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
@@ -185,27 +192,6 @@
 <strong>发布时间</strong>：2026年02月07日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/53bda886-5d1d-4c62-92bd-717fc4f8496b.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-02-06</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-02-06.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-02-06.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-02-06</source>
-      <description>TOP1 Claude Opus 4.6 Claude Opus 4.6 【标语】：克劳德最先进的代理任务模型 【介绍】：Claude Opus 4.6是Claude迄今为止最强大的模型，专为深度推理、长期运行的代理任务和大型代码库而构建。凭借1 M代币上下文窗口、自适应思维和改进的规划，它在编码、分析、研究和现实世界工作中提供最先进的性能。 【官网】...</description>
-      <category>PH</category>
-      <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-claude-opus-4-6"><span></span></a><a href="https://www.producthunt.com/products/anthropic-5" target="_blank" rel="noopener noreferrer">TOP1    Claude Opus 4.6</a></h2>
-<p><img src="https://ph-files.imgix.net/1285a778-84a8-48b3-b27b-fa4ae88bbbd5.webp?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Claude Opus 4.6" loading="lazy"><br><br>
-<strong>【标语】</strong>：克劳德最先进的代理任务模型<br>
-<strong>【介绍】</strong>：Claude Opus 4.6是Claude迄今为止最强大的模型，专为深度推理、长期运行的代理任务和大型代码库而构建。凭借1 M代币上下文窗口、自适应思维和改进的规划，它在编码、分析、研究和现实世界工作中提供最先进的性能。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/S43XIOYZUO4TJS" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/anthropic-5" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：Claude,代理,代币,先进,任务模型,Opus<br>
-<strong>票数</strong>： 🔺566<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年02月06日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/1285a778-84a8-48b3-b27b-fa4ae88bbbd5.webp?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
