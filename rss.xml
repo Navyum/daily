@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 17 Feb 2026 08:39:50 GMT</pubDate>
-    <lastBuildDate>Tue, 17 Feb 2026 08:39:50 GMT</lastBuildDate>
+    <pubDate>Tue, 17 Feb 2026 09:43:39 GMT</pubDate>
+    <lastBuildDate>Tue, 17 Feb 2026 09:43:39 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,14 +16,35 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Mon, 16 Feb 2026 09:45:58 GMT</pubDate>
+      <pubDate>Tue, 17 Feb 2026 08:37:43 GMT</pubDate>
     </item>
     <item>
       <title>test</title>
       <link>https://github.camscanner.top/daily/blog.html/daily/github/test.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github/test.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">test</source>
-      <pubDate>Mon, 16 Feb 2026 09:45:58 GMT</pubDate>
+      <pubDate>Tue, 17 Feb 2026 08:37:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>PH今日热榜 | 2026-02-16</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-02-16.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-02-16.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-02-16</source>
+      <description>TOP1 Base44 Backend Platform Base44 Backend Platform 【标语】：人工智能时代的后台 【介绍】：用于使用AI代理构建应用程序的完整后台。经过数百万个生产应用程序的实战测试，现在作为针对Claude Code和Cursor优化的独立服务提供。只需一个命令即可部署全栈应用程序，无需后台设置，无需配置。人工智...</description>
+      <category>PH</category>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-base44-backend-platform"><span></span></a><a href="https://www.producthunt.com/products/base44" target="_blank" rel="noopener noreferrer">TOP1    Base44 Backend Platform</a></h2>
+<p><img src="https://ph-files.imgix.net/7638a316-03f7-4954-8a12-a05499e39c18.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Base44 Backend Platform" loading="lazy"><br><br>
+<strong>【标语】</strong>：人工智能时代的后台<br>
+<strong>【介绍】</strong>：用于使用AI代理构建应用程序的完整后台。经过数百万个生产应用程序的实战测试，现在作为针对Claude Code和Cursor优化的独立服务提供。只需一个命令即可部署全栈应用程序，无需后台设置，无需配置。人工智能代理使用简单的技能而不是复杂的API。$ npx base44@latest创建<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/YKRAC6GSJ23QM3" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/base44" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：应用程序,后台,人工智能,无需,代理,数百万个<br>
+<strong>票数</strong>： 🔺453<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年02月16日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/7638a316-03f7-4954-8a12-a05499e39c18.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
     <item>
       <title>PH今日热榜 | 2026-02-15</title>
@@ -171,27 +192,6 @@
 <strong>发布时间</strong>：2026年02月09日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/c3c38a63-501a-4144-8c18-e1678561e5de.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-02-08</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-02-08.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-02-08.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-02-08</source>
-      <description>TOP1 Inspector Inspector 【标语】：克劳德代码的 Figma 【介绍】：Inspector是一个视觉编辑器，可以连接到您最喜欢的人工智能代理（Claude Code、Codex、Cursor）。单击UI中的一个元素，在视觉上对其进行调整，Inspector就会将更改写入您的代码库。不再需要设计交接，只需推入回购即可。 【官网】：...</description>
-      <category>PH</category>
-      <pubDate>Sun, 08 Feb 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-inspector"><span></span></a><a href="https://www.producthunt.com/products/inspector-3" target="_blank" rel="noopener noreferrer">TOP1    Inspector</a></h2>
-<p><img src="https://ph-files.imgix.net/ee078168-a8fc-4d8a-8d6b-4d3db293c410.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Inspector" loading="lazy"><br><br>
-<strong>【标语】</strong>：克劳德代码的 Figma<br>
-<strong>【介绍】</strong>：Inspector是一个视觉编辑器，可以连接到您最喜欢的人工智能代理（Claude Code、Codex、Cursor）。单击UI中的一个元素，在视觉上对其进行调整，Inspector就会将更改写入您的代码库。不再需要设计交接，只需推入回购即可。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/NGGCIBG5JC5YUI" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/inspector-3" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：视觉,代码,FigmaInspector,Claude,Code,Codex<br>
-<strong>票数</strong>： 🔺463<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年02月08日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/ee078168-a8fc-4d8a-8d6b-4d3db293c410.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
