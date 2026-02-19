@@ -6,8 +6,8 @@
     <link>https://github.camscanner.top/daily/blog.html/daily/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 19 Feb 2026 08:39:20 GMT</pubDate>
-    <lastBuildDate>Thu, 19 Feb 2026 08:39:20 GMT</lastBuildDate>
+    <pubDate>Thu, 19 Feb 2026 09:41:16 GMT</pubDate>
+    <lastBuildDate>Thu, 19 Feb 2026 09:41:16 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
@@ -16,14 +16,35 @@
       <link>https://github.camscanner.top/daily/blog.html/daily/github.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">Github 每日榜单</source>
-      <pubDate>Wed, 18 Feb 2026 09:40:37 GMT</pubDate>
+      <pubDate>Thu, 19 Feb 2026 08:36:52 GMT</pubDate>
     </item>
     <item>
       <title>test</title>
       <link>https://github.camscanner.top/daily/blog.html/daily/github/test.html</link>
       <guid>https://github.camscanner.top/daily/blog.html/daily/github/test.html</guid>
       <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">test</source>
-      <pubDate>Wed, 18 Feb 2026 09:40:37 GMT</pubDate>
+      <pubDate>Thu, 19 Feb 2026 08:36:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>PH今日热榜 | 2026-02-18</title>
+      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-02-18.html</link>
+      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-02-18.html</guid>
+      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-02-18</source>
+      <description>TOP1 Sonnet 4.6 Sonnet 4.6 【标语】：迄今为止最有能力的十四行诗模型 【介绍】：Claude Sonnet 4.6是编码、计算机使用、长上下文推理、代理规划、知识工作和设计的全面升级。它还具有1M令牌上下文窗口测试版。十四行诗4.6在基准上全面改进。它的价格接近Opus级别的智能，使其适用于更多任务。它还显示出计算机使用技能的...</description>
+      <category>PH</category>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-sonnet-4-6"><span></span></a><a href="https://www.producthunt.com/products/claude" target="_blank" rel="noopener noreferrer">TOP1    Sonnet 4.6</a></h2>
+<p><img src="https://ph-files.imgix.net/11162f03-69a2-494e-9ed5-e0ef2ec22e14.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Sonnet 4.6" loading="lazy"><br><br>
+<strong>【标语】</strong>：迄今为止最有能力的十四行诗模型<br>
+<strong>【介绍】</strong>：Claude Sonnet 4.6是编码、计算机使用、长上下文推理、代理规划、知识工作和设计的全面升级。它还具有1M令牌上下文窗口测试版。十四行诗4.6在基准上全面改进。它的价格接近Opus级别的智能，使其适用于更多任务。它还显示出计算机使用技能的重大提高。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/XRJAQEGV3YYNPN" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/claude" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：4.6,十四行诗,上下文,计算机,Claude,Sonnet<br>
+<strong>票数</strong>： 🔺548<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年02月18日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/11162f03-69a2-494e-9ed5-e0ef2ec22e14.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
     <item>
       <title>PH今日热榜 | 2026-02-17</title>
@@ -171,27 +192,6 @@
 <strong>发布时间</strong>：2026年02月11日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/3cc70a3e-7df3-44cc-8c67-3e1d9e6e40c7.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-02-10</title>
-      <link>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-02-10.html</link>
-      <guid>https://github.camscanner.top/daily/blog.html/daily/posts/PH-daily-2026-02-10.html</guid>
-      <source url="https://github.camscanner.top/daily/blog.html/daily/rss.xml">PH今日热榜 | 2026-02-10</source>
-      <description>TOP1 Tinkerer Club Tinkerer Club 【标语】：自动化、自我托管和使用人工智能的人们的私人俱乐部 【介绍】：Tinkerer Club -在这里，建筑者拥有自己的堆栈，而不是租用它。加入1000多名开发人员、黑客和自动化书呆子的行列，运行本地人工智能，自托管一切，并逃脱订阅陷阱。获取私人Discord、每周情报、实时电话、折...</description>
-      <category>PH</category>
-      <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-tinkerer-club"><span></span></a><a href="https://www.producthunt.com/products/tinkerer-club-own-everything" target="_blank" rel="noopener noreferrer">TOP1    Tinkerer Club</a></h2>
-<p><img src="https://ph-files.imgix.net/3358d1e7-aade-4cc2-8617-796563af289e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Tinkerer Club" loading="lazy"><br><br>
-<strong>【标语】</strong>：自动化、自我托管和使用人工智能的人们的私人俱乐部<br>
-<strong>【介绍】</strong>：Tinkerer Club -在这里，建筑者拥有自己的堆栈，而不是租用它。加入1000多名开发人员、黑客和自动化书呆子的行列，运行本地人工智能，自托管一切，并逃脱订阅陷阱。获取私人Discord、每周情报、实时电话、折扣以及抢先体验Clawdbot等工具--具有Shell访问权限、技能和私人内存的设备上人工智能。没有绒毛，没有看门人，只是让那艘船变得复杂。终身访问。最后机会建筑商定价：399 - 299（还剩81个位置）。拥有您的数字生活。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/R7FWAS75UUOIR4" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/tinkerer-club-own-everything" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：人工智能,私人,托管,自动化,访问,建筑者<br>
-<strong>票数</strong>： 🔺448<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年02月10日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/3358d1e7-aade-4cc2-8617-796563af289e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
