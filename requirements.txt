@@ -1,5 +1,5 @@
-requests
-beautifulsoup4
-pytz
-tencentcloud-sdk-python
-jieba
+requests>=2.32,<3
+beautifulsoup4>=4.12,<5
+pytz>=2024.1
+tencentcloud-sdk-python>=3.0,<4
+jieba>=0.42,<1

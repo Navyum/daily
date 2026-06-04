@@ -3,13 +3,18 @@
   "version": "1.3.4",
   "license": "MIT",
   "type": "module",
+  "packageManager": "pnpm@9.15.9",
+  "engines": {
+    "node": ">=20",
+    "pnpm": ">=9"
+  },
   "scripts": {
     "docs:dev": "vuepress-webpack dev docs",
     "docs:build": "vuepress-webpack build docs",
     "docs:clean-dev": "vuepress-webpack dev docs --clean-cache",
     "docs:update-package": "pnpm dlx vp-update",
     "lint": "prettier --check .",
-    "lint:fix": "prettier --check --write .",
+    "lint:fix": "prettier --write .",
     "lint:markdown": "markdownlint docs",
     "lint:markdown-fix": "markdownlint docs --fix"
   },

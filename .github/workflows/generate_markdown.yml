@@ -38,6 +38,10 @@ jobs:
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git add -A
+        if git diff --cached --quiet; then
+          echo "No generated changes to commit."
+          exit 0
+        fi
         git commit -m "Auto Generate Today Content"
         
     - name: Push changes
@@ -84,4 +88,3 @@ jobs:
           # 指定静态文件部署到的分支
           branch: gh-pages
           folder: docs/.vuepress/dist
-

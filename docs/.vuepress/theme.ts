@@ -193,7 +193,7 @@ export default hopeTheme({
     // 本地搜索，和上方二选一
     searchPro: {
       // 索引全部内容
-      indexContent: true,
+      indexContent: false,
     },
 
     feed: {
