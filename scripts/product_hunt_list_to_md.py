@@ -285,6 +285,32 @@ def generate_markdown(products, date_str):
         file.write(markdown_content)
     print(f"文件 {file_name} 生成成功并已覆盖。")
 
+def update_latest_nav_link(date_str):
+    navbar_path = 'docs/.vuepress/navbar.ts'
+    latest_link = f'link: "/_posts/PH-daily-{date_str}"'
+
+    with open(navbar_path, 'r', encoding='utf-8') as file:
+        content = file.read()
+
+    marker = 'text: "最新榜单"'
+    marker_index = content.find(marker)
+    if marker_index == -1:
+        raise RuntimeError("Latest ranking navbar item not found")
+
+    link_index = content.find('link: "/_posts/PH-daily-', marker_index)
+    if link_index == -1:
+        raise RuntimeError("Latest ranking navbar link not found")
+
+    line_end = content.find('\n', link_index)
+    if line_end == -1:
+        line_end = len(content)
+
+    updated_content = content[:link_index] + latest_link + content[line_end:]
+    with open(navbar_path, 'w', encoding='utf-8') as file:
+        file.write(updated_content)
+
+    print(f"已更新最新榜单导航链接：{latest_link}")
+
 def stripe_url_params(url):
     stripe_url = urljoin(url, urlparse(url).path)
     return stripe_url
@@ -329,6 +355,7 @@ def main(date_str):
 
     # 生成Markdown文件
     generate_markdown(products, date_str)
+    update_latest_nav_link(date_str)
  
 if __name__ == "__main__":
     args = parse_args(sys.argv[1:])

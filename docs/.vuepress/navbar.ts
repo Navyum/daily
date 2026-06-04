@@ -12,7 +12,7 @@ export default navbar([
   {
     text: "最新榜单",
     icon: "fa6-solid:bolt",
-    link: "/_posts/PH-daily-2026-06-02",
+    link: "/_posts/PH-daily-2026-06-03",
   },
   {
     text: "Github Daily",
