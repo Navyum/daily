@@ -13,18 +13,27 @@ export default defineUserConfig({
   // 网站标题
   title: "DAYHACK",
   // 网站描述
-  description: "开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。",
+  description:
+    "每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。",
+
+  head: [["meta", { name: "theme-color", content: "#da552f" }]],
 
   theme,
-  // 是否开启页面预拉取，如果服务器宽带足够，可改为 true，会提升其他页面加载速度
-  shouldPrefetch: true,
+  // 大量历史榜单页面会放大预取带宽和首屏 CPU 成本，先关闭全站预取。
+  shouldPrefetch: false,
 
   // 修改页面模板，https://github.com/vuepress-theme-hope/vuepress-theme-hope/blob/main/packages/theme/templates/index.build.html
   // 配置参考：https://vuepress.github.io/zh/reference/theme-api.html#templatebuild
   templateBuild: "./docs/.vuepress/templateBuild.html",
 
   // 禁止文件夹生成静态文件，参考 [VuePress 文档]（https://v2.vuepress.vuejs.org/zh/guide/page.html#routing）
-  pagePatterns: ["**/*.md", "!_temp", "!reading", "!.vuepress", "!node_modules"],
+  pagePatterns: [
+    "**/*.md",
+    "!_temp",
+    "!reading",
+    "!.vuepress",
+    "!node_modules",
+  ],
 
   plugins: [
     // 谷歌分析
