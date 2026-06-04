@@ -187,11 +187,8 @@ export default hopeTheme({
     },
   */
 
-    // 本地搜索，和上方二选一
-    searchPro: {
-      // 索引全部内容
-      indexContent: true,
-    },
+    // 600+ 篇榜单会让本地搜索索引在 webpack 阶段占用大量内存，发布构建改用无本地索引模式。
+    searchPro: false,
 
     feed: {
       atom: true,

@@ -1,10 +1,20 @@
 import { webpackBundler } from "@vuepress/bundler-webpack";
 import { defineUserConfig } from "vuepress";
 import { googleAnalyticsPlugin } from "@vuepress/plugin-google-analytics";
+import { readdirSync } from "node:fs";
 
 import theme from "./theme.js";
 
 const siteHostname = "https://github.camscanner.top";
+const recentPostLimit = Number(process.env.DAILY_BUILD_POST_LIMIT ?? 60);
+
+const getRecentPostPagePatterns = (): string[] =>
+  readdirSync(new URL("../_posts/", import.meta.url))
+    .filter((file) => /^PH-daily-\d{4}-\d{2}-\d{2}\.md$/.test(file))
+    .sort()
+    .reverse()
+    .slice(0, recentPostLimit)
+    .map((file) => `_posts/${file}`);
 
 const getCanonicalUrl = (base: string, path: string): string =>
   new URL(`${base.replace(/\/$/, "")}${path}`, siteHostname).href;
@@ -55,7 +65,9 @@ export default defineUserConfig({
 
   // 禁止文件夹生成静态文件，参考 [VuePress 文档]（https://v2.vuepress.vuejs.org/zh/guide/page.html#routing）
   pagePatterns: [
-    "**/*.md",
+    "*.md",
+    "github/**/*.md",
+    ...getRecentPostPagePatterns(),
     "!_temp",
     "!reading",
     "!.vuepress",
