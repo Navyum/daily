@@ -1,18 +1,17 @@
 import os
 import sys
 import argparse
-import requests
+import re
 from datetime import datetime, timedelta, timezone
+from pathlib import Path
 from urllib.parse import urljoin, urlparse
-from bs4 import BeautifulSoup
-import pytz
-from requests.adapters import HTTPAdapter
-from urllib3.util.retry import Retry
-from tencentcloud.common import credential
-from tencentcloud.tmt.v20180321 import tmt_client as tencent_tmt_client, models
-import jieba
-import jieba.analyse
 from urllib.parse import urlencode, urlunparse, urlparse, parse_qs
+
+POSTS_DIR = Path("docs/_posts")
+HOME_PAGE_PATHS = (Path("docs/index.md"), Path("docs/blog.md"))
+ARCHIVE_PAGE_PATH = Path("docs/ph-archive.md")
+PH_NAV_START = "<!-- PH_NAV_START -->"
+PH_NAV_END = "<!-- PH_NAV_END -->"
 
 class Product:
     def __init__(self, id: str, name: str, tagline: str, description: str, votesCount: int, createdAt: str, featuredAt: str, website: str, url: str, translator=None, **kwargs):
@@ -47,6 +46,9 @@ class Product:
     # 因为ph上线了cloudflare 人机验证，所以无法通过标签方式获取图片
     def fetch_og_image_url(self) -> str:
         """获取产品的Open Graph图片URL"""
+        import requests
+        from bs4 import BeautifulSoup
+
         # 添加更多请求头信息
         headers = {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
@@ -111,8 +113,8 @@ class Product:
     def convert_to_beijing_time(self, utc_time_str: str) -> str:
         """将UTC时间转换为北京时间"""
         utc_time = datetime.strptime(utc_time_str, '%Y-%m-%dT%H:%M:%SZ')
-        beijing_tz = pytz.timezone('Asia/Shanghai')
-        beijing_time = utc_time.replace(tzinfo=pytz.utc).astimezone(beijing_tz)
+        beijing_tz = timezone(timedelta(hours=8))
+        beijing_time = utc_time.replace(tzinfo=timezone.utc).astimezone(beijing_tz)
         return beijing_time.strftime('%Y年%m月%d日 %p%I:%M (北京时间)')
 
     def to_markdown(self, rank: int) -> str:
@@ -162,6 +164,9 @@ def get_producthunt_token():
     return token
 
 def create_tencent_translator():
+    from tencentcloud.common import credential
+    from tencentcloud.tmt.v20180321 import tmt_client as tencent_tmt_client, models
+
     tencent_secret_id = os.getenv('TENCENT_SECRET_ID')
     tencent_secret_key = os.getenv('TENCENT_SECRET_KEY')
     if not tencent_secret_id or not tencent_secret_key:
@@ -184,6 +189,10 @@ def create_tencent_translator():
 
 def fetch_product_hunt_data(date_str, translator=None):
     """从Product Hunt获取前一天的Top 30数据"""
+    import requests
+    from requests.adapters import HTTPAdapter
+    from urllib3.util.retry import Retry
+
     token = get_producthunt_token()
     url = "https://api.producthunt.com/v2/api/graphql"
     
@@ -311,11 +320,254 @@ def update_latest_nav_link(date_str):
 
     print(f"已更新最新榜单导航链接：{latest_link}")
 
+def route_for_date(date_str):
+    return f"/_posts/PH-daily-{date_str}"
+
+def sanitize_markdown_cell(text):
+    return re.sub(r"\s+", " ", text.replace("|", "\\|").replace("<br />", " ")).strip()
+
+def strip_generated_nav(content):
+    start = content.find(PH_NAV_START)
+    end = content.find(PH_NAV_END)
+    if start == -1 or end == -1:
+        return content.rstrip()
+    return (content[:start] + content[end + len(PH_NAV_END):]).rstrip()
+
+def extract_first(pattern, content, default=""):
+    match = re.search(pattern, content, re.S)
+    return match.group(1).strip() if match else default
+
+def parse_product_blocks(content, limit=5):
+    product_pattern = re.compile(
+        r"## \[TOP(?P<rank>\d+)\s+(?P<name>[^\]]+)\]\((?P<url>[^)]+)\)\n"
+        r"!\[[^\]]*\]\((?P<image>[^)]+)\)<br /><br />\n"
+        r"\*\*【标语】\*\*：(?P<tagline>.*?)<br />\n"
+        r"\*\*【介绍】\*\*：(?P<description>.*?)<br />\n"
+        r"\*\*【官网】\*\*：\[立即访问\]\((?P<website>[^)]+)\)<br />\n"
+        r"\*\*【Product Hunt】\*\*：\[View on Product Hunt\]\((?P<product_hunt>[^)]+)\)<br /><br />.*?"
+        r"\*\*票数\*\*：\s*🔺(?P<votes>\d+)<br />\n"
+        r"\*\*是否精选\*\*：(?P<featured>.*?)<br />",
+        re.S,
+    )
+
+    products = []
+    for match in product_pattern.finditer(content):
+        products.append({
+            "rank": int(match.group("rank")),
+            "name": sanitize_markdown_cell(match.group("name")),
+            "url": match.group("url").strip(),
+            "image": match.group("image").strip(),
+            "tagline": sanitize_markdown_cell(match.group("tagline")),
+            "description": sanitize_markdown_cell(match.group("description")),
+            "website": match.group("website").strip(),
+            "product_hunt": match.group("product_hunt").strip(),
+            "votes": int(match.group("votes")),
+            "featured": sanitize_markdown_cell(match.group("featured")),
+        })
+        if len(products) >= limit:
+            break
+    return products
+
+def collect_post_summaries():
+    posts = []
+    for path in POSTS_DIR.glob("PH-daily-*.md"):
+        match = re.search(r"PH-daily-(\d{4}-\d{2}-\d{2})\.md$", path.name)
+        if not match:
+            continue
+
+        content = path.read_text(encoding="utf-8")
+        date_str = match.group(1)
+        products = parse_product_blocks(content)
+        posts.append({
+            "date": date_str,
+            "title": extract_first(r"title:\s*(.+)", content, f"PH今日热榜 | {date_str}"),
+            "path": path,
+            "route": route_for_date(date_str),
+            "products": products,
+            "top_product": products[0] if products else None,
+        })
+
+    posts.sort(key=lambda post: post["date"], reverse=True)
+    return posts
+
+def render_landing_page(posts):
+    if not posts:
+        raise RuntimeError("No Product Hunt daily posts found")
+
+    latest = posts[0]
+    previous = posts[1] if len(posts) > 1 else None
+    recent = posts[:7]
+    months = sorted({post["date"][:7] for post in posts}, reverse=True)
+    top_products = latest["products"][:5]
+
+    lines = [
+        "---",
+        "home: false",
+        "icon: simple-icons:producthunt",
+        "title: PH每日热榜",
+        "comment: false",
+        "---",
+        "",
+        "# PH每日热榜",
+        "",
+        f"最新一期：[PH今日热榜 | {latest['date']}]({latest['route']})",
+        "",
+    ]
+
+    if previous:
+        lines.append(f"上一期：[PH今日热榜 | {previous['date']}]({previous['route']})")
+    else:
+        lines.append("上一期：暂无")
+    lines.extend([
+        "",
+        "[查看全部月份归档](/ph-archive)",
+        "",
+        "## 最新一期摘要",
+        "",
+    ])
+
+    if top_products:
+        lines.extend([
+            "| 排名 | 产品 | 票数 | 精选 | 标语 |",
+            "| --- | --- | ---: | --- | --- |",
+        ])
+        for product in top_products:
+            lines.append(
+                f"| TOP{product['rank']} | [{product['name']}]({product['url']}) | "
+                f"{product['votes']} | {product['featured']} | {product['tagline']} |"
+            )
+    else:
+        lines.append("暂无产品摘要。")
+
+    lines.extend([
+        "",
+        "## 最近 7 天",
+        "",
+    ])
+    for post in recent:
+        top = post["top_product"]
+        suffix = f" · TOP1 {top['name']} · 🔺{top['votes']}" if top else ""
+        lines.append(f"- [{post['date']}]({post['route']}){suffix}")
+
+    lines.extend([
+        "",
+        "## 月份归档",
+        "",
+    ])
+    for month in months[:18]:
+        lines.append(f"- [{month}](/ph-archive#{month})")
+
+    lines.extend([
+        "",
+        "## 快捷入口",
+        "",
+        f"- [最新一期]({latest['route']})",
+    ])
+    if previous:
+        lines.append(f"- [上一期]({previous['route']})")
+    lines.append("- [月份归档](/ph-archive)")
+    lines.append("")
+
+    return "\n".join(lines)
+
+def render_archive_page(posts):
+    grouped = {}
+    for post in posts:
+        grouped.setdefault(post["date"][:7], []).append(post)
+
+    lines = [
+        "---",
+        "home: false",
+        "icon: fa6-solid:calendar-days",
+        "title: PH月份归档",
+        "comment: false",
+        "---",
+        "",
+        "# PH月份归档",
+        "",
+        f"共收录 {len(posts)} 期 Product Hunt 日榜。",
+        "",
+        "## 月份索引",
+        "",
+    ]
+
+    for month in sorted(grouped.keys(), reverse=True):
+        lines.append(f"- [{month}](#{month}) · {len(grouped[month])} 期")
+
+    for month in sorted(grouped.keys(), reverse=True):
+        lines.extend(["", f"## {month}", ""])
+        for post in grouped[month]:
+            top = post["top_product"]
+            suffix = f" · TOP1 {top['name']} · 🔺{top['votes']}" if top else ""
+            lines.append(f"- [{post['date']}]({post['route']}){suffix}")
+
+    lines.append("")
+    return "\n".join(lines)
+
+def render_post_navigation(post, previous_post, next_post, latest_post):
+    lines = [
+        "",
+        PH_NAV_START,
+        "## 继续浏览",
+        "",
+    ]
+    if previous_post:
+        lines.append(f"- 上一期：[PH今日热榜 | {previous_post['date']}]({previous_post['route']})")
+    else:
+        lines.append("- 上一期：暂无")
+    if next_post:
+        lines.append(f"- 下一期：[PH今日热榜 | {next_post['date']}]({next_post['route']})")
+    else:
+        lines.append("- 下一期：暂无")
+    lines.extend([
+        f"- 最新一期：[PH今日热榜 | {latest_post['date']}]({latest_post['route']})",
+        "- 月份归档：[PH月份归档](/ph-archive)",
+        PH_NAV_END,
+        "",
+    ])
+    return "\n".join(lines)
+
+def update_recent_post_navigation(posts, count=7):
+    latest_post = posts[0]
+    selected_paths = []
+    for index, post in enumerate(posts[:count]):
+        previous_post = posts[index + 1] if index + 1 < len(posts) else None
+        next_post = posts[index - 1] if index > 0 else None
+        content = post["path"].read_text(encoding="utf-8")
+        updated_content = strip_generated_nav(content) + render_post_navigation(
+            post,
+            previous_post,
+            next_post,
+            latest_post,
+        )
+        post["path"].write_text(updated_content, encoding="utf-8")
+        selected_paths.append(str(post["path"]))
+    return selected_paths
+
+def refresh_frontend_navigation():
+    posts = collect_post_summaries()
+    if not posts:
+        raise RuntimeError("No Product Hunt daily posts found")
+
+    landing_page = render_landing_page(posts)
+    for path in HOME_PAGE_PATHS:
+        path.write_text(landing_page, encoding="utf-8")
+
+    ARCHIVE_PAGE_PATH.write_text(render_archive_page(posts), encoding="utf-8")
+    update_latest_nav_link(posts[0]["date"])
+    updated_posts = update_recent_post_navigation(posts)
+
+    print(f"已更新 PH 首页：{', '.join(str(path) for path in HOME_PAGE_PATHS)}")
+    print(f"已更新 PH 月份归档：{ARCHIVE_PAGE_PATH}")
+    print(f"已更新最近文章导航：{', '.join(updated_posts)}")
+
 def stripe_url_params(url):
     stripe_url = urljoin(url, urlparse(url).path)
     return stripe_url
 
 def generate_keywords(content):
+    import jieba.analyse
+
     tags = jieba.analyse.extract_tags(content, topK=6)
     return(",".join(tags))
 
@@ -325,6 +577,11 @@ def parse_args(argv):
         "date",
         nargs="?",
         help="Product Hunt post date to generate, formatted as YYYY-MM-DD. Defaults to yesterday in UTC.",
+    )
+    parser.add_argument(
+        "--refresh-navigation-only",
+        action="store_true",
+        help="Refresh PH landing, archive, and recent post navigation from existing markdown posts.",
     )
     return parser.parse_args(argv)
 
@@ -338,7 +595,11 @@ def validate_date(date_str):
         raise ValueError("date must be formatted as YYYY-MM-DD") from e
     return date_str
 
-def main(date_str):
+def main(date_str, refresh_navigation_only=False):
+    if refresh_navigation_only:
+        refresh_frontend_navigation()
+        return
+
     date_str = validate_date(date_str)
     if date_str :
         print(f"date: {date_str} 脚本参数传递")
@@ -355,8 +616,8 @@ def main(date_str):
 
     # 生成Markdown文件
     generate_markdown(products, date_str)
-    update_latest_nav_link(date_str)
+    refresh_frontend_navigation()
  
 if __name__ == "__main__":
     args = parse_args(sys.argv[1:])
-    main(args.date)
+    main(args.date, refresh_navigation_only=args.refresh_navigation_only)
