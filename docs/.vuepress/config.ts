@@ -4,6 +4,33 @@ import { googleAnalyticsPlugin } from "@vuepress/plugin-google-analytics";
 
 import theme from "./theme.js";
 
+const siteHostname = "https://github.camscanner.top";
+
+const getCanonicalUrl = (base: string, path: string): string =>
+  new URL(`${base.replace(/\/$/, "")}${path}`, siteHostname).href;
+
+const canonicalPlugin = () => ({
+  name: "daily-canonical",
+  extendsPage: (page, app) => {
+    const head = Array.isArray(page.frontmatter.head)
+      ? page.frontmatter.head.filter(
+          (item) => item?.[0] !== "link" || item?.[1]?.rel !== "canonical",
+        )
+      : [];
+
+    page.frontmatter.head = [
+      ...head,
+      [
+        "link",
+        {
+          rel: "canonical",
+          href: getCanonicalUrl(app.options.base, page.path),
+        },
+      ],
+    ];
+  },
+});
+
 export default defineUserConfig({
   // 网站路径默认为主域名。如果网站部署在子路径下，比如 xxx.com/yyy，那么 base 应该被设置为 "/yyy/"
   base: "/daily/",
@@ -36,6 +63,8 @@ export default defineUserConfig({
   ],
 
   plugins: [
+    canonicalPlugin(),
+
     // 谷歌分析
     googleAnalyticsPlugin({
       // 设置你的 Analytics ID
