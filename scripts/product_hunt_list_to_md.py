@@ -1,5 +1,6 @@
 import os
 import sys
+import argparse
 import requests
 from datetime import datetime, timedelta, timezone
 from urllib.parse import urljoin, urlparse
@@ -8,21 +9,13 @@ import pytz
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 from tencentcloud.common import credential
-from tencentcloud.tmt.v20180321 import tmt_client, models
+from tencentcloud.tmt.v20180321 import tmt_client as tencent_tmt_client, models
 import jieba
 import jieba.analyse
 from urllib.parse import urlencode, urlunparse, urlparse, parse_qs
 
-producthunt_client_id = os.getenv('PRODUCTHUNT_CLIENT_ID')
-producthunt_client_secret = os.getenv('PRODUCTHUNT_CLIENT_SECRET')
-tencent_secret_id = os.getenv('TENCENT_SECRET_ID')
-tencent_secret_key = os.getenv('TENCENT_SECRET_KEY')
-
-cred = credential.Credential(tencent_secret_id, tencent_secret_key)
-tmt_client = tmt_client.TmtClient(cred, "ap-chengdu")
-
 class Product:
-    def __init__(self, id: str, name: str, tagline: str, description: str, votesCount: int, createdAt: str, featuredAt: str, website: str, url: str, **kwargs):
+    def __init__(self, id: str, name: str, tagline: str, description: str, votesCount: int, createdAt: str, featuredAt: str, website: str, url: str, translator=None, **kwargs):
         self.name = name
         self.tagline = tagline
         self.description = description
@@ -33,6 +26,7 @@ class Product:
         self.url = stripe_url_params(url)
         self.og_image_url = ""
         self.keyword = "无关键词"
+        self.translator = translator
         self.translated_tagline = self.translate_text(self.tagline)
         self.translated_description = self.translate_text(self.description)
 
@@ -105,16 +99,11 @@ class Product:
 
     def translate_text(self, text: str) -> str:
         """【使用tencent翻译文本内容】"""
-        try:
-            request = models.TextTranslateRequest()
-            request.Source = "auto" ## en
-            request.Target = "zh"
-            request.SourceText = text
-            request.ProjectId = 0
+        if self.translator is None:
+            return text
 
-            # 发送请求并获取翻译结果
-            TextTranslateResponse = tmt_client.TextTranslate(request)
-            return TextTranslateResponse.TargetText
+        try:
+            return self.translator(text)
         except Exception as e:
             print(f"Error occurred during translation: {e}")
             return text
@@ -172,7 +161,28 @@ def get_producthunt_token():
         raise Exception("Product Hunt developer token not found in environment variables")
     return token
 
-def fetch_product_hunt_data(date_str):
+def create_tencent_translator():
+    tencent_secret_id = os.getenv('TENCENT_SECRET_ID')
+    tencent_secret_key = os.getenv('TENCENT_SECRET_KEY')
+    if not tencent_secret_id or not tencent_secret_key:
+        raise RuntimeError("Tencent translation credentials are missing")
+
+    cred = credential.Credential(tencent_secret_id, tencent_secret_key)
+    client = tencent_tmt_client.TmtClient(cred, "ap-chengdu")
+
+    def translate(text: str) -> str:
+        request = models.TextTranslateRequest()
+        request.Source = "auto"
+        request.Target = "zh"
+        request.SourceText = text
+        request.ProjectId = 0
+
+        response = client.TextTranslate(request)
+        return response.TargetText
+
+    return translate
+
+def fetch_product_hunt_data(date_str, translator=None):
     """从Product Hunt获取前一天的Top 30数据"""
     token = get_producthunt_token()
     url = "https://api.producthunt.com/v2/api/graphql"
@@ -235,7 +245,9 @@ def fetch_product_hunt_data(date_str):
             response = session.post(url, headers=headers, json={"query": query})
             response.raise_for_status()  # 抛出非200状态码的异常
         except requests.exceptions.RequestException as e:
-            raise Exception(f"Failed to fetch data from Product Hunt: {response.status_code}, {response.text}")
+            status_code = getattr(e.response, "status_code", "no response")
+            response_text = getattr(e.response, "text", str(e))
+            raise Exception(f"Failed to fetch data from Product Hunt: {status_code}, {response_text}") from e
 
         data = response.json()['data']['posts']
         posts = data['nodes']
@@ -245,7 +257,7 @@ def fetch_product_hunt_data(date_str):
         cursor = data['pageInfo']['endCursor']
 
     # 只保留前30个产品
-    return [Product(**post) for post in sorted(all_posts, key=lambda x: x['votesCount'], reverse=True)[:30]]
+    return [Product(**post, translator=translator) for post in sorted(all_posts, key=lambda x: x['votesCount'], reverse=True)[:30]]
 
 def generate_markdown(products, date_str):
     """生成Markdown内容并保存到docs目录"""
@@ -281,7 +293,27 @@ def generate_keywords(content):
     tags = jieba.analyse.extract_tags(content, topK=6)
     return(",".join(tags))
 
+def parse_args(argv):
+    parser = argparse.ArgumentParser(description="Generate a Product Hunt daily markdown post.")
+    parser.add_argument(
+        "date",
+        nargs="?",
+        help="Product Hunt post date to generate, formatted as YYYY-MM-DD. Defaults to yesterday in UTC.",
+    )
+    return parser.parse_args(argv)
+
+def validate_date(date_str):
+    if date_str is None:
+        return None
+
+    try:
+        datetime.strptime(date_str, "%Y-%m-%d")
+    except ValueError as e:
+        raise ValueError("date must be formatted as YYYY-MM-DD") from e
+    return date_str
+
 def main(date_str):
+    date_str = validate_date(date_str)
     if date_str :
         print(f"date: {date_str} 脚本参数传递")
     else :
@@ -290,12 +322,14 @@ def main(date_str):
         date_str = yesterday.strftime('%Y-%m-%d')
         print(f"date: {date_str} 自动获取昨天的日期")
 
+    translator = create_tencent_translator()
+
     # 获取Product Hunt数据
-    products = fetch_product_hunt_data(date_str)
+    products = fetch_product_hunt_data(date_str, translator=translator)
 
     # 生成Markdown文件
     generate_markdown(products, date_str)
  
 if __name__ == "__main__":
-    date_str = None
-    main(date_str)
+    args = parse_args(sys.argv[1:])
+    main(args.date)

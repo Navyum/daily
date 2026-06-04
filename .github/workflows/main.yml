@@ -7,7 +7,7 @@ on:
       - main
   workflow_dispatch:  # 手动触发
   workflow_run:
-    workflows: "Generate Daily Markdown1"    # 需要监听的流程名字
+    workflows: "Generate Daily Markdown"    # 需要监听的流程名字
     types: completed
 
 jobs:
