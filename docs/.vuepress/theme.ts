@@ -4,14 +4,14 @@ import sidebar from "./sidebar.js";
 
 export default hopeTheme({
   // 主题选项：https://theme-hope.vuejs.press/zh/config/theme/layout.html
-  hostname: "https://github.camscanner.top/daily/blog.html",
-  
+  hostname: "https://github.camscanner.top",
+
   // 公用 CDN 在部分浏览器中可能无法正确显示图标。2024.07 开始，uBlock Origin 将拦截公有 CDN 的 js 请求。
   // https://icon-sets.iconify.design/
   iconAssets: "iconify",
   author: {
     name: "Navyum",
-    url: "https://github.camscanner.top/daily/blog.html",
+    url: "https://github.camscanner.top/daily/",
   },
 
   favicon: "/favicon.ico",
@@ -47,10 +47,10 @@ export default hopeTheme({
 
   // 自定义仓库链接文字。默认从 `repo` 中自动推断为 "GitHub" / "GitLab" / "Gitee" / "Bitbucket" 其中之一，或是 "Source"。
   //repoLabel: "GitHub",
-  
+
   // 是否在导航栏内显示仓库链接，默认为 `true`
   //repoDisplay: true,
-  
+
   // 文档存放路径
   docsDir: "docs",
 
@@ -60,28 +60,28 @@ export default hopeTheme({
   navbarLayout: {
     start: ["Brand"],
     center: ["Links"],
-    end: ["Repo", "Outlook", "Search"],  // 还可选择 "SocialLink"
+    end: ["Repo", "Outlook", "Search"], // 还可选择 "SocialLink"
   },
-  
-  // 是否在向下滚动时自动隐藏导航栏
-  navbarAutoHide: "always",
 
-  // sidebar 
-  sidebar: false,  //先关闭侧边栏
+  // 是否在向下滚动时自动隐藏导航栏
+  navbarAutoHide: "mobile",
+
+  // sidebar
+  sidebar: false, //先关闭侧边栏
   // 侧边栏排序规则
   // sidebarSorter: ['readme', 'order', 'title'],
 
   // 页面布局 Frontmatter 配置：https://theme-hope.vuejs.press/zh/config/frontmatter/layout.html#pageinfo
-  pageInfo: ["Category", "Tag", "Word", "ReadingTime", "PageView"],
+  pageInfo: ["Category", "Tag", "PageView"],
 
   // 主题功能选项：https://theme-hope.vuejs.press/zh/config/theme/feature.html
   blog: {
-    articleInfo: ["Date", "PageView", "Category", "Tag", "ReadingTime"],
+    articleInfo: ["Date", "PageView", "Category", "Tag"],
     name: "Navyum",
     avatar: "/avatar_self.jpeg",
-    description: "互联网大厂搬砖码农",
+    description: "每日发现值得关注的产品与开源项目",
     intro: "/intro.html",
-    
+
     /*
     medias: {
       GitHub: "https://github.com/rockbenben",
@@ -93,18 +93,27 @@ export default hopeTheme({
       RSS: "/rss.xml",
     },
     */
-    
   },
 
   // 隐藏打印按钮
   print: false,
 
   plugins: {
-    blog: true,
+    blog: {
+      article: false,
+      category: false,
+      categoryItem: false,
+      excerpt: false,
+      star: false,
+      tag: false,
+      tagItem: false,
+      timeline: false,
+    },
+    git: false,
+    readingTime: false,
 
     // 评论配置（仅做样例，记得更换）
     comment: {
-      
       // 在本地运行 `pnpm docs:dev` 并使用非 localhost 域名时，容易出现 403 错误，移除本部分即可解决
       provider: "Waline",
       serverURL: "https://waline.camscanner.top",
@@ -119,7 +128,6 @@ export default hopeTheme({
       */
       // 部署 Waline：https://waline.js.org/guide/get-started.html
       pageview: true, // 浏览量统计
-      
     },
     /*
       locales: {
@@ -182,7 +190,7 @@ export default hopeTheme({
     },
 
     // Algolia 全文搜索：需要自己设置爬虫并生成下方配置，如不会自己设置，启用下方本地搜索
-  /* 
+    /*
     docsearch: {
       indexName: "newzone",
       appId: "M4EXXEZIEG",
@@ -190,11 +198,8 @@ export default hopeTheme({
     },
   */
 
-    // 本地搜索，和上方二选一
-    searchPro: {
-      // 索引全部内容
-      indexContent: true,
-    },
+    // 600+ 篇榜单会让本地搜索索引在 webpack 阶段占用大量内存，发布构建改用无本地索引模式。
+    searchPro: false,
 
     feed: {
       atom: true,
