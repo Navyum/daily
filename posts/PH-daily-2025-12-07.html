@@ -12,352 +12,516 @@
 <link rel="alternate" type="application/atom+xml" href="https://github.camscanner.top/daily/atom.xml" title="DAYHACK">
 <link rel="alternate" type="application/feed+json" href="https://github.camscanner.top/daily/feed.json" title="DAYHACK">
 <link rel="alternate" type="application/rss+xml" href="https://github.camscanner.top/daily/rss.xml" title="DAYHACK">
-<link rel="stylesheet" href="/daily/assets/css/styles.0b315dd7.css">
+<link rel="stylesheet" href="/daily/assets/css/styles.661792b7.css">
 <style>
-.ph-archive-page { max-width: 920px; margin: 0 auto; padding: 5rem 1.5rem 4rem; line-height: 1.75; }
-.ph-archive-page header { margin-bottom: 2rem; }
+:root { --daily-accent: #da552f; --daily-link: #2563eb; --daily-surface: #fff; --daily-border: rgb(15 23 42 / 10%); }
+.ph-archive-page { max-width: 1080px; margin: 0 auto; padding: 5rem 1.5rem 4rem; line-height: 1.75; }
+.ph-archive-page header { margin-bottom: 1.5rem; }
 .ph-archive-page h1 { margin: 0 0 .75rem; font-size: clamp(2rem, 5vw, 3.25rem); line-height: 1.15; }
 .ph-archive-page time { color: var(--vp-c-text-mute, #6b7280); }
-.ph-archive-page h2 { margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid var(--vp-c-border, #e5e7eb); }
-.ph-archive-page img { display: block; width: min(100%, 720px); height: auto; margin: .75rem 0; border-radius: 8px; }
-.ph-archive-page a { overflow-wrap: anywhere; }
-.ph-archive-nav { display: flex; gap: 1rem; margin-bottom: 2rem; }
+.ph-archive-page a { overflow-wrap: anywhere; color: var(--daily-link); }
+.ph-archive-nav { display: flex; flex-wrap: wrap; gap: 1rem; margin-bottom: 2rem; }
+.ph-products { display: grid; gap: 1rem; }
+.ph-product-card { position: relative; display: grid; grid-template-columns: minmax(180px, 30%) minmax(0, 1fr); gap: 1rem; min-height: 176px; padding: 1rem; border: 1px solid var(--daily-border); border-radius: 8px; background: var(--daily-surface); box-shadow: 0 14px 36px rgb(15 23 42 / 8%); }
+.ph-product-rank { position: absolute; top: 1rem; left: 1rem; z-index: 1; padding: .25rem .55rem; border-radius: 6px; background: rgb(15 23 42 / 82%); color: #fff; font-size: .78rem; font-weight: 700; }
+.ph-product-image { display: block; width: 100%; height: 100%; min-height: 160px; border-radius: 6px; object-fit: cover; background: #f1f5f9; }
+.ph-product-body { min-width: 0; }
+.ph-product-kicker { display: flex; flex-wrap: wrap; gap: .5rem; color: var(--daily-accent); font-size: .84rem; font-weight: 700; }
+.ph-product-card h2 { margin: .25rem 0 .35rem; font-size: clamp(1.25rem, 3vw, 1.7rem); line-height: 1.25; }
+.ph-product-tagline { margin: 0 0 .5rem; font-weight: 700; }
+.ph-product-description { margin: 0; color: var(--vp-c-text-mute, #475569); }
+.ph-product-tags { display: flex; flex-wrap: wrap; gap: .4rem; margin: .75rem 0 0; padding: 0; list-style: none; }
+.ph-product-tags li { padding: .14rem .45rem; border: 1px solid var(--daily-border); border-radius: 999px; font-size: .78rem; color: var(--vp-c-text-mute, #475569); }
+.ph-product-actions { display: flex; flex-wrap: wrap; gap: .55rem; margin-top: .9rem; }
+.ph-product-button { display: inline-flex; align-items: center; min-height: 2.2rem; padding: 0 .8rem; border: 1px solid var(--daily-border); border-radius: 6px; color: var(--daily-link); font-weight: 700; text-decoration: none; }
+.ph-product-button-primary { border-color: var(--daily-accent); background: var(--daily-accent); color: #fff !important; }
+@media (max-width: 719px) { .ph-archive-page { padding: 4.25rem 1rem 3rem; } .ph-product-card { grid-template-columns: 1fr; padding: .85rem; } .ph-product-image { aspect-ratio: 2 / 1; min-height: 0; } .ph-product-actions { display: grid; grid-template-columns: 1fr 1fr; } .ph-product-button { justify-content: center; padding-inline: .5rem; } }
 </style>
 </head>
 <body>
 <main class="ph-archive-page">
 <nav class="ph-archive-nav"><a href="/daily/">首页</a><a href="/daily/blog.html">PH 每日热榜</a></nav>
 <header><h1>PH今日热榜 | 2025-12-07</h1><time datetime="2025-12-07">2025-12-07</time></header>
-<h2 id="top1-series-graph"><a href="https://www.producthunt.com/products/series-graph-2" target="_blank" rel="noopener noreferrer">TOP1    Series Graph</a></h2>
-<p><img src="https://ph-files.imgix.net/4f5f7722-c382-45b9-976f-bc78590d2a56.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Series Graph" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：一览每个剧集和电影的真实评级<br /></p>
-<p><strong>【介绍】</strong>：Series Curve是一款现代电视和电影配套产品，可将原始的IMDB收视率转变为美丽的逐集热图，立即查看哪些季的高峰、哪些剧集可以跳过，以及在哪里进行流媒体，而无需看到一个广告视觉热图根据每个季和剧集的IMDB收视率构建，因此您可以立即发现其中的瑰宝并避免填充物。跟踪您观看的内容标记已观看的剧集和电影，查看您跨季节的进度，并保持您的观看历史记录跨设备同步<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/TZ7BZIZF34OOGT" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/series-graph-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：剧集,IMDB,热图,观看,收视率,电影<br /></p>
-<p><strong>票数</strong>： 🔺356<br /></p>
-<p><strong>是否精选</strong>：是<br /></p>
-<p><strong>发布时间</strong>：2025年12月07日 PM04:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top2-strater-ai"><a href="https://www.producthunt.com/products/strater-ai-learn-understand-rember" target="_blank" rel="noopener noreferrer">TOP2    Strater AI</a></h2>
-<p><img src="https://ph-files.imgix.net/58ffa2ad-88e1-44c7-9b08-4c1213c5a074.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Strater AI" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：将任何视频、PDF或网页变成您的个人人工智能导师<br /></p>
-<p><strong>【介绍】</strong>：Strater AI将任何YouTube视频、PDF或网站转化为结构化学习体验。通过人工智能生成的测验和抽认卡进行总结、聊天、测试自己，所有这些都由上下文感知的LLM提供支持。学习得更快，记住更长时间，并专注于重要的事情。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/EDFAKEUL67CZY4" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/strater-ai-learn-understand-rember" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：PDF,人工智能,视频,Strater,AI,YouTube<br /></p>
-<p><strong>票数</strong>： 🔺242<br /></p>
-<p><strong>是否精选</strong>：是<br /></p>
-<p><strong>发布时间</strong>：2025年12月07日 PM04:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top3-inference-engine-by-gmi-cloud"><a href="https://www.producthunt.com/products/gmi-cloud" target="_blank" rel="noopener noreferrer">TOP3    Inference Engine by GMI Cloud</a></h2>
-<p><img src="https://ph-files.imgix.net/7acfa732-eaa6-4580-a10a-d7eb3a4c95ec.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Inference Engine by GMI Cloud" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：大规模快速多模式原生推理<br /></p>
-<p><strong>【介绍】</strong>：GMI推理引擎是一个多模式原生推理平台，可在一个统一的管道中运行文本、图像、视频和音频。获得企业级扩展、可观察性、模型版本化和5-6倍更快的推理，以便您的多模式应用程序实时运行。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/ZQ4WFBPBARCN4B" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/gmi-cloud" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：推理,模式,原生,企业级,GMI,运行<br /></p>
-<p><strong>票数</strong>： 🔺214<br /></p>
-<p><strong>是否精选</strong>：是<br /></p>
-<p><strong>发布时间</strong>：2025年12月07日 PM04:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top4-powerwash-simulator"><a href="https://www.producthunt.com/products/powerwash-simulator" target="_blank" rel="noopener noreferrer">TOP4    PowerWash Simulator</a></h2>
-<p><img src="https://ph-files.imgix.net/ee41be9f-9876-4b22-b27c-f4dd1e67c4d2.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="PowerWash Simulator" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：原来干净的，在任何屏幕上<br /></p>
-<p><strong>【介绍】</strong>：回到一切开始的地方，在您的Apple设备上清理Muckingham的街道！PowerWash模拟器现已通过Apple Arcade在iPhone、iPad、Mac、Vision Pro和Apple TV上提供<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/PLW6BXRBDSQSDX" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/powerwash-simulator" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：Apple,Muckingham,PowerWash,Arcade,iPhone,iPad<br /></p>
-<p><strong>票数</strong>： 🔺190<br /></p>
-<p><strong>是否精选</strong>：是<br /></p>
-<p><strong>发布时间</strong>：2025年12月07日 PM04:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top5-mcptotal"><a href="https://www.producthunt.com/products/mcptotal" target="_blank" rel="noopener noreferrer">TOP5    MCPTotal</a></h2>
-<p><img src="https://ph-files.imgix.net/fca33007-efc6-420a-86f3-e571aae37dfb.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="MCPTotal" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：确保正常工作的安全LCP服务器<br /></p>
-<p><strong>【介绍】</strong>：以零配置立即部署和管理安全的LCP服务器。通过我们的Safe Hub将人工智能代理连接到100多个业务工具。使用我们的网关实时监控LCP流量并控制访问。使用我们的桌面应用程序将人工智能模型连接到本地工具。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/SS57R47GIYLSZA" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/mcptotal" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：LCP,人工智能,服务器,连接,工具,Safe<br /></p>
-<p><strong>票数</strong>： 🔺171<br /></p>
-<p><strong>是否精选</strong>：是<br /></p>
-<p><strong>发布时间</strong>：2025年12月07日 PM04:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top6-there"><a href="https://www.producthunt.com/products/there-c8f71fe3-71b4-4633-8d40-584e4c7e40e8" target="_blank" rel="noopener noreferrer">TOP6    There</a></h2>
-<p><img src="https://ph-files.imgix.net/18b8d0ab-33b6-411c-9bba-80b4eda85563.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="There" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：你穿越银河系的宇宙指南针<br /></p>
-<p><strong>【介绍】</strong>：一个浏览器原生宇宙指南针，显示太阳系行星从您的确切地点和时刻的实时位置。它使用您设备的传感器实时引导精确的3D箭头，全部在本地进行，无需安装或帐户。在浏览器中打开它，转身，看看行星如何围绕你排列。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/7Q4BVIH5CBDWTW" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/there-c8f71fe3-71b4-4633-8d40-584e4c7e40e8" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：浏览器,指南针,实时,行星,宇宙,3D<br /></p>
-<p><strong>票数</strong>： 🔺131<br /></p>
-<p><strong>是否精选</strong>：是<br /></p>
-<p><strong>发布时间</strong>：2025年12月07日 PM04:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top7-hohoho-secret-santa"><a href="https://www.producthunt.com/products/hohoho-secret-santa" target="_blank" rel="noopener noreferrer">TOP7    Hohoho: Secret Santa</a></h2>
-<p><img src="https://ph-files.imgix.net/3df650fd-76d0-49a2-bcb1-42b8bb5b4ef8.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Hohoho: Secret Santa" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：秘密圣诞老人与远方的家人、远程团队或朋友！<br /></p>
-<p><strong>【介绍】</strong>：与您的家人、团队或朋友在世界任何地方一起经营远程秘密圣诞老人。添加您的尺码、过敏和兴趣，以便每件礼物都真正合适。没有凌乱的纸张绘制，没有重复！只需创建、分享，就完成了。100%免费。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/QU7H5UOXAYKLJ7" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/hohoho-secret-santa" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：圣诞老人,远程,团队,家人,秘密,100%<br /></p>
-<p><strong>票数</strong>： 🔺120<br /></p>
-<p><strong>是否精选</strong>：是<br /></p>
-<p><strong>发布时间</strong>：2025年12月07日 PM04:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top8-infira"><a href="https://www.producthunt.com/products/railway-2" target="_blank" rel="noopener noreferrer">TOP8    Infira </a></h2>
-<p><img src="https://ph-files.imgix.net/ddf22125-6c4c-4440-b3e3-1bc0f33fa405.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Infira " loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：AI将复杂的想法转化为清晰的视觉效果<br /></p>
-<p><strong>【介绍】</strong>：Infira是一个多维学习引擎，可将复杂的主题转化为生动的视觉体验。脉动的流程图、呼吸的时间线和自我构建的3D概念图-所有这些都旨在帮助您更快地理解、记住更长时间、思考更深入。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/VYWQMYW4ZGXEAH" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/railway-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：概念图,转化,AI,Infira,3D,复杂<br /></p>
-<p><strong>票数</strong>： 🔺110<br /></p>
-<p><strong>是否精选</strong>：是<br /></p>
-<p><strong>发布时间</strong>：2025年12月07日 PM04:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top9-vector"><a href="https://www.producthunt.com/products/vector-38" target="_blank" rel="noopener noreferrer">TOP9    Vector</a></h2>
-<p><img src="https://ph-files.imgix.net/01d7d07c-bb65-4019-92e4-c92fac008179.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Vector" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：智能搜索macOS<br /></p>
-<p><strong>【介绍】</strong>：由设备上机器学习支持的闪电般的搜索。查找应用程序、文件、消息等-所有这些都不会损害您的隐私。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/XDRXERA6SK5YPL" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/vector-38" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：搜索,macOS,应用程序,查找,隐私,闪电<br /></p>
-<p><strong>票数</strong>： 🔺109<br /></p>
-<p><strong>是否精选</strong>：是<br /></p>
-<p><strong>发布时间</strong>：2025年12月07日 PM04:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top10-castreader"><a href="https://www.producthunt.com/products/castreader" target="_blank" rel="noopener noreferrer">TOP10    CastReader</a></h2>
-<p><img src="https://ph-files.imgix.net/3ad7e6a3-3d35-4ed3-a399-86100391445b.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="CastReader" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：人工智能文本到语音阅读器<br /></p>
-<p><strong>【介绍】</strong>：CastReader是一款人工智能文本到语音阅读器，可可视化角色和对话。获取匹配的声音、动画场景和角色地图，以实现沉浸式阅读<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/DFS4TBIKM3AE6G" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/castreader" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：阅读器,人工智能,文本,语音,角色,CastReader<br /></p>
-<p><strong>票数</strong>： 🔺104<br /></p>
-<p><strong>是否精选</strong>：是<br /></p>
-<p><strong>发布时间</strong>：2025年12月07日 PM04:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top11-peargent"><a href="https://www.producthunt.com/products/peargent" target="_blank" rel="noopener noreferrer">TOP11    Peargent</a></h2>
-<p><img src="https://ph-files.imgix.net/50be836e-1058-4b88-ae5c-558fd540871a.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Peargent" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：简化 AI 代理<br /></p>
-<p><strong>【介绍】</strong>：Peargent是一个轻量级的、Python优先的框架，用于构建强大的AI代理而不复杂。它为开发人员提供了干净的API、内置内存、工具集成和可观察性-因此您可以专注于逻辑，而不是模板。在几分钟内构建可生产的代理，具有类型安全性、简单性和完全控制性。开源且免费。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/WHHCXMLQF637Z2" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/peargent" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：AI,代理,构建,开发人员,轻量级,Peargent<br /></p>
-<p><strong>票数</strong>： 🔺98<br /></p>
-<p><strong>是否精选</strong>：是<br /></p>
-<p><strong>发布时间</strong>：2025年12月07日 PM04:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top12-transfigurator"><a href="https://www.producthunt.com/products/transfigurator-private-image-converter" target="_blank" rel="noopener noreferrer">TOP12    Transfigurator</a></h2>
-<p><img src="https://ph-files.imgix.net/3d5a938e-e796-4b50-820d-0c5bd9ec1e05.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Transfigurator" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：快速、私人图像转换器-在Mac上进行100%本地处理<br /></p>
-<p><strong>【介绍】</strong>：100%本地处理-您的图像永远不会离开您的Mac。没有互联网，没有云，没有数据传输。通过闪电般的批量转换、自定义收件箱以及对AVIF和WebP等现代格式的支持，实现完全的隐私。一次性购买，无需订阅。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/635KHXEG5ZFRKX" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/transfigurator-private-image-converter" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：Mac,100%,图像,本地,收件箱,自定义<br /></p>
-<p><strong>票数</strong>： 🔺93<br /></p>
-<p><strong>是否精选</strong>：是<br /></p>
-<p><strong>发布时间</strong>：2025年12月07日 PM04:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top13-bgblur"><a href="https://www.producthunt.com/products/bgblur" target="_blank" rel="noopener noreferrer">TOP13    Bgblur</a></h2>
-<p><img src="https://ph-files.imgix.net/fe7f145c-f396-4d87-973b-48b7db904140.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Bgblur" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：模糊的脸、盘子和尴尬的照片炸弹。<br /></p>
-<p><strong>【介绍】</strong>：人工智能支持的视频隐私工具，可通过运动跟踪自动模糊面部、车牌和背景，无需手动编辑。上传视频、选择模糊内容并以高清（MP4、Movie、WebM）形式输出。非常适合vlog主在公共场合拍摄、仪表盘镜头、与人群一起的教育内容，或任何需要保护隐私而无需花费数小时逐帧编辑的创作者。包括多个视频的批量处理、实时预览和可调模糊强度。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/CWO6VNAFOU2RQC" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/bgblur" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：模糊,视频,隐私,无需,编辑,MP4<br /></p>
-<p><strong>票数</strong>： 🔺67<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2025年12月07日 PM04:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top14-flowengine"><a href="https://www.producthunt.com/products/flowengine" target="_blank" rel="noopener noreferrer">TOP14    FlowEngine</a></h2>
-<p><img src="https://ph-files.imgix.net/626fe58a-99f2-42b0-8180-befcc26ccc62.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="FlowEngine" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：n8 n变得简单-几秒钟内部署AI流<br /></p>
-<p><strong>【介绍】</strong>：n8 n功能强大，但设置基础设施和身份验证会减慢您的速度。Flowengine消除了这些障碍，以便您可以纯粹专注于逻辑。我们提供一个即用型生态系统，具有预配置的API密钥和集成的人工智能构建器，可立即生成您的工作流程结构。您完全跳过了服务器维护和凭证搜寻，在一分钟内将您从想法转变为实时自动化。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/C2DSI6ONHR7T5T" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/flowengine" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：n8,身份验证,AI,Flowengine,API,功能强大<br /></p>
-<p><strong>票数</strong>： 🔺51<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2025年12月07日 PM04:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top15-arkhet"><a href="https://www.producthunt.com/products/arkhet" target="_blank" rel="noopener noreferrer">TOP15    Arkhet</a></h2>
-<p><img src="https://ph-files.imgix.net/1ccb3dee-0ede-4e4f-9dce-a7fddcd4b734.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Arkhet" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：使用线框进行人工智能原型设计，而不是提示<br /></p>
-<p><strong>【介绍】</strong>：Arkhet是产品团队视觉优先的人工智能原型设计。线框布局、注释画布上的交互并生成交互原型，而无需编写文本提示。专为产品发现而构建，而不是生产代码。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/3O3M5HXIZINDOA" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/arkhet" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：线框,原型,人工智能,交互,提示,Arkhet<br /></p>
-<p><strong>票数</strong>： 🔺38<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2025年12月07日 PM04:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top16-whenever"><a href="https://www.producthunt.com/products/whenever-2" target="_blank" rel="noopener noreferrer">TOP16    Whenever</a></h2>
-<p><img src="https://ph-files.imgix.net/3b48ff50-8695-41a0-80c6-b561602a5479.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Whenever" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：24/7教练在不精疲力尽的情况下建立您的初创公司<br /></p>
-<p><strong>【介绍】</strong>：无论何时都是创始人的个性化AI教练。它收集你的健康和工作模式，并将其转化为量身定制的协议，这样你就可以通过改善公司的真正引擎来发展你的创业公司：你自己。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/ZHHZYP25UCEZWL" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/whenever-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：教练,24,AI,精疲力尽,公司,量身<br /></p>
-<p><strong>票数</strong>： 🔺35<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2025年12月07日 PM04:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top17-focuskit"><a href="https://www.producthunt.com/products/focuskit" target="_blank" rel="noopener noreferrer">TOP17    FocusKit</a></h2>
-<p><img src="https://ph-files.imgix.net/4199edb0-2561-4872-bf9b-9cd2c1e405ce.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="FocusKit" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：适用于iOS的干净番茄工作室体验<br /></p>
-<p><strong>【介绍】</strong>：FocusKit是终极番茄计时器应用程序，可帮助您养成专注的习惯。跟踪您的进展，保持积极性并实现您的目标。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/ORNGSD46BFGBWW" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/focuskit" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：番茄,iOS,FocusKit,计时器,应用程序,工作室<br /></p>
-<p><strong>票数</strong>： 🔺18<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2025年12月07日 PM04:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top18-wrapped-2025"><a href="https://www.producthunt.com/products/wrapped-2025" target="_blank" rel="noopener noreferrer">TOP18    Wrapped 2025</a></h2>
-<p><img src="https://ph-files.imgix.net/d830f76d-ea4a-4711-beda-604cef08126a.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Wrapped 2025" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：已打包，但适用于您的iMessage和WhatsApp<br /></p>
-<p><strong>【介绍】</strong>：你2025年的短信习惯暴露了查看您最常发短信的联系人、回复时间、性格类型等。支持iMessage和WhatsApp。100%本地化，在Mac上运行30秒。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/LZCRBWRLP4WJAQ" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/wrapped-2025" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：iMessage,WhatsApp,2025,100%,Mac,30<br /></p>
-<p><strong>票数</strong>： 🔺16<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2025年12月07日 PM04:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top19-octoparse-ai"><a href="https://www.producthunt.com/products/octoparse-ai-3" target="_blank" rel="noopener noreferrer">TOP19    Octoparse AI</a></h2>
-<p><img src="https://ph-files.imgix.net/42d25408-e451-4324-9c58-7c569562cd46.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Octoparse AI" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：以思维的速度构建RPA机器人<br /></p>
-<p><strong>【介绍】</strong>：Deliverparse AI是一种轻量级的无代码RPA工具，可让团队为网站和桌面应用程序构建拖放自动化工作流程。AI Copilot在几分钟内生成可运行的工作流程，因此非技术用户可以快速自动化复杂任务。没有拖拉。没有写作。只需描述您的任务并让AI为您构建RPA机器人即可。核心功能永久免费，让每个人都能使用强大的自动化功能。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/YDAZMQA3FDWJGA" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/octoparse-ai-3" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：RPA,AI,自动化,构建,机器人,流程<br /></p>
-<p><strong>票数</strong>： 🔺16<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2025年12月07日 PM04:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top20-ai-note-taker"><a href="https://www.producthunt.com/products/ai-note-taker" target="_blank" rel="noopener noreferrer">TOP20    AI Note Taker</a></h2>
-<p><img src="https://ph-files.imgix.net/81f42721-c829-474e-9a1e-1c9c4c4bf455.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="AI Note Taker" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：人工智能笔记员：永远不要再记笔记<br /></p>
-<p><strong>【介绍】</strong>：Notium是您会议、讲座等的个人笔记员。与所有其他AI Note Taker应用程序不同，Notium可与iCloud安全同步，确保您的笔记始终备份且可用。使用Notium，您可以录制笔记、上传音频或粘贴任何需要总结的文本，以轻松获取要点、行动项和摘要。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/T34RJHVHG7FOAN" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/ai-note-taker" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：Notium,笔记,确保您,记笔记,AI,Note<br /></p>
-<p><strong>票数</strong>： 🔺10<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2025年12月07日 PM04:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top21-tutorflow"><a href="https://www.producthunt.com/products/tutorflow-2" target="_blank" rel="noopener noreferrer">TOP21    TutorFlow</a></h2>
-<p><img src="https://ph-files.imgix.net/ef6ab2da-0137-48fb-b16f-c75206229a05.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="TutorFlow" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：人工智能助教和课程建设者于一个平台。<br /></p>
-<p><strong>【介绍】</strong>：介绍TutorFlow视频字幕生成器。上传您的视频以使用人工智能生成时间同步的字幕和成绩单，然后直接将它们添加到您的课程中。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/FGAR5AA32WBYPN" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/tutorflow-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：字幕,人工智能,课程,视频,生成器,TutorFlow<br /></p>
-<p><strong>票数</strong>： 🔺9<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2025年12月07日 PM04:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top22-brixa-io"><a href="https://www.producthunt.com/products/brixa-io" target="_blank" rel="noopener noreferrer">TOP22    Brixa.io</a></h2>
-<p><img src="https://ph-files.imgix.net/8260bdc0-ca49-4ffd-84e9-1592de90bada.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Brixa.io" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：将创意转化为令人惊叹的产品<br /></p>
-<p><strong>【介绍】</strong>：利用人工智能构建令人惊叹的产品并在几秒钟内发货。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/S2LASEH4NWEBM3" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/brixa-io" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：令人惊叹,发货,几秒钟,人工智能,产品,创意<br /></p>
-<p><strong>票数</strong>： 🔺9<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2025年12月07日 PM04:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top23-javascript-obfuscator-pro"><a href="https://www.producthunt.com/products/javascript-obfuscator-pro" target="_blank" rel="noopener noreferrer">TOP23    JavaScript Obfuscator Pro</a></h2>
-<p><img src="https://ph-files.imgix.net/edf33ead-b862-43d1-98e9-683a1ab83023.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="JavaScript Obfuscator Pro" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：一个强大的JavaScript混淆器，具有VM混淆功能<br /></p>
-<p><strong>【介绍】</strong>：功能强大的JavaScript混淆器，具有虚拟机混淆功能。使用虚拟机和其他混淆类型保护您的代码，并防止人们窃取您的作品。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/BPEMWKKMIBUJI5" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/javascript-obfuscator-pro" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：混淆,虚拟机,JavaScript,VM,功能强大,功能<br /></p>
-<p><strong>票数</strong>： 🔺9<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2025年12月07日 PM04:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top24-gettemplate"><a href="https://www.producthunt.com/products/gettemplate" target="_blank" rel="noopener noreferrer">TOP24    gettemplate</a></h2>
-<p><img src="https://ph-files.imgix.net/84100e07-b974-4d89-ae89-05a10ec05e18.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="gettemplate" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：适合商业、初创公司和独立黑客的网站模板<br /></p>
-<p><strong>【介绍】</strong>：gettemplate是react顺风、Next代码模板的集合，例如着陆页面、投资组合、入职、支付页面、动画等<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/5CIFYGDB2BUAOD" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/gettemplate" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：模板,页面,gettemplate,react,Next,入职<br /></p>
-<p><strong>票数</strong>： 🔺8<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2025年12月07日 PM04:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top25-pinly"><a href="https://www.producthunt.com/products/pinly" target="_blank" rel="noopener noreferrer">TOP25    Pinly</a></h2>
-<p><img src="https://ph-files.imgix.net/11304833-81ec-4b98-bf8e-4e1b3fe08aa3.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Pinly" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：带有屏幕截图和录音的网站反馈-无需设置<br /></p>
-<p><strong>【介绍】</strong>：直接在您的网站上收集视觉反馈。一个环节，零安装。客户无需注册即可点击并留下评论。非常适合网络开发人员和代理机构。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/RDHX2HJKM4TOPD" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/pinly" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：反馈,无需,网站,开发人员,截图,非常适合<br /></p>
-<p><strong>票数</strong>： 🔺7<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2025年12月07日 PM04:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top26-virtuagency-ai"><a href="https://www.producthunt.com/products/virtuagency-ai" target="_blank" rel="noopener noreferrer">TOP26    virtuagency.ai</a></h2>
-<p><img src="https://ph-files.imgix.net/6c4f0c69-c9b9-41a3-805b-e19accfae300.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="virtuagency.ai" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：您的营销机构完全自主。<br /></p>
-<p><strong>【介绍】</strong>：认识一下您的人工智能执行团队：四名专业代理人24/7工作。你批准;他们执行。活动策略师：分析趋势、竞争对手和受众行为，以制定数据驱动的角度。创意总监：以任何风格创建滚动停止的视觉效果-从实体模型到社交图形。首席文案撰稿人：用您的品牌声音撰写以转化为重点的标题、广告、电子邮件和博客。社交经理：在最佳时间安排和发布。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/B6FUBYBB7OK2T5" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/virtuagency-ai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：社交,实体模型,24,认识一下,执行,视觉效果<br /></p>
-<p><strong>票数</strong>： 🔺6<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2025年12月07日 PM04:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top27-saasminder"><a href="https://www.producthunt.com/products/saasminder" target="_blank" rel="noopener noreferrer">TOP27    SaaSminder</a></h2>
-<p><img src="https://ph-files.imgix.net/7ec9bd5f-4421-47f5-9c84-bb8472334a17.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="SaaSminder" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：与记住您SaaS的人工智能聊天<br /></p>
-<p><strong>【介绍】</strong>：SaaSminder存储您产品的完整上下文，因此每次对话都已调整到您的SaaS。无需再重新解释您的想法，只需询问您需要的建议、复制或增长策略，并立即获得适合您业务的结果。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/C3MQRNVNXUSM4Z" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/saasminder" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：SaaS,SaaSminder,上下文,人工智能,聊天,存储<br /></p>
-<p><strong>票数</strong>： 🔺6<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2025年12月07日 PM04:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top28-aso-dev-free-figma-screenshot-localiser"><a href="https://www.producthunt.com/products/aso" target="_blank" rel="noopener noreferrer">TOP28    ASO.dev FREE Figma Screenshot Localiser</a></h2>
-<p><img src="https://ph-files.imgix.net/16407b1a-8cd5-4860-a4e3-f4e70642b914.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ASO.dev FREE Figma Screenshot Localiser" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：Figma + ASO.dev帮助您快速发送CPP截图更新<br /></p>
-<p><strong>【介绍】</strong>：App Store屏幕截图推动了转化，但不断的更新、本地化、DPP/PPO测试和多种尺寸让它们感到痛苦。我们建立了快速的工作流程：免费的Figma模板、免费的本地化插件、即时的多语言框架和干净的出口。在任何地方翻译（ASO.dev支持Claude、DeepL、Chat GPT、Google Translate），然后通过简单的拖放方式上传-ASO. dev神奇地检测大小和区域设置、保持完美的顺序、检查处理过程并支持DPP/PPO以实现无错误发布。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/6YBUAYNVXAK23P" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/aso" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：ASO,dev,Figma,DPP,PPO,截图<br /></p>
-<p><strong>票数</strong>： 🔺6<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2025年12月07日 PM04:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top29-renameclick-offline-ai-file-renamer"><a href="https://www.producthunt.com/products/renameclick-offline-ai-file-renamer" target="_blank" rel="noopener noreferrer">TOP29    RenameClick - Offline AI File Renamer</a></h2>
-<p><img src="https://ph-files.imgix.net/acd3885a-41a9-4e32-b16f-64f0302502cf.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="RenameClick - Offline AI File Renamer" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：根据内部内容删除图像和文档<br /></p>
-<p><strong>【介绍】</strong>：将“8a095-4d0f6a90008b.pdf”等凌乱的文件名转换为“Blood Test.pdf”等描述性名称。几分钟内处理数百个文件。在macOS和Windows上离线运行。免费开始。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/M66IBFOHVVF6VD" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/renameclick-offline-ai-file-renamer" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：pdf,离线,8a095,4d0f6a90008b,Blood,Test<br /></p>
-<p><strong>票数</strong>： 🔺6<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2025年12月07日 PM04:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top30-lowkey"><a href="https://www.producthunt.com/products/lowkey-2" target="_blank" rel="noopener noreferrer">TOP30    Lowkey</a></h2>
-<p><img src="https://ph-files.imgix.net/774610b1-445f-4232-98ac-16160ac19d75.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Lowkey" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：BeReal音乐<br /></p>
-<p><strong>【介绍】</strong>：Lowkey是一款音乐日记社交应用程序。每天，您都会收到通知，要在Spotify或Apple Music上分享最近播放的曲目中分享一首歌曲。自定义3D可视化工具以匹配歌曲，然后发布以查看您的朋友正在播放什么。通过音乐传达您的心情，建立您的音乐品味档案，永远不要忘记去年夏天的那首歌。通过您喜欢的人发现音乐，并通过他们喜欢的音乐发现人们。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/DSGXAT3IKFIZFS" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/lowkey-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：音乐,播放,歌曲,分享,自定义,通过<br /></p>
-<p><strong>票数</strong>： 🔺5<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2025年12月07日 PM04:01 (北京时间)<br /><br /></p>
-<hr>
+<section class="ph-products" aria-label="Product Hunt 产品榜单">
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP1</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/4f5f7722-c382-45b9-976f-bc78590d2a56.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Series Graph" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>精选</span>
+      <span>▲ 356</span>
+    </div>
+    <h2>Series Graph</h2>
+    <p class="ph-product-tagline">一览每个剧集和电影的真实评级</p>
+    <p class="ph-product-description">Series Curve是一款现代电视和电影配套产品，可将原始的IMDB收视率转变为美丽的逐集热图，立即查看哪些季的高峰、哪些剧集可以跳过，以及在哪里进行流媒体，而无需看到一个广告视觉热图根据每个季和剧集的IMDB收视率构建，因此您可以立即发现其中的瑰宝并避免填充物。跟踪您观看的内容标记已观看的剧集和电影，查看您跨季节的进度，并保持您的观看历史记录跨设备同步</p>
+    <ul class="ph-product-tags"><li>剧集</li><li>IMDB</li><li>热图</li><li>观看</li><li>收视率</li><li>电影</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/TZ7BZIZF34OOGT" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/series-graph-2" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP2</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/58ffa2ad-88e1-44c7-9b08-4c1213c5a074.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Strater AI" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>精选</span>
+      <span>▲ 242</span>
+    </div>
+    <h2>Strater AI</h2>
+    <p class="ph-product-tagline">将任何视频、PDF或网页变成您的个人人工智能导师</p>
+    <p class="ph-product-description">Strater AI将任何YouTube视频、PDF或网站转化为结构化学习体验。通过人工智能生成的测验和抽认卡进行总结、聊天、测试自己，所有这些都由上下文感知的LLM提供支持。学习得更快，记住更长时间，并专注于重要的事情。</p>
+    <ul class="ph-product-tags"><li>PDF</li><li>人工智能</li><li>视频</li><li>Strater</li><li>AI</li><li>YouTube</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/EDFAKEUL67CZY4" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/strater-ai-learn-understand-rember" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP3</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/7acfa732-eaa6-4580-a10a-d7eb3a4c95ec.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Inference Engine by GMI Cloud" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>精选</span>
+      <span>▲ 214</span>
+    </div>
+    <h2>Inference Engine by GMI Cloud</h2>
+    <p class="ph-product-tagline">大规模快速多模式原生推理</p>
+    <p class="ph-product-description">GMI推理引擎是一个多模式原生推理平台，可在一个统一的管道中运行文本、图像、视频和音频。获得企业级扩展、可观察性、模型版本化和5-6倍更快的推理，以便您的多模式应用程序实时运行。</p>
+    <ul class="ph-product-tags"><li>推理</li><li>模式</li><li>原生</li><li>企业级</li><li>GMI</li><li>运行</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/ZQ4WFBPBARCN4B" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/gmi-cloud" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP4</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/ee41be9f-9876-4b22-b27c-f4dd1e67c4d2.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="PowerWash Simulator" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>精选</span>
+      <span>▲ 190</span>
+    </div>
+    <h2>PowerWash Simulator</h2>
+    <p class="ph-product-tagline">原来干净的，在任何屏幕上</p>
+    <p class="ph-product-description">回到一切开始的地方，在您的Apple设备上清理Muckingham的街道！PowerWash模拟器现已通过Apple Arcade在iPhone、iPad、Mac、Vision Pro和Apple TV上提供</p>
+    <ul class="ph-product-tags"><li>Apple</li><li>Muckingham</li><li>PowerWash</li><li>Arcade</li><li>iPhone</li><li>iPad</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/PLW6BXRBDSQSDX" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/powerwash-simulator" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP5</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/fca33007-efc6-420a-86f3-e571aae37dfb.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="MCPTotal" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>精选</span>
+      <span>▲ 171</span>
+    </div>
+    <h2>MCPTotal</h2>
+    <p class="ph-product-tagline">确保正常工作的安全LCP服务器</p>
+    <p class="ph-product-description">以零配置立即部署和管理安全的LCP服务器。通过我们的Safe Hub将人工智能代理连接到100多个业务工具。使用我们的网关实时监控LCP流量并控制访问。使用我们的桌面应用程序将人工智能模型连接到本地工具。</p>
+    <ul class="ph-product-tags"><li>LCP</li><li>人工智能</li><li>服务器</li><li>连接</li><li>工具</li><li>Safe</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/SS57R47GIYLSZA" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/mcptotal" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP6</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/18b8d0ab-33b6-411c-9bba-80b4eda85563.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="There" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>精选</span>
+      <span>▲ 131</span>
+    </div>
+    <h2>There</h2>
+    <p class="ph-product-tagline">你穿越银河系的宇宙指南针</p>
+    <p class="ph-product-description">一个浏览器原生宇宙指南针，显示太阳系行星从您的确切地点和时刻的实时位置。它使用您设备的传感器实时引导精确的3D箭头，全部在本地进行，无需安装或帐户。在浏览器中打开它，转身，看看行星如何围绕你排列。</p>
+    <ul class="ph-product-tags"><li>浏览器</li><li>指南针</li><li>实时</li><li>行星</li><li>宇宙</li><li>3D</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/7Q4BVIH5CBDWTW" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/there-c8f71fe3-71b4-4633-8d40-584e4c7e40e8" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP7</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/3df650fd-76d0-49a2-bcb1-42b8bb5b4ef8.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Hohoho: Secret Santa" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>精选</span>
+      <span>▲ 120</span>
+    </div>
+    <h2>Hohoho: Secret Santa</h2>
+    <p class="ph-product-tagline">秘密圣诞老人与远方的家人、远程团队或朋友！</p>
+    <p class="ph-product-description">与您的家人、团队或朋友在世界任何地方一起经营远程秘密圣诞老人。添加您的尺码、过敏和兴趣，以便每件礼物都真正合适。没有凌乱的纸张绘制，没有重复！只需创建、分享，就完成了。100%免费。</p>
+    <ul class="ph-product-tags"><li>圣诞老人</li><li>远程</li><li>团队</li><li>家人</li><li>秘密</li><li>100%</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/QU7H5UOXAYKLJ7" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/hohoho-secret-santa" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP8</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/ddf22125-6c4c-4440-b3e3-1bc0f33fa405.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Infira " loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>精选</span>
+      <span>▲ 110</span>
+    </div>
+    <h2>Infira</h2>
+    <p class="ph-product-tagline">AI将复杂的想法转化为清晰的视觉效果</p>
+    <p class="ph-product-description">Infira是一个多维学习引擎，可将复杂的主题转化为生动的视觉体验。脉动的流程图、呼吸的时间线和自我构建的3D概念图-所有这些都旨在帮助您更快地理解、记住更长时间、思考更深入。</p>
+    <ul class="ph-product-tags"><li>概念图</li><li>转化</li><li>AI</li><li>Infira</li><li>3D</li><li>复杂</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/VYWQMYW4ZGXEAH" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/railway-2" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP9</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/01d7d07c-bb65-4019-92e4-c92fac008179.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Vector" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>精选</span>
+      <span>▲ 109</span>
+    </div>
+    <h2>Vector</h2>
+    <p class="ph-product-tagline">智能搜索macOS</p>
+    <p class="ph-product-description">由设备上机器学习支持的闪电般的搜索。查找应用程序、文件、消息等-所有这些都不会损害您的隐私。</p>
+    <ul class="ph-product-tags"><li>搜索</li><li>macOS</li><li>应用程序</li><li>查找</li><li>隐私</li><li>闪电</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/XDRXERA6SK5YPL" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/vector-38" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP10</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/3ad7e6a3-3d35-4ed3-a399-86100391445b.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="CastReader" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>精选</span>
+      <span>▲ 104</span>
+    </div>
+    <h2>CastReader</h2>
+    <p class="ph-product-tagline">人工智能文本到语音阅读器</p>
+    <p class="ph-product-description">CastReader是一款人工智能文本到语音阅读器，可可视化角色和对话。获取匹配的声音、动画场景和角色地图，以实现沉浸式阅读</p>
+    <ul class="ph-product-tags"><li>阅读器</li><li>人工智能</li><li>文本</li><li>语音</li><li>角色</li><li>CastReader</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/DFS4TBIKM3AE6G" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/castreader" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP11</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/50be836e-1058-4b88-ae5c-558fd540871a.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Peargent" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>精选</span>
+      <span>▲ 98</span>
+    </div>
+    <h2>Peargent</h2>
+    <p class="ph-product-tagline">简化 AI 代理</p>
+    <p class="ph-product-description">Peargent是一个轻量级的、Python优先的框架，用于构建强大的AI代理而不复杂。它为开发人员提供了干净的API、内置内存、工具集成和可观察性-因此您可以专注于逻辑，而不是模板。在几分钟内构建可生产的代理，具有类型安全性、简单性和完全控制性。开源且免费。</p>
+    <ul class="ph-product-tags"><li>AI</li><li>代理</li><li>构建</li><li>开发人员</li><li>轻量级</li><li>Peargent</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/WHHCXMLQF637Z2" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/peargent" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP12</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/3d5a938e-e796-4b50-820d-0c5bd9ec1e05.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Transfigurator" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>精选</span>
+      <span>▲ 93</span>
+    </div>
+    <h2>Transfigurator</h2>
+    <p class="ph-product-tagline">快速、私人图像转换器-在Mac上进行100%本地处理</p>
+    <p class="ph-product-description">100%本地处理-您的图像永远不会离开您的Mac。没有互联网，没有云，没有数据传输。通过闪电般的批量转换、自定义收件箱以及对AVIF和WebP等现代格式的支持，实现完全的隐私。一次性购买，无需订阅。</p>
+    <ul class="ph-product-tags"><li>Mac</li><li>100%</li><li>图像</li><li>本地</li><li>收件箱</li><li>自定义</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/635KHXEG5ZFRKX" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/transfigurator-private-image-converter" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP13</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/fe7f145c-f396-4d87-973b-48b7db904140.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Bgblur" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 67</span>
+    </div>
+    <h2>Bgblur</h2>
+    <p class="ph-product-tagline">模糊的脸、盘子和尴尬的照片炸弹。</p>
+    <p class="ph-product-description">人工智能支持的视频隐私工具，可通过运动跟踪自动模糊面部、车牌和背景，无需手动编辑。上传视频、选择模糊内容并以高清（MP4、Movie、WebM）形式输出。非常适合vlog主在公共场合拍摄、仪表盘镜头、与人群一起的教育内容，或任何需要保护隐私而无需花费数小时逐帧编辑的创作者。包括多个视频的批量处理、实时预览和可调模糊强度。</p>
+    <ul class="ph-product-tags"><li>模糊</li><li>视频</li><li>隐私</li><li>无需</li><li>编辑</li><li>MP4</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/CWO6VNAFOU2RQC" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/bgblur" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP14</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/626fe58a-99f2-42b0-8180-befcc26ccc62.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="FlowEngine" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 51</span>
+    </div>
+    <h2>FlowEngine</h2>
+    <p class="ph-product-tagline">n8 n变得简单-几秒钟内部署AI流</p>
+    <p class="ph-product-description">n8 n功能强大，但设置基础设施和身份验证会减慢您的速度。Flowengine消除了这些障碍，以便您可以纯粹专注于逻辑。我们提供一个即用型生态系统，具有预配置的API密钥和集成的人工智能构建器，可立即生成您的工作流程结构。您完全跳过了服务器维护和凭证搜寻，在一分钟内将您从想法转变为实时自动化。</p>
+    <ul class="ph-product-tags"><li>n8</li><li>身份验证</li><li>AI</li><li>Flowengine</li><li>API</li><li>功能强大</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/C2DSI6ONHR7T5T" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/flowengine" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP15</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/1ccb3dee-0ede-4e4f-9dce-a7fddcd4b734.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Arkhet" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 38</span>
+    </div>
+    <h2>Arkhet</h2>
+    <p class="ph-product-tagline">使用线框进行人工智能原型设计，而不是提示</p>
+    <p class="ph-product-description">Arkhet是产品团队视觉优先的人工智能原型设计。线框布局、注释画布上的交互并生成交互原型，而无需编写文本提示。专为产品发现而构建，而不是生产代码。</p>
+    <ul class="ph-product-tags"><li>线框</li><li>原型</li><li>人工智能</li><li>交互</li><li>提示</li><li>Arkhet</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/3O3M5HXIZINDOA" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/arkhet" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP16</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/3b48ff50-8695-41a0-80c6-b561602a5479.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Whenever" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 35</span>
+    </div>
+    <h2>Whenever</h2>
+    <p class="ph-product-tagline">24/7教练在不精疲力尽的情况下建立您的初创公司</p>
+    <p class="ph-product-description">无论何时都是创始人的个性化AI教练。它收集你的健康和工作模式，并将其转化为量身定制的协议，这样你就可以通过改善公司的真正引擎来发展你的创业公司：你自己。</p>
+    <ul class="ph-product-tags"><li>教练</li><li>24</li><li>AI</li><li>精疲力尽</li><li>公司</li><li>量身</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/ZHHZYP25UCEZWL" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/whenever-2" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP17</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/4199edb0-2561-4872-bf9b-9cd2c1e405ce.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="FocusKit" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 18</span>
+    </div>
+    <h2>FocusKit</h2>
+    <p class="ph-product-tagline">适用于iOS的干净番茄工作室体验</p>
+    <p class="ph-product-description">FocusKit是终极番茄计时器应用程序，可帮助您养成专注的习惯。跟踪您的进展，保持积极性并实现您的目标。</p>
+    <ul class="ph-product-tags"><li>番茄</li><li>iOS</li><li>FocusKit</li><li>计时器</li><li>应用程序</li><li>工作室</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/ORNGSD46BFGBWW" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/focuskit" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP18</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/d830f76d-ea4a-4711-beda-604cef08126a.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Wrapped 2025" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 16</span>
+    </div>
+    <h2>Wrapped 2025</h2>
+    <p class="ph-product-tagline">已打包，但适用于您的iMessage和WhatsApp</p>
+    <p class="ph-product-description">你2025年的短信习惯暴露了查看您最常发短信的联系人、回复时间、性格类型等。支持iMessage和WhatsApp。100%本地化，在Mac上运行30秒。</p>
+    <ul class="ph-product-tags"><li>iMessage</li><li>WhatsApp</li><li>2025</li><li>100%</li><li>Mac</li><li>30</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/LZCRBWRLP4WJAQ" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/wrapped-2025" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP19</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/42d25408-e451-4324-9c58-7c569562cd46.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Octoparse AI" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 16</span>
+    </div>
+    <h2>Octoparse AI</h2>
+    <p class="ph-product-tagline">以思维的速度构建RPA机器人</p>
+    <p class="ph-product-description">Deliverparse AI是一种轻量级的无代码RPA工具，可让团队为网站和桌面应用程序构建拖放自动化工作流程。AI Copilot在几分钟内生成可运行的工作流程，因此非技术用户可以快速自动化复杂任务。没有拖拉。没有写作。只需描述您的任务并让AI为您构建RPA机器人即可。核心功能永久免费，让每个人都能使用强大的自动化功能。</p>
+    <ul class="ph-product-tags"><li>RPA</li><li>AI</li><li>自动化</li><li>构建</li><li>机器人</li><li>流程</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/YDAZMQA3FDWJGA" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/octoparse-ai-3" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP20</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/81f42721-c829-474e-9a1e-1c9c4c4bf455.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="AI Note Taker" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 10</span>
+    </div>
+    <h2>AI Note Taker</h2>
+    <p class="ph-product-tagline">人工智能笔记员：永远不要再记笔记</p>
+    <p class="ph-product-description">Notium是您会议、讲座等的个人笔记员。与所有其他AI Note Taker应用程序不同，Notium可与iCloud安全同步，确保您的笔记始终备份且可用。使用Notium，您可以录制笔记、上传音频或粘贴任何需要总结的文本，以轻松获取要点、行动项和摘要。</p>
+    <ul class="ph-product-tags"><li>Notium</li><li>笔记</li><li>确保您</li><li>记笔记</li><li>AI</li><li>Note</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/T34RJHVHG7FOAN" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/ai-note-taker" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP21</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/ef6ab2da-0137-48fb-b16f-c75206229a05.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="TutorFlow" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 9</span>
+    </div>
+    <h2>TutorFlow</h2>
+    <p class="ph-product-tagline">人工智能助教和课程建设者于一个平台。</p>
+    <p class="ph-product-description">介绍TutorFlow视频字幕生成器。上传您的视频以使用人工智能生成时间同步的字幕和成绩单，然后直接将它们添加到您的课程中。</p>
+    <ul class="ph-product-tags"><li>字幕</li><li>人工智能</li><li>课程</li><li>视频</li><li>生成器</li><li>TutorFlow</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/FGAR5AA32WBYPN" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/tutorflow-2" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP22</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/8260bdc0-ca49-4ffd-84e9-1592de90bada.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Brixa.io" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 9</span>
+    </div>
+    <h2>Brixa.io</h2>
+    <p class="ph-product-tagline">将创意转化为令人惊叹的产品</p>
+    <p class="ph-product-description">利用人工智能构建令人惊叹的产品并在几秒钟内发货。</p>
+    <ul class="ph-product-tags"><li>令人惊叹</li><li>发货</li><li>几秒钟</li><li>人工智能</li><li>产品</li><li>创意</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/S2LASEH4NWEBM3" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/brixa-io" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP23</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/edf33ead-b862-43d1-98e9-683a1ab83023.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="JavaScript Obfuscator Pro" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 9</span>
+    </div>
+    <h2>JavaScript Obfuscator Pro</h2>
+    <p class="ph-product-tagline">一个强大的JavaScript混淆器，具有VM混淆功能</p>
+    <p class="ph-product-description">功能强大的JavaScript混淆器，具有虚拟机混淆功能。使用虚拟机和其他混淆类型保护您的代码，并防止人们窃取您的作品。</p>
+    <ul class="ph-product-tags"><li>混淆</li><li>虚拟机</li><li>JavaScript</li><li>VM</li><li>功能强大</li><li>功能</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/BPEMWKKMIBUJI5" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/javascript-obfuscator-pro" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP24</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/84100e07-b974-4d89-ae89-05a10ec05e18.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="gettemplate" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 8</span>
+    </div>
+    <h2>gettemplate</h2>
+    <p class="ph-product-tagline">适合商业、初创公司和独立黑客的网站模板</p>
+    <p class="ph-product-description">gettemplate是react顺风、Next代码模板的集合，例如着陆页面、投资组合、入职、支付页面、动画等</p>
+    <ul class="ph-product-tags"><li>模板</li><li>页面</li><li>gettemplate</li><li>react</li><li>Next</li><li>入职</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/5CIFYGDB2BUAOD" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/gettemplate" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP25</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/11304833-81ec-4b98-bf8e-4e1b3fe08aa3.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Pinly" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 7</span>
+    </div>
+    <h2>Pinly</h2>
+    <p class="ph-product-tagline">带有屏幕截图和录音的网站反馈-无需设置</p>
+    <p class="ph-product-description">直接在您的网站上收集视觉反馈。一个环节，零安装。客户无需注册即可点击并留下评论。非常适合网络开发人员和代理机构。</p>
+    <ul class="ph-product-tags"><li>反馈</li><li>无需</li><li>网站</li><li>开发人员</li><li>截图</li><li>非常适合</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/RDHX2HJKM4TOPD" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/pinly" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP26</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/6c4f0c69-c9b9-41a3-805b-e19accfae300.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="virtuagency.ai" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 6</span>
+    </div>
+    <h2>virtuagency.ai</h2>
+    <p class="ph-product-tagline">您的营销机构完全自主。</p>
+    <p class="ph-product-description">认识一下您的人工智能执行团队：四名专业代理人24/7工作。你批准;他们执行。活动策略师：分析趋势、竞争对手和受众行为，以制定数据驱动的角度。创意总监：以任何风格创建滚动停止的视觉效果-从实体模型到社交图形。首席文案撰稿人：用您的品牌声音撰写以转化为重点的标题、广告、电子邮件和博客。社交经理：在最佳时间安排和发布。</p>
+    <ul class="ph-product-tags"><li>社交</li><li>实体模型</li><li>24</li><li>认识一下</li><li>执行</li><li>视觉效果</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/B6FUBYBB7OK2T5" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/virtuagency-ai" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP27</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/7ec9bd5f-4421-47f5-9c84-bb8472334a17.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="SaaSminder" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 6</span>
+    </div>
+    <h2>SaaSminder</h2>
+    <p class="ph-product-tagline">与记住您SaaS的人工智能聊天</p>
+    <p class="ph-product-description">SaaSminder存储您产品的完整上下文，因此每次对话都已调整到您的SaaS。无需再重新解释您的想法，只需询问您需要的建议、复制或增长策略，并立即获得适合您业务的结果。</p>
+    <ul class="ph-product-tags"><li>SaaS</li><li>SaaSminder</li><li>上下文</li><li>人工智能</li><li>聊天</li><li>存储</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/C3MQRNVNXUSM4Z" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/saasminder" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP28</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/16407b1a-8cd5-4860-a4e3-f4e70642b914.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ASO.dev FREE Figma Screenshot Localiser" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 6</span>
+    </div>
+    <h2>ASO.dev FREE Figma Screenshot Localiser</h2>
+    <p class="ph-product-tagline">Figma + ASO.dev帮助您快速发送CPP截图更新</p>
+    <p class="ph-product-description">App Store屏幕截图推动了转化，但不断的更新、本地化、DPP/PPO测试和多种尺寸让它们感到痛苦。我们建立了快速的工作流程：免费的Figma模板、免费的本地化插件、即时的多语言框架和干净的出口。在任何地方翻译（ASO.dev支持Claude、DeepL、Chat GPT、Google Translate），然后通过简单的拖放方式上传-ASO. dev神奇地检测大小和区域设置、保持完美的顺序、检查处理过程并支持DPP/PPO以实现无错误发布。</p>
+    <ul class="ph-product-tags"><li>ASO</li><li>dev</li><li>Figma</li><li>DPP</li><li>PPO</li><li>截图</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/6YBUAYNVXAK23P" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/aso" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP29</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/acd3885a-41a9-4e32-b16f-64f0302502cf.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="RenameClick - Offline AI File Renamer" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 6</span>
+    </div>
+    <h2>RenameClick - Offline AI File Renamer</h2>
+    <p class="ph-product-tagline">根据内部内容删除图像和文档</p>
+    <p class="ph-product-description">将“8a095-4d0f6a90008b.pdf”等凌乱的文件名转换为“Blood Test.pdf”等描述性名称。几分钟内处理数百个文件。在macOS和Windows上离线运行。免费开始。</p>
+    <ul class="ph-product-tags"><li>pdf</li><li>离线</li><li>8a095</li><li>4d0f6a90008b</li><li>Blood</li><li>Test</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/M66IBFOHVVF6VD" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/renameclick-offline-ai-file-renamer" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP30</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/774610b1-445f-4232-98ac-16160ac19d75.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Lowkey" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 5</span>
+    </div>
+    <h2>Lowkey</h2>
+    <p class="ph-product-tagline">BeReal音乐</p>
+    <p class="ph-product-description">Lowkey是一款音乐日记社交应用程序。每天，您都会收到通知，要在Spotify或Apple Music上分享最近播放的曲目中分享一首歌曲。自定义3D可视化工具以匹配歌曲，然后发布以查看您的朋友正在播放什么。通过音乐传达您的心情，建立您的音乐品味档案，永远不要忘记去年夏天的那首歌。通过您喜欢的人发现音乐，并通过他们喜欢的音乐发现人们。</p>
+    <ul class="ph-product-tags"><li>音乐</li><li>播放</li><li>歌曲</li><li>分享</li><li>自定义</li><li>通过</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/DSGXAT3IKFIZFS" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/lowkey-2" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article></section>
 </main>
 </body>
 </html>

@@ -12,352 +12,516 @@
 <link rel="alternate" type="application/atom+xml" href="https://github.camscanner.top/daily/atom.xml" title="DAYHACK">
 <link rel="alternate" type="application/feed+json" href="https://github.camscanner.top/daily/feed.json" title="DAYHACK">
 <link rel="alternate" type="application/rss+xml" href="https://github.camscanner.top/daily/rss.xml" title="DAYHACK">
-<link rel="stylesheet" href="/daily/assets/css/styles.0b315dd7.css">
+<link rel="stylesheet" href="/daily/assets/css/styles.661792b7.css">
 <style>
-.ph-archive-page { max-width: 920px; margin: 0 auto; padding: 5rem 1.5rem 4rem; line-height: 1.75; }
-.ph-archive-page header { margin-bottom: 2rem; }
+:root { --daily-accent: #da552f; --daily-link: #2563eb; --daily-surface: #fff; --daily-border: rgb(15 23 42 / 10%); }
+.ph-archive-page { max-width: 1080px; margin: 0 auto; padding: 5rem 1.5rem 4rem; line-height: 1.75; }
+.ph-archive-page header { margin-bottom: 1.5rem; }
 .ph-archive-page h1 { margin: 0 0 .75rem; font-size: clamp(2rem, 5vw, 3.25rem); line-height: 1.15; }
 .ph-archive-page time { color: var(--vp-c-text-mute, #6b7280); }
-.ph-archive-page h2 { margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid var(--vp-c-border, #e5e7eb); }
-.ph-archive-page img { display: block; width: min(100%, 720px); height: auto; margin: .75rem 0; border-radius: 8px; }
-.ph-archive-page a { overflow-wrap: anywhere; }
-.ph-archive-nav { display: flex; gap: 1rem; margin-bottom: 2rem; }
+.ph-archive-page a { overflow-wrap: anywhere; color: var(--daily-link); }
+.ph-archive-nav { display: flex; flex-wrap: wrap; gap: 1rem; margin-bottom: 2rem; }
+.ph-products { display: grid; gap: 1rem; }
+.ph-product-card { position: relative; display: grid; grid-template-columns: minmax(180px, 30%) minmax(0, 1fr); gap: 1rem; min-height: 176px; padding: 1rem; border: 1px solid var(--daily-border); border-radius: 8px; background: var(--daily-surface); box-shadow: 0 14px 36px rgb(15 23 42 / 8%); }
+.ph-product-rank { position: absolute; top: 1rem; left: 1rem; z-index: 1; padding: .25rem .55rem; border-radius: 6px; background: rgb(15 23 42 / 82%); color: #fff; font-size: .78rem; font-weight: 700; }
+.ph-product-image { display: block; width: 100%; height: 100%; min-height: 160px; border-radius: 6px; object-fit: cover; background: #f1f5f9; }
+.ph-product-body { min-width: 0; }
+.ph-product-kicker { display: flex; flex-wrap: wrap; gap: .5rem; color: var(--daily-accent); font-size: .84rem; font-weight: 700; }
+.ph-product-card h2 { margin: .25rem 0 .35rem; font-size: clamp(1.25rem, 3vw, 1.7rem); line-height: 1.25; }
+.ph-product-tagline { margin: 0 0 .5rem; font-weight: 700; }
+.ph-product-description { margin: 0; color: var(--vp-c-text-mute, #475569); }
+.ph-product-tags { display: flex; flex-wrap: wrap; gap: .4rem; margin: .75rem 0 0; padding: 0; list-style: none; }
+.ph-product-tags li { padding: .14rem .45rem; border: 1px solid var(--daily-border); border-radius: 999px; font-size: .78rem; color: var(--vp-c-text-mute, #475569); }
+.ph-product-actions { display: flex; flex-wrap: wrap; gap: .55rem; margin-top: .9rem; }
+.ph-product-button { display: inline-flex; align-items: center; min-height: 2.2rem; padding: 0 .8rem; border: 1px solid var(--daily-border); border-radius: 6px; color: var(--daily-link); font-weight: 700; text-decoration: none; }
+.ph-product-button-primary { border-color: var(--daily-accent); background: var(--daily-accent); color: #fff !important; }
+@media (max-width: 719px) { .ph-archive-page { padding: 4.25rem 1rem 3rem; } .ph-product-card { grid-template-columns: 1fr; padding: .85rem; } .ph-product-image { aspect-ratio: 2 / 1; min-height: 0; } .ph-product-actions { display: grid; grid-template-columns: 1fr 1fr; } .ph-product-button { justify-content: center; padding-inline: .5rem; } }
 </style>
 </head>
 <body>
 <main class="ph-archive-page">
 <nav class="ph-archive-nav"><a href="/daily/">首页</a><a href="/daily/blog.html">PH 每日热榜</a></nav>
 <header><h1>PH今日热榜 | 2026-05-21</h1><time datetime="2026-05-21">2026-05-21</time></header>
-<h2 id="top1-tycoon-ai"><a href="https://www.producthunt.com/products/tycoon-us" target="_blank" rel="noopener noreferrer">TOP1    Tycoon AI </a></h2>
-<p><img src="https://ph-files.imgix.net/64329f50-ad0a-4246-90f5-3fe90d0a6da1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Tycoon AI " loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：完全使用人工智能代理运营一人公司<br /></p>
-<p><strong>【介绍】</strong>：Tycoon.us使您能够通过人工智能代理来运营整个公司，人工智能代理由人工智能首席执行官Astra和10多个现成可用的人工智能代理，您可以从中选择，从管理X的CMO到编码的CTO。Astra还管理Claude Code/Hermes。为Astra提供KPI或项目，例如“本月流量10倍”或“启动入职流程”。她制定计划、分配代理人、跟踪进展并在需要时寻求批准。每个代理都是现成的，因此不需要设置、编码或API密钥。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/RL4GWQKCKC4Y5K" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/tycoon-us" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：人工智能,代理,Astra,10,编码,现成<br /></p>
-<p><strong>票数</strong>： 🔺446<br /></p>
-<p><strong>是否精选</strong>：是<br /></p>
-<p><strong>发布时间</strong>：2026年05月21日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top2-mintlify-workflows"><a href="https://www.producthunt.com/products/mintlify" target="_blank" rel="noopener noreferrer">TOP2    Mintlify Workflows</a></h2>
-<p><img src="https://ph-files.imgix.net/dcd2135f-4f12-4bf5-b710-066f266248b5.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Mintlify Workflows" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：自更新知识库<br /></p>
-<p><strong>【介绍】</strong>：让您的文档与产品一样快地移动。Mintliify Workflows允许团队打开预先构建的自动化功能，以更新知识库、生成更改日志、维护翻译并在触发时处理重复性的文档任务。团队无需手动跟踪每一个产品更改，而是只需设置一次工作流程，然后让Mintliify为用户保持文档准确、最新并随时准备。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/3CNKWNRFX4MONH" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/mintlify" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：文档,Mintliify,知识库,更改,团队,更新<br /></p>
-<p><strong>票数</strong>： 🔺306<br /></p>
-<p><strong>是否精选</strong>：是<br /></p>
-<p><strong>发布时间</strong>：2026年05月21日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top3-weweb-3-0"><a href="https://www.producthunt.com/products/weweb-io" target="_blank" rel="noopener noreferrer">TOP3    WeWeb 3.0</a></h2>
-<p><img src="https://ph-files.imgix.net/90fff7f9-046d-46b1-88b8-581ae3d125bc.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="WeWeb 3.0" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：具有无代码编辑器安全网的Vibe代码应用程序<br /></p>
-<p><strong>【介绍】</strong>：WeWeb是唯一一个为非编码人员提供完全编辑控制权的人工智能应用程序构建器。提示人工智能生成您的应用程序，然后在强大的无代码编辑器中完善每个屏幕、工作流程和数据库，您始终了解引擎盖下发生的事情。不再有黑匣子。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/XOSAFL3LHXMWZZ" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/weweb-io" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：应用程序,编辑器,代码,人工智能,Vibe,WeWeb<br /></p>
-<p><strong>票数</strong>： 🔺274<br /></p>
-<p><strong>是否精选</strong>：是<br /></p>
-<p><strong>发布时间</strong>：2026年05月21日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top4-google-antigravity-2-0"><a href="https://www.producthunt.com/products/google-antigravity" target="_blank" rel="noopener noreferrer">TOP4    Google Antigravity 2.0</a></h2>
-<p><img src="https://ph-files.imgix.net/a303cd08-7a9d-4897-9269-15bf1cd7ebf0.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Google Antigravity 2.0" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：从桌面应用程序规划多代理工作流<br /></p>
-<p><strong>【介绍】</strong>：Google Antigravity 2.0是一款独立的桌面应用程序，用于并行编排多个AI代理，具有预定的后台任务、子代理工作流程以及与AI Studio、Firebase和Android的本地集成。专为构建生产应用程序的开发人员而构建。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/BVJYKCZ724TDTG" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/google-antigravity" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：应用程序,AI,代理,桌面,构建,后台任务<br /></p>
-<p><strong>票数</strong>： 🔺265<br /></p>
-<p><strong>是否精选</strong>：是<br /></p>
-<p><strong>发布时间</strong>：2026年05月21日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top5-warmintro"><a href="https://www.producthunt.com/products/warmintro" target="_blank" rel="noopener noreferrer">TOP5    WarmIntro</a></h2>
-<p><img src="https://ph-files.imgix.net/fa84787e-93cb-47d8-ae35-d8898cff11f1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="WarmIntro" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：免费工具，帮助您找到进入任何公司的最温暖之路<br /></p>
-<p><strong>【介绍】</strong>：冷外展是行不通的。WarmIntro可以在任何目标公司寻找与您背景最相似的员工--共同的大学、过去的雇主、城市和头衔，因此每一次介绍都从真正的联系开始。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/FULDAZNQA5BTCF" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/warmintro" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：冷外展,WarmIntro,--,任何,行不通,雇主<br /></p>
-<p><strong>票数</strong>： 🔺213<br /></p>
-<p><strong>是否精选</strong>：是<br /></p>
-<p><strong>发布时间</strong>：2026年05月21日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top6-slideshot"><a href="https://www.producthunt.com/products/slideshot" target="_blank" rel="noopener noreferrer">TOP6    Slideshot</a></h2>
-<p><img src="https://ph-files.imgix.net/f21f22e2-db20-4222-82ce-3c588273b88d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Slideshot" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：产品演示视频，由您的人工智能代理录制<br /></p>
-<p><strong>【介绍】</strong>：为您的AI代理提供产品流程以记录。Slideshot通过HCP驱动您的网络应用程序，捕捉演练，并返回经过优化的演示视频和带有缩放、鼠标运动和自定义介绍动画的GIF。无需手动录制或编辑。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/ZB4GJ5WSVVEMUK" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/slideshot" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：演示,录制,视频,代理,缩放,自定义<br /></p>
-<p><strong>票数</strong>： 🔺196<br /></p>
-<p><strong>是否精选</strong>：是<br /></p>
-<p><strong>发布时间</strong>：2026年05月21日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top7-vivaldi-8-0"><a href="https://www.producthunt.com/products/vivaldi" target="_blank" rel="noopener noreferrer">TOP7    Vivaldi 8.0</a></h2>
-<p><img src="https://ph-files.imgix.net/16cc8bd7-26bf-4b22-9b8d-20d4a16f030f.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Vivaldi 8.0" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：全新统一外观可全面定制<br /></p>
-<p><strong>【介绍】</strong>：十三年过去了，我们刚刚发布了迄今为止最雄心勃勃的更新。维瓦尔第8.0有一个大胆的新外观，我们称之为统一。现在，每个工具栏都位于一个连续的表面上，为您提供了在整个窗口中从边到边自定义浏览器的新方法。从六种布局开始-然后让它成为您的全部。每种颜色、每一个工具栏、每一个像素。浏览器.你的规则。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/ZH5CX4VITF6DCK" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/vivaldi" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：工具栏,浏览器,外观,维瓦尔第,自定义,8.0<br /></p>
-<p><strong>票数</strong>： 🔺142<br /></p>
-<p><strong>是否精选</strong>：是<br /></p>
-<p><strong>发布时间</strong>：2026年05月21日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top8-mixpanel-headless"><a href="https://www.producthunt.com/products/mixpanel" target="_blank" rel="noopener noreferrer">TOP8    Mixpanel Headless</a></h2>
-<p><img src="https://ph-files.imgix.net/379ca85e-4c87-450e-989f-39fdae7990fe.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Mixpanel Headless" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：为代理商和开发人员提供产品分析的程序化访问<br /></p>
-<p><strong>【介绍】</strong>：Mixpanel Headless是一个Python SDK，可以使整个产品表面可编程，因此代理和开发人员可以在不离开IDE的情况下挖掘数据。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/KO2TLBRQWBSAHI" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/mixpanel" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：开发人员,Mixpanel,Headless,Python,SDK,IDE<br /></p>
-<p><strong>票数</strong>： 🔺130<br /></p>
-<p><strong>是否精选</strong>：是<br /></p>
-<p><strong>发布时间</strong>：2026年05月21日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top9-visual-usability-checker"><a href="https://www.producthunt.com/products/attention-insight" target="_blank" rel="noopener noreferrer">TOP9    Visual Usability Checker</a></h2>
-<p><img src="https://ph-files.imgix.net/a1446d0c-aaad-4d95-ab10-26453d44a2ab.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Visual Usability Checker" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：利用人工智能洞察立即简化您的设计决策<br /></p>
-<p><strong>【介绍】</strong>：获取即时人工智能建议以改进您的设计。检测认知负荷、查看用户关注的地方、早期发现问题并比较差异-以便您可以自信地通过数据支持的见解做出和捍卫设计决策。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/HAVYMYPXCHCWHK" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/attention-insight" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：人工智能,设计,决策,洞察,负荷,认知<br /></p>
-<p><strong>票数</strong>： 🔺129<br /></p>
-<p><strong>是否精选</strong>：是<br /></p>
-<p><strong>发布时间</strong>：2026年05月21日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top10-tacet"><a href="https://www.producthunt.com/products/tacet" target="_blank" rel="noopener noreferrer">TOP10    Tacet</a></h2>
-<p><img src="https://ph-files.imgix.net/857a4c9c-451b-4707-be91-b3f91a93aaa5.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Tacet" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：大脑监测器的认知健康评分<br /></p>
-<p><strong>【介绍】</strong>：你追踪你的脚步。你的心率。你的卡路里。但你的大脑呢？Tacet为您提供每日认知健康评分和睡眠质量跟踪，这些评分来自您敲击手机的节奏。这些时间模式携带着有关您认知状态的令人惊讶的准确信号。没有耳机，没有昂贵的硬件，没有设置。被动跟踪，基于莱顿大学的神经科学研究。传统的大脑监测费用高昂。Tacet将其带入您的口袋。从今天开始！<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/HDUTC4PSNKAGQH" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/tacet" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：认知,评分,Tacet,大脑,跟踪,监测器<br /></p>
-<p><strong>票数</strong>： 🔺116<br /></p>
-<p><strong>是否精选</strong>：是<br /></p>
-<p><strong>发布时间</strong>：2026年05月21日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top11-catchall-by-newscatcher"><a href="https://www.producthunt.com/products/catchall" target="_blank" rel="noopener noreferrer">TOP11    CatchAll by NewsCatcher</a></h2>
-<p><img src="https://ph-files.imgix.net/63a9c0ff-4a17-471b-99f7-f27520ddbf0b.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="CatchAll by NewsCatcher" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：从网络构建任何数据集。根据您的标准过滤。<br /></p>
-<p><strong>【介绍】</strong>：CatchAll是一个网络搜索API，可从开放网络构建结构化数据集。提交一个查询，它会扫描数千个网页，验证每个结果，并返回干净的、经过重复数据消除的记录-不是经过排序的链接列表，而是现实世界事件的数据集，为工作流程和管道做好准备。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/JCT7JST7ALMC46" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/catchall" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：数据,网络,构建,CatchAll,API,数千个<br /></p>
-<p><strong>票数</strong>： 🔺110<br /></p>
-<p><strong>是否精选</strong>：是<br /></p>
-<p><strong>发布时间</strong>：2026年05月21日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top12-framed"><a href="https://www.producthunt.com/products/framed-mockup-studio" target="_blank" rel="noopener noreferrer">TOP12    Framed</a></h2>
-<p><img src="https://ph-files.imgix.net/3006408e-1445-4f36-a73e-7002cb9963e0.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Framed" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：将屏幕截图、视频和代码转化为精美的视觉效果<br /></p>
-<p><strong>【介绍】</strong>：Framed是一款MacOS应用程序，可帮助制作者将原始产品内容转化为精美的视觉效果，用于发布、App Store页面、着陆页面、社交帖子、更改日志、代码共享和演示剪辑。您从屏幕截图、视频、代码片段或社交帖子开始，然后添加框架、背景、注释、层、运动、音频和可出口的润色。专为Mac打造，具有专注的工作流程，避免了完整设计应用程序的费用。一次性购买，永远属于您。从未订阅。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/TQXEZYNCQKGXBZ" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/framed-mockup-studio" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：截图,代码,视觉效果,应用程序,页面,社交<br /></p>
-<p><strong>票数</strong>： 🔺110<br /></p>
-<p><strong>是否精选</strong>：是<br /></p>
-<p><strong>发布时间</strong>：2026年05月21日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top13-tonguetype-for-macos"><a href="https://www.producthunt.com/products/tonguetype" target="_blank" rel="noopener noreferrer">TOP13    TongueType for macOS</a></h2>
-<p><img src="https://ph-files.imgix.net/1a4f9f06-aa8f-461c-8256-27df70f32ce1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="TongueType for macOS" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：无需订阅即可进行macOS的本地口述<br /></p>
-<p><strong>【介绍】</strong>：TongueType是一款由Whisper AI支持的macOS语音口述应用程序，在Apple Silicon上本地运行。没有云，没有帐户，没有订阅。握住钥匙，说话，释放。你的话出现了。支持12种语言和音频文件转录。TongueType为您提供可配置的按下通话hotkey、音频和视频文件转录以及可配置的后处理规则。它是可定制且有趣的（尝试彩虹模式！）它的目的是成为最快的口述工作流程。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/ZM22V6AC4IVDS6" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/tonguetype" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：口述,macOS,TongueType,转录,订阅,本地<br /></p>
-<p><strong>票数</strong>： 🔺109<br /></p>
-<p><strong>是否精选</strong>：是<br /></p>
-<p><strong>发布时间</strong>：2026年05月21日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top14-novi-notes-1-1"><a href="https://www.producthunt.com/products/novi-notes" target="_blank" rel="noopener noreferrer">TOP14    Novi Notes 1.1</a></h2>
-<p><img src="https://ph-files.imgix.net/e88d3732-8d42-42fb-b332-3488e8db8780.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Novi Notes 1.1" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：适用于Mac的本地AI内存层<br /></p>
-<p><strong>【介绍】</strong>：Novi是Mac的AI内存层--一个用于每日笔记、文档和便利贴的快速块编辑器。Claude、Codex或Gemini直接通过HCP阅读和书写您的笔记。没有API密钥、没有云、没有设置。1.1 - AI技能中的新增功能：将重复提示变成一键斜线命令。用Markdown编写它，部署到Claude Code、Codex或Gemini。加上GitHub备份和Markdown阅读模式。仅限本地人。一次性购买。没有订阅。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/KPCG5QGMFVZA7Z" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/novi-notes" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：AI,Mac,Claude,Codex,Gemini,Markdown<br /></p>
-<p><strong>票数</strong>： 🔺100<br /></p>
-<p><strong>是否精选</strong>：是<br /></p>
-<p><strong>发布时间</strong>：2026年05月21日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top15-ente-locker"><a href="https://www.producthunt.com/products/ente-locker" target="_blank" rel="noopener noreferrer">TOP15    Ente Locker</a></h2>
-<p><img src="https://ph-files.imgix.net/fe174f17-8ef9-479f-9649-abd485d2da87.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Ente Locker" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：最重要文档的共享保管库<br /></p>
-<p><strong>【介绍】</strong>：大多数存储应用程序都非常复杂，并且在您活着时为您构建。但之后会发生什么？Ente收件箱旨在传输您的重要文档、密码和笔记。将您所爱的人添加为值得信赖的联系人-当您的配偶需要房产证而您不在时。收件箱是端到端加密和开源的，因此您的信息仍然是您的真实信息。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/5POVQF5UVMCDZH" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/ente-locker" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：收件箱,文档,时为,Ente,开源,信息<br /></p>
-<p><strong>票数</strong>： 🔺99<br /></p>
-<p><strong>是否精选</strong>：是<br /></p>
-<p><strong>发布时间</strong>：2026年05月21日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top16-allihat"><a href="https://www.producthunt.com/products/allihat" target="_blank" rel="noopener noreferrer">TOP16    AlliHat</a></h2>
-<p><img src="https://ph-files.imgix.net/6c5f6769-ebd8-4ed4-b083-5667524e4f66.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="AlliHat" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：Safari侧边栏中的Claude AI<br /></p>
-<p><strong>【介绍】</strong>：Claude有一个Chrome扩展。Safari没有。所以我创建了AlliHat。打开侧边栏，它会看到您所在的页面。询问任何问题。突出显示文本以立即解释。代理模式单击、填写表格和导航。工作流只需单击即可运行重复任务。记忆意味着你永远不会重新解释自己。历史记录按域保存。携带您自己的Claude API密钥，或在设备上使用Apple Intelligence。您的钥匙直接转到Anthropic。没有跟踪。没有分析。$29.99/年免费试用后。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/QMGWPEV4K5UCT7" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/allihat" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：Safari,Claude,单击,侧边,填写表格,栏中<br /></p>
-<p><strong>票数</strong>： 🔺98<br /></p>
-<p><strong>是否精选</strong>：是<br /></p>
-<p><strong>发布时间</strong>：2026年05月21日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top17-instavm"><a href="https://www.producthunt.com/products/instavm" target="_blank" rel="noopener noreferrer">TOP17    InstaVM</a></h2>
-<p><img src="https://ph-files.imgix.net/b089bb01-6afd-4906-910f-96b174ca5606.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="InstaVM" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：人工智能代理的即时计算机<br /></p>
-<p><strong>【介绍】</strong>：人工智能代理的生产控制平面。运行类似于生产服务器的代理：隔离、可观察和受控。启动时间低于200 ms的鞭炮微虚拟机。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/M4ZQFEJHNP3JNU" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/instavm" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：代理,人工智能,虚拟机,200,ms,受控<br /></p>
-<p><strong>票数</strong>： 🔺97<br /></p>
-<p><strong>是否精选</strong>：是<br /></p>
-<p><strong>发布时间</strong>：2026年05月21日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top18-basedash-skills"><a href="https://www.producthunt.com/products/basedash" target="_blank" rel="noopener noreferrer">TOP18    Basedash Skills</a></h2>
-<p><img src="https://ph-files.imgix.net/4f664b02-a91a-43a0-ac41-052b88a735a2.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Basedash Skills" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：每个Basedash表面的可重复使用的AI指令。<br /></p>
-<p><strong>【介绍】</strong>：技能是可重复使用的指令包，每个Basedash AI表面都可以按需阅读。定义一次指标，您工作空间中的任何人工智能代理都将在相关时学习该技能。不再将相同的警告粘贴到每个提示中。每项技能都是针对一个概念的简短、简洁的剧本。管理员管理它们;其他人的人工智能都受益。边走边添加它们--你教Basedash的越多，它就越像一个已经了解您业务的分析师。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/Z7RFFPXMGSJW3T" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/basedash" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：Basedash,技能,AI,重复使用,人工智能,每个<br /></p>
-<p><strong>票数</strong>： 🔺97<br /></p>
-<p><strong>是否精选</strong>：是<br /></p>
-<p><strong>发布时间</strong>：2026年05月21日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top19-autosubtitles-2-0"><a href="https://www.producthunt.com/products/autosubtitles" target="_blank" rel="noopener noreferrer">TOP19    AutoSubtitles 2.0</a></h2>
-<p><img src="https://ph-files.imgix.net/38321284-b59f-4e20-93d3-737245de15cb.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="AutoSubtitles 2.0" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：AI字幕和动画字幕，编辑速度更快<br /></p>
-<p><strong>【介绍】</strong>：AutoSubtitles 2.0是下一代人工智能字幕生成器，用于创建动画字幕并直接在浏览器中参与视频内容。生成准确的字幕、使用时间轴和画布编辑器进行编辑、应用病毒式字幕收件箱、添加自动表情符号等人工智能增强功能，并在无需复杂编辑软件的情况下输出精美的视频。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/U76MBMFZJDNIAG" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/autosubtitles" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：字幕,动画,人工智能,编辑,视频,生成器<br /></p>
-<p><strong>票数</strong>： 🔺94<br /></p>
-<p><strong>是否精选</strong>：是<br /></p>
-<p><strong>发布时间</strong>：2026年05月21日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top20-rigyd"><a href="https://www.producthunt.com/products/rigyd" target="_blank" rel="noopener noreferrer">TOP20    Rigyd</a></h2>
-<p><img src="https://ph-files.imgix.net/b1f965f9-b475-4f61-bfe3-0c8f62c01347.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Rigyd" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：用于大规模机器人模拟的可模拟3D资产<br /></p>
-<p><strong>【介绍】</strong>：机器人学习的好坏取决于其数据。对于sim-First团队来说，成功取决于域随机化。在1 M个模拟厨房中训练人形机器人，这样它就不会在真实的厨房中失败。或者在数千个不同尺寸、质量和材料的物体上训练机械臂。两者都需要大规模物理准确的3D内容。大多数团队都没有它。Rigyd自动生成并随机化物理准确的3D对象和大规模世界，解锁以前不可能的简单到真实的场景。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/7376HHQEVXZJE7" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/rigyd" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：3D,随机化,机器人,模拟,大规模,厨房<br /></p>
-<p><strong>票数</strong>： 🔺58<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2026年05月21日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top21-gistr"><a href="https://www.producthunt.com/products/gistr-2" target="_blank" rel="noopener noreferrer">TOP21    Gistr</a></h2>
-<p><img src="https://ph-files.imgix.net/b31dc9a0-8a48-42ec-b115-79e9e5d51f8d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Gistr" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：您的学习与研究思维空间<br /></p>
-<p><strong>【介绍】</strong>：不缺乏总结内容的人工智能工具。Gistr做了一些不同的事情--它是为了理解而构建的。保存YouTube视频、播客、文章或PDF。Gistr提取了重要的内容，为源代码中的每一个见解提供基础，并为您提供一个可编辑的大纲供您思考--而不仅仅是阅读。添加您自己的想法、连接多个来源并验证每一个主张。如果您消耗很多而保留很少- Gistr就是为您而打造的。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/4EEIVQI3YW26SU" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/gistr-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：Gistr,--,源代码,YouTube,播客,PDF<br /></p>
-<p><strong>票数</strong>： 🔺52<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2026年05月21日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top22-mitzu"><a href="https://www.producthunt.com/products/mitzu" target="_blank" rel="noopener noreferrer">TOP22    Mitzu</a></h2>
-<p><img src="https://ph-files.imgix.net/c79f51ac-05dc-40bf-8097-e88f78d2e733.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Mitzu" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：在您的数据仓库上运行的详尽产品分析<br /></p>
-<p><strong>【介绍】</strong>：Mitzu是一个代理产品分析平台，运行在您的数据仓库上-旨在回答原因，而不仅仅是什么。提出复杂的问题，例如“为什么第2周保留率下降？”“分析代理会对各个漏斗、队列和细分进行调查，并返回合成答案。没有幻觉的SQL：确定性引擎每次都会生成方法正确的查询。您的数据将保留在Snowflake、BigQuery、Databricks、Redfire或Click House中。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/L3GJ45XLZKSXC2" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/mitzu" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：数据仓库,分析,保留,Mitzu,代理会,SQL<br /></p>
-<p><strong>票数</strong>： 🔺27<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2026年05月21日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top23-app-store-operator"><a href="https://www.producthunt.com/products/app-store-operator" target="_blank" rel="noopener noreferrer">TOP23    App Store Operator</a></h2>
-<p><img src="https://ph-files.imgix.net/f135f6d7-f04e-40d8-a544-a70fdac5a1d5.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="App Store Operator" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：适用于永不离开Claude的开发者的App Store HCP<br /></p>
-<p><strong>【介绍】</strong>：将Claude连接到App Store竞争情报的HCP服务器。研究竞争对手、获取下载和收入数据，并搜索App Store Claude的一个LCP服务器，可以将竞争对手研究、App Store排名和应用内事件副本生成纳入您的工作流程中。用简单的英语询问，几秒钟内即可获得结构化数据。没有浏览器，没有API密钥。一个要安装的命令。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/FAI2LZDYNVYCGZ" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/app-store-operator" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：App,Store,Claude,HCP,服务器,竞争对手<br /></p>
-<p><strong>票数</strong>： 🔺26<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2026年05月21日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top24-serphouse"><a href="https://www.producthunt.com/products/serphouse" target="_blank" rel="noopener noreferrer">TOP24    SERPHouse</a></h2>
-<p><img src="https://ph-files.imgix.net/59907762-f91d-4c8c-9271-1a977f970e39.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="SERPHouse" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：SEN House-最可靠、最快的SERP API。<br /></p>
-<p><strong>【介绍】</strong>：用更好的数据构建更好的SEO工具。SEPHouse为您提供准确、可扩展的SERP数据，具有更好的响应时间、更深入的结果覆盖范围（前100名）以及针对职位、视频和短片的新API。旨在降低成本，同时提高性能，以便您的产品可以无限制地增长。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/SLUXNLDTGTOCM3" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/serphouse" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：SERP,API,更好,SEN,House,SEO<br /></p>
-<p><strong>票数</strong>： 🔺26<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2026年05月21日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top25-climbx"><a href="https://www.producthunt.com/products/climbx" target="_blank" rel="noopener noreferrer">TOP25    ClimbX</a></h2>
-<p><img src="https://ph-files.imgix.net/06ee64cf-b258-4dd4-bb43-76374660d62c.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ClimbX" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：扩大你的受众。在X上赚钱。<br /></p>
-<p><strong>【介绍】</strong>：帮助您在X上成长的人工智能策略师。内容创意、语音训练草稿、参与机会和增长见解均集中在一处。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/XWZ5HYJ5J4AQ4J" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/climbx" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：受众,草稿,策略师,人工智能,创意,语音<br /></p>
-<p><strong>票数</strong>： 🔺24<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2026年05月21日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top26-platformpilot"><a href="https://www.producthunt.com/products/platformpilot" target="_blank" rel="noopener noreferrer">TOP26    PlatformPilot</a></h2>
-<p><img src="https://ph-files.imgix.net/5b2aa5d3-a33a-4a11-8dae-f609763255b3.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="PlatformPilot" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：为您的公司提供一个能够进化和行动的大脑。<br /></p>
-<p><strong>【介绍】</strong>：知识分散在您的工具中。人工智能特工每次都会忘记并从零开始。公司的大脑不应该。PlatformPilot连接您的整个堆栈一次，并了解您的业务实际运作方式（用您的话说），而不是通用默认设置。问任何问题。获取可以从任何渠道运行的答案和操作。200+个集成。通过LCP将您的大脑插入任何代理。公司大脑能够建立复合记忆，每周都会变得更聪明，并保留你的记忆。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/KCCEZIBZB4IYG7" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/platformpilot" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：大脑,任何,记忆,默认设置,PlatformPilot,200<br /></p>
-<p><strong>票数</strong>： 🔺23<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2026年05月21日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top27-libraryai"><a href="https://www.producthunt.com/products/libraryai" target="_blank" rel="noopener noreferrer">TOP27    libraryai</a></h2>
-<p><img src="https://ph-files.imgix.net/b7ce6ed8-58ad-409e-9a36-cb9ee8d7139b.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="libraryai" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：不要独自读书 <br /></p>
-<p><strong>【介绍】</strong>：Library AI是一体化人工智能阅读平台，使书籍再次社交化。·基于您的真实阅读行为的人工智能图书推荐· BookMatch -滑动Tinder等书籍·与朋友配对阅读条纹·阅读联盟和排名受到启发·每日条纹跟踪和阅读分析·有声读物、电子书、亮点和进步-一切都集中在一个地方我们希望阅读以最好的方式让人感觉现代、竞争和上瘾。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/ESI67PTVML5FZH" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/libraryai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：阅读,人工智能,条纹,书籍,Library,AI<br /></p>
-<p><strong>票数</strong>： 🔺22<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2026年05月21日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top28-anderro"><a href="https://www.producthunt.com/products/anderro" target="_blank" rel="noopener noreferrer">TOP28    Anderro</a></h2>
-<p><img src="https://ph-files.imgix.net/07918cd8-fd5e-4718-809c-216afc1918cd.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Anderro" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：连接企业和创作者的联盟市场<br /></p>
-<p><strong>【介绍】</strong>：Anderro是一个具有内置跟踪功能的联盟市场。公司列出其产品，设定佣金率，浏览市场的附属公司发现它们并开始促销。每次点击、注册和销售都会在一个仪表板中跟踪。与其他会员工具不同，您不必寻找会员。他们找到你。适用于SaaS、会员资格和数字产品。对附属机构免费。公司每月21美元起。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/6BJ2AKCKDBF4RK" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/anderro" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：会员,附属,联盟,跟踪,Anderro,SaaS<br /></p>
-<p><strong>票数</strong>： 🔺21<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2026年05月21日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top29-mod"><a href="https://www.producthunt.com/products/mod-2" target="_blank" rel="noopener noreferrer">TOP29    MOD</a></h2>
-<p><img src="https://ph-files.imgix.net/7f9fa8ed-16d0-41d6-9652-37abb0974b2f.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="MOD" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：在地图上留下一个氛围。让记忆再次成为一个地方。<br /></p>
-<p><strong>【介绍】</strong>：国防部是一款相机，可以将日常时刻变成生动的情绪地图。捕捉一种氛围，将其放在一个地方，一只人工智能宠物--从你自己的时刻成长起来，而不是通用的聊天机器人--会阅读它、记住它，并在感觉值得标记时伸出援手。从你去过的真实地点收集小“纪念品”。用周围的情绪绘制地图。每个星期五，你的宠物都会进行一次每周回顾，看看你一周真正感觉良好的地方。记忆值得一个地方--而不仅仅是一个饲料。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/5QHLY3VBOKYLO3" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/mod-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：--,宠物,地方,氛围,记忆,一个<br /></p>
-<p><strong>票数</strong>： 🔺19<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2026年05月21日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top30-researchos"><a href="https://www.producthunt.com/products/researchos" target="_blank" rel="noopener noreferrer">TOP30    ResearchOS</a></h2>
-<p><img src="https://ph-files.imgix.net/e99448fc-f33e-4000-96c9-8127b4e2fe89.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ResearchOS" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：人工智能原生端到端市场研究<br /></p>
-<p><strong>【介绍】</strong>：大多数人工智能研究工具只能处理拼图的一部分。ResearchOS是第一个真正的人工智能原生端到端市场研究平台。从原始客户简报到范围提案、智能调查问卷、样本定位、数据收集、人工智能高级分析、细分和最终的客户就绪报告-所有这些都集中在一个统一的工作流程中。更快、更便宜，并且专为真正的市场研究而设计。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/OV4ZAFIJZGI6Q3" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/researchos" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：人工智能,端到,原生,研究,客户,ResearchOS<br /></p>
-<p><strong>票数</strong>： 🔺16<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2026年05月21日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
+<section class="ph-products" aria-label="Product Hunt 产品榜单">
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP1</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/64329f50-ad0a-4246-90f5-3fe90d0a6da1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Tycoon AI " loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>精选</span>
+      <span>▲ 446</span>
+    </div>
+    <h2>Tycoon AI</h2>
+    <p class="ph-product-tagline">完全使用人工智能代理运营一人公司</p>
+    <p class="ph-product-description">Tycoon.us使您能够通过人工智能代理来运营整个公司，人工智能代理由人工智能首席执行官Astra和10多个现成可用的人工智能代理，您可以从中选择，从管理X的CMO到编码的CTO。Astra还管理Claude Code/Hermes。为Astra提供KPI或项目，例如“本月流量10倍”或“启动入职流程”。她制定计划、分配代理人、跟踪进展并在需要时寻求批准。每个代理都是现成的，因此不需要设置、编码或API密钥。</p>
+    <ul class="ph-product-tags"><li>人工智能</li><li>代理</li><li>Astra</li><li>10</li><li>编码</li><li>现成</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/RL4GWQKCKC4Y5K" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/tycoon-us" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP2</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/dcd2135f-4f12-4bf5-b710-066f266248b5.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Mintlify Workflows" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>精选</span>
+      <span>▲ 306</span>
+    </div>
+    <h2>Mintlify Workflows</h2>
+    <p class="ph-product-tagline">自更新知识库</p>
+    <p class="ph-product-description">让您的文档与产品一样快地移动。Mintliify Workflows允许团队打开预先构建的自动化功能，以更新知识库、生成更改日志、维护翻译并在触发时处理重复性的文档任务。团队无需手动跟踪每一个产品更改，而是只需设置一次工作流程，然后让Mintliify为用户保持文档准确、最新并随时准备。</p>
+    <ul class="ph-product-tags"><li>文档</li><li>Mintliify</li><li>知识库</li><li>更改</li><li>团队</li><li>更新</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/3CNKWNRFX4MONH" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/mintlify" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP3</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/90fff7f9-046d-46b1-88b8-581ae3d125bc.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="WeWeb 3.0" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>精选</span>
+      <span>▲ 274</span>
+    </div>
+    <h2>WeWeb 3.0</h2>
+    <p class="ph-product-tagline">具有无代码编辑器安全网的Vibe代码应用程序</p>
+    <p class="ph-product-description">WeWeb是唯一一个为非编码人员提供完全编辑控制权的人工智能应用程序构建器。提示人工智能生成您的应用程序，然后在强大的无代码编辑器中完善每个屏幕、工作流程和数据库，您始终了解引擎盖下发生的事情。不再有黑匣子。</p>
+    <ul class="ph-product-tags"><li>应用程序</li><li>编辑器</li><li>代码</li><li>人工智能</li><li>Vibe</li><li>WeWeb</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/XOSAFL3LHXMWZZ" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/weweb-io" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP4</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/a303cd08-7a9d-4897-9269-15bf1cd7ebf0.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Google Antigravity 2.0" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>精选</span>
+      <span>▲ 265</span>
+    </div>
+    <h2>Google Antigravity 2.0</h2>
+    <p class="ph-product-tagline">从桌面应用程序规划多代理工作流</p>
+    <p class="ph-product-description">Google Antigravity 2.0是一款独立的桌面应用程序，用于并行编排多个AI代理，具有预定的后台任务、子代理工作流程以及与AI Studio、Firebase和Android的本地集成。专为构建生产应用程序的开发人员而构建。</p>
+    <ul class="ph-product-tags"><li>应用程序</li><li>AI</li><li>代理</li><li>桌面</li><li>构建</li><li>后台任务</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/BVJYKCZ724TDTG" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/google-antigravity" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP5</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/fa84787e-93cb-47d8-ae35-d8898cff11f1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="WarmIntro" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>精选</span>
+      <span>▲ 213</span>
+    </div>
+    <h2>WarmIntro</h2>
+    <p class="ph-product-tagline">免费工具，帮助您找到进入任何公司的最温暖之路</p>
+    <p class="ph-product-description">冷外展是行不通的。WarmIntro可以在任何目标公司寻找与您背景最相似的员工--共同的大学、过去的雇主、城市和头衔，因此每一次介绍都从真正的联系开始。</p>
+    <ul class="ph-product-tags"><li>冷外展</li><li>WarmIntro</li><li>--</li><li>任何</li><li>行不通</li><li>雇主</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/FULDAZNQA5BTCF" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/warmintro" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP6</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/f21f22e2-db20-4222-82ce-3c588273b88d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Slideshot" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>精选</span>
+      <span>▲ 196</span>
+    </div>
+    <h2>Slideshot</h2>
+    <p class="ph-product-tagline">产品演示视频，由您的人工智能代理录制</p>
+    <p class="ph-product-description">为您的AI代理提供产品流程以记录。Slideshot通过HCP驱动您的网络应用程序，捕捉演练，并返回经过优化的演示视频和带有缩放、鼠标运动和自定义介绍动画的GIF。无需手动录制或编辑。</p>
+    <ul class="ph-product-tags"><li>演示</li><li>录制</li><li>视频</li><li>代理</li><li>缩放</li><li>自定义</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/ZB4GJ5WSVVEMUK" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/slideshot" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP7</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/16cc8bd7-26bf-4b22-9b8d-20d4a16f030f.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Vivaldi 8.0" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>精选</span>
+      <span>▲ 142</span>
+    </div>
+    <h2>Vivaldi 8.0</h2>
+    <p class="ph-product-tagline">全新统一外观可全面定制</p>
+    <p class="ph-product-description">十三年过去了，我们刚刚发布了迄今为止最雄心勃勃的更新。维瓦尔第8.0有一个大胆的新外观，我们称之为统一。现在，每个工具栏都位于一个连续的表面上，为您提供了在整个窗口中从边到边自定义浏览器的新方法。从六种布局开始-然后让它成为您的全部。每种颜色、每一个工具栏、每一个像素。浏览器.你的规则。</p>
+    <ul class="ph-product-tags"><li>工具栏</li><li>浏览器</li><li>外观</li><li>维瓦尔第</li><li>自定义</li><li>8.0</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/ZH5CX4VITF6DCK" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/vivaldi" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP8</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/379ca85e-4c87-450e-989f-39fdae7990fe.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Mixpanel Headless" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>精选</span>
+      <span>▲ 130</span>
+    </div>
+    <h2>Mixpanel Headless</h2>
+    <p class="ph-product-tagline">为代理商和开发人员提供产品分析的程序化访问</p>
+    <p class="ph-product-description">Mixpanel Headless是一个Python SDK，可以使整个产品表面可编程，因此代理和开发人员可以在不离开IDE的情况下挖掘数据。</p>
+    <ul class="ph-product-tags"><li>开发人员</li><li>Mixpanel</li><li>Headless</li><li>Python</li><li>SDK</li><li>IDE</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/KO2TLBRQWBSAHI" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/mixpanel" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP9</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/a1446d0c-aaad-4d95-ab10-26453d44a2ab.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Visual Usability Checker" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>精选</span>
+      <span>▲ 129</span>
+    </div>
+    <h2>Visual Usability Checker</h2>
+    <p class="ph-product-tagline">利用人工智能洞察立即简化您的设计决策</p>
+    <p class="ph-product-description">获取即时人工智能建议以改进您的设计。检测认知负荷、查看用户关注的地方、早期发现问题并比较差异-以便您可以自信地通过数据支持的见解做出和捍卫设计决策。</p>
+    <ul class="ph-product-tags"><li>人工智能</li><li>设计</li><li>决策</li><li>洞察</li><li>负荷</li><li>认知</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/HAVYMYPXCHCWHK" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/attention-insight" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP10</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/857a4c9c-451b-4707-be91-b3f91a93aaa5.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Tacet" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>精选</span>
+      <span>▲ 116</span>
+    </div>
+    <h2>Tacet</h2>
+    <p class="ph-product-tagline">大脑监测器的认知健康评分</p>
+    <p class="ph-product-description">你追踪你的脚步。你的心率。你的卡路里。但你的大脑呢？Tacet为您提供每日认知健康评分和睡眠质量跟踪，这些评分来自您敲击手机的节奏。这些时间模式携带着有关您认知状态的令人惊讶的准确信号。没有耳机，没有昂贵的硬件，没有设置。被动跟踪，基于莱顿大学的神经科学研究。传统的大脑监测费用高昂。Tacet将其带入您的口袋。从今天开始！</p>
+    <ul class="ph-product-tags"><li>认知</li><li>评分</li><li>Tacet</li><li>大脑</li><li>跟踪</li><li>监测器</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/HDUTC4PSNKAGQH" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/tacet" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP11</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/63a9c0ff-4a17-471b-99f7-f27520ddbf0b.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="CatchAll by NewsCatcher" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>精选</span>
+      <span>▲ 110</span>
+    </div>
+    <h2>CatchAll by NewsCatcher</h2>
+    <p class="ph-product-tagline">从网络构建任何数据集。根据您的标准过滤。</p>
+    <p class="ph-product-description">CatchAll是一个网络搜索API，可从开放网络构建结构化数据集。提交一个查询，它会扫描数千个网页，验证每个结果，并返回干净的、经过重复数据消除的记录-不是经过排序的链接列表，而是现实世界事件的数据集，为工作流程和管道做好准备。</p>
+    <ul class="ph-product-tags"><li>数据</li><li>网络</li><li>构建</li><li>CatchAll</li><li>API</li><li>数千个</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/JCT7JST7ALMC46" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/catchall" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP12</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/3006408e-1445-4f36-a73e-7002cb9963e0.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Framed" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>精选</span>
+      <span>▲ 110</span>
+    </div>
+    <h2>Framed</h2>
+    <p class="ph-product-tagline">将屏幕截图、视频和代码转化为精美的视觉效果</p>
+    <p class="ph-product-description">Framed是一款MacOS应用程序，可帮助制作者将原始产品内容转化为精美的视觉效果，用于发布、App Store页面、着陆页面、社交帖子、更改日志、代码共享和演示剪辑。您从屏幕截图、视频、代码片段或社交帖子开始，然后添加框架、背景、注释、层、运动、音频和可出口的润色。专为Mac打造，具有专注的工作流程，避免了完整设计应用程序的费用。一次性购买，永远属于您。从未订阅。</p>
+    <ul class="ph-product-tags"><li>截图</li><li>代码</li><li>视觉效果</li><li>应用程序</li><li>页面</li><li>社交</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/TQXEZYNCQKGXBZ" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/framed-mockup-studio" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP13</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/1a4f9f06-aa8f-461c-8256-27df70f32ce1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="TongueType for macOS" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>精选</span>
+      <span>▲ 109</span>
+    </div>
+    <h2>TongueType for macOS</h2>
+    <p class="ph-product-tagline">无需订阅即可进行macOS的本地口述</p>
+    <p class="ph-product-description">TongueType是一款由Whisper AI支持的macOS语音口述应用程序，在Apple Silicon上本地运行。没有云，没有帐户，没有订阅。握住钥匙，说话，释放。你的话出现了。支持12种语言和音频文件转录。TongueType为您提供可配置的按下通话hotkey、音频和视频文件转录以及可配置的后处理规则。它是可定制且有趣的（尝试彩虹模式！）它的目的是成为最快的口述工作流程。</p>
+    <ul class="ph-product-tags"><li>口述</li><li>macOS</li><li>TongueType</li><li>转录</li><li>订阅</li><li>本地</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/ZM22V6AC4IVDS6" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/tonguetype" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP14</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/e88d3732-8d42-42fb-b332-3488e8db8780.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Novi Notes 1.1" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>精选</span>
+      <span>▲ 100</span>
+    </div>
+    <h2>Novi Notes 1.1</h2>
+    <p class="ph-product-tagline">适用于Mac的本地AI内存层</p>
+    <p class="ph-product-description">Novi是Mac的AI内存层--一个用于每日笔记、文档和便利贴的快速块编辑器。Claude、Codex或Gemini直接通过HCP阅读和书写您的笔记。没有API密钥、没有云、没有设置。1.1 - AI技能中的新增功能：将重复提示变成一键斜线命令。用Markdown编写它，部署到Claude Code、Codex或Gemini。加上GitHub备份和Markdown阅读模式。仅限本地人。一次性购买。没有订阅。</p>
+    <ul class="ph-product-tags"><li>AI</li><li>Mac</li><li>Claude</li><li>Codex</li><li>Gemini</li><li>Markdown</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/KPCG5QGMFVZA7Z" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/novi-notes" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP15</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/fe174f17-8ef9-479f-9649-abd485d2da87.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Ente Locker" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>精选</span>
+      <span>▲ 99</span>
+    </div>
+    <h2>Ente Locker</h2>
+    <p class="ph-product-tagline">最重要文档的共享保管库</p>
+    <p class="ph-product-description">大多数存储应用程序都非常复杂，并且在您活着时为您构建。但之后会发生什么？Ente收件箱旨在传输您的重要文档、密码和笔记。将您所爱的人添加为值得信赖的联系人-当您的配偶需要房产证而您不在时。收件箱是端到端加密和开源的，因此您的信息仍然是您的真实信息。</p>
+    <ul class="ph-product-tags"><li>收件箱</li><li>文档</li><li>时为</li><li>Ente</li><li>开源</li><li>信息</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/5POVQF5UVMCDZH" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/ente-locker" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP16</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/6c5f6769-ebd8-4ed4-b083-5667524e4f66.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="AlliHat" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>精选</span>
+      <span>▲ 98</span>
+    </div>
+    <h2>AlliHat</h2>
+    <p class="ph-product-tagline">Safari侧边栏中的Claude AI</p>
+    <p class="ph-product-description">Claude有一个Chrome扩展。Safari没有。所以我创建了AlliHat。打开侧边栏，它会看到您所在的页面。询问任何问题。突出显示文本以立即解释。代理模式单击、填写表格和导航。工作流只需单击即可运行重复任务。记忆意味着你永远不会重新解释自己。历史记录按域保存。携带您自己的Claude API密钥，或在设备上使用Apple Intelligence。您的钥匙直接转到Anthropic。没有跟踪。没有分析。$29.99/年免费试用后。</p>
+    <ul class="ph-product-tags"><li>Safari</li><li>Claude</li><li>单击</li><li>侧边</li><li>填写表格</li><li>栏中</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/QMGWPEV4K5UCT7" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/allihat" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP17</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/b089bb01-6afd-4906-910f-96b174ca5606.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="InstaVM" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>精选</span>
+      <span>▲ 97</span>
+    </div>
+    <h2>InstaVM</h2>
+    <p class="ph-product-tagline">人工智能代理的即时计算机</p>
+    <p class="ph-product-description">人工智能代理的生产控制平面。运行类似于生产服务器的代理：隔离、可观察和受控。启动时间低于200 ms的鞭炮微虚拟机。</p>
+    <ul class="ph-product-tags"><li>代理</li><li>人工智能</li><li>虚拟机</li><li>200</li><li>ms</li><li>受控</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/M4ZQFEJHNP3JNU" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/instavm" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP18</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/4f664b02-a91a-43a0-ac41-052b88a735a2.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Basedash Skills" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>精选</span>
+      <span>▲ 97</span>
+    </div>
+    <h2>Basedash Skills</h2>
+    <p class="ph-product-tagline">每个Basedash表面的可重复使用的AI指令。</p>
+    <p class="ph-product-description">技能是可重复使用的指令包，每个Basedash AI表面都可以按需阅读。定义一次指标，您工作空间中的任何人工智能代理都将在相关时学习该技能。不再将相同的警告粘贴到每个提示中。每项技能都是针对一个概念的简短、简洁的剧本。管理员管理它们;其他人的人工智能都受益。边走边添加它们--你教Basedash的越多，它就越像一个已经了解您业务的分析师。</p>
+    <ul class="ph-product-tags"><li>Basedash</li><li>技能</li><li>AI</li><li>重复使用</li><li>人工智能</li><li>每个</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/Z7RFFPXMGSJW3T" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/basedash" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP19</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/38321284-b59f-4e20-93d3-737245de15cb.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="AutoSubtitles 2.0" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>精选</span>
+      <span>▲ 94</span>
+    </div>
+    <h2>AutoSubtitles 2.0</h2>
+    <p class="ph-product-tagline">AI字幕和动画字幕，编辑速度更快</p>
+    <p class="ph-product-description">AutoSubtitles 2.0是下一代人工智能字幕生成器，用于创建动画字幕并直接在浏览器中参与视频内容。生成准确的字幕、使用时间轴和画布编辑器进行编辑、应用病毒式字幕收件箱、添加自动表情符号等人工智能增强功能，并在无需复杂编辑软件的情况下输出精美的视频。</p>
+    <ul class="ph-product-tags"><li>字幕</li><li>动画</li><li>人工智能</li><li>编辑</li><li>视频</li><li>生成器</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/U76MBMFZJDNIAG" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/autosubtitles" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP20</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/b1f965f9-b475-4f61-bfe3-0c8f62c01347.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Rigyd" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 58</span>
+    </div>
+    <h2>Rigyd</h2>
+    <p class="ph-product-tagline">用于大规模机器人模拟的可模拟3D资产</p>
+    <p class="ph-product-description">机器人学习的好坏取决于其数据。对于sim-First团队来说，成功取决于域随机化。在1 M个模拟厨房中训练人形机器人，这样它就不会在真实的厨房中失败。或者在数千个不同尺寸、质量和材料的物体上训练机械臂。两者都需要大规模物理准确的3D内容。大多数团队都没有它。Rigyd自动生成并随机化物理准确的3D对象和大规模世界，解锁以前不可能的简单到真实的场景。</p>
+    <ul class="ph-product-tags"><li>3D</li><li>随机化</li><li>机器人</li><li>模拟</li><li>大规模</li><li>厨房</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/7376HHQEVXZJE7" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/rigyd" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP21</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/b31dc9a0-8a48-42ec-b115-79e9e5d51f8d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Gistr" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 52</span>
+    </div>
+    <h2>Gistr</h2>
+    <p class="ph-product-tagline">您的学习与研究思维空间</p>
+    <p class="ph-product-description">不缺乏总结内容的人工智能工具。Gistr做了一些不同的事情--它是为了理解而构建的。保存YouTube视频、播客、文章或PDF。Gistr提取了重要的内容，为源代码中的每一个见解提供基础，并为您提供一个可编辑的大纲供您思考--而不仅仅是阅读。添加您自己的想法、连接多个来源并验证每一个主张。如果您消耗很多而保留很少- Gistr就是为您而打造的。</p>
+    <ul class="ph-product-tags"><li>Gistr</li><li>--</li><li>源代码</li><li>YouTube</li><li>播客</li><li>PDF</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/4EEIVQI3YW26SU" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/gistr-2" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP22</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/c79f51ac-05dc-40bf-8097-e88f78d2e733.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Mitzu" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 27</span>
+    </div>
+    <h2>Mitzu</h2>
+    <p class="ph-product-tagline">在您的数据仓库上运行的详尽产品分析</p>
+    <p class="ph-product-description">Mitzu是一个代理产品分析平台，运行在您的数据仓库上-旨在回答原因，而不仅仅是什么。提出复杂的问题，例如“为什么第2周保留率下降？”“分析代理会对各个漏斗、队列和细分进行调查，并返回合成答案。没有幻觉的SQL：确定性引擎每次都会生成方法正确的查询。您的数据将保留在Snowflake、BigQuery、Databricks、Redfire或Click House中。</p>
+    <ul class="ph-product-tags"><li>数据仓库</li><li>分析</li><li>保留</li><li>Mitzu</li><li>代理会</li><li>SQL</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/L3GJ45XLZKSXC2" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/mitzu" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP23</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/f135f6d7-f04e-40d8-a544-a70fdac5a1d5.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="App Store Operator" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 26</span>
+    </div>
+    <h2>App Store Operator</h2>
+    <p class="ph-product-tagline">适用于永不离开Claude的开发者的App Store HCP</p>
+    <p class="ph-product-description">将Claude连接到App Store竞争情报的HCP服务器。研究竞争对手、获取下载和收入数据，并搜索App Store Claude的一个LCP服务器，可以将竞争对手研究、App Store排名和应用内事件副本生成纳入您的工作流程中。用简单的英语询问，几秒钟内即可获得结构化数据。没有浏览器，没有API密钥。一个要安装的命令。</p>
+    <ul class="ph-product-tags"><li>App</li><li>Store</li><li>Claude</li><li>HCP</li><li>服务器</li><li>竞争对手</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/FAI2LZDYNVYCGZ" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/app-store-operator" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP24</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/59907762-f91d-4c8c-9271-1a977f970e39.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="SERPHouse" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 26</span>
+    </div>
+    <h2>SERPHouse</h2>
+    <p class="ph-product-tagline">SEN House-最可靠、最快的SERP API。</p>
+    <p class="ph-product-description">用更好的数据构建更好的SEO工具。SEPHouse为您提供准确、可扩展的SERP数据，具有更好的响应时间、更深入的结果覆盖范围（前100名）以及针对职位、视频和短片的新API。旨在降低成本，同时提高性能，以便您的产品可以无限制地增长。</p>
+    <ul class="ph-product-tags"><li>SERP</li><li>API</li><li>更好</li><li>SEN</li><li>House</li><li>SEO</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/SLUXNLDTGTOCM3" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/serphouse" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP25</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/06ee64cf-b258-4dd4-bb43-76374660d62c.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ClimbX" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 24</span>
+    </div>
+    <h2>ClimbX</h2>
+    <p class="ph-product-tagline">扩大你的受众。在X上赚钱。</p>
+    <p class="ph-product-description">帮助您在X上成长的人工智能策略师。内容创意、语音训练草稿、参与机会和增长见解均集中在一处。</p>
+    <ul class="ph-product-tags"><li>受众</li><li>草稿</li><li>策略师</li><li>人工智能</li><li>创意</li><li>语音</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/XWZ5HYJ5J4AQ4J" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/climbx" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP26</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/5b2aa5d3-a33a-4a11-8dae-f609763255b3.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="PlatformPilot" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 23</span>
+    </div>
+    <h2>PlatformPilot</h2>
+    <p class="ph-product-tagline">为您的公司提供一个能够进化和行动的大脑。</p>
+    <p class="ph-product-description">知识分散在您的工具中。人工智能特工每次都会忘记并从零开始。公司的大脑不应该。PlatformPilot连接您的整个堆栈一次，并了解您的业务实际运作方式（用您的话说），而不是通用默认设置。问任何问题。获取可以从任何渠道运行的答案和操作。200+个集成。通过LCP将您的大脑插入任何代理。公司大脑能够建立复合记忆，每周都会变得更聪明，并保留你的记忆。</p>
+    <ul class="ph-product-tags"><li>大脑</li><li>任何</li><li>记忆</li><li>默认设置</li><li>PlatformPilot</li><li>200</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/KCCEZIBZB4IYG7" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/platformpilot" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP27</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/b7ce6ed8-58ad-409e-9a36-cb9ee8d7139b.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="libraryai" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 22</span>
+    </div>
+    <h2>libraryai</h2>
+    <p class="ph-product-tagline">不要独自读书</p>
+    <p class="ph-product-description">Library AI是一体化人工智能阅读平台，使书籍再次社交化。·基于您的真实阅读行为的人工智能图书推荐· BookMatch -滑动Tinder等书籍·与朋友配对阅读条纹·阅读联盟和排名受到启发·每日条纹跟踪和阅读分析·有声读物、电子书、亮点和进步-一切都集中在一个地方我们希望阅读以最好的方式让人感觉现代、竞争和上瘾。</p>
+    <ul class="ph-product-tags"><li>阅读</li><li>人工智能</li><li>条纹</li><li>书籍</li><li>Library</li><li>AI</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/ESI67PTVML5FZH" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/libraryai" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP28</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/07918cd8-fd5e-4718-809c-216afc1918cd.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Anderro" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 21</span>
+    </div>
+    <h2>Anderro</h2>
+    <p class="ph-product-tagline">连接企业和创作者的联盟市场</p>
+    <p class="ph-product-description">Anderro是一个具有内置跟踪功能的联盟市场。公司列出其产品，设定佣金率，浏览市场的附属公司发现它们并开始促销。每次点击、注册和销售都会在一个仪表板中跟踪。与其他会员工具不同，您不必寻找会员。他们找到你。适用于SaaS、会员资格和数字产品。对附属机构免费。公司每月21美元起。</p>
+    <ul class="ph-product-tags"><li>会员</li><li>附属</li><li>联盟</li><li>跟踪</li><li>Anderro</li><li>SaaS</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/6BJ2AKCKDBF4RK" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/anderro" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP29</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/7f9fa8ed-16d0-41d6-9652-37abb0974b2f.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="MOD" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 19</span>
+    </div>
+    <h2>MOD</h2>
+    <p class="ph-product-tagline">在地图上留下一个氛围。让记忆再次成为一个地方。</p>
+    <p class="ph-product-description">国防部是一款相机，可以将日常时刻变成生动的情绪地图。捕捉一种氛围，将其放在一个地方，一只人工智能宠物--从你自己的时刻成长起来，而不是通用的聊天机器人--会阅读它、记住它，并在感觉值得标记时伸出援手。从你去过的真实地点收集小“纪念品”。用周围的情绪绘制地图。每个星期五，你的宠物都会进行一次每周回顾，看看你一周真正感觉良好的地方。记忆值得一个地方--而不仅仅是一个饲料。</p>
+    <ul class="ph-product-tags"><li>--</li><li>宠物</li><li>地方</li><li>氛围</li><li>记忆</li><li>一个</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/5QHLY3VBOKYLO3" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/mod-2" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP30</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/e99448fc-f33e-4000-96c9-8127b4e2fe89.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ResearchOS" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 16</span>
+    </div>
+    <h2>ResearchOS</h2>
+    <p class="ph-product-tagline">人工智能原生端到端市场研究</p>
+    <p class="ph-product-description">大多数人工智能研究工具只能处理拼图的一部分。ResearchOS是第一个真正的人工智能原生端到端市场研究平台。从原始客户简报到范围提案、智能调查问卷、样本定位、数据收集、人工智能高级分析、细分和最终的客户就绪报告-所有这些都集中在一个统一的工作流程中。更快、更便宜，并且专为真正的市场研究而设计。</p>
+    <ul class="ph-product-tags"><li>人工智能</li><li>端到</li><li>原生</li><li>研究</li><li>客户</li><li>ResearchOS</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/OV4ZAFIJZGI6Q3" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/researchos" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article></section>
 </main>
 </body>
 </html>

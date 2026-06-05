@@ -12,352 +12,516 @@
 <link rel="alternate" type="application/atom+xml" href="https://github.camscanner.top/daily/atom.xml" title="DAYHACK">
 <link rel="alternate" type="application/feed+json" href="https://github.camscanner.top/daily/feed.json" title="DAYHACK">
 <link rel="alternate" type="application/rss+xml" href="https://github.camscanner.top/daily/rss.xml" title="DAYHACK">
-<link rel="stylesheet" href="/daily/assets/css/styles.0b315dd7.css">
+<link rel="stylesheet" href="/daily/assets/css/styles.661792b7.css">
 <style>
-.ph-archive-page { max-width: 920px; margin: 0 auto; padding: 5rem 1.5rem 4rem; line-height: 1.75; }
-.ph-archive-page header { margin-bottom: 2rem; }
+:root { --daily-accent: #da552f; --daily-link: #2563eb; --daily-surface: #fff; --daily-border: rgb(15 23 42 / 10%); }
+.ph-archive-page { max-width: 1080px; margin: 0 auto; padding: 5rem 1.5rem 4rem; line-height: 1.75; }
+.ph-archive-page header { margin-bottom: 1.5rem; }
 .ph-archive-page h1 { margin: 0 0 .75rem; font-size: clamp(2rem, 5vw, 3.25rem); line-height: 1.15; }
 .ph-archive-page time { color: var(--vp-c-text-mute, #6b7280); }
-.ph-archive-page h2 { margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid var(--vp-c-border, #e5e7eb); }
-.ph-archive-page img { display: block; width: min(100%, 720px); height: auto; margin: .75rem 0; border-radius: 8px; }
-.ph-archive-page a { overflow-wrap: anywhere; }
-.ph-archive-nav { display: flex; gap: 1rem; margin-bottom: 2rem; }
+.ph-archive-page a { overflow-wrap: anywhere; color: var(--daily-link); }
+.ph-archive-nav { display: flex; flex-wrap: wrap; gap: 1rem; margin-bottom: 2rem; }
+.ph-products { display: grid; gap: 1rem; }
+.ph-product-card { position: relative; display: grid; grid-template-columns: minmax(180px, 30%) minmax(0, 1fr); gap: 1rem; min-height: 176px; padding: 1rem; border: 1px solid var(--daily-border); border-radius: 8px; background: var(--daily-surface); box-shadow: 0 14px 36px rgb(15 23 42 / 8%); }
+.ph-product-rank { position: absolute; top: 1rem; left: 1rem; z-index: 1; padding: .25rem .55rem; border-radius: 6px; background: rgb(15 23 42 / 82%); color: #fff; font-size: .78rem; font-weight: 700; }
+.ph-product-image { display: block; width: 100%; height: 100%; min-height: 160px; border-radius: 6px; object-fit: cover; background: #f1f5f9; }
+.ph-product-body { min-width: 0; }
+.ph-product-kicker { display: flex; flex-wrap: wrap; gap: .5rem; color: var(--daily-accent); font-size: .84rem; font-weight: 700; }
+.ph-product-card h2 { margin: .25rem 0 .35rem; font-size: clamp(1.25rem, 3vw, 1.7rem); line-height: 1.25; }
+.ph-product-tagline { margin: 0 0 .5rem; font-weight: 700; }
+.ph-product-description { margin: 0; color: var(--vp-c-text-mute, #475569); }
+.ph-product-tags { display: flex; flex-wrap: wrap; gap: .4rem; margin: .75rem 0 0; padding: 0; list-style: none; }
+.ph-product-tags li { padding: .14rem .45rem; border: 1px solid var(--daily-border); border-radius: 999px; font-size: .78rem; color: var(--vp-c-text-mute, #475569); }
+.ph-product-actions { display: flex; flex-wrap: wrap; gap: .55rem; margin-top: .9rem; }
+.ph-product-button { display: inline-flex; align-items: center; min-height: 2.2rem; padding: 0 .8rem; border: 1px solid var(--daily-border); border-radius: 6px; color: var(--daily-link); font-weight: 700; text-decoration: none; }
+.ph-product-button-primary { border-color: var(--daily-accent); background: var(--daily-accent); color: #fff !important; }
+@media (max-width: 719px) { .ph-archive-page { padding: 4.25rem 1rem 3rem; } .ph-product-card { grid-template-columns: 1fr; padding: .85rem; } .ph-product-image { aspect-ratio: 2 / 1; min-height: 0; } .ph-product-actions { display: grid; grid-template-columns: 1fr 1fr; } .ph-product-button { justify-content: center; padding-inline: .5rem; } }
 </style>
 </head>
 <body>
 <main class="ph-archive-page">
 <nav class="ph-archive-nav"><a href="/daily/">首页</a><a href="/daily/blog.html">PH 每日热榜</a></nav>
 <header><h1>PH今日热榜 | 2026-05-10</h1><time datetime="2026-05-10">2026-05-10</time></header>
-<h2 id="top1-tailgrids-3-0"><a href="https://www.producthunt.com/products/tailgrids" target="_blank" rel="noopener noreferrer">TOP1    Tailgrids 3.0</a></h2>
-<p><img src="https://ph-files.imgix.net/882cb709-2063-4b73-b7b8-c74b46c6dda0.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Tailgrids 3.0" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：适用于Tailwind和AI工作流程的开源React UI库<br /></p>
-<p><strong>【介绍】</strong>：TailGrids 3.0是一个完整的重建--一个现代开源React UI库和设计系统，统一了React、Tailwind和Figma。交付现实世界的网络项目，包含600多个用于仪表板、人工智能、电子商务、SaaS和营销网站的组件、块和模板。包括CLI安装、用于主题化的设计令牌以及用于AI就绪工作流程的MAO服务器。类型脚本优先，可访问，可生产，具有反映代码库1：1的Figma套件<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/SRA36BX2QALQPN" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/tailgrids" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：React,Tailwind,AI,UI,Figma,开源<br /></p>
-<p><strong>票数</strong>： 🔺322<br /></p>
-<p><strong>是否精选</strong>：是<br /></p>
-<p><strong>发布时间</strong>：2026年05月10日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top2-investorfinder"><a href="https://www.producthunt.com/products/investorfinder" target="_blank" rel="noopener noreferrer">TOP2    InvestorFinder</a></h2>
-<p><img src="https://ph-files.imgix.net/ca609634-368a-484a-a131-335287ff42ce.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="InvestorFinder" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：寻找像您一样支持创始人的投资者<br /></p>
-<p><strong>【介绍】</strong>：最后，关于每个VC合作伙伴如何实际投资的真实数据-创始人背景，大学和以前的公司。粘贴您的个人资料，并在几秒钟内找到您的最佳匹配。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/RYYTMN5NZ76UMA" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/investorfinder" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：创始人,VC,个人资料,粘贴,几秒钟,合作伙伴<br /></p>
-<p><strong>票数</strong>： 🔺270<br /></p>
-<p><strong>是否精选</strong>：是<br /></p>
-<p><strong>发布时间</strong>：2026年05月10日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top3-deepsec"><a href="https://www.producthunt.com/products/vercel" target="_blank" rel="noopener noreferrer">TOP3    deepsec</a></h2>
-<p><img src="https://ph-files.imgix.net/d3e42376-2de5-48a3-b9c0-22257e8af04c.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="deepsec" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：开源编码安全工具<br /></p>
-<p><strong>【介绍】</strong>：Vercel是开源的deepsec，这是一种在您的基础设施上运行的AI安全工具，使用您的密钥，针对您的代码。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/T5UPS2CJT3MEUS" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/vercel" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：开源,工具,Vercel,deepsec,AI,安全<br /></p>
-<p><strong>票数</strong>： 🔺230<br /></p>
-<p><strong>是否精选</strong>：是<br /></p>
-<p><strong>发布时间</strong>：2026年05月10日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top4-adject-2-0"><a href="https://www.producthunt.com/products/adject" target="_blank" rel="noopener noreferrer">TOP4    Adject 2.0</a></h2>
-<p><img src="https://ph-files.imgix.net/f2ed94cc-81a8-4535-a8d1-b234590a2c27.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Adject 2.0" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：利用人工智能创建超现实的产品视觉效果<br /></p>
-<p><strong>【介绍】</strong>：Adject2.0是一个代理产品工作室，品牌可以在无限的创意工作流程中创建、编辑和简化产品视觉效果。产品、模型、编辑、视频和资产不是孤立的世代，而是在项目内部保持联系，并随着时间的推移不断发展。一次上传、在上下文中生成、可视化地卸载，并在没有碎片化工具或重复提示的情况下构建完整的营销活动。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/BPB5EVZOROWIVC" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/adject" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：视觉效果,产品,创建,编辑,Adject2.0,超现实<br /></p>
-<p><strong>票数</strong>： 🔺188<br /></p>
-<p><strong>是否精选</strong>：是<br /></p>
-<p><strong>发布时间</strong>：2026年05月10日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top5-notion-3-4"><a href="https://www.producthunt.com/products/notion-3-4" target="_blank" rel="noopener noreferrer">TOP5    Notion 3.4</a></h2>
-<p><img src="https://ph-files.imgix.net/889a6078-4806-4483-af44-3d52c3f82f02.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Notion 3.4" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：新的仪表板、连接器、侧边栏和更智能的人工智能代理<br /></p>
-<p><strong>【介绍】</strong>：Notion现在无需离开工作区即可生成图像、构建仪表板并呈现您的文档。为操作员、PM和在AI上扩展的团队提供了10多个功能。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/EG2MLTEVHABTRD" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/notion-3-4" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：仪表板,连接器,Notion,PM,AI,10<br /></p>
-<p><strong>票数</strong>： 🔺157<br /></p>
-<p><strong>是否精选</strong>：是<br /></p>
-<p><strong>发布时间</strong>：2026年05月10日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top6-agentpeek"><a href="https://www.producthunt.com/products/agentpeek" target="_blank" rel="noopener noreferrer">TOP6    AgentPeek</a></h2>
-<p><img src="https://ph-files.imgix.net/7af2990b-fe51-41b3-8ce7-3daac6fb5877.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="AgentPeek" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：Mac中的Claude Code和Codex<br /></p>
-<p><strong>【介绍】</strong>：从Mac notch监控Claude Code和Codex。会话、权限、令牌使用情况和本地开发服务器。会话数据保持本地。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/I5VUUCMKZ6ZLDB" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/agentpeek" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：Mac,Claude,Code,Codex,会话,本地<br /></p>
-<p><strong>票数</strong>： 🔺142<br /></p>
-<p><strong>是否精选</strong>：是<br /></p>
-<p><strong>发布时间</strong>：2026年05月10日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top7-keel"><a href="https://www.producthunt.com/products/keel-3" target="_blank" rel="noopener noreferrer">TOP7    Keel</a></h2>
-<p><img src="https://ph-files.imgix.net/b4f6f99c-a0f3-4a29-85b2-1192d82a02b1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Keel" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：记忆属于你的AI助手<br /></p>
-<p><strong>【介绍】</strong>：Keel是一款适用于macOS和Windows的本地优先桌面应用程序，可将对话中重要的内容捕获到磁盘上的纯折扣文件中。带上您自己的型号- Claude、GPT、OpenRouter或Olama。您的背景属于您，而不是供应商。开源，麻省理工学院。https://keel-labs.github.io/<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/MHKCZ5OJ47MKOE" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/keel-3" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：AI,Keel,macOS,Windows,Claude,GPT<br /></p>
-<p><strong>票数</strong>： 🔺121<br /></p>
-<p><strong>是否精选</strong>：是<br /></p>
-<p><strong>发布时间</strong>：2026年05月10日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top8-lumichats-offline-free"><a href="https://www.producthunt.com/products/lumichats-offline" target="_blank" rel="noopener noreferrer">TOP8    LumiChats Offline(free)</a></h2>
-<p><img src="https://ph-files.imgix.net/70d674e2-4dbb-4667-9634-667d2822c23e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="LumiChats Offline(free)" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：您的人工智能，完全离线，零数据收集和100%免费<br /></p>
-<p><strong>【介绍】</strong>：完全离线运行强大的人工智能模型，无需互联网、无需图形处理器、无需云。LumiChats Offline是一款基于GPT 4All构建的免费开源桌面应用程序，默认情况下具有完全隐私。支持Mistral、LLaMA、Qwen、DeepSeek和我们自己的微调LumiChats模型。通过LocalDocs与您自己的PDF和文档聊天。适用于Windows、Linux和macOS。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/D2CFOVK7DPCEEE" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/lumichats-offline" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：离线,无需,LumiChats,人工智能,完全,免费<br /></p>
-<p><strong>票数</strong>： 🔺119<br /></p>
-<p><strong>是否精选</strong>：是<br /></p>
-<p><strong>发布时间</strong>：2026年05月10日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top9-better-sol"><a href="https://www.producthunt.com/products/better-sol" target="_blank" rel="noopener noreferrer">TOP9    Better Sol</a></h2>
-<p><img src="https://ph-files.imgix.net/73fdceae-a50b-42c1-9aee-fd6d7644425e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Better Sol" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：使用TypScript开发端到端Solana应用程序<br /></p>
-<p><strong>【介绍】</strong>：Better Sol允许您完全使用TypScript编写Solana程序，且零模板。一个文件定义了您的程序并自动成为一个完全类型的客户端，因此没有ADL、没有代码生成，也没有任何需要保持同步的东西。使用单个命令进行部署，自动完成每个指令和帐户字段、内置令牌操作以及开箱即用的可组合事务。无需语言切换、无需手动编解码器、无需本地工具链设置。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/NZGPCARJWWNJPX" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/better-sol" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：无需,TypScript,Solana,使用,代码生成,自动<br /></p>
-<p><strong>票数</strong>： 🔺59<br /></p>
-<p><strong>是否精选</strong>：是<br /></p>
-<p><strong>发布时间</strong>：2026年05月10日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top10-reelfluent-web"><a href="https://www.producthunt.com/products/reelfluent" target="_blank" rel="noopener noreferrer">TOP10    ReelFluent Web</a></h2>
-<p><img src="https://ph-files.imgix.net/b4c74b29-5f3f-4279-bcc7-55407bd82476.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ReelFluent Web" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：卷轴，但用于语言学习<br /></p>
-<p><strong>【介绍】</strong>：毫无负罪感的狂看从这里开始。100%戏剧性，0%内疚--将银幕时间变成真正的流畅。ReelFluent通过点击翻译、人工智能帮助和现场实践将迷你剧转化为学习。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/BQ3F4BEXN574E3" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/reelfluent" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：负罪感,100%,0%,--,ReelFluent,学习<br /></p>
-<p><strong>票数</strong>： 🔺15<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2026年05月10日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top11-primecompass-ai"><a href="https://www.producthunt.com/products/primecompass-ai" target="_blank" rel="noopener noreferrer">TOP11    PrimeCompass.ai</a></h2>
-<p><img src="https://ph-files.imgix.net/8758c3da-71bf-45fe-b2ed-52df649d2f62.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="PrimeCompass.ai" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：来自实时应用程序的人工智能支持优质智能<br /></p>
-<p><strong>【介绍】</strong>：PrimeCompass通过观察真实应用程序的运行自动发现测试场景-无需手动记录，也不会产生LLM幻觉。它生成基于捕获的多姆事件的可执行Playwright脚本，具有不可绕过的安全门、厕所驱动的测试数据、交叉发布漂移检测和内置缺陷生命周期。记录器需要人类;人工智能发电机发明。PrimeCompass通过观察来获得测试。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/2OVHTXDKWAVDCH" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/primecompass-ai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：PrimeCompass,应用程序,通过观察,人工智能,测试,LLM<br /></p>
-<p><strong>票数</strong>： 🔺10<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2026年05月10日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top12-atlasly"><a href="https://www.producthunt.com/products/atlasly" target="_blank" rel="noopener noreferrer">TOP12    Atlasly</a></h2>
-<p><img src="https://ph-files.imgix.net/9eedbc59-5704-4fee-abe1-f149b6e03bb7.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Atlasly" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：建筑人工智能代理<br /></p>
-<p><strong>【介绍】</strong>：哈维·AI取代了律师最痛苦的繁重工作。托马斯利也为建筑师做了同样的事情。输入一个地址，人工智能代理处理2-4周的预设计研究，并在短短几分钟内产生专业的可交付成果。600多名用户，47个国家。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/4S3L3JHOWVOKXT" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/atlasly" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：人工智能,代理,AI,600,47,哈维<br /></p>
-<p><strong>票数</strong>： 🔺10<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2026年05月10日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top13-cohesivity"><a href="https://www.producthunt.com/products/cohesivity" target="_blank" rel="noopener noreferrer">TOP13    Cohesivity</a></h2>
-<p><img src="https://ph-files.imgix.net/d1d20a63-7ed7-413a-a326-94db1bfae1f3.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Cohesivity" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：人工智能代理的后台Infra<br /></p>
-<p><strong>【介绍】</strong>：凝聚力是人工智能代理的后台Infra。一个API提供数据库、托管、身份验证、存储等，以便代理可以在您不离开聊天窗口的情况下以预算到生产的方式发送。要开始，请在提示中添加“使用cohesivity.ai构建并托管它”。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/HCVAEPEVF7MMTA" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/cohesivity" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：Infra,代理,人工智能,后台,托管,身份验证<br /></p>
-<p><strong>票数</strong>： 🔺10<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2026年05月10日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top14-igreet"><a href="https://www.producthunt.com/products/igreet" target="_blank" rel="noopener noreferrer">TOP14    iGreet</a></h2>
-<p><img src="https://ph-files.imgix.net/41587b6b-4699-4477-b510-810ba48b75d1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="iGreet" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：栩栩如生的个性化视频贺卡<br /></p>
-<p><strong>【介绍】</strong>：iGreet让您可以在几分钟内创建包含自己的信息、照片、视频和礼品卡的个性化贺卡。通过简单的链接立即发送数字卡片，或订购实体印刷版本以获得更个性化的惊喜。卡片还可以在增强现实中查看，通过手机将您的记忆和信息带入生活。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/HWS63QUCONCNOO" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/igreet" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：个性化,贺卡,卡片,视频,iGreet,信息<br /></p>
-<p><strong>票数</strong>： 🔺9<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2026年05月10日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top15-agent-memory-system"><a href="https://www.producthunt.com/products/agent-memory-system" target="_blank" rel="noopener noreferrer">TOP15    Agent Memory System</a></h2>
-<p><img src="https://ph-files.imgix.net/b3d9f6bc-7ce1-4892-a4bc-d512a3e4b64e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Agent Memory System" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：用于人工智能代理的开源上下文基础设施<br /></p>
-<p><strong>【介绍】</strong>：代理内存系统为任何存储库提供了一个持久的内存层，人工智能代理可以在工作之前读取该层。它扫描代码库，生成结构化Markdown内存，创建机器可读的主题索引，跟踪结构变化，并记录切换，以便当工作在反重力、Codex、Claude、Cursor或其他助手之间移动时，上下文仍然存在。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/PNICN5XAVDLNGA" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/agent-memory-system" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：内存,代理,上下文,人工智能,主题索引,该层<br /></p>
-<p><strong>票数</strong>： 🔺9<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2026年05月10日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top16-thestatsapi"><a href="https://www.producthunt.com/products/thestatsapi" target="_blank" rel="noopener noreferrer">TOP16    TheStatsAPI</a></h2>
-<p><img src="https://ph-files.imgix.net/de406a40-949e-47db-bf44-6930eb794223.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="TheStatsAPI" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：为速度而构建的足球统计API<br /></p>
-<p><strong>【介绍】</strong>：即时访问80场比赛的足球比赛数据、球员统计数据和赛程，最多可根据要求提供1，196场比赛。使用快速、易于使用且可靠的API在几分钟内开始构建。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/3FVRAZ4X6B4YKZ" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/thestatsapi" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：API,构建,比赛,80,196,赛程<br /></p>
-<p><strong>票数</strong>： 🔺9<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2026年05月10日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top17-screen-bolt"><a href="https://www.producthunt.com/products/screen-bolt" target="_blank" rel="noopener noreferrer">TOP17    Screen Bolt</a></h2>
-<p><img src="https://ph-files.imgix.net/6c617ab2-844f-4dc3-94ab-7c7e7b9e893d.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Screen Bolt" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：Record. Edit. Ship<br /></p>
-<p><strong>【介绍】</strong>：使用自动缩放、设备框架和内置时间轴编辑器记录、编辑和输出抛光的屏幕录音。用于教程、演示等的原生macOS应用程序。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/5QDSQKVXQRMWSX" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/screen-bolt" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：缩放,时间轴,Record,Edit,Ship,macOS<br /></p>
-<p><strong>票数</strong>： 🔺8<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2026年05月10日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top18-pro-thumbnail-inspirations"><a href="https://www.producthunt.com/products/thumblifyai" target="_blank" rel="noopener noreferrer">TOP18    Pro Thumbnail Inspirations</a></h2>
-<p><img src="https://ph-files.imgix.net/cdfc08e3-37fc-4f34-98b8-07a905df4fa6.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Pro Thumbnail Inspirations" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：来自您利基市场的病毒式缩略图创意<br /></p>
-<p><strong>【介绍】</strong>：根据您的利基和最喜欢的创作者获取经过验证的缩略图创意。此功能扫描YouTube并向您显示当前正在执行的缩略图，以便您可以停止猜测并开始创建真正获得点击的内容。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/OOEV3JLRJBVUKK" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/thumblifyai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：缩略图,利基,创意,YouTube,创作者,点击<br /></p>
-<p><strong>票数</strong>： 🔺8<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2026年05月10日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top19-design-md-by-parallect"><a href="https://www.producthunt.com/products/design-md-by-parallect" target="_blank" rel="noopener noreferrer">TOP19    DESIGN.MD by Parallect</a></h2>
-<p><img src="https://ph-files.imgix.net/cc6146d7-3f82-4e1e-8f9a-8b36831db587.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="DESIGN.MD by Parallect" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：从任何网站URL生成DESIGN.md<br /></p>
-<p><strong>【介绍】</strong>：粘贴URL -获取可供生产的DESIGN.md，其中包含标记、字体、间距和组件模式。您的团队需要的一切，只需几秒钟即可完成。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/PQ4A4UCHVTBNV3" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/design-md-by-parallect" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：URL,DESIGN,md,粘贴,几秒钟,组件<br /></p>
-<p><strong>票数</strong>： 🔺7<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2026年05月10日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top20-blipstr"><a href="https://www.producthunt.com/products/blipstr" target="_blank" rel="noopener noreferrer">TOP20    Blipstr</a></h2>
-<p><img src="https://ph-files.imgix.net/2a220509-81e8-404f-a230-063e16389a46.webp?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Blipstr" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：使任何页面成为工作流程-没有标签地狱的勘探<br /></p>
-<p><strong>【介绍】</strong>：运行雷达查找电子邮件+美国电话号码。紫色=单击添加。红色=单击编辑。准备好后同步到Salesforce或HubSpot。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/2GHU3B6ZADBPQZ" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/blipstr" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：单击,好后,Salesforce,HubSpot,电子邮件,页面<br /></p>
-<p><strong>票数</strong>： 🔺6<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2026年05月10日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top21-gohighlevel-downloader"><a href="https://www.producthunt.com/products/gohighlevel-downloader" target="_blank" rel="noopener noreferrer">TOP21    GoHighLevel Downloader</a></h2>
-<p><img src="https://ph-files.imgix.net/7d7aeebe-ac33-4389-99fb-d2206dd9ba0e.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="GoHighLevel Downloader" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：离线保存GoHighLevel课程视频<br /></p>
-<p><strong>【介绍】</strong>：一个浏览器扩展，用于保存受支持的GoHighLevel课程视频以供离线观看。打开课程页面或嵌入式播放器，让扩展程序检测可用媒体，然后输出MP4以进行学习、审查、备份、旅行、培训或个人档案-无需开发人员工具、网络检查、命令行实用程序或单独的桌面软件。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/CK5LEO3L6K7FPC" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/gohighlevel-downloader" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：离线,课程,GoHighLevel,视频,扩展,保存<br /></p>
-<p><strong>票数</strong>： 🔺6<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2026年05月10日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top22-blipstr"><a href="https://www.producthunt.com/products/blipstr" target="_blank" rel="noopener noreferrer">TOP22    Blipstr</a></h2>
-<p><img src="https://ph-files.imgix.net/2a220509-81e8-404f-a230-063e16389a46.webp?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Blipstr" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：使任何页面成为工作流程-没有标签地狱的勘探<br /></p>
-<p><strong>【介绍】</strong>：运行雷达查找电子邮件+美国电话号码。紫色=单击添加。红色=单击编辑。准备好后同步到Salesforce或HubSpot。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/2GHU3B6ZADBPQZ" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/blipstr" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：单击,好后,Salesforce,HubSpot,电子邮件,页面<br /></p>
-<p><strong>票数</strong>： 🔺6<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2026年05月10日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top23-nova3d"><a href="https://www.producthunt.com/products/nova3d" target="_blank" rel="noopener noreferrer">TOP23    Nova3D</a></h2>
-<p><img src="https://ph-files.imgix.net/3f3a3d47-f30a-4892-a95c-5f9de9b70e40.webp?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Nova3D" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：使用可编辑零件而不是实体斑点进行3D生成<br /></p>
-<p><strong>【介绍】</strong>：大多数3D AI生成器都会生成单一的、不可编辑的斑点。Nova 3D生成由单独的可编辑部件组成的3D对象。它接受文本和图像输入。免费试用我们在GitHub上的开源客户端。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/GCNNR5YTCIXZC7" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/nova3d" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：3D,生成,编辑,斑点,生成器,AI<br /></p>
-<p><strong>票数</strong>： 🔺5<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2026年05月10日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top24-stage-coach-real-estate-listing-prep"><a href="https://www.producthunt.com/products/stage-coach" target="_blank" rel="noopener noreferrer">TOP24    Stage Coach: Real Estate Listing Prep</a></h2>
-<p><img src="https://ph-files.imgix.net/22de8367-3d0f-4da9-8e03-9fab87abeeea.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Stage Coach: Real Estate Listing Prep" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：为每个游戏日列表做好准备。<br /></p>
-<p><strong>【介绍】</strong>：房地产是一场势均力敌的游戏，最好的经纪人都会遵循剧本。这就是舞台教练。它可以帮助特工制定一个游戏计划，而不仅仅是组织基本面。它使您的整个名册--房主、舞台人员、服务员--更容易执行使一切变得不同的细节。Stage Coach让您团队中的每个人保持一致并负责，以便您的列表在比赛当天看到获胜的报价。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/7ISESMRCO5DDUU" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/stage-coach" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：--,游戏,列表,舞台,Stage,Coach<br /></p>
-<p><strong>票数</strong>： 🔺5<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2026年05月10日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top25-onething-procrastinationterminator"><a href="https://www.producthunt.com/products/onething-procrastinationterminator" target="_blank" rel="noopener noreferrer">TOP25    OneThing — ProcrastinationTerminator</a></h2>
-<p><img src="https://ph-files.imgix.net/7e05aed6-df9a-4d12-9cf3-b58f60c1b6c4.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="OneThing — ProcrastinationTerminator" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：完成一项任务。然后你拿回你的手机。<br /></p>
-<p><strong>【介绍】</strong>：您的应用程序将保持锁定，直到您完成一项任务。尝试打开TikTok或Instagram？您将看到您的任务。完成它-解锁一切。没有计时器。没有激励技巧。只是一个让拖延比做工作更难的系统。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/JYMQO2ZN6LLGHT" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/onething-procrastinationterminator" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：任务,完成,一项,TikTok,Instagram,解锁<br /></p>
-<p><strong>票数</strong>： 🔺4<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2026年05月10日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top26-andalibai"><a href="https://www.producthunt.com/products/andalibai" target="_blank" rel="noopener noreferrer">TOP26    AndalibAI</a></h2>
-<p><img src="https://ph-files.imgix.net/82096c24-66e7-41c9-9b0c-9bd7f942fb75.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="AndalibAI" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：将未接电话转为Money<br /></p>
-<p><strong>【介绍】</strong>：一体化智能系统，帮助企业回答客户、解决问题并提供支持，自动节省时间并改善服务。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/RFUNY3MSJLKEV5" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/andalibai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：改善服务,Money,节省时间,接电话,解决问题,一体化<br /></p>
-<p><strong>票数</strong>： 🔺4<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2026年05月10日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top27-skipwait-me-beta"><a href="https://www.producthunt.com/products/repherrel" target="_blank" rel="noopener noreferrer">TOP27    Skipwait.me BETA</a></h2>
-<p><img src="https://ph-files.imgix.net/928aa134-cf09-4847-b943-90acedc8da56.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Skipwait.me BETA" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：让求职者更容易帮助求职者被雇用<br /></p>
-<p><strong>【介绍】</strong>：受LinkedIn的启发，但在裁员市场现实的推动下，skipwait.me诞生了。我亲眼目睹了推荐失败的频率，所以我建立了一个可以扩展推荐奖励制度的平台，使求职者更容易帮助求职者被雇用。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/SHHO6ZA4WXH2Z6" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/repherrel" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：求职者,雇用,奖励制度,LinkedIn,skipwait,me<br /></p>
-<p><strong>票数</strong>： 🔺4<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2026年05月10日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top28-monkmod"><a href="https://www.producthunt.com/products/monkmod" target="_blank" rel="noopener noreferrer">TOP28    Monkmod</a></h2>
-<p><img src="https://ph-files.imgix.net/3354cbda-8bdf-4244-8f5b-485009305691.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Monkmod" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：为想要运输而不是管理的人而设计的任务管理器<br /></p>
-<p><strong>【介绍】</strong>：Monkmo是一个最低限度的任务管理器，专为想要进行深度工作的创始人、创作者和开发人员而设计。管理项目、专注于重要的事情并更快地发货。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/MZHR2QDH7HTX75" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/monkmod" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：管理器,想要,开发人员,Monkmo,任务,设计<br /></p>
-<p><strong>票数</strong>： 🔺4<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2026年05月10日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top29-makerloft"><a href="https://www.producthunt.com/products/makerloft" target="_blank" rel="noopener noreferrer">TOP29    MakerLoft</a></h2>
-<p><img src="https://ph-files.imgix.net/a8264452-5e4e-4a3d-a79c-1418cbe61f74.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="MakerLoft" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：人工智能应用程序构建器。包括后台。<br /></p>
-<p><strong>【介绍】</strong>：MakerLoft是包含后端的AI应用程序构建器。聊天构建;它在DigitalOcean上启动一个真正的Laravel + MySQL后端，并将代码推送到GitHub。如果它坏了，人工智能会自愈。后端包括：Real Laravel 13 + MySQL在第一天。·完全所有权：您的仓库、您的服务器、零锁定。·自我修复：人工智能修复自己的错误和崩溃。· BYO AI：按成本价使用您自己的Anthropic、Google或OpenAI密钥。停止运送演示。运送真正的应用程序。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/TCVWKGAZWIFJYM" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/makerloft" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：应用程序,人工智能,AI,Laravel,MySQL,构建<br /></p>
-<p><strong>票数</strong>： 🔺4<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2026年05月10日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
-<h2 id="top30-recus-app"><a href="https://www.producthunt.com/products/recus-app" target="_blank" rel="noopener noreferrer">TOP30    Recus.app</a></h2>
-<p><img src="https://ph-files.imgix.net/739df326-c8d1-4e66-90b6-b31cc519f95b.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Recus.app" loading="lazy" decoding="async"><br /><br /></p>
-<p><strong>【标语】</strong>：未发布App Store的应用程序导入<br /></p>
-<p><strong>【介绍】</strong>：每次你的首相想要改变入职方式--添加一个字段、更改一个屏幕、强制执行某些内容--它就会变成一张吉拉票、一张公关，并等待应用商店审查数周。recus解决了这个问题。安装一个SDK，用recusappprovider包装您的应用程序，并从仪表板控制入职。PM更改字段，点击发布，60秒后即可上线。没有代码。没有释放。没有票。react原生SDK、可定制UI、服务器驱动模式和流构建器仪表板-均包含在内。<br /></p>
-<p><strong>【官网】</strong>：<a href="https://www.producthunt.com/r/YXQSG3ZYXBONB5" target="_blank" rel="noopener noreferrer">立即访问</a><br /></p>
-<p><strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/recus-app" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br /><br /></p>
-<p><strong>关键词</strong>：入职,--,SDK,仪表板,应用程序,更改<br /></p>
-<p><strong>票数</strong>： 🔺4<br /></p>
-<p><strong>是否精选</strong>：否<br /></p>
-<p><strong>发布时间</strong>：2026年05月10日 PM03:01 (北京时间)<br /><br /></p>
-<hr>
+<section class="ph-products" aria-label="Product Hunt 产品榜单">
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP1</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/882cb709-2063-4b73-b7b8-c74b46c6dda0.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Tailgrids 3.0" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>精选</span>
+      <span>▲ 322</span>
+    </div>
+    <h2>Tailgrids 3.0</h2>
+    <p class="ph-product-tagline">适用于Tailwind和AI工作流程的开源React UI库</p>
+    <p class="ph-product-description">TailGrids 3.0是一个完整的重建--一个现代开源React UI库和设计系统，统一了React、Tailwind和Figma。交付现实世界的网络项目，包含600多个用于仪表板、人工智能、电子商务、SaaS和营销网站的组件、块和模板。包括CLI安装、用于主题化的设计令牌以及用于AI就绪工作流程的MAO服务器。类型脚本优先，可访问，可生产，具有反映代码库1：1的Figma套件</p>
+    <ul class="ph-product-tags"><li>React</li><li>Tailwind</li><li>AI</li><li>UI</li><li>Figma</li><li>开源</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/SRA36BX2QALQPN" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/tailgrids" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP2</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/ca609634-368a-484a-a131-335287ff42ce.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="InvestorFinder" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>精选</span>
+      <span>▲ 270</span>
+    </div>
+    <h2>InvestorFinder</h2>
+    <p class="ph-product-tagline">寻找像您一样支持创始人的投资者</p>
+    <p class="ph-product-description">最后，关于每个VC合作伙伴如何实际投资的真实数据-创始人背景，大学和以前的公司。粘贴您的个人资料，并在几秒钟内找到您的最佳匹配。</p>
+    <ul class="ph-product-tags"><li>创始人</li><li>VC</li><li>个人资料</li><li>粘贴</li><li>几秒钟</li><li>合作伙伴</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/RYYTMN5NZ76UMA" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/investorfinder" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP3</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/d3e42376-2de5-48a3-b9c0-22257e8af04c.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="deepsec" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>精选</span>
+      <span>▲ 230</span>
+    </div>
+    <h2>deepsec</h2>
+    <p class="ph-product-tagline">开源编码安全工具</p>
+    <p class="ph-product-description">Vercel是开源的deepsec，这是一种在您的基础设施上运行的AI安全工具，使用您的密钥，针对您的代码。</p>
+    <ul class="ph-product-tags"><li>开源</li><li>工具</li><li>Vercel</li><li>deepsec</li><li>AI</li><li>安全</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/T5UPS2CJT3MEUS" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/vercel" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP4</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/f2ed94cc-81a8-4535-a8d1-b234590a2c27.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Adject 2.0" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>精选</span>
+      <span>▲ 188</span>
+    </div>
+    <h2>Adject 2.0</h2>
+    <p class="ph-product-tagline">利用人工智能创建超现实的产品视觉效果</p>
+    <p class="ph-product-description">Adject2.0是一个代理产品工作室，品牌可以在无限的创意工作流程中创建、编辑和简化产品视觉效果。产品、模型、编辑、视频和资产不是孤立的世代，而是在项目内部保持联系，并随着时间的推移不断发展。一次上传、在上下文中生成、可视化地卸载，并在没有碎片化工具或重复提示的情况下构建完整的营销活动。</p>
+    <ul class="ph-product-tags"><li>视觉效果</li><li>产品</li><li>创建</li><li>编辑</li><li>Adject2.0</li><li>超现实</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/BPB5EVZOROWIVC" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/adject" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP5</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/889a6078-4806-4483-af44-3d52c3f82f02.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Notion 3.4" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>精选</span>
+      <span>▲ 157</span>
+    </div>
+    <h2>Notion 3.4</h2>
+    <p class="ph-product-tagline">新的仪表板、连接器、侧边栏和更智能的人工智能代理</p>
+    <p class="ph-product-description">Notion现在无需离开工作区即可生成图像、构建仪表板并呈现您的文档。为操作员、PM和在AI上扩展的团队提供了10多个功能。</p>
+    <ul class="ph-product-tags"><li>仪表板</li><li>连接器</li><li>Notion</li><li>PM</li><li>AI</li><li>10</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/EG2MLTEVHABTRD" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/notion-3-4" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP6</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/7af2990b-fe51-41b3-8ce7-3daac6fb5877.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="AgentPeek" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>精选</span>
+      <span>▲ 142</span>
+    </div>
+    <h2>AgentPeek</h2>
+    <p class="ph-product-tagline">Mac中的Claude Code和Codex</p>
+    <p class="ph-product-description">从Mac notch监控Claude Code和Codex。会话、权限、令牌使用情况和本地开发服务器。会话数据保持本地。</p>
+    <ul class="ph-product-tags"><li>Mac</li><li>Claude</li><li>Code</li><li>Codex</li><li>会话</li><li>本地</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/I5VUUCMKZ6ZLDB" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/agentpeek" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP7</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/b4f6f99c-a0f3-4a29-85b2-1192d82a02b1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Keel" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>精选</span>
+      <span>▲ 121</span>
+    </div>
+    <h2>Keel</h2>
+    <p class="ph-product-tagline">记忆属于你的AI助手</p>
+    <p class="ph-product-description">Keel是一款适用于macOS和Windows的本地优先桌面应用程序，可将对话中重要的内容捕获到磁盘上的纯折扣文件中。带上您自己的型号- Claude、GPT、OpenRouter或Olama。您的背景属于您，而不是供应商。开源，麻省理工学院。https://keel-labs.github.io/</p>
+    <ul class="ph-product-tags"><li>AI</li><li>Keel</li><li>macOS</li><li>Windows</li><li>Claude</li><li>GPT</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/MHKCZ5OJ47MKOE" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/keel-3" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP8</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/70d674e2-4dbb-4667-9634-667d2822c23e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="LumiChats Offline(free)" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>精选</span>
+      <span>▲ 119</span>
+    </div>
+    <h2>LumiChats Offline(free)</h2>
+    <p class="ph-product-tagline">您的人工智能，完全离线，零数据收集和100%免费</p>
+    <p class="ph-product-description">完全离线运行强大的人工智能模型，无需互联网、无需图形处理器、无需云。LumiChats Offline是一款基于GPT 4All构建的免费开源桌面应用程序，默认情况下具有完全隐私。支持Mistral、LLaMA、Qwen、DeepSeek和我们自己的微调LumiChats模型。通过LocalDocs与您自己的PDF和文档聊天。适用于Windows、Linux和macOS。</p>
+    <ul class="ph-product-tags"><li>离线</li><li>无需</li><li>LumiChats</li><li>人工智能</li><li>完全</li><li>免费</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/D2CFOVK7DPCEEE" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/lumichats-offline" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP9</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/73fdceae-a50b-42c1-9aee-fd6d7644425e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Better Sol" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>精选</span>
+      <span>▲ 59</span>
+    </div>
+    <h2>Better Sol</h2>
+    <p class="ph-product-tagline">使用TypScript开发端到端Solana应用程序</p>
+    <p class="ph-product-description">Better Sol允许您完全使用TypScript编写Solana程序，且零模板。一个文件定义了您的程序并自动成为一个完全类型的客户端，因此没有ADL、没有代码生成，也没有任何需要保持同步的东西。使用单个命令进行部署，自动完成每个指令和帐户字段、内置令牌操作以及开箱即用的可组合事务。无需语言切换、无需手动编解码器、无需本地工具链设置。</p>
+    <ul class="ph-product-tags"><li>无需</li><li>TypScript</li><li>Solana</li><li>使用</li><li>代码生成</li><li>自动</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/NZGPCARJWWNJPX" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/better-sol" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP10</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/b4c74b29-5f3f-4279-bcc7-55407bd82476.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ReelFluent Web" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 15</span>
+    </div>
+    <h2>ReelFluent Web</h2>
+    <p class="ph-product-tagline">卷轴，但用于语言学习</p>
+    <p class="ph-product-description">毫无负罪感的狂看从这里开始。100%戏剧性，0%内疚--将银幕时间变成真正的流畅。ReelFluent通过点击翻译、人工智能帮助和现场实践将迷你剧转化为学习。</p>
+    <ul class="ph-product-tags"><li>负罪感</li><li>100%</li><li>0%</li><li>--</li><li>ReelFluent</li><li>学习</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/BQ3F4BEXN574E3" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/reelfluent" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP11</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/8758c3da-71bf-45fe-b2ed-52df649d2f62.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="PrimeCompass.ai" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 10</span>
+    </div>
+    <h2>PrimeCompass.ai</h2>
+    <p class="ph-product-tagline">来自实时应用程序的人工智能支持优质智能</p>
+    <p class="ph-product-description">PrimeCompass通过观察真实应用程序的运行自动发现测试场景-无需手动记录，也不会产生LLM幻觉。它生成基于捕获的多姆事件的可执行Playwright脚本，具有不可绕过的安全门、厕所驱动的测试数据、交叉发布漂移检测和内置缺陷生命周期。记录器需要人类;人工智能发电机发明。PrimeCompass通过观察来获得测试。</p>
+    <ul class="ph-product-tags"><li>PrimeCompass</li><li>应用程序</li><li>通过观察</li><li>人工智能</li><li>测试</li><li>LLM</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/2OVHTXDKWAVDCH" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/primecompass-ai" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP12</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/9eedbc59-5704-4fee-abe1-f149b6e03bb7.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Atlasly" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 10</span>
+    </div>
+    <h2>Atlasly</h2>
+    <p class="ph-product-tagline">建筑人工智能代理</p>
+    <p class="ph-product-description">哈维·AI取代了律师最痛苦的繁重工作。托马斯利也为建筑师做了同样的事情。输入一个地址，人工智能代理处理2-4周的预设计研究，并在短短几分钟内产生专业的可交付成果。600多名用户，47个国家。</p>
+    <ul class="ph-product-tags"><li>人工智能</li><li>代理</li><li>AI</li><li>600</li><li>47</li><li>哈维</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/4S3L3JHOWVOKXT" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/atlasly" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP13</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/d1d20a63-7ed7-413a-a326-94db1bfae1f3.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Cohesivity" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 10</span>
+    </div>
+    <h2>Cohesivity</h2>
+    <p class="ph-product-tagline">人工智能代理的后台Infra</p>
+    <p class="ph-product-description">凝聚力是人工智能代理的后台Infra。一个API提供数据库、托管、身份验证、存储等，以便代理可以在您不离开聊天窗口的情况下以预算到生产的方式发送。要开始，请在提示中添加“使用cohesivity.ai构建并托管它”。</p>
+    <ul class="ph-product-tags"><li>Infra</li><li>代理</li><li>人工智能</li><li>后台</li><li>托管</li><li>身份验证</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/HCVAEPEVF7MMTA" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/cohesivity" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP14</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/41587b6b-4699-4477-b510-810ba48b75d1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="iGreet" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 9</span>
+    </div>
+    <h2>iGreet</h2>
+    <p class="ph-product-tagline">栩栩如生的个性化视频贺卡</p>
+    <p class="ph-product-description">iGreet让您可以在几分钟内创建包含自己的信息、照片、视频和礼品卡的个性化贺卡。通过简单的链接立即发送数字卡片，或订购实体印刷版本以获得更个性化的惊喜。卡片还可以在增强现实中查看，通过手机将您的记忆和信息带入生活。</p>
+    <ul class="ph-product-tags"><li>个性化</li><li>贺卡</li><li>卡片</li><li>视频</li><li>iGreet</li><li>信息</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/HWS63QUCONCNOO" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/igreet" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP15</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/b3d9f6bc-7ce1-4892-a4bc-d512a3e4b64e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Agent Memory System" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 9</span>
+    </div>
+    <h2>Agent Memory System</h2>
+    <p class="ph-product-tagline">用于人工智能代理的开源上下文基础设施</p>
+    <p class="ph-product-description">代理内存系统为任何存储库提供了一个持久的内存层，人工智能代理可以在工作之前读取该层。它扫描代码库，生成结构化Markdown内存，创建机器可读的主题索引，跟踪结构变化，并记录切换，以便当工作在反重力、Codex、Claude、Cursor或其他助手之间移动时，上下文仍然存在。</p>
+    <ul class="ph-product-tags"><li>内存</li><li>代理</li><li>上下文</li><li>人工智能</li><li>主题索引</li><li>该层</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/PNICN5XAVDLNGA" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/agent-memory-system" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP16</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/de406a40-949e-47db-bf44-6930eb794223.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="TheStatsAPI" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 9</span>
+    </div>
+    <h2>TheStatsAPI</h2>
+    <p class="ph-product-tagline">为速度而构建的足球统计API</p>
+    <p class="ph-product-description">即时访问80场比赛的足球比赛数据、球员统计数据和赛程，最多可根据要求提供1，196场比赛。使用快速、易于使用且可靠的API在几分钟内开始构建。</p>
+    <ul class="ph-product-tags"><li>API</li><li>构建</li><li>比赛</li><li>80</li><li>196</li><li>赛程</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/3FVRAZ4X6B4YKZ" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/thestatsapi" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP17</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/6c617ab2-844f-4dc3-94ab-7c7e7b9e893d.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Screen Bolt" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 8</span>
+    </div>
+    <h2>Screen Bolt</h2>
+    <p class="ph-product-tagline">Record. Edit. Ship</p>
+    <p class="ph-product-description">使用自动缩放、设备框架和内置时间轴编辑器记录、编辑和输出抛光的屏幕录音。用于教程、演示等的原生macOS应用程序。</p>
+    <ul class="ph-product-tags"><li>缩放</li><li>时间轴</li><li>Record</li><li>Edit</li><li>Ship</li><li>macOS</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/5QDSQKVXQRMWSX" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/screen-bolt" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP18</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/cdfc08e3-37fc-4f34-98b8-07a905df4fa6.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Pro Thumbnail Inspirations" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 8</span>
+    </div>
+    <h2>Pro Thumbnail Inspirations</h2>
+    <p class="ph-product-tagline">来自您利基市场的病毒式缩略图创意</p>
+    <p class="ph-product-description">根据您的利基和最喜欢的创作者获取经过验证的缩略图创意。此功能扫描YouTube并向您显示当前正在执行的缩略图，以便您可以停止猜测并开始创建真正获得点击的内容。</p>
+    <ul class="ph-product-tags"><li>缩略图</li><li>利基</li><li>创意</li><li>YouTube</li><li>创作者</li><li>点击</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/OOEV3JLRJBVUKK" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/thumblifyai" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP19</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/cc6146d7-3f82-4e1e-8f9a-8b36831db587.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="DESIGN.MD by Parallect" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 7</span>
+    </div>
+    <h2>DESIGN.MD by Parallect</h2>
+    <p class="ph-product-tagline">从任何网站URL生成DESIGN.md</p>
+    <p class="ph-product-description">粘贴URL -获取可供生产的DESIGN.md，其中包含标记、字体、间距和组件模式。您的团队需要的一切，只需几秒钟即可完成。</p>
+    <ul class="ph-product-tags"><li>URL</li><li>DESIGN</li><li>md</li><li>粘贴</li><li>几秒钟</li><li>组件</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/PQ4A4UCHVTBNV3" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/design-md-by-parallect" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP20</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/2a220509-81e8-404f-a230-063e16389a46.webp?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Blipstr" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 6</span>
+    </div>
+    <h2>Blipstr</h2>
+    <p class="ph-product-tagline">使任何页面成为工作流程-没有标签地狱的勘探</p>
+    <p class="ph-product-description">运行雷达查找电子邮件+美国电话号码。紫色=单击添加。红色=单击编辑。准备好后同步到Salesforce或HubSpot。</p>
+    <ul class="ph-product-tags"><li>单击</li><li>好后</li><li>Salesforce</li><li>HubSpot</li><li>电子邮件</li><li>页面</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/2GHU3B6ZADBPQZ" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/blipstr" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP21</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/7d7aeebe-ac33-4389-99fb-d2206dd9ba0e.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="GoHighLevel Downloader" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 6</span>
+    </div>
+    <h2>GoHighLevel Downloader</h2>
+    <p class="ph-product-tagline">离线保存GoHighLevel课程视频</p>
+    <p class="ph-product-description">一个浏览器扩展，用于保存受支持的GoHighLevel课程视频以供离线观看。打开课程页面或嵌入式播放器，让扩展程序检测可用媒体，然后输出MP4以进行学习、审查、备份、旅行、培训或个人档案-无需开发人员工具、网络检查、命令行实用程序或单独的桌面软件。</p>
+    <ul class="ph-product-tags"><li>离线</li><li>课程</li><li>GoHighLevel</li><li>视频</li><li>扩展</li><li>保存</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/CK5LEO3L6K7FPC" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/gohighlevel-downloader" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP22</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/2a220509-81e8-404f-a230-063e16389a46.webp?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Blipstr" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 6</span>
+    </div>
+    <h2>Blipstr</h2>
+    <p class="ph-product-tagline">使任何页面成为工作流程-没有标签地狱的勘探</p>
+    <p class="ph-product-description">运行雷达查找电子邮件+美国电话号码。紫色=单击添加。红色=单击编辑。准备好后同步到Salesforce或HubSpot。</p>
+    <ul class="ph-product-tags"><li>单击</li><li>好后</li><li>Salesforce</li><li>HubSpot</li><li>电子邮件</li><li>页面</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/2GHU3B6ZADBPQZ" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/blipstr" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP23</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/3f3a3d47-f30a-4892-a95c-5f9de9b70e40.webp?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Nova3D" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 5</span>
+    </div>
+    <h2>Nova3D</h2>
+    <p class="ph-product-tagline">使用可编辑零件而不是实体斑点进行3D生成</p>
+    <p class="ph-product-description">大多数3D AI生成器都会生成单一的、不可编辑的斑点。Nova 3D生成由单独的可编辑部件组成的3D对象。它接受文本和图像输入。免费试用我们在GitHub上的开源客户端。</p>
+    <ul class="ph-product-tags"><li>3D</li><li>生成</li><li>编辑</li><li>斑点</li><li>生成器</li><li>AI</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/GCNNR5YTCIXZC7" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/nova3d" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP24</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/22de8367-3d0f-4da9-8e03-9fab87abeeea.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Stage Coach: Real Estate Listing Prep" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 5</span>
+    </div>
+    <h2>Stage Coach: Real Estate Listing Prep</h2>
+    <p class="ph-product-tagline">为每个游戏日列表做好准备。</p>
+    <p class="ph-product-description">房地产是一场势均力敌的游戏，最好的经纪人都会遵循剧本。这就是舞台教练。它可以帮助特工制定一个游戏计划，而不仅仅是组织基本面。它使您的整个名册--房主、舞台人员、服务员--更容易执行使一切变得不同的细节。Stage Coach让您团队中的每个人保持一致并负责，以便您的列表在比赛当天看到获胜的报价。</p>
+    <ul class="ph-product-tags"><li>--</li><li>游戏</li><li>列表</li><li>舞台</li><li>Stage</li><li>Coach</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/7ISESMRCO5DDUU" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/stage-coach" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP25</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/7e05aed6-df9a-4d12-9cf3-b58f60c1b6c4.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="OneThing — ProcrastinationTerminator" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 4</span>
+    </div>
+    <h2>OneThing — ProcrastinationTerminator</h2>
+    <p class="ph-product-tagline">完成一项任务。然后你拿回你的手机。</p>
+    <p class="ph-product-description">您的应用程序将保持锁定，直到您完成一项任务。尝试打开TikTok或Instagram？您将看到您的任务。完成它-解锁一切。没有计时器。没有激励技巧。只是一个让拖延比做工作更难的系统。</p>
+    <ul class="ph-product-tags"><li>任务</li><li>完成</li><li>一项</li><li>TikTok</li><li>Instagram</li><li>解锁</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/JYMQO2ZN6LLGHT" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/onething-procrastinationterminator" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP26</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/82096c24-66e7-41c9-9b0c-9bd7f942fb75.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="AndalibAI" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 4</span>
+    </div>
+    <h2>AndalibAI</h2>
+    <p class="ph-product-tagline">将未接电话转为Money</p>
+    <p class="ph-product-description">一体化智能系统，帮助企业回答客户、解决问题并提供支持，自动节省时间并改善服务。</p>
+    <ul class="ph-product-tags"><li>改善服务</li><li>Money</li><li>节省时间</li><li>接电话</li><li>解决问题</li><li>一体化</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/RFUNY3MSJLKEV5" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/andalibai" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP27</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/928aa134-cf09-4847-b943-90acedc8da56.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Skipwait.me BETA" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 4</span>
+    </div>
+    <h2>Skipwait.me BETA</h2>
+    <p class="ph-product-tagline">让求职者更容易帮助求职者被雇用</p>
+    <p class="ph-product-description">受LinkedIn的启发，但在裁员市场现实的推动下，skipwait.me诞生了。我亲眼目睹了推荐失败的频率，所以我建立了一个可以扩展推荐奖励制度的平台，使求职者更容易帮助求职者被雇用。</p>
+    <ul class="ph-product-tags"><li>求职者</li><li>雇用</li><li>奖励制度</li><li>LinkedIn</li><li>skipwait</li><li>me</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/SHHO6ZA4WXH2Z6" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/repherrel" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP28</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/3354cbda-8bdf-4244-8f5b-485009305691.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Monkmod" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 4</span>
+    </div>
+    <h2>Monkmod</h2>
+    <p class="ph-product-tagline">为想要运输而不是管理的人而设计的任务管理器</p>
+    <p class="ph-product-description">Monkmo是一个最低限度的任务管理器，专为想要进行深度工作的创始人、创作者和开发人员而设计。管理项目、专注于重要的事情并更快地发货。</p>
+    <ul class="ph-product-tags"><li>管理器</li><li>想要</li><li>开发人员</li><li>Monkmo</li><li>任务</li><li>设计</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/MZHR2QDH7HTX75" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/monkmod" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP29</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/a8264452-5e4e-4a3d-a79c-1418cbe61f74.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="MakerLoft" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 4</span>
+    </div>
+    <h2>MakerLoft</h2>
+    <p class="ph-product-tagline">人工智能应用程序构建器。包括后台。</p>
+    <p class="ph-product-description">MakerLoft是包含后端的AI应用程序构建器。聊天构建;它在DigitalOcean上启动一个真正的Laravel + MySQL后端，并将代码推送到GitHub。如果它坏了，人工智能会自愈。后端包括：Real Laravel 13 + MySQL在第一天。·完全所有权：您的仓库、您的服务器、零锁定。·自我修复：人工智能修复自己的错误和崩溃。· BYO AI：按成本价使用您自己的Anthropic、Google或OpenAI密钥。停止运送演示。运送真正的应用程序。</p>
+    <ul class="ph-product-tags"><li>应用程序</li><li>人工智能</li><li>AI</li><li>Laravel</li><li>MySQL</li><li>构建</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/TCVWKGAZWIFJYM" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/makerloft" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article>
+
+<article class="ph-product-card">
+  <div class="ph-product-rank">TOP30</div>
+  <img class="ph-product-image" src="https://ph-files.imgix.net/739df326-c8d1-4e66-90b6-b31cc519f95b.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Recus.app" loading="lazy" decoding="async">
+  <div class="ph-product-body">
+    <div class="ph-product-kicker">
+      <span>上榜</span>
+      <span>▲ 4</span>
+    </div>
+    <h2>Recus.app</h2>
+    <p class="ph-product-tagline">未发布App Store的应用程序导入</p>
+    <p class="ph-product-description">每次你的首相想要改变入职方式--添加一个字段、更改一个屏幕、强制执行某些内容--它就会变成一张吉拉票、一张公关，并等待应用商店审查数周。recus解决了这个问题。安装一个SDK，用recusappprovider包装您的应用程序，并从仪表板控制入职。PM更改字段，点击发布，60秒后即可上线。没有代码。没有释放。没有票。react原生SDK、可定制UI、服务器驱动模式和流构建器仪表板-均包含在内。</p>
+    <ul class="ph-product-tags"><li>入职</li><li>--</li><li>SDK</li><li>仪表板</li><li>应用程序</li><li>更改</li></ul>
+    <div class="ph-product-actions"><a class="ph-product-button ph-product-button-primary" href="https://www.producthunt.com/r/YXQSG3ZYXBONB5" target="_blank" rel="noopener noreferrer">官网</a><a class="ph-product-button" href="https://www.producthunt.com/products/recus-app" target="_blank" rel="noopener noreferrer">Product Hunt</a></div>
+  </div>
+</article></section>
 </main>
 </body>
 </html>
