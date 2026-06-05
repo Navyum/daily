@@ -175,6 +175,8 @@ const patchSitemap = async (postUrls) => {
   }
 };
 
+// This archive pass is intentionally unbounded: every PH markdown file becomes
+// a published HTML page, independent of the VuePress route window.
 const files = (await readdir(postsDir))
   .filter((file) => /^PH-daily-\d{4}-\d{2}-\d{2}\.md$/.test(file))
   .sort();

@@ -6,6 +6,8 @@ import { readdirSync } from "node:fs";
 import theme from "./theme.js";
 
 const siteHostname = "https://github.camscanner.top";
+// Only limits VuePress client routes so webpack stays small. The publish artifact
+// is completed by scripts/build-ph-archive.mjs, which always emits every PH page.
 const vuePressPostLimit = Number(process.env.DAILY_VUEPRESS_POST_LIMIT ?? 60);
 
 const getVuePressPostPagePatterns = (): string[] =>
