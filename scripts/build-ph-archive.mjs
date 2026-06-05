@@ -26,15 +26,31 @@ const getStyles = async () => {
   }
 };
 
-const renderActions = (product) =>
-  [
-    product.websiteUrl
-      ? `<a class="ph-product-button ph-product-button-primary" href="${escapeAttr(product.websiteUrl)}" target="_blank" rel="noopener noreferrer">官网</a>`
+const getHttpUrl = (value) => {
+  try {
+    const url = new URL(value);
+
+    return url.protocol === "http:" || url.protocol === "https:"
+      ? url.href
+      : "";
+  } catch {
+    return "";
+  }
+};
+
+const renderActions = (product) => {
+  const websiteUrl = getHttpUrl(product.websiteUrl);
+  const productHuntUrl = getHttpUrl(product.productHuntUrl);
+
+  return [
+    websiteUrl
+      ? `<a class="ph-product-button ph-product-button-primary" href="${escapeAttr(websiteUrl)}" target="_blank" rel="noopener noreferrer">官网</a>`
       : "",
-    product.productHuntUrl
-      ? `<a class="ph-product-button" href="${escapeAttr(product.productHuntUrl)}" target="_blank" rel="noopener noreferrer">Product Hunt</a>`
+    productHuntUrl
+      ? `<a class="ph-product-button" href="${escapeAttr(productHuntUrl)}" target="_blank" rel="noopener noreferrer">Product Hunt</a>`
       : "",
   ].join("");
+};
 
 const renderKeywords = (keywords) =>
   keywords.length
@@ -44,12 +60,15 @@ const renderKeywords = (keywords) =>
         .join("")}</ul>`
     : "";
 
-const renderProductCard = (product) => `
+const renderProductCard = (product) => {
+  const imageUrl = getHttpUrl(product.image);
+
+  return `
 <article class="ph-product-card">
   <div class="ph-product-rank">TOP${product.rank}</div>
   ${
-    product.image
-      ? `<img class="ph-product-image" src="${escapeAttr(product.image)}" alt="${escapeAttr(product.imageAlt || product.name)}" loading="lazy" decoding="async">`
+    imageUrl
+      ? `<img class="ph-product-image" src="${escapeAttr(imageUrl)}" alt="${escapeAttr(product.imageAlt || product.name)}" loading="lazy" decoding="async">`
       : ""
   }
   <div class="ph-product-body">
@@ -72,6 +91,7 @@ const renderProductCard = (product) => `
     <div class="ph-product-actions">${renderActions(product)}</div>
   </div>
 </article>`;
+};
 
 const renderProducts = (products) =>
   products.length

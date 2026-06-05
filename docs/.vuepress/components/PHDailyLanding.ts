@@ -33,13 +33,29 @@ type PHIndex = {
 const formatVotes = (votes: number): string =>
   votes > 0 ? `▲ ${votes.toLocaleString("en-US")}` : "票数待更新";
 
-const renderProduct = (product: Product): VNode =>
-  h("article", { class: "ph-daily-card" }, [
+const getHttpUrl = (value: string): string => {
+  try {
+    const url = new URL(value);
+
+    return url.protocol === "http:" || url.protocol === "https:"
+      ? url.href
+      : "";
+  } catch {
+    return "";
+  }
+};
+
+const renderProduct = (product: Product): VNode => {
+  const imageUrl = getHttpUrl(product.image);
+  const websiteUrl = getHttpUrl(product.websiteUrl);
+  const productHuntUrl = getHttpUrl(product.productHuntUrl);
+
+  return h("article", { class: "ph-daily-card" }, [
     h("div", { class: "ph-daily-rank" }, `TOP${product.rank}`),
-    product.image
+    imageUrl
       ? h("img", {
           class: "ph-daily-image",
-          src: product.image,
+          src: imageUrl,
           alt: product.name,
           loading: "lazy",
           decoding: "async",
@@ -64,24 +80,24 @@ const renderProduct = (product: Product): VNode =>
           )
         : null,
       h("div", { class: "ph-daily-actions" }, [
-        product.websiteUrl
+        websiteUrl
           ? h(
               "a",
               {
                 class: "ph-daily-button ph-daily-button-primary",
-                href: product.websiteUrl,
+                href: websiteUrl,
                 target: "_blank",
                 rel: "noopener noreferrer",
               },
               "官网",
             )
           : null,
-        product.productHuntUrl
+        productHuntUrl
           ? h(
               "a",
               {
                 class: "ph-daily-button",
-                href: product.productHuntUrl,
+                href: productHuntUrl,
                 target: "_blank",
                 rel: "noopener noreferrer",
               },
@@ -91,6 +107,7 @@ const renderProduct = (product: Product): VNode =>
       ]),
     ]),
   ]);
+};
 
 export default defineComponent({
   name: "PHDailyLanding",
