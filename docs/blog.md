@@ -15,10 +15,12 @@ heroFullScreen: false
 projects:
   - name: 今日产品榜
     desc: 快速浏览最新 Product Hunt 热门产品与票数
-    link: /article/
+    link: /posts/PH-daily-2026-06-04.html
     icon: article
   - name: GitHub 榜单
     desc: 查看每日值得关注的开源项目
     link: /github
     icon: project
 ---
+
+<PHDailyLanding />
