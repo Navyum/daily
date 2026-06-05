@@ -72,11 +72,11 @@ export default hopeTheme({
   // sidebarSorter: ['readme', 'order', 'title'],
 
   // 页面布局 Frontmatter 配置：https://theme-hope.vuejs.press/zh/config/frontmatter/layout.html#pageinfo
-  pageInfo: ["Category", "Tag", "Word", "ReadingTime", "PageView"],
+  pageInfo: ["Category", "Tag", "PageView"],
 
   // 主题功能选项：https://theme-hope.vuejs.press/zh/config/theme/feature.html
   blog: {
-    articleInfo: ["Date", "PageView", "Category", "Tag", "ReadingTime"],
+    articleInfo: ["Date", "PageView", "Category", "Tag"],
     name: "Navyum",
     avatar: "/avatar_self.jpeg",
     description: "每日发现值得关注的产品与开源项目",
@@ -99,7 +99,18 @@ export default hopeTheme({
   print: false,
 
   plugins: {
-    blog: true,
+    blog: {
+      article: false,
+      category: false,
+      categoryItem: false,
+      excerpt: false,
+      star: false,
+      tag: false,
+      tagItem: false,
+      timeline: false,
+    },
+    git: false,
+    readingTime: false,
 
     // 评论配置（仅做样例，记得更换）
     comment: {

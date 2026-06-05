@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "docs:dev": "vuepress-webpack dev docs",
-    "docs:build": "vuepress-webpack build docs",
+    "docs:build": "vuepress-webpack build docs && node scripts/build-ph-archive.mjs",
     "docs:clean-dev": "vuepress-webpack dev docs --clean-cache",
     "docs:update-package": "pnpm dlx vp-update",
     "lint": "prettier --check .",

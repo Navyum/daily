@@ -6,14 +6,14 @@ import { readdirSync } from "node:fs";
 import theme from "./theme.js";
 
 const siteHostname = "https://github.camscanner.top";
-const recentPostLimit = Number(process.env.DAILY_BUILD_POST_LIMIT ?? 60);
+const vuePressPostLimit = Number(process.env.DAILY_VUEPRESS_POST_LIMIT ?? 60);
 
-const getRecentPostPagePatterns = (): string[] =>
+const getVuePressPostPagePatterns = (): string[] =>
   readdirSync(new URL("../_posts/", import.meta.url))
     .filter((file) => /^PH-daily-\d{4}-\d{2}-\d{2}\.md$/.test(file))
     .sort()
     .reverse()
-    .slice(0, recentPostLimit)
+    .slice(0, vuePressPostLimit)
     .map((file) => `_posts/${file}`);
 
 const getCanonicalUrl = (base: string, path: string): string =>
@@ -67,7 +67,7 @@ export default defineUserConfig({
   pagePatterns: [
     "*.md",
     "github/**/*.md",
-    ...getRecentPostPagePatterns(),
+    ...getVuePressPostPagePatterns(),
     "!_temp",
     "!reading",
     "!.vuepress",
