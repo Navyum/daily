@@ -103,7 +103,6 @@ export default hopeTheme({
       article: false,
       category: false,
       categoryItem: false,
-      excerpt: false,
       star: false,
       tag: false,
       tagItem: false,
