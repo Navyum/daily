@@ -4,16 +4,41 @@
   <title>DAYHACK</title>
   <subtitle>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</subtitle>
   <icon>https://github.camscanner.top/daily/favicon.ico</icon>
-  <updated>2026-06-05T11:22:24.844Z</updated>
+  <updated>2026-06-05T12:27:20.195Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/"/>
   <category term="PH"/>
   <entry>
+    <title type="text">PH今日热榜 | 2026-06-04</title>
+    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-04.html</id>
+    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-04.html"/>
+    <updated>2026-06-05T12:27:20.196Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-mailwarm-2-0"><span></span></a><a href="https://www.producthunt.com/products/mailwarm" target="_blank" rel="noopener noreferrer">TOP1    Mailwarm 2.0</a></h2>
+<p><img src="https://ph-files.imgix.net/71495cdc-aaf1-46db-b900-01c456b86229.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Mailwarm 2.0" loading="lazy"><br><br>
+<strong>【标语】</strong>：电子邮件预热工具，已升级可达性。<br>
+<strong>【介绍】</strong>：大多数创始人都依赖电子邮件来成长，但电子邮件不会神奇地进入收件箱。Mailwarm 2.0是高级电子邮件预热和投递系统，旨在为您的电子邮件提供到达收件箱的最佳机会。它结合了自动化预热、真实参与、监控、基础设施检查和专家通话，可供每位订阅者使用。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/SO3HRZHWMYKPDS" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/mailwarm" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-mailwarm-2-0"><span></span></a><a href="https://www.producthunt.com/products/mailwarm" target="_blank" rel="noopener noreferrer">TOP1    Mailwarm 2.0</a></h2>
+<p><img src="https://ph-files.imgix.net/71495cdc-aaf1-46db-b900-01c456b86229.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Mailwarm 2.0" loading="lazy"><br><br>
+<strong>【标语】</strong>：电子邮件预热工具，已升级可达性。<br>
+<strong>【介绍】</strong>：大多数创始人都依赖电子邮件来成长，但电子邮件不会神奇地进入收件箱。Mailwarm 2.0是高级电子邮件预热和投递系统，旨在为您的电子邮件提供到达收件箱的最佳机会。它结合了自动化预热、真实参与、监控、基础设施检查和专家通话，可供每位订阅者使用。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/SO3HRZHWMYKPDS" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/mailwarm" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：电子邮件,预热,收件箱,可达性,Mailwarm,2.0<br>
+<strong>票数</strong>： 🔺549<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年06月04日 PM03:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2026-06-04T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">PH今日热榜 | 2026-06-03</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-03.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-03.html"/>
-    <updated>2026-06-05T11:22:24.846Z</updated>
+    <updated>2026-06-05T12:27:20.219Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-elentaria"><span></span></a><a href="https://www.producthunt.com/products/elentaria" target="_blank" rel="noopener noreferrer">TOP1    Elentaria</a></h2>
 <p><img src="https://ph-files.imgix.net/ec9690c9-bc46-4e24-854a-02f112b80b89.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Elentaria" loading="lazy"><br><br>
 <strong>【标语】</strong>：您的GTM：从诊断到执行<br>
@@ -38,7 +63,7 @@
     <title type="text">PH今日热榜 | 2026-06-02</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-02.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-02.html"/>
-    <updated>2026-06-05T11:22:24.865Z</updated>
+    <updated>2026-06-05T12:27:20.227Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-fundraisly"><span></span></a><a href="https://www.producthunt.com/products/fundraisly" target="_blank" rel="noopener noreferrer">TOP1    Fundraisly</a></h2>
 <p><img src="https://ph-files.imgix.net/763e838e-65e6-4bf7-94a1-33198ee504a6.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Fundraisly" loading="lazy"><br><br>
 <strong>【标语】</strong>：寻找投资者并预订会议的人工智能筹款代理<br>
@@ -63,7 +88,7 @@
     <title type="text">PH今日热榜 | 2026-06-01</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-01.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-01.html"/>
-    <updated>2026-06-05T11:22:24.884Z</updated>
+    <updated>2026-06-05T12:27:20.242Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-mina-meeting-assistant"><span></span></a><a href="https://www.producthunt.com/products/mina-meeting-assistant" target="_blank" rel="noopener noreferrer">TOP1    Mina Meeting Assistant</a></h2>
 <p><img src="https://ph-files.imgix.net/ba75f4a1-d72e-4f8e-8ea5-a4cf83867d86.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Mina Meeting Assistant" loading="lazy"><br><br>
 <strong>【标语】</strong>：您的人工智能队友现在在您的通话期间做出响应并执行<br>
@@ -88,7 +113,7 @@
     <title type="text">PH今日热榜 | 2026-05-31</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-05-31.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-05-31.html"/>
-    <updated>2026-06-05T11:22:24.894Z</updated>
+    <updated>2026-06-05T12:27:20.253Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-clipto"><span></span></a><a href="https://www.producthunt.com/products/clipto-ai" target="_blank" rel="noopener noreferrer">TOP1    Clipto</a></h2>
 <p><img src="https://ph-files.imgix.net/5fadfc17-c301-4efd-98fe-33db9b34bd7f.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Clipto" loading="lazy"><br><br>
 <strong>【标语】</strong>：对TB媒体进行完全本地化的自然语言搜索<br>
@@ -113,7 +138,7 @@
     <title type="text">PH今日热榜 | 2026-05-30</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-05-30.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-05-30.html"/>
-    <updated>2026-06-05T11:22:24.911Z</updated>
+    <updated>2026-06-05T12:27:20.268Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-wandesk"><span></span></a><a href="https://www.producthunt.com/products/wandesk-ai" target="_blank" rel="noopener noreferrer">TOP1    Wandesk</a></h2>
 <p><img src="https://ph-files.imgix.net/71b79a02-1eb0-46ed-9f5e-da99561b43a0.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Wandesk" loading="lazy"><br><br>
 <strong>【标语】</strong>：构建您自己的人工智能桌面 <br>
@@ -138,7 +163,7 @@
     <title type="text">PH今日热榜 | 2026-05-29</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-05-29.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-05-29.html"/>
-    <updated>2026-06-05T11:22:24.918Z</updated>
+    <updated>2026-06-05T12:27:20.275Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-ava-2-0"><span></span></a><a href="https://www.producthunt.com/products/artisan-3" target="_blank" rel="noopener noreferrer">TOP1    Ava 2.0</a></h2>
 <p><img src="https://ph-files.imgix.net/4d066ffc-be7a-4ebb-8fd7-66e4d5b33f70.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Ava 2.0" loading="lazy"><br><br>
 <strong>【标语】</strong>：您的AI BDR可自主运行对外销售<br>
@@ -163,7 +188,7 @@
     <title type="text">PH今日热榜 | 2026-05-28</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-05-28.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-05-28.html"/>
-    <updated>2026-06-05T11:22:24.931Z</updated>
+    <updated>2026-06-05T12:27:20.289Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-pancake"><span></span></a><a href="https://www.producthunt.com/products/pancake-6" target="_blank" rel="noopener noreferrer">TOP1    Pancake</a></h2>
 <p><img src="https://ph-files.imgix.net/fbcd71c9-6136-462c-a915-690fd6291005.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Pancake" loading="lazy"><br><br>
 <strong>【标语】</strong>：Slack中的OpenClaw使您的公司实现自治<br>
@@ -188,7 +213,7 @@
     <title type="text">PH今日热榜 | 2026-05-27</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-05-27.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-05-27.html"/>
-    <updated>2026-06-05T11:22:24.938Z</updated>
+    <updated>2026-06-05T12:27:20.298Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-powabase"><span></span></a><a href="https://www.producthunt.com/products/powabase" target="_blank" rel="noopener noreferrer">TOP1    Powabase</a></h2>
 <p><img src="https://ph-files.imgix.net/6e304c87-40be-4f43-9e9a-5b2c4a06c609.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Powabase" loading="lazy"><br><br>
 <strong>【标语】</strong>：使用Postgres、RAG和代理构建人工智能应用程序<br>
@@ -213,7 +238,7 @@
     <title type="text">PH今日热榜 | 2026-05-26</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-05-26.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-05-26.html"/>
-    <updated>2026-06-05T11:22:24.952Z</updated>
+    <updated>2026-06-05T12:27:20.314Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-brew"><span></span></a><a href="https://www.producthunt.com/products/brew-5" target="_blank" rel="noopener noreferrer">TOP1    Brew </a></h2>
 <p><img src="https://ph-files.imgix.net/2458b46a-0e59-4a5d-80a9-e71fce4579de.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Brew " loading="lazy"><br><br>
 <strong>【标语】</strong>：喜欢克劳德的电子邮件营销设计<br>
@@ -233,30 +258,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2026-05-26T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2026-05-24</title>
-    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-05-24.html</id>
-    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-05-24.html"/>
-    <updated>2026-06-05T11:22:24.960Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-stitch-3-0-by-google"><span></span></a><a href="https://www.producthunt.com/products/stitch-by-google" target="_blank" rel="noopener noreferrer">TOP1    Stitch 3.0 by Google</a></h2>
-<p><img src="https://ph-files.imgix.net/d6a442ee-346a-47a2-8b88-ae597db9c773.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Stitch 3.0 by Google" loading="lazy"><br><br>
-<strong>【标语】</strong>：在实时画布上使用人工智能生成和卸载UI屏幕<br>
-<strong>【介绍】</strong>：Stitch根据文本提示为移动设备和网络生成UI屏幕，并进行流编辑、就地人工智能更改以及一键输出到Figma、Netlify、Lovable和Bolt。适合产品设计师和开发人员快速原型设计。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/2WIQLRJ4DNSJF5" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/stitch-by-google" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-stitch-3-0-by-google"><span></span></a><a href="https://www.producthunt.com/products/stitch-by-google" target="_blank" rel="noopener noreferrer">TOP1    Stitch 3.0 by Google</a></h2>
-<p><img src="https://ph-files.imgix.net/d6a442ee-346a-47a2-8b88-ae597db9c773.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Stitch 3.0 by Google" loading="lazy"><br><br>
-<strong>【标语】</strong>：在实时画布上使用人工智能生成和卸载UI屏幕<br>
-<strong>【介绍】</strong>：Stitch根据文本提示为移动设备和网络生成UI屏幕，并进行流编辑、就地人工智能更改以及一键输出到Figma、Netlify、Lovable和Bolt。适合产品设计师和开发人员快速原型设计。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/2WIQLRJ4DNSJF5" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/stitch-by-google" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：UI,人工智能,屏幕,生成,开发人员,Stitch<br>
-<strong>票数</strong>： 🔺453<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年05月24日 PM03:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2026-05-24T00:00:00.000Z</published>
   </entry>
 </feed>

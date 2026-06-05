@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 05 Jun 2026 11:22:24 GMT</pubDate>
-    <lastBuildDate>Fri, 05 Jun 2026 11:22:24 GMT</lastBuildDate>
+    <pubDate>Fri, 05 Jun 2026 12:27:20 GMT</pubDate>
+    <lastBuildDate>Fri, 05 Jun 2026 12:27:20 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-06-04</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-06-04.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-06-04.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-06-04</source>
+      <description>TOP1 Mailwarm 2.0 Mailwarm 2.0 【标语】：电子邮件预热工具，已升级可达性。 【介绍】：大多数创始人都依赖电子邮件来成长，但电子邮件不会神奇地进入收件箱。Mailwarm 2.0是高级电子邮件预热和投递系统，旨在为您的电子邮件提供到达收件箱的最佳机会。它结合了自动化预热、真实参与、监控、基础设施检查和专家通话，可供每位订阅者...</description>
+      <category>PH</category>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-mailwarm-2-0"><span></span></a><a href="https://www.producthunt.com/products/mailwarm" target="_blank" rel="noopener noreferrer">TOP1    Mailwarm 2.0</a></h2>
+<p><img src="https://ph-files.imgix.net/71495cdc-aaf1-46db-b900-01c456b86229.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Mailwarm 2.0" loading="lazy"><br><br>
+<strong>【标语】</strong>：电子邮件预热工具，已升级可达性。<br>
+<strong>【介绍】</strong>：大多数创始人都依赖电子邮件来成长，但电子邮件不会神奇地进入收件箱。Mailwarm 2.0是高级电子邮件预热和投递系统，旨在为您的电子邮件提供到达收件箱的最佳机会。它结合了自动化预热、真实参与、监控、基础设施检查和专家通话，可供每位订阅者使用。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/SO3HRZHWMYKPDS" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/mailwarm" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：电子邮件,预热,收件箱,可达性,Mailwarm,2.0<br>
+<strong>票数</strong>： 🔺549<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年06月04日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/71495cdc-aaf1-46db-b900-01c456b86229.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-06-03</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-06-03.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年05月26日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/2458b46a-0e59-4a5d-80a9-e71fce4579de.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-05-24</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-05-24.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-05-24.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-05-24</source>
-      <description>TOP1 Stitch 3.0 by Google Stitch 3.0 by Google 【标语】：在实时画布上使用人工智能生成和卸载UI屏幕 【介绍】：Stitch根据文本提示为移动设备和网络生成UI屏幕，并进行流编辑、就地人工智能更改以及一键输出到Figma、Netlify、Lovable和Bolt。适合产品设计师和开发人员快速原型设计。 【官...</description>
-      <category>PH</category>
-      <pubDate>Sun, 24 May 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-stitch-3-0-by-google"><span></span></a><a href="https://www.producthunt.com/products/stitch-by-google" target="_blank" rel="noopener noreferrer">TOP1    Stitch 3.0 by Google</a></h2>
-<p><img src="https://ph-files.imgix.net/d6a442ee-346a-47a2-8b88-ae597db9c773.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Stitch 3.0 by Google" loading="lazy"><br><br>
-<strong>【标语】</strong>：在实时画布上使用人工智能生成和卸载UI屏幕<br>
-<strong>【介绍】</strong>：Stitch根据文本提示为移动设备和网络生成UI屏幕，并进行流编辑、就地人工智能更改以及一键输出到Figma、Netlify、Lovable和Bolt。适合产品设计师和开发人员快速原型设计。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/2WIQLRJ4DNSJF5" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/stitch-by-google" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：UI,人工智能,屏幕,生成,开发人员,Stitch<br>
-<strong>票数</strong>： 🔺453<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年05月24日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/d6a442ee-346a-47a2-8b88-ae597db9c773.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
