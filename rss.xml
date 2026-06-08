@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 07 Jun 2026 10:25:42 GMT</pubDate>
-    <lastBuildDate>Sun, 07 Jun 2026 10:25:42 GMT</lastBuildDate>
+    <pubDate>Mon, 08 Jun 2026 12:24:56 GMT</pubDate>
+    <lastBuildDate>Mon, 08 Jun 2026 12:24:56 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-06-06</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-06-06.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-06-06.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-06-06</source>
+      <description>TOP1 Google Search Profiles Google Search Profiles 【标语】：供出版商/创作者强调搜索工作的个人资料 【介绍】：Google Search Profile允许出版商和创作者在Search上申请一个专门的页面，链接他们的社交和视频平台，并直接关注Discover。目前仅限美国，资格要求现有追随者。 【官网...</description>
+      <category>PH</category>
+      <pubDate>Sat, 06 Jun 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-google-search-profiles"><span></span></a><a href="https://www.producthunt.com/products/google" target="_blank" rel="noopener noreferrer">TOP1    Google Search Profiles</a></h2>
+<p><img src="https://ph-files.imgix.net/e8f3dbbc-5658-4f09-8b61-fc4079e67bd4.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Google Search Profiles" loading="lazy"><br><br>
+<strong>【标语】</strong>：供出版商/创作者强调搜索工作的个人资料<br>
+<strong>【介绍】</strong>：Google Search Profile允许出版商和创作者在Search上申请一个专门的页面，链接他们的社交和视频平台，并直接关注Discover。目前仅限美国，资格要求现有追随者。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/NRRQD6MLVCJ2A7" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/google" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：Search,创作者,出版商,Google,Profile,Discover<br>
+<strong>票数</strong>： 🔺343<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年06月06日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/e8f3dbbc-5658-4f09-8b61-fc4079e67bd4.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-06-05</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-06-05.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年05月28日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/fbcd71c9-6136-462c-a915-690fd6291005.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-05-27</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-05-27.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-05-27.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-05-27</source>
-      <description>TOP1 Powabase Powabase 【标语】：使用Postgres、RAG和代理构建人工智能应用程序 【介绍】：Powendix是人工智能原生应用程序的后台即服务，将Postquist、RAG、代理、内存、工作流和自动化基元结合在一个平台中。它帮助机构和内部IT团队构建新的人工智能应用程序或将人工智能自动化添加到现有产品中，而无需将碎片化的基...</description>
-      <category>PH</category>
-      <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-powabase"><span></span></a><a href="https://www.producthunt.com/products/powabase" target="_blank" rel="noopener noreferrer">TOP1    Powabase</a></h2>
-<p><img src="https://ph-files.imgix.net/6e304c87-40be-4f43-9e9a-5b2c4a06c609.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Powabase" loading="lazy"><br><br>
-<strong>【标语】</strong>：使用Postgres、RAG和代理构建人工智能应用程序<br>
-<strong>【介绍】</strong>：Powendix是人工智能原生应用程序的后台即服务，将Postquist、RAG、代理、内存、工作流和自动化基元结合在一个平台中。它帮助机构和内部IT团队构建新的人工智能应用程序或将人工智能自动化添加到现有产品中，而无需将碎片化的基础设施缝合在一起。Powendix旨在与现代编码代理无缝协作，帮助团队更快地交付，同时构建更强大、代币效率更高的系统。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/6BBPF3XTDL5C2Y" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/powabase" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：人工智能,应用程序,RAG,Powendix,构建,代理<br>
-<strong>票数</strong>： 🔺424<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年05月27日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/6e304c87-40be-4f43-9e9a-5b2c4a06c609.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
