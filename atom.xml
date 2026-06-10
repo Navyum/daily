@@ -4,16 +4,41 @@
   <title>DAYHACK</title>
   <subtitle>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</subtitle>
   <icon>https://github.camscanner.top/daily/favicon.ico</icon>
-  <updated>2026-06-09T10:56:52.418Z</updated>
+  <updated>2026-06-10T11:35:21.742Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/"/>
   <category term="PH"/>
   <entry>
+    <title type="text">PH今日热榜 | 2026-06-08</title>
+    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-08.html</id>
+    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-08.html"/>
+    <updated>2026-06-10T11:35:21.743Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-honen"><span></span></a><a href="https://www.producthunt.com/products/honen" target="_blank" rel="noopener noreferrer">TOP1    Honen</a></h2>
+<p><img src="https://ph-files.imgix.net/ac3232b7-1a90-4a9d-9ced-086e2c4cabfb.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Honen" loading="lazy"><br><br>
+<strong>【标语】</strong>：适合任何公司的自动化教学+学习基础设施<br>
+<strong>【介绍】</strong>：创建与您公司保持同步的员工培训。Honen在几秒钟内将团队知识转化为交互式人工智能主导的课程，并配有自适应课程、模拟和学习者见解。当您的文档、工具或流程更改时，课程会自动更新。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/KGWER5KAKVLXHX" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/honen" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-honen"><span></span></a><a href="https://www.producthunt.com/products/honen" target="_blank" rel="noopener noreferrer">TOP1    Honen</a></h2>
+<p><img src="https://ph-files.imgix.net/ac3232b7-1a90-4a9d-9ced-086e2c4cabfb.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Honen" loading="lazy"><br><br>
+<strong>【标语】</strong>：适合任何公司的自动化教学+学习基础设施<br>
+<strong>【介绍】</strong>：创建与您公司保持同步的员工培训。Honen在几秒钟内将团队知识转化为交互式人工智能主导的课程，并配有自适应课程、模拟和学习者见解。当您的文档、工具或流程更改时，课程会自动更新。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/KGWER5KAKVLXHX" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/honen" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：课程,自动更新,Honen,学习者,交互式,文档<br>
+<strong>票数</strong>： 🔺464<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年06月08日 PM03:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2026-06-08T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">PH今日热榜 | 2026-06-07</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-07.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-07.html"/>
-    <updated>2026-06-09T10:56:52.419Z</updated>
+    <updated>2026-06-10T11:35:21.770Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-dreambeans-by-google-labs"><span></span></a><a href="https://www.producthunt.com/products/google-labs" target="_blank" rel="noopener noreferrer">TOP1    Dreambeans by Google Labs</a></h2>
 <p><img src="https://ph-files.imgix.net/ea789565-9a79-4107-b3ee-84379d0ed868.webp?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Dreambeans by Google Labs" loading="lazy"><br><br>
 <strong>【标语】</strong>：从您的Google应用程序个性化的每日人工智能故事<br>
@@ -38,7 +63,7 @@
     <title type="text">PH今日热榜 | 2026-06-06</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-06.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-06.html"/>
-    <updated>2026-06-09T10:56:52.444Z</updated>
+    <updated>2026-06-10T11:35:21.778Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-google-search-profiles"><span></span></a><a href="https://www.producthunt.com/products/google" target="_blank" rel="noopener noreferrer">TOP1    Google Search Profiles</a></h2>
 <p><img src="https://ph-files.imgix.net/e8f3dbbc-5658-4f09-8b61-fc4079e67bd4.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Google Search Profiles" loading="lazy"><br><br>
 <strong>【标语】</strong>：供出版商/创作者强调搜索工作的个人资料<br>
@@ -63,7 +88,7 @@
     <title type="text">PH今日热榜 | 2026-06-05</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-05.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-05.html"/>
-    <updated>2026-06-09T10:56:52.453Z</updated>
+    <updated>2026-06-10T11:35:21.792Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-sellerclaw"><span></span></a><a href="https://www.producthunt.com/products/sellerclaw" target="_blank" rel="noopener noreferrer">TOP1    SellerClaw</a></h2>
 <p><img src="https://ph-files.imgix.net/4cb6a984-3d4f-454b-ab7e-79de4c6f8e20.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="SellerClaw" loading="lazy"><br><br>
 <strong>【标语】</strong>：一个AI代理团队，跨渠道运营您的商店<br>
@@ -88,7 +113,7 @@
     <title type="text">PH今日热榜 | 2026-06-04</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-04.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-04.html"/>
-    <updated>2026-06-09T10:56:52.468Z</updated>
+    <updated>2026-06-10T11:35:21.800Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-mailwarm-2-0"><span></span></a><a href="https://www.producthunt.com/products/mailwarm" target="_blank" rel="noopener noreferrer">TOP1    Mailwarm 2.0</a></h2>
 <p><img src="https://ph-files.imgix.net/71495cdc-aaf1-46db-b900-01c456b86229.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Mailwarm 2.0" loading="lazy"><br><br>
 <strong>【标语】</strong>：电子邮件预热工具，已升级可达性。<br>
@@ -113,7 +138,7 @@
     <title type="text">PH今日热榜 | 2026-06-03</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-03.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-03.html"/>
-    <updated>2026-06-09T10:56:52.477Z</updated>
+    <updated>2026-06-10T11:35:21.812Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-elentaria"><span></span></a><a href="https://www.producthunt.com/products/elentaria" target="_blank" rel="noopener noreferrer">TOP1    Elentaria</a></h2>
 <p><img src="https://ph-files.imgix.net/ec9690c9-bc46-4e24-854a-02f112b80b89.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Elentaria" loading="lazy"><br><br>
 <strong>【标语】</strong>：您的GTM：从诊断到执行<br>
@@ -138,7 +163,7 @@
     <title type="text">PH今日热榜 | 2026-06-02</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-02.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-02.html"/>
-    <updated>2026-06-09T10:56:52.490Z</updated>
+    <updated>2026-06-10T11:35:21.818Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-fundraisly"><span></span></a><a href="https://www.producthunt.com/products/fundraisly" target="_blank" rel="noopener noreferrer">TOP1    Fundraisly</a></h2>
 <p><img src="https://ph-files.imgix.net/763e838e-65e6-4bf7-94a1-33198ee504a6.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Fundraisly" loading="lazy"><br><br>
 <strong>【标语】</strong>：寻找投资者并预订会议的人工智能筹款代理<br>
@@ -163,7 +188,7 @@
     <title type="text">PH今日热榜 | 2026-06-01</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-01.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-01.html"/>
-    <updated>2026-06-09T10:56:52.498Z</updated>
+    <updated>2026-06-10T11:35:21.832Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-mina-meeting-assistant"><span></span></a><a href="https://www.producthunt.com/products/mina-meeting-assistant" target="_blank" rel="noopener noreferrer">TOP1    Mina Meeting Assistant</a></h2>
 <p><img src="https://ph-files.imgix.net/ba75f4a1-d72e-4f8e-8ea5-a4cf83867d86.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Mina Meeting Assistant" loading="lazy"><br><br>
 <strong>【标语】</strong>：您的人工智能队友现在在您的通话期间做出响应并执行<br>
@@ -188,7 +213,7 @@
     <title type="text">PH今日热榜 | 2026-05-31</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-05-31.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-05-31.html"/>
-    <updated>2026-06-09T10:56:52.511Z</updated>
+    <updated>2026-06-10T11:35:21.840Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-clipto"><span></span></a><a href="https://www.producthunt.com/products/clipto-ai" target="_blank" rel="noopener noreferrer">TOP1    Clipto</a></h2>
 <p><img src="https://ph-files.imgix.net/5fadfc17-c301-4efd-98fe-33db9b34bd7f.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Clipto" loading="lazy"><br><br>
 <strong>【标语】</strong>：对TB媒体进行完全本地化的自然语言搜索<br>
@@ -213,7 +238,7 @@
     <title type="text">PH今日热榜 | 2026-05-30</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-05-30.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-05-30.html"/>
-    <updated>2026-06-09T10:56:52.520Z</updated>
+    <updated>2026-06-10T11:35:21.854Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-wandesk"><span></span></a><a href="https://www.producthunt.com/products/wandesk-ai" target="_blank" rel="noopener noreferrer">TOP1    Wandesk</a></h2>
 <p><img src="https://ph-files.imgix.net/71b79a02-1eb0-46ed-9f5e-da99561b43a0.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Wandesk" loading="lazy"><br><br>
 <strong>【标语】</strong>：构建您自己的人工智能桌面 <br>
@@ -233,30 +258,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2026-05-30T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2026-05-29</title>
-    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-05-29.html</id>
-    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-05-29.html"/>
-    <updated>2026-06-09T10:56:52.535Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-ava-2-0"><span></span></a><a href="https://www.producthunt.com/products/artisan-3" target="_blank" rel="noopener noreferrer">TOP1    Ava 2.0</a></h2>
-<p><img src="https://ph-files.imgix.net/4d066ffc-be7a-4ebb-8fd7-66e4d5b33f70.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Ava 2.0" loading="lazy"><br><br>
-<strong>【标语】</strong>：您的AI BDR可自主运行对外销售<br>
-<strong>【介绍】</strong>：Ava是一款人工智能BDR，可以在自动驾驶仪上运行您的整个出境过程。她从超过2.5亿专业人士中寻找领导，开展多渠道外展，并预订合格的会议。完全自主。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/HMYIC7WZZM3MNU" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/artisan-3" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-ava-2-0"><span></span></a><a href="https://www.producthunt.com/products/artisan-3" target="_blank" rel="noopener noreferrer">TOP1    Ava 2.0</a></h2>
-<p><img src="https://ph-files.imgix.net/4d066ffc-be7a-4ebb-8fd7-66e4d5b33f70.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Ava 2.0" loading="lazy"><br><br>
-<strong>【标语】</strong>：您的AI BDR可自主运行对外销售<br>
-<strong>【介绍】</strong>：Ava是一款人工智能BDR，可以在自动驾驶仪上运行您的整个出境过程。她从超过2.5亿专业人士中寻找领导，开展多渠道外展，并预订合格的会议。完全自主。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/HMYIC7WZZM3MNU" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/artisan-3" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：BDR,自主,AI,Ava,2.5,外展<br>
-<strong>票数</strong>： 🔺346<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年05月29日 PM03:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2026-05-29T00:00:00.000Z</published>
   </entry>
 </feed>
