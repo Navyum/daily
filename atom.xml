@@ -4,16 +4,41 @@
   <title>DAYHACK</title>
   <subtitle>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</subtitle>
   <icon>https://github.camscanner.top/daily/favicon.ico</icon>
-  <updated>2026-06-11T12:06:59.660Z</updated>
+  <updated>2026-06-12T11:40:38.980Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/"/>
   <category term="PH"/>
   <entry>
+    <title type="text">PH今日热榜 | 2026-06-10</title>
+    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-10.html</id>
+    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-10.html"/>
+    <updated>2026-06-12T11:40:38.981Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-publora"><span></span></a><a href="https://www.producthunt.com/products/publora" target="_blank" rel="noopener noreferrer">TOP1    Publora</a></h2>
+<p><img src="https://ph-files.imgix.net/712e199b-0dbc-44f3-8668-f02d03d35df6.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Publora" loading="lazy"><br><br>
+<strong>【标语】</strong>：一个发布API，供代理在10个社交平台上发布<br>
+<strong>【介绍】</strong>：Publora是10个社交平台的发布API。一个REST API调用处理多网络分发-没有SDK，没有OAuth布线。具有18种工具的原生LCP服务器为Claude和Cursor等人工智能代理提供了完整的参与循环：发布、评论、反应、拉分析-跨LinkedIn、X、Instagram、Threads、TikTok、YouTube、Facebook、Bluesky、Mastodon和Telegram<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/FFFDHH6IKSRQWU" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/publora" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-publora"><span></span></a><a href="https://www.producthunt.com/products/publora" target="_blank" rel="noopener noreferrer">TOP1    Publora</a></h2>
+<p><img src="https://ph-files.imgix.net/712e199b-0dbc-44f3-8668-f02d03d35df6.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Publora" loading="lazy"><br><br>
+<strong>【标语】</strong>：一个发布API，供代理在10个社交平台上发布<br>
+<strong>【介绍】</strong>：Publora是10个社交平台的发布API。一个REST API调用处理多网络分发-没有SDK，没有OAuth布线。具有18种工具的原生LCP服务器为Claude和Cursor等人工智能代理提供了完整的参与循环：发布、评论、反应、拉分析-跨LinkedIn、X、Instagram、Threads、TikTok、YouTube、Facebook、Bluesky、Mastodon和Telegram<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/FFFDHH6IKSRQWU" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/publora" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：API,10,发布,社交,代理,平台<br>
+<strong>票数</strong>： 🔺550<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年06月10日 PM03:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2026-06-10T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">PH今日热榜 | 2026-06-09</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-09.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-09.html"/>
-    <updated>2026-06-11T12:06:59.661Z</updated>
+    <updated>2026-06-12T11:40:39.004Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-vc-boom"><span></span></a><a href="https://www.producthunt.com/products/vcboom" target="_blank" rel="noopener noreferrer">TOP1    VC Boom</a></h2>
 <p><img src="https://ph-files.imgix.net/eea031af-af43-4ea8-899e-edefcfc28f7e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="VC Boom" loading="lazy"><br><br>
 <strong>【标语】</strong>：评分你的牌，结识适合的投资者，并筹集更多资金<br>
@@ -38,7 +63,7 @@
     <title type="text">PH今日热榜 | 2026-06-08</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-08.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-08.html"/>
-    <updated>2026-06-11T12:06:59.690Z</updated>
+    <updated>2026-06-12T11:40:39.012Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-honen"><span></span></a><a href="https://www.producthunt.com/products/honen" target="_blank" rel="noopener noreferrer">TOP1    Honen</a></h2>
 <p><img src="https://ph-files.imgix.net/ac3232b7-1a90-4a9d-9ced-086e2c4cabfb.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Honen" loading="lazy"><br><br>
 <strong>【标语】</strong>：适合任何公司的自动化教学+学习基础设施<br>
@@ -63,7 +88,7 @@
     <title type="text">PH今日热榜 | 2026-06-07</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-07.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-07.html"/>
-    <updated>2026-06-11T12:06:59.697Z</updated>
+    <updated>2026-06-12T11:40:39.027Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-dreambeans-by-google-labs"><span></span></a><a href="https://www.producthunt.com/products/google-labs" target="_blank" rel="noopener noreferrer">TOP1    Dreambeans by Google Labs</a></h2>
 <p><img src="https://ph-files.imgix.net/ea789565-9a79-4107-b3ee-84379d0ed868.webp?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Dreambeans by Google Labs" loading="lazy"><br><br>
 <strong>【标语】</strong>：从您的Google应用程序个性化的每日人工智能故事<br>
@@ -88,7 +113,7 @@
     <title type="text">PH今日热榜 | 2026-06-06</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-06.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-06.html"/>
-    <updated>2026-06-11T12:06:59.713Z</updated>
+    <updated>2026-06-12T11:40:39.038Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-google-search-profiles"><span></span></a><a href="https://www.producthunt.com/products/google" target="_blank" rel="noopener noreferrer">TOP1    Google Search Profiles</a></h2>
 <p><img src="https://ph-files.imgix.net/e8f3dbbc-5658-4f09-8b61-fc4079e67bd4.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Google Search Profiles" loading="lazy"><br><br>
 <strong>【标语】</strong>：供出版商/创作者强调搜索工作的个人资料<br>
@@ -113,7 +138,7 @@
     <title type="text">PH今日热榜 | 2026-06-05</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-05.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-05.html"/>
-    <updated>2026-06-11T12:06:59.724Z</updated>
+    <updated>2026-06-12T11:40:39.050Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-sellerclaw"><span></span></a><a href="https://www.producthunt.com/products/sellerclaw" target="_blank" rel="noopener noreferrer">TOP1    SellerClaw</a></h2>
 <p><img src="https://ph-files.imgix.net/4cb6a984-3d4f-454b-ab7e-79de4c6f8e20.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="SellerClaw" loading="lazy"><br><br>
 <strong>【标语】</strong>：一个AI代理团队，跨渠道运营您的商店<br>
@@ -138,7 +163,7 @@
     <title type="text">PH今日热榜 | 2026-06-04</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-04.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-04.html"/>
-    <updated>2026-06-11T12:06:59.738Z</updated>
+    <updated>2026-06-12T11:40:39.057Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-mailwarm-2-0"><span></span></a><a href="https://www.producthunt.com/products/mailwarm" target="_blank" rel="noopener noreferrer">TOP1    Mailwarm 2.0</a></h2>
 <p><img src="https://ph-files.imgix.net/71495cdc-aaf1-46db-b900-01c456b86229.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Mailwarm 2.0" loading="lazy"><br><br>
 <strong>【标语】</strong>：电子邮件预热工具，已升级可达性。<br>
@@ -163,7 +188,7 @@
     <title type="text">PH今日热榜 | 2026-06-03</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-03.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-03.html"/>
-    <updated>2026-06-11T12:06:59.745Z</updated>
+    <updated>2026-06-12T11:40:39.069Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-elentaria"><span></span></a><a href="https://www.producthunt.com/products/elentaria" target="_blank" rel="noopener noreferrer">TOP1    Elentaria</a></h2>
 <p><img src="https://ph-files.imgix.net/ec9690c9-bc46-4e24-854a-02f112b80b89.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Elentaria" loading="lazy"><br><br>
 <strong>【标语】</strong>：您的GTM：从诊断到执行<br>
@@ -188,7 +213,7 @@
     <title type="text">PH今日热榜 | 2026-06-02</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-02.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-02.html"/>
-    <updated>2026-06-11T12:06:59.760Z</updated>
+    <updated>2026-06-12T11:40:39.080Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-fundraisly"><span></span></a><a href="https://www.producthunt.com/products/fundraisly" target="_blank" rel="noopener noreferrer">TOP1    Fundraisly</a></h2>
 <p><img src="https://ph-files.imgix.net/763e838e-65e6-4bf7-94a1-33198ee504a6.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Fundraisly" loading="lazy"><br><br>
 <strong>【标语】</strong>：寻找投资者并预订会议的人工智能筹款代理<br>
@@ -213,7 +238,7 @@
     <title type="text">PH今日热榜 | 2026-06-01</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-01.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-01.html"/>
-    <updated>2026-06-11T12:06:59.770Z</updated>
+    <updated>2026-06-12T11:40:39.093Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-mina-meeting-assistant"><span></span></a><a href="https://www.producthunt.com/products/mina-meeting-assistant" target="_blank" rel="noopener noreferrer">TOP1    Mina Meeting Assistant</a></h2>
 <p><img src="https://ph-files.imgix.net/ba75f4a1-d72e-4f8e-8ea5-a4cf83867d86.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Mina Meeting Assistant" loading="lazy"><br><br>
 <strong>【标语】</strong>：您的人工智能队友现在在您的通话期间做出响应并执行<br>
@@ -233,30 +258,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2026-06-01T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2026-05-31</title>
-    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-05-31.html</id>
-    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-05-31.html"/>
-    <updated>2026-06-11T12:06:59.784Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-clipto"><span></span></a><a href="https://www.producthunt.com/products/clipto-ai" target="_blank" rel="noopener noreferrer">TOP1    Clipto</a></h2>
-<p><img src="https://ph-files.imgix.net/5fadfc17-c301-4efd-98fe-33db9b34bd7f.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Clipto" loading="lazy"><br><br>
-<strong>【标语】</strong>：对TB媒体进行完全本地化的自然语言搜索<br>
-<strong>【介绍】</strong>：就像Google Photos一样，但完全本地化。将您处理的TB级视频、音频、会议和文件转化为可搜索的存储器，而无需将任何内容上传到云。Clipto自动标记人物、对话和场景，因此您只需描述您正在寻找的内容，即可立即找到隐藏在媒体中的任何时刻。它的速度也很快：在MacBook Pro M5上，Clipto在短短24小时内就索引了2 TB的视频。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/Y5E7U6HB2KB5NG" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/clipto-ai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-clipto"><span></span></a><a href="https://www.producthunt.com/products/clipto-ai" target="_blank" rel="noopener noreferrer">TOP1    Clipto</a></h2>
-<p><img src="https://ph-files.imgix.net/5fadfc17-c301-4efd-98fe-33db9b34bd7f.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Clipto" loading="lazy"><br><br>
-<strong>【标语】</strong>：对TB媒体进行完全本地化的自然语言搜索<br>
-<strong>【介绍】</strong>：就像Google Photos一样，但完全本地化。将您处理的TB级视频、音频、会议和文件转化为可搜索的存储器，而无需将任何内容上传到云。Clipto自动标记人物、对话和场景，因此您只需描述您正在寻找的内容，即可立即找到隐藏在媒体中的任何时刻。它的速度也很快：在MacBook Pro M5上，Clipto在短短24小时内就索引了2 TB的视频。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/Y5E7U6HB2KB5NG" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/clipto-ai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：TB,Clipto,本地化,视频,搜索,媒体<br>
-<strong>票数</strong>： 🔺435<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年05月31日 PM03:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2026-05-31T00:00:00.000Z</published>
   </entry>
 </feed>
