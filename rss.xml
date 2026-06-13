@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 12 Jun 2026 11:40:38 GMT</pubDate>
-    <lastBuildDate>Fri, 12 Jun 2026 11:40:38 GMT</lastBuildDate>
+    <pubDate>Sat, 13 Jun 2026 10:25:06 GMT</pubDate>
+    <lastBuildDate>Sat, 13 Jun 2026 10:25:06 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-06-11</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-06-11.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-06-11.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-06-11</source>
+      <description>TOP1 Bond Bond 【标语】：自行完成的人工智能待办事项清单 【介绍】：邦德是一名人工智能高管幕僚长。它连接到您的工具，了解您的公司如何运作，并将分散的任务转化为自我管理的待办事项清单，该清单始终知道您下一步需要做什么。您可以要求邦德为下次会议做好准备、起草后续行动、发送电子邮件、创建行动项、识别拦截者、暴露风险或将任务委托给团队成员。 【官...</description>
+      <category>PH</category>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-bond"><span></span></a><a href="https://www.producthunt.com/products/bond-12" target="_blank" rel="noopener noreferrer">TOP1    Bond</a></h2>
+<p><img src="https://ph-files.imgix.net/48c7311f-c697-48cf-b57f-806feda15896.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Bond" loading="lazy"><br><br>
+<strong>【标语】</strong>：自行完成的人工智能待办事项清单<br>
+<strong>【介绍】</strong>：邦德是一名人工智能高管幕僚长。它连接到您的工具，了解您的公司如何运作，并将分散的任务转化为自我管理的待办事项清单，该清单始终知道您下一步需要做什么。您可以要求邦德为下次会议做好准备、起草后续行动、发送电子邮件、创建行动项、识别拦截者、暴露风险或将任务委托给团队成员。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/7SFOLQBBWUEQXW" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/bond-12" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：清单,待办,邦德,人工智能,事项,幕僚长<br>
+<strong>票数</strong>： 🔺634<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年06月11日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/48c7311f-c697-48cf-b57f-806feda15896.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-06-10</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-06-10.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年06月02日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/763e838e-65e6-4bf7-94a1-33198ee504a6.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-06-01</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-06-01.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-06-01.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-06-01</source>
-      <description>TOP1 Mina Meeting Assistant Mina Meeting Assistant 【标语】：您的人工智能队友现在在您的通话期间做出响应并执行 【介绍】：Mina是一名人工智能会议助理，可以积极参与会议、实时响应、从工具中提取上下文，并在对话仍在进行时帮助推进工作。与传统的会议工具不同，Mina可以在会议之前、期间和之后在电话中发言、...</description>
-      <category>PH</category>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-mina-meeting-assistant"><span></span></a><a href="https://www.producthunt.com/products/mina-meeting-assistant" target="_blank" rel="noopener noreferrer">TOP1    Mina Meeting Assistant</a></h2>
-<p><img src="https://ph-files.imgix.net/ba75f4a1-d72e-4f8e-8ea5-a4cf83867d86.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Mina Meeting Assistant" loading="lazy"><br><br>
-<strong>【标语】</strong>：您的人工智能队友现在在您的通话期间做出响应并执行<br>
-<strong>【介绍】</strong>：Mina是一名人工智能会议助理，可以积极参与会议、实时响应、从工具中提取上下文，并在对话仍在进行时帮助推进工作。与传统的会议工具不同，Mina可以在会议之前、期间和之后在电话中发言、使用技能、生成输出，并支持销售电话、面试、单口演讲、客户对话和团队工作流程。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/BPRGIOPD7QOOVH" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/mina-meeting-assistant" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：Mina,会议,人工智能,响应,对话,单口<br>
-<strong>票数</strong>： 🔺468<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年06月01日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/ba75f4a1-d72e-4f8e-8ea5-a4cf83867d86.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
