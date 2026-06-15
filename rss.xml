@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 14 Jun 2026 10:46:55 GMT</pubDate>
-    <lastBuildDate>Sun, 14 Jun 2026 10:46:55 GMT</lastBuildDate>
+    <pubDate>Mon, 15 Jun 2026 13:50:48 GMT</pubDate>
+    <lastBuildDate>Mon, 15 Jun 2026 13:50:48 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-06-13</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-06-13.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-06-13.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-06-13</source>
+      <description>TOP1 Vercel Drop Vercel Drop 【标语】：放下它。它正在直播。 【介绍】：Vercel Drop允许您通过将文件或文件夹拖到浏览器中来部署它。您不需要Git、Vercel CLI或任何本地设置。将项目放入vercel.com/drop，选择团队和项目名称，然后选择Deploy。Vercel将创建一个新项目，上传您的文件，并通过...</description>
+      <category>PH</category>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-vercel-drop"><span></span></a><a href="https://www.producthunt.com/products/vercel" target="_blank" rel="noopener noreferrer">TOP1    Vercel Drop</a></h2>
+<p><img src="https://ph-files.imgix.net/15f195b6-839a-416a-bf73-a5da302c5cfa.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Vercel Drop" loading="lazy"><br><br>
+<strong>【标语】</strong>：放下它。它正在直播。<br>
+<strong>【介绍】</strong>：Vercel Drop允许您通过将文件或文件夹拖到浏览器中来部署它。您不需要Git、Vercel CLI或任何本地设置。将项目放入vercel.com/drop，选择团队和项目名称，然后选择Deploy。Vercel将创建一个新项目，上传您的文件，并通过您可以共享的实时URL将它们直接发布到生产环境中。这一切都在几秒钟内完成。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/RY26DNHYWZFE45" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/vercel" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：Vercel,文件,Drop,中来,Git,CLI<br>
+<strong>票数</strong>： 🔺403<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年06月13日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/15f195b6-839a-416a-bf73-a5da302c5cfa.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-06-12</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-06-12.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年06月04日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/71495cdc-aaf1-46db-b900-01c456b86229.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-06-03</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-06-03.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-06-03.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-06-03</source>
-      <description>TOP1 Elentaria Elentaria 【标语】：您的GTM：从诊断到执行 【介绍】：Elentaria是B2B的人工智能运营商：它分析您的业务，对22个渠道进行评分，发布适合的计划，并了解收入的变化，以便让下周变得更清晰。每周，在你的堆栈中，在你的声音中。 【官网】：立即访问 【Product Hunt】：View on Product H...</description>
-      <category>PH</category>
-      <pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-elentaria"><span></span></a><a href="https://www.producthunt.com/products/elentaria" target="_blank" rel="noopener noreferrer">TOP1    Elentaria</a></h2>
-<p><img src="https://ph-files.imgix.net/ec9690c9-bc46-4e24-854a-02f112b80b89.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Elentaria" loading="lazy"><br><br>
-<strong>【标语】</strong>：您的GTM：从诊断到执行<br>
-<strong>【介绍】</strong>：Elentaria是B2B的人工智能运营商：它分析您的业务，对22个渠道进行评分，发布适合的计划，并了解收入的变化，以便让下周变得更清晰。每周，在你的堆栈中，在你的声音中。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/UJ3FSZT2ZNWJMT" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/elentaria" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：GTM,Elentaria,B2B,22,堆栈,人工智能<br>
-<strong>票数</strong>： 🔺558<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年06月03日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/ec9690c9-bc46-4e24-854a-02f112b80b89.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>

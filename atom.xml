@@ -4,16 +4,41 @@
   <title>DAYHACK</title>
   <subtitle>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</subtitle>
   <icon>https://github.camscanner.top/daily/favicon.ico</icon>
-  <updated>2026-06-14T10:46:55.808Z</updated>
+  <updated>2026-06-15T13:50:48.748Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/"/>
   <category term="PH"/>
   <entry>
+    <title type="text">PH今日热榜 | 2026-06-13</title>
+    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-13.html</id>
+    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-13.html"/>
+    <updated>2026-06-15T13:50:48.749Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-vercel-drop"><span></span></a><a href="https://www.producthunt.com/products/vercel" target="_blank" rel="noopener noreferrer">TOP1    Vercel Drop</a></h2>
+<p><img src="https://ph-files.imgix.net/15f195b6-839a-416a-bf73-a5da302c5cfa.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Vercel Drop" loading="lazy"><br><br>
+<strong>【标语】</strong>：放下它。它正在直播。<br>
+<strong>【介绍】</strong>：Vercel Drop允许您通过将文件或文件夹拖到浏览器中来部署它。您不需要Git、Vercel CLI或任何本地设置。将项目放入vercel.com/drop，选择团队和项目名称，然后选择Deploy。Vercel将创建一个新项目，上传您的文件，并通过您可以共享的实时URL将它们直接发布到生产环境中。这一切都在几秒钟内完成。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/RY26DNHYWZFE45" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/vercel" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-vercel-drop"><span></span></a><a href="https://www.producthunt.com/products/vercel" target="_blank" rel="noopener noreferrer">TOP1    Vercel Drop</a></h2>
+<p><img src="https://ph-files.imgix.net/15f195b6-839a-416a-bf73-a5da302c5cfa.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Vercel Drop" loading="lazy"><br><br>
+<strong>【标语】</strong>：放下它。它正在直播。<br>
+<strong>【介绍】</strong>：Vercel Drop允许您通过将文件或文件夹拖到浏览器中来部署它。您不需要Git、Vercel CLI或任何本地设置。将项目放入vercel.com/drop，选择团队和项目名称，然后选择Deploy。Vercel将创建一个新项目，上传您的文件，并通过您可以共享的实时URL将它们直接发布到生产环境中。这一切都在几秒钟内完成。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/RY26DNHYWZFE45" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/vercel" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：Vercel,文件,Drop,中来,Git,CLI<br>
+<strong>票数</strong>： 🔺403<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年06月13日 PM03:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2026-06-13T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">PH今日热榜 | 2026-06-12</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-12.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-12.html"/>
-    <updated>2026-06-14T10:46:55.809Z</updated>
+    <updated>2026-06-15T13:50:48.774Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-firma-dev"><span></span></a><a href="https://www.producthunt.com/products/firma-dev" target="_blank" rel="noopener noreferrer">TOP1    Firma.dev</a></h2>
 <p><img src="https://ph-files.imgix.net/25b05220-11fd-40f1-a5d2-2f0626f8911f.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Firma.dev" loading="lazy"><br><br>
 <strong>【标语】</strong>：您的应用程序的电子签名API平均每个信封约3美分<br>
@@ -38,7 +63,7 @@
     <title type="text">PH今日热榜 | 2026-06-11</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-11.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-11.html"/>
-    <updated>2026-06-14T10:46:55.826Z</updated>
+    <updated>2026-06-15T13:50:48.783Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-bond"><span></span></a><a href="https://www.producthunt.com/products/bond-12" target="_blank" rel="noopener noreferrer">TOP1    Bond</a></h2>
 <p><img src="https://ph-files.imgix.net/48c7311f-c697-48cf-b57f-806feda15896.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Bond" loading="lazy"><br><br>
 <strong>【标语】</strong>：自行完成的人工智能待办事项清单<br>
@@ -63,7 +88,7 @@
     <title type="text">PH今日热榜 | 2026-06-10</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-10.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-10.html"/>
-    <updated>2026-06-14T10:46:55.841Z</updated>
+    <updated>2026-06-15T13:50:48.798Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-publora"><span></span></a><a href="https://www.producthunt.com/products/publora" target="_blank" rel="noopener noreferrer">TOP1    Publora</a></h2>
 <p><img src="https://ph-files.imgix.net/712e199b-0dbc-44f3-8668-f02d03d35df6.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Publora" loading="lazy"><br><br>
 <strong>【标语】</strong>：一个发布API，供代理在10个社交平台上发布<br>
@@ -88,7 +113,7 @@
     <title type="text">PH今日热榜 | 2026-06-09</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-09.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-09.html"/>
-    <updated>2026-06-14T10:46:55.850Z</updated>
+    <updated>2026-06-15T13:50:48.806Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-vc-boom"><span></span></a><a href="https://www.producthunt.com/products/vcboom" target="_blank" rel="noopener noreferrer">TOP1    VC Boom</a></h2>
 <p><img src="https://ph-files.imgix.net/eea031af-af43-4ea8-899e-edefcfc28f7e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="VC Boom" loading="lazy"><br><br>
 <strong>【标语】</strong>：评分你的牌，结识适合的投资者，并筹集更多资金<br>
@@ -113,7 +138,7 @@
     <title type="text">PH今日热榜 | 2026-06-08</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-08.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-08.html"/>
-    <updated>2026-06-14T10:46:55.865Z</updated>
+    <updated>2026-06-15T13:50:48.819Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-honen"><span></span></a><a href="https://www.producthunt.com/products/honen" target="_blank" rel="noopener noreferrer">TOP1    Honen</a></h2>
 <p><img src="https://ph-files.imgix.net/ac3232b7-1a90-4a9d-9ced-086e2c4cabfb.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Honen" loading="lazy"><br><br>
 <strong>【标语】</strong>：适合任何公司的自动化教学+学习基础设施<br>
@@ -138,7 +163,7 @@
     <title type="text">PH今日热榜 | 2026-06-07</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-07.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-07.html"/>
-    <updated>2026-06-14T10:46:55.871Z</updated>
+    <updated>2026-06-15T13:50:48.826Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-dreambeans-by-google-labs"><span></span></a><a href="https://www.producthunt.com/products/google-labs" target="_blank" rel="noopener noreferrer">TOP1    Dreambeans by Google Labs</a></h2>
 <p><img src="https://ph-files.imgix.net/ea789565-9a79-4107-b3ee-84379d0ed868.webp?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Dreambeans by Google Labs" loading="lazy"><br><br>
 <strong>【标语】</strong>：从您的Google应用程序个性化的每日人工智能故事<br>
@@ -163,7 +188,7 @@
     <title type="text">PH今日热榜 | 2026-06-06</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-06.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-06.html"/>
-    <updated>2026-06-14T10:46:55.885Z</updated>
+    <updated>2026-06-15T13:50:48.839Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-google-search-profiles"><span></span></a><a href="https://www.producthunt.com/products/google" target="_blank" rel="noopener noreferrer">TOP1    Google Search Profiles</a></h2>
 <p><img src="https://ph-files.imgix.net/e8f3dbbc-5658-4f09-8b61-fc4079e67bd4.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Google Search Profiles" loading="lazy"><br><br>
 <strong>【标语】</strong>：供出版商/创作者强调搜索工作的个人资料<br>
@@ -188,7 +213,7 @@
     <title type="text">PH今日热榜 | 2026-06-05</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-05.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-05.html"/>
-    <updated>2026-06-14T10:46:55.892Z</updated>
+    <updated>2026-06-15T13:50:48.850Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-sellerclaw"><span></span></a><a href="https://www.producthunt.com/products/sellerclaw" target="_blank" rel="noopener noreferrer">TOP1    SellerClaw</a></h2>
 <p><img src="https://ph-files.imgix.net/4cb6a984-3d4f-454b-ab7e-79de4c6f8e20.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="SellerClaw" loading="lazy"><br><br>
 <strong>【标语】</strong>：一个AI代理团队，跨渠道运营您的商店<br>
@@ -213,7 +238,7 @@
     <title type="text">PH今日热榜 | 2026-06-04</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-04.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-04.html"/>
-    <updated>2026-06-14T10:46:55.907Z</updated>
+    <updated>2026-06-15T13:50:48.863Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-mailwarm-2-0"><span></span></a><a href="https://www.producthunt.com/products/mailwarm" target="_blank" rel="noopener noreferrer">TOP1    Mailwarm 2.0</a></h2>
 <p><img src="https://ph-files.imgix.net/71495cdc-aaf1-46db-b900-01c456b86229.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Mailwarm 2.0" loading="lazy"><br><br>
 <strong>【标语】</strong>：电子邮件预热工具，已升级可达性。<br>
@@ -233,30 +258,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2026-06-04T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2026-06-03</title>
-    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-03.html</id>
-    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-03.html"/>
-    <updated>2026-06-14T10:46:55.916Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-elentaria"><span></span></a><a href="https://www.producthunt.com/products/elentaria" target="_blank" rel="noopener noreferrer">TOP1    Elentaria</a></h2>
-<p><img src="https://ph-files.imgix.net/ec9690c9-bc46-4e24-854a-02f112b80b89.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Elentaria" loading="lazy"><br><br>
-<strong>【标语】</strong>：您的GTM：从诊断到执行<br>
-<strong>【介绍】</strong>：Elentaria是B2B的人工智能运营商：它分析您的业务，对22个渠道进行评分，发布适合的计划，并了解收入的变化，以便让下周变得更清晰。每周，在你的堆栈中，在你的声音中。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/UJ3FSZT2ZNWJMT" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/elentaria" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-elentaria"><span></span></a><a href="https://www.producthunt.com/products/elentaria" target="_blank" rel="noopener noreferrer">TOP1    Elentaria</a></h2>
-<p><img src="https://ph-files.imgix.net/ec9690c9-bc46-4e24-854a-02f112b80b89.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Elentaria" loading="lazy"><br><br>
-<strong>【标语】</strong>：您的GTM：从诊断到执行<br>
-<strong>【介绍】</strong>：Elentaria是B2B的人工智能运营商：它分析您的业务，对22个渠道进行评分，发布适合的计划，并了解收入的变化，以便让下周变得更清晰。每周，在你的堆栈中，在你的声音中。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/UJ3FSZT2ZNWJMT" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/elentaria" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：GTM,Elentaria,B2B,22,堆栈,人工智能<br>
-<strong>票数</strong>： 🔺558<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年06月03日 PM03:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2026-06-03T00:00:00.000Z</published>
   </entry>
 </feed>
