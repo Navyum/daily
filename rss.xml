@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 15 Jun 2026 13:50:48 GMT</pubDate>
-    <lastBuildDate>Mon, 15 Jun 2026 13:50:48 GMT</lastBuildDate>
+    <pubDate>Tue, 16 Jun 2026 12:49:34 GMT</pubDate>
+    <lastBuildDate>Tue, 16 Jun 2026 12:49:34 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-06-14</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-06-14.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-06-14.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-06-14</source>
+      <description>TOP1 Slashy Slashy 【标语】：为您处理电子邮件的人工智能助手 【介绍】：Slashy是一款人工智能原生电子邮件客户端和助理，可以用您的声音起草回复，对重要内容进行分类，并确保没有后续失误，这样您在收件箱上花费的时间更少，而在重要内容上花费更多时间。它连接到您的电子邮件、日历、CRM和会议笔记，并了解您的工作方式，因此您可以要求Slas...</description>
+      <category>PH</category>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-slashy"><span></span></a><a href="https://www.producthunt.com/products/slashy-3" target="_blank" rel="noopener noreferrer">TOP1    Slashy</a></h2>
+<p><img src="https://ph-files.imgix.net/352d13d9-89fb-44cf-8ff5-605a27e3d028.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Slashy" loading="lazy"><br><br>
+<strong>【标语】</strong>：为您处理电子邮件的人工智能助手<br>
+<strong>【介绍】</strong>：Slashy是一款人工智能原生电子邮件客户端和助理，可以用您的声音起草回复，对重要内容进行分类，并确保没有后续失误，这样您在收件箱上花费的时间更少，而在重要内容上花费更多时间。它连接到您的电子邮件、日历、CRM和会议笔记，并了解您的工作方式，因此您可以要求Slashy为您的下一次会议做准备、起草后续文件、将收件箱清空为零、跟踪谁还欠您回复，或者在您旅途中从iMessage或Slack发送电子邮件。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/723Q6GNIWDBMQM" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/slashy-3" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：电子邮件,收件箱,Slashy,人工智能,起草,花费<br>
+<strong>票数</strong>： 🔺428<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年06月14日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/352d13d9-89fb-44cf-8ff5-605a27e3d028.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-06-13</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-06-13.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年06月05日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/4cb6a984-3d4f-454b-ab7e-79de4c6f8e20.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-06-04</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-06-04.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-06-04.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-06-04</source>
-      <description>TOP1 Mailwarm 2.0 Mailwarm 2.0 【标语】：电子邮件预热工具，已升级可达性。 【介绍】：大多数创始人都依赖电子邮件来成长，但电子邮件不会神奇地进入收件箱。Mailwarm 2.0是高级电子邮件预热和投递系统，旨在为您的电子邮件提供到达收件箱的最佳机会。它结合了自动化预热、真实参与、监控、基础设施检查和专家通话，可供每位订阅者...</description>
-      <category>PH</category>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-mailwarm-2-0"><span></span></a><a href="https://www.producthunt.com/products/mailwarm" target="_blank" rel="noopener noreferrer">TOP1    Mailwarm 2.0</a></h2>
-<p><img src="https://ph-files.imgix.net/71495cdc-aaf1-46db-b900-01c456b86229.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Mailwarm 2.0" loading="lazy"><br><br>
-<strong>【标语】</strong>：电子邮件预热工具，已升级可达性。<br>
-<strong>【介绍】</strong>：大多数创始人都依赖电子邮件来成长，但电子邮件不会神奇地进入收件箱。Mailwarm 2.0是高级电子邮件预热和投递系统，旨在为您的电子邮件提供到达收件箱的最佳机会。它结合了自动化预热、真实参与、监控、基础设施检查和专家通话，可供每位订阅者使用。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/SO3HRZHWMYKPDS" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/mailwarm" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：电子邮件,预热,收件箱,可达性,Mailwarm,2.0<br>
-<strong>票数</strong>： 🔺549<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年06月04日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/71495cdc-aaf1-46db-b900-01c456b86229.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
