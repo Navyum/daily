@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 16 Jun 2026 12:49:34 GMT</pubDate>
-    <lastBuildDate>Tue, 16 Jun 2026 12:49:34 GMT</lastBuildDate>
+    <pubDate>Wed, 17 Jun 2026 12:13:41 GMT</pubDate>
+    <lastBuildDate>Wed, 17 Jun 2026 12:13:41 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-06-15</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-06-15.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-06-15.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-06-15</source>
+      <description>TOP1 Novu Connect Novu Connect 【标语】：运送您的用户已经工作的代理 【介绍】：Novu Connect允许任何人工智能代理跨Slack、Teams、WhatsApp、Telegram和电子邮件进行双向对话，而无需亲自构建每个渠道集成。带上您自己的代理逻辑、模型或代码。Novu处理通信层：交付、身份解析、线程、路由和特定于...</description>
+      <category>PH</category>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-novu-connect"><span></span></a><a href="https://www.producthunt.com/products/novu" target="_blank" rel="noopener noreferrer">TOP1    Novu Connect</a></h2>
+<p><img src="https://ph-files.imgix.net/e3269d05-7df8-47b9-9f69-0b1c48eb64c2.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Novu Connect" loading="lazy"><br><br>
+<strong>【标语】</strong>：运送您的用户已经工作的代理<br>
+<strong>【介绍】</strong>：Novu Connect允许任何人工智能代理跨Slack、Teams、WhatsApp、Telegram和电子邮件进行双向对话，而无需亲自构建每个渠道集成。带上您自己的代理逻辑、模型或代码。Novu处理通信层：交付、身份解析、线程、路由和特定于渠道的格式化，以便您的代理可以联系到用户已经工作的地方。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/YKCLFF3LPLDFWW" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/novu" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：代理,Novu,用户,渠道,Connect,Slack<br>
+<strong>票数</strong>： 🔺401<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年06月15日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/e3269d05-7df8-47b9-9f69-0b1c48eb64c2.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-06-14</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-06-14.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年06月06日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/e8f3dbbc-5658-4f09-8b61-fc4079e67bd4.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-06-05</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-06-05.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-06-05.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-06-05</source>
-      <description>TOP1 SellerClaw SellerClaw 【标语】：一个AI代理团队，跨渠道运营您的商店 【介绍】：即使经营一家在线商店也是一份全职工作。SellerClaw是一个由人工智能代理组成的团队，为您运营：负责产品采购、商店管理和广告的专业代理，由您指导的主管协调。告诉它要卖什么-代理商在Shopify、eBay等中构建列表、管理广告和定价，并处...</description>
-      <category>PH</category>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-sellerclaw"><span></span></a><a href="https://www.producthunt.com/products/sellerclaw" target="_blank" rel="noopener noreferrer">TOP1    SellerClaw</a></h2>
-<p><img src="https://ph-files.imgix.net/4cb6a984-3d4f-454b-ab7e-79de4c6f8e20.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="SellerClaw" loading="lazy"><br><br>
-<strong>【标语】</strong>：一个AI代理团队，跨渠道运营您的商店<br>
-<strong>【介绍】</strong>：即使经营一家在线商店也是一份全职工作。SellerClaw是一个由人工智能代理组成的团队，为您运营：负责产品采购、商店管理和广告的专业代理，由您指导的主管协调。告诉它要卖什么-代理商在Shopify、eBay等中构建列表、管理广告和定价，并处理履行和支持。您保持控制：每一个动作都是可见且可批准的，并且您可以自行设置运行次数。免费开始。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/7EVPIJ3T3Q6YW2" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/sellerclaw" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：商店,代理,广告,团队,运营,AI<br>
-<strong>票数</strong>： 🔺496<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年06月05日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/4cb6a984-3d4f-454b-ab7e-79de4c6f8e20.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>

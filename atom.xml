@@ -4,16 +4,41 @@
   <title>DAYHACK</title>
   <subtitle>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</subtitle>
   <icon>https://github.camscanner.top/daily/favicon.ico</icon>
-  <updated>2026-06-16T12:49:34.286Z</updated>
+  <updated>2026-06-17T12:13:41.836Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/"/>
   <category term="PH"/>
   <entry>
+    <title type="text">PH今日热榜 | 2026-06-15</title>
+    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-15.html</id>
+    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-15.html"/>
+    <updated>2026-06-17T12:13:41.838Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-novu-connect"><span></span></a><a href="https://www.producthunt.com/products/novu" target="_blank" rel="noopener noreferrer">TOP1    Novu Connect</a></h2>
+<p><img src="https://ph-files.imgix.net/e3269d05-7df8-47b9-9f69-0b1c48eb64c2.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Novu Connect" loading="lazy"><br><br>
+<strong>【标语】</strong>：运送您的用户已经工作的代理<br>
+<strong>【介绍】</strong>：Novu Connect允许任何人工智能代理跨Slack、Teams、WhatsApp、Telegram和电子邮件进行双向对话，而无需亲自构建每个渠道集成。带上您自己的代理逻辑、模型或代码。Novu处理通信层：交付、身份解析、线程、路由和特定于渠道的格式化，以便您的代理可以联系到用户已经工作的地方。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/YKCLFF3LPLDFWW" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/novu" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-novu-connect"><span></span></a><a href="https://www.producthunt.com/products/novu" target="_blank" rel="noopener noreferrer">TOP1    Novu Connect</a></h2>
+<p><img src="https://ph-files.imgix.net/e3269d05-7df8-47b9-9f69-0b1c48eb64c2.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Novu Connect" loading="lazy"><br><br>
+<strong>【标语】</strong>：运送您的用户已经工作的代理<br>
+<strong>【介绍】</strong>：Novu Connect允许任何人工智能代理跨Slack、Teams、WhatsApp、Telegram和电子邮件进行双向对话，而无需亲自构建每个渠道集成。带上您自己的代理逻辑、模型或代码。Novu处理通信层：交付、身份解析、线程、路由和特定于渠道的格式化，以便您的代理可以联系到用户已经工作的地方。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/YKCLFF3LPLDFWW" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/novu" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：代理,Novu,用户,渠道,Connect,Slack<br>
+<strong>票数</strong>： 🔺401<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年06月15日 PM03:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2026-06-15T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">PH今日热榜 | 2026-06-14</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-14.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-14.html"/>
-    <updated>2026-06-16T12:49:34.287Z</updated>
+    <updated>2026-06-17T12:13:41.865Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-slashy"><span></span></a><a href="https://www.producthunt.com/products/slashy-3" target="_blank" rel="noopener noreferrer">TOP1    Slashy</a></h2>
 <p><img src="https://ph-files.imgix.net/352d13d9-89fb-44cf-8ff5-605a27e3d028.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Slashy" loading="lazy"><br><br>
 <strong>【标语】</strong>：为您处理电子邮件的人工智能助手<br>
@@ -38,7 +63,7 @@
     <title type="text">PH今日热榜 | 2026-06-13</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-13.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-13.html"/>
-    <updated>2026-06-16T12:49:34.303Z</updated>
+    <updated>2026-06-17T12:13:41.875Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-vercel-drop"><span></span></a><a href="https://www.producthunt.com/products/vercel" target="_blank" rel="noopener noreferrer">TOP1    Vercel Drop</a></h2>
 <p><img src="https://ph-files.imgix.net/15f195b6-839a-416a-bf73-a5da302c5cfa.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Vercel Drop" loading="lazy"><br><br>
 <strong>【标语】</strong>：放下它。它正在直播。<br>
@@ -63,7 +88,7 @@
     <title type="text">PH今日热榜 | 2026-06-12</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-12.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-12.html"/>
-    <updated>2026-06-16T12:49:34.318Z</updated>
+    <updated>2026-06-17T12:13:41.891Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-firma-dev"><span></span></a><a href="https://www.producthunt.com/products/firma-dev" target="_blank" rel="noopener noreferrer">TOP1    Firma.dev</a></h2>
 <p><img src="https://ph-files.imgix.net/25b05220-11fd-40f1-a5d2-2f0626f8911f.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Firma.dev" loading="lazy"><br><br>
 <strong>【标语】</strong>：您的应用程序的电子签名API平均每个信封约3美分<br>
@@ -88,7 +113,7 @@
     <title type="text">PH今日热榜 | 2026-06-11</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-11.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-11.html"/>
-    <updated>2026-06-16T12:49:34.328Z</updated>
+    <updated>2026-06-17T12:13:41.900Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-bond"><span></span></a><a href="https://www.producthunt.com/products/bond-12" target="_blank" rel="noopener noreferrer">TOP1    Bond</a></h2>
 <p><img src="https://ph-files.imgix.net/48c7311f-c697-48cf-b57f-806feda15896.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Bond" loading="lazy"><br><br>
 <strong>【标语】</strong>：自行完成的人工智能待办事项清单<br>
@@ -113,7 +138,7 @@
     <title type="text">PH今日热榜 | 2026-06-10</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-10.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-10.html"/>
-    <updated>2026-06-16T12:49:34.344Z</updated>
+    <updated>2026-06-17T12:13:41.914Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-publora"><span></span></a><a href="https://www.producthunt.com/products/publora" target="_blank" rel="noopener noreferrer">TOP1    Publora</a></h2>
 <p><img src="https://ph-files.imgix.net/712e199b-0dbc-44f3-8668-f02d03d35df6.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Publora" loading="lazy"><br><br>
 <strong>【标语】</strong>：一个发布API，供代理在10个社交平台上发布<br>
@@ -138,7 +163,7 @@
     <title type="text">PH今日热榜 | 2026-06-09</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-09.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-09.html"/>
-    <updated>2026-06-16T12:49:34.351Z</updated>
+    <updated>2026-06-17T12:13:41.922Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-vc-boom"><span></span></a><a href="https://www.producthunt.com/products/vcboom" target="_blank" rel="noopener noreferrer">TOP1    VC Boom</a></h2>
 <p><img src="https://ph-files.imgix.net/eea031af-af43-4ea8-899e-edefcfc28f7e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="VC Boom" loading="lazy"><br><br>
 <strong>【标语】</strong>：评分你的牌，结识适合的投资者，并筹集更多资金<br>
@@ -163,7 +188,7 @@
     <title type="text">PH今日热榜 | 2026-06-08</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-08.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-08.html"/>
-    <updated>2026-06-16T12:49:34.366Z</updated>
+    <updated>2026-06-17T12:13:41.938Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-honen"><span></span></a><a href="https://www.producthunt.com/products/honen" target="_blank" rel="noopener noreferrer">TOP1    Honen</a></h2>
 <p><img src="https://ph-files.imgix.net/ac3232b7-1a90-4a9d-9ced-086e2c4cabfb.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Honen" loading="lazy"><br><br>
 <strong>【标语】</strong>：适合任何公司的自动化教学+学习基础设施<br>
@@ -188,7 +213,7 @@
     <title type="text">PH今日热榜 | 2026-06-07</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-07.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-07.html"/>
-    <updated>2026-06-16T12:49:34.375Z</updated>
+    <updated>2026-06-17T12:13:41.949Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-dreambeans-by-google-labs"><span></span></a><a href="https://www.producthunt.com/products/google-labs" target="_blank" rel="noopener noreferrer">TOP1    Dreambeans by Google Labs</a></h2>
 <p><img src="https://ph-files.imgix.net/ea789565-9a79-4107-b3ee-84379d0ed868.webp?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Dreambeans by Google Labs" loading="lazy"><br><br>
 <strong>【标语】</strong>：从您的Google应用程序个性化的每日人工智能故事<br>
@@ -213,7 +238,7 @@
     <title type="text">PH今日热榜 | 2026-06-06</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-06.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-06.html"/>
-    <updated>2026-06-16T12:49:34.394Z</updated>
+    <updated>2026-06-17T12:13:41.965Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-google-search-profiles"><span></span></a><a href="https://www.producthunt.com/products/google" target="_blank" rel="noopener noreferrer">TOP1    Google Search Profiles</a></h2>
 <p><img src="https://ph-files.imgix.net/e8f3dbbc-5658-4f09-8b61-fc4079e67bd4.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Google Search Profiles" loading="lazy"><br><br>
 <strong>【标语】</strong>：供出版商/创作者强调搜索工作的个人资料<br>
@@ -233,30 +258,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2026-06-06T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2026-06-05</title>
-    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-05.html</id>
-    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-05.html"/>
-    <updated>2026-06-16T12:49:34.403Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-sellerclaw"><span></span></a><a href="https://www.producthunt.com/products/sellerclaw" target="_blank" rel="noopener noreferrer">TOP1    SellerClaw</a></h2>
-<p><img src="https://ph-files.imgix.net/4cb6a984-3d4f-454b-ab7e-79de4c6f8e20.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="SellerClaw" loading="lazy"><br><br>
-<strong>【标语】</strong>：一个AI代理团队，跨渠道运营您的商店<br>
-<strong>【介绍】</strong>：即使经营一家在线商店也是一份全职工作。SellerClaw是一个由人工智能代理组成的团队，为您运营：负责产品采购、商店管理和广告的专业代理，由您指导的主管协调。告诉它要卖什么-代理商在Shopify、eBay等中构建列表、管理广告和定价，并处理履行和支持。您保持控制：每一个动作都是可见且可批准的，并且您可以自行设置运行次数。免费开始。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/7EVPIJ3T3Q6YW2" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/sellerclaw" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-sellerclaw"><span></span></a><a href="https://www.producthunt.com/products/sellerclaw" target="_blank" rel="noopener noreferrer">TOP1    SellerClaw</a></h2>
-<p><img src="https://ph-files.imgix.net/4cb6a984-3d4f-454b-ab7e-79de4c6f8e20.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="SellerClaw" loading="lazy"><br><br>
-<strong>【标语】</strong>：一个AI代理团队，跨渠道运营您的商店<br>
-<strong>【介绍】</strong>：即使经营一家在线商店也是一份全职工作。SellerClaw是一个由人工智能代理组成的团队，为您运营：负责产品采购、商店管理和广告的专业代理，由您指导的主管协调。告诉它要卖什么-代理商在Shopify、eBay等中构建列表、管理广告和定价，并处理履行和支持。您保持控制：每一个动作都是可见且可批准的，并且您可以自行设置运行次数。免费开始。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/7EVPIJ3T3Q6YW2" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/sellerclaw" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：商店,代理,广告,团队,运营,AI<br>
-<strong>票数</strong>： 🔺496<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年06月05日 PM03:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2026-06-05T00:00:00.000Z</published>
   </entry>
 </feed>
