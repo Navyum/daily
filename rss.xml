@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 17 Jun 2026 12:13:41 GMT</pubDate>
-    <lastBuildDate>Wed, 17 Jun 2026 12:13:41 GMT</lastBuildDate>
+    <pubDate>Thu, 18 Jun 2026 11:48:05 GMT</pubDate>
+    <lastBuildDate>Thu, 18 Jun 2026 11:48:05 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-06-16</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-06-16.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-06-16.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-06-16</source>
+      <description>TOP1 Goldfish Goldfish 【标语】：按选项。它了解你的工作并像你一样回复 【介绍】：大多数人工智能工具都会让您先解释上下文，然后才能提供帮助。Goldfish已经拥有了它。它会私下记住您在Mac上所做的事情，然后帮助您在任何应用程序中写得更好。按文本字段中的选项即可起草回复、总结线索、重写句子或回忆您最近工作的重要细节，而无需复制、...</description>
+      <category>PH</category>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-goldfish"><span></span></a><a href="https://www.producthunt.com/products/goldfish-early-access" target="_blank" rel="noopener noreferrer">TOP1    Goldfish</a></h2>
+<p><img src="https://ph-files.imgix.net/e8daeeb6-2f20-4074-b8f5-aa1f3e42e321.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Goldfish" loading="lazy"><br><br>
+<strong>【标语】</strong>：按选项。它了解你的工作并像你一样回复<br>
+<strong>【介绍】</strong>：大多数人工智能工具都会让您先解释上下文，然后才能提供帮助。Goldfish已经拥有了它。它会私下记住您在Mac上所做的事情，然后帮助您在任何应用程序中写得更好。按文本字段中的选项即可起草回复、总结线索、重写句子或回忆您最近工作的重要细节，而无需复制、粘贴或重新解释整个背景故事。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/P4WFRWL26YL6CK" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/goldfish-early-access" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：选项,回复,Goldfish,Mac,中写,字段<br>
+<strong>票数</strong>： 🔺577<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年06月16日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/e8daeeb6-2f20-4074-b8f5-aa1f3e42e321.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-06-15</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-06-15.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年06月07日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/ea789565-9a79-4107-b3ee-84379d0ed868.webp?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-06-06</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-06-06.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-06-06.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-06-06</source>
-      <description>TOP1 Google Search Profiles Google Search Profiles 【标语】：供出版商/创作者强调搜索工作的个人资料 【介绍】：Google Search Profile允许出版商和创作者在Search上申请一个专门的页面，链接他们的社交和视频平台，并直接关注Discover。目前仅限美国，资格要求现有追随者。 【官网...</description>
-      <category>PH</category>
-      <pubDate>Sat, 06 Jun 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-google-search-profiles"><span></span></a><a href="https://www.producthunt.com/products/google" target="_blank" rel="noopener noreferrer">TOP1    Google Search Profiles</a></h2>
-<p><img src="https://ph-files.imgix.net/e8f3dbbc-5658-4f09-8b61-fc4079e67bd4.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Google Search Profiles" loading="lazy"><br><br>
-<strong>【标语】</strong>：供出版商/创作者强调搜索工作的个人资料<br>
-<strong>【介绍】</strong>：Google Search Profile允许出版商和创作者在Search上申请一个专门的页面，链接他们的社交和视频平台，并直接关注Discover。目前仅限美国，资格要求现有追随者。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/NRRQD6MLVCJ2A7" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/google" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：Search,创作者,出版商,Google,Profile,Discover<br>
-<strong>票数</strong>： 🔺343<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年06月06日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/e8f3dbbc-5658-4f09-8b61-fc4079e67bd4.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>

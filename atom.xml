@@ -4,16 +4,41 @@
   <title>DAYHACK</title>
   <subtitle>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</subtitle>
   <icon>https://github.camscanner.top/daily/favicon.ico</icon>
-  <updated>2026-06-17T12:13:41.836Z</updated>
+  <updated>2026-06-18T11:48:05.134Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/"/>
   <category term="PH"/>
   <entry>
+    <title type="text">PH今日热榜 | 2026-06-16</title>
+    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-16.html</id>
+    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-16.html"/>
+    <updated>2026-06-18T11:48:05.136Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-goldfish"><span></span></a><a href="https://www.producthunt.com/products/goldfish-early-access" target="_blank" rel="noopener noreferrer">TOP1    Goldfish</a></h2>
+<p><img src="https://ph-files.imgix.net/e8daeeb6-2f20-4074-b8f5-aa1f3e42e321.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Goldfish" loading="lazy"><br><br>
+<strong>【标语】</strong>：按选项。它了解你的工作并像你一样回复<br>
+<strong>【介绍】</strong>：大多数人工智能工具都会让您先解释上下文，然后才能提供帮助。Goldfish已经拥有了它。它会私下记住您在Mac上所做的事情，然后帮助您在任何应用程序中写得更好。按文本字段中的选项即可起草回复、总结线索、重写句子或回忆您最近工作的重要细节，而无需复制、粘贴或重新解释整个背景故事。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/P4WFRWL26YL6CK" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/goldfish-early-access" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-goldfish"><span></span></a><a href="https://www.producthunt.com/products/goldfish-early-access" target="_blank" rel="noopener noreferrer">TOP1    Goldfish</a></h2>
+<p><img src="https://ph-files.imgix.net/e8daeeb6-2f20-4074-b8f5-aa1f3e42e321.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Goldfish" loading="lazy"><br><br>
+<strong>【标语】</strong>：按选项。它了解你的工作并像你一样回复<br>
+<strong>【介绍】</strong>：大多数人工智能工具都会让您先解释上下文，然后才能提供帮助。Goldfish已经拥有了它。它会私下记住您在Mac上所做的事情，然后帮助您在任何应用程序中写得更好。按文本字段中的选项即可起草回复、总结线索、重写句子或回忆您最近工作的重要细节，而无需复制、粘贴或重新解释整个背景故事。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/P4WFRWL26YL6CK" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/goldfish-early-access" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：选项,回复,Goldfish,Mac,中写,字段<br>
+<strong>票数</strong>： 🔺577<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年06月16日 PM03:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2026-06-16T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">PH今日热榜 | 2026-06-15</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-15.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-15.html"/>
-    <updated>2026-06-17T12:13:41.838Z</updated>
+    <updated>2026-06-18T11:48:05.153Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-novu-connect"><span></span></a><a href="https://www.producthunt.com/products/novu" target="_blank" rel="noopener noreferrer">TOP1    Novu Connect</a></h2>
 <p><img src="https://ph-files.imgix.net/e3269d05-7df8-47b9-9f69-0b1c48eb64c2.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Novu Connect" loading="lazy"><br><br>
 <strong>【标语】</strong>：运送您的用户已经工作的代理<br>
@@ -38,7 +63,7 @@
     <title type="text">PH今日热榜 | 2026-06-14</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-14.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-14.html"/>
-    <updated>2026-06-17T12:13:41.865Z</updated>
+    <updated>2026-06-18T11:48:05.168Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-slashy"><span></span></a><a href="https://www.producthunt.com/products/slashy-3" target="_blank" rel="noopener noreferrer">TOP1    Slashy</a></h2>
 <p><img src="https://ph-files.imgix.net/352d13d9-89fb-44cf-8ff5-605a27e3d028.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Slashy" loading="lazy"><br><br>
 <strong>【标语】</strong>：为您处理电子邮件的人工智能助手<br>
@@ -63,7 +88,7 @@
     <title type="text">PH今日热榜 | 2026-06-13</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-13.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-13.html"/>
-    <updated>2026-06-17T12:13:41.875Z</updated>
+    <updated>2026-06-18T11:48:05.177Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-vercel-drop"><span></span></a><a href="https://www.producthunt.com/products/vercel" target="_blank" rel="noopener noreferrer">TOP1    Vercel Drop</a></h2>
 <p><img src="https://ph-files.imgix.net/15f195b6-839a-416a-bf73-a5da302c5cfa.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Vercel Drop" loading="lazy"><br><br>
 <strong>【标语】</strong>：放下它。它正在直播。<br>
@@ -88,7 +113,7 @@
     <title type="text">PH今日热榜 | 2026-06-12</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-12.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-12.html"/>
-    <updated>2026-06-17T12:13:41.891Z</updated>
+    <updated>2026-06-18T11:48:05.191Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-firma-dev"><span></span></a><a href="https://www.producthunt.com/products/firma-dev" target="_blank" rel="noopener noreferrer">TOP1    Firma.dev</a></h2>
 <p><img src="https://ph-files.imgix.net/25b05220-11fd-40f1-a5d2-2f0626f8911f.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Firma.dev" loading="lazy"><br><br>
 <strong>【标语】</strong>：您的应用程序的电子签名API平均每个信封约3美分<br>
@@ -113,7 +138,7 @@
     <title type="text">PH今日热榜 | 2026-06-11</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-11.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-11.html"/>
-    <updated>2026-06-17T12:13:41.900Z</updated>
+    <updated>2026-06-18T11:48:05.198Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-bond"><span></span></a><a href="https://www.producthunt.com/products/bond-12" target="_blank" rel="noopener noreferrer">TOP1    Bond</a></h2>
 <p><img src="https://ph-files.imgix.net/48c7311f-c697-48cf-b57f-806feda15896.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Bond" loading="lazy"><br><br>
 <strong>【标语】</strong>：自行完成的人工智能待办事项清单<br>
@@ -138,7 +163,7 @@
     <title type="text">PH今日热榜 | 2026-06-10</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-10.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-10.html"/>
-    <updated>2026-06-17T12:13:41.914Z</updated>
+    <updated>2026-06-18T11:48:05.211Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-publora"><span></span></a><a href="https://www.producthunt.com/products/publora" target="_blank" rel="noopener noreferrer">TOP1    Publora</a></h2>
 <p><img src="https://ph-files.imgix.net/712e199b-0dbc-44f3-8668-f02d03d35df6.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Publora" loading="lazy"><br><br>
 <strong>【标语】</strong>：一个发布API，供代理在10个社交平台上发布<br>
@@ -163,7 +188,7 @@
     <title type="text">PH今日热榜 | 2026-06-09</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-09.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-09.html"/>
-    <updated>2026-06-17T12:13:41.922Z</updated>
+    <updated>2026-06-18T11:48:05.221Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-vc-boom"><span></span></a><a href="https://www.producthunt.com/products/vcboom" target="_blank" rel="noopener noreferrer">TOP1    VC Boom</a></h2>
 <p><img src="https://ph-files.imgix.net/eea031af-af43-4ea8-899e-edefcfc28f7e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="VC Boom" loading="lazy"><br><br>
 <strong>【标语】</strong>：评分你的牌，结识适合的投资者，并筹集更多资金<br>
@@ -188,7 +213,7 @@
     <title type="text">PH今日热榜 | 2026-06-08</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-08.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-08.html"/>
-    <updated>2026-06-17T12:13:41.938Z</updated>
+    <updated>2026-06-18T11:48:05.236Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-honen"><span></span></a><a href="https://www.producthunt.com/products/honen" target="_blank" rel="noopener noreferrer">TOP1    Honen</a></h2>
 <p><img src="https://ph-files.imgix.net/ac3232b7-1a90-4a9d-9ced-086e2c4cabfb.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Honen" loading="lazy"><br><br>
 <strong>【标语】</strong>：适合任何公司的自动化教学+学习基础设施<br>
@@ -213,7 +238,7 @@
     <title type="text">PH今日热榜 | 2026-06-07</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-07.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-07.html"/>
-    <updated>2026-06-17T12:13:41.949Z</updated>
+    <updated>2026-06-18T11:48:05.245Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-dreambeans-by-google-labs"><span></span></a><a href="https://www.producthunt.com/products/google-labs" target="_blank" rel="noopener noreferrer">TOP1    Dreambeans by Google Labs</a></h2>
 <p><img src="https://ph-files.imgix.net/ea789565-9a79-4107-b3ee-84379d0ed868.webp?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Dreambeans by Google Labs" loading="lazy"><br><br>
 <strong>【标语】</strong>：从您的Google应用程序个性化的每日人工智能故事<br>
@@ -233,30 +258,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2026-06-07T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2026-06-06</title>
-    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-06.html</id>
-    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-06.html"/>
-    <updated>2026-06-17T12:13:41.965Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-google-search-profiles"><span></span></a><a href="https://www.producthunt.com/products/google" target="_blank" rel="noopener noreferrer">TOP1    Google Search Profiles</a></h2>
-<p><img src="https://ph-files.imgix.net/e8f3dbbc-5658-4f09-8b61-fc4079e67bd4.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Google Search Profiles" loading="lazy"><br><br>
-<strong>【标语】</strong>：供出版商/创作者强调搜索工作的个人资料<br>
-<strong>【介绍】</strong>：Google Search Profile允许出版商和创作者在Search上申请一个专门的页面，链接他们的社交和视频平台，并直接关注Discover。目前仅限美国，资格要求现有追随者。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/NRRQD6MLVCJ2A7" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/google" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-google-search-profiles"><span></span></a><a href="https://www.producthunt.com/products/google" target="_blank" rel="noopener noreferrer">TOP1    Google Search Profiles</a></h2>
-<p><img src="https://ph-files.imgix.net/e8f3dbbc-5658-4f09-8b61-fc4079e67bd4.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Google Search Profiles" loading="lazy"><br><br>
-<strong>【标语】</strong>：供出版商/创作者强调搜索工作的个人资料<br>
-<strong>【介绍】</strong>：Google Search Profile允许出版商和创作者在Search上申请一个专门的页面，链接他们的社交和视频平台，并直接关注Discover。目前仅限美国，资格要求现有追随者。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/NRRQD6MLVCJ2A7" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/google" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：Search,创作者,出版商,Google,Profile,Discover<br>
-<strong>票数</strong>： 🔺343<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年06月06日 PM03:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2026-06-06T00:00:00.000Z</published>
   </entry>
 </feed>
