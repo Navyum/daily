@@ -4,16 +4,41 @@
   <title>DAYHACK</title>
   <subtitle>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</subtitle>
   <icon>https://github.camscanner.top/daily/favicon.ico</icon>
-  <updated>2026-06-18T11:48:05.134Z</updated>
+  <updated>2026-06-19T12:02:20.985Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/"/>
   <category term="PH"/>
   <entry>
+    <title type="text">PH今日热榜 | 2026-06-17</title>
+    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-17.html</id>
+    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-17.html"/>
+    <updated>2026-06-19T12:02:20.986Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-framer-3-0"><span></span></a><a href="https://www.producthunt.com/products/framer" target="_blank" rel="noopener noreferrer">TOP1    Framer 3.0</a></h2>
+<p><img src="https://ph-files.imgix.net/237d1ce4-67ab-46fa-857f-3d604353f5fa.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Framer 3.0" loading="lazy"><br><br>
+<strong>【标语】</strong>：具有代理、分支机构、社区和全新设计<br>
+<strong>【介绍】</strong>：代理将AI带到画布上，帮助您设计，编写，分析和组织您的网站。我们还推出了Branching，这是一种让团队在上线之前探索想法的新方式，并推出了新的Framer社区，创作者可以在其中分享并获得收益。这些发布改变了团队创建、维护和扩展网站的方式。我们觉得你会喜欢的。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/64HL7FCICRJ4CQ" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/framer" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-framer-3-0"><span></span></a><a href="https://www.producthunt.com/products/framer" target="_blank" rel="noopener noreferrer">TOP1    Framer 3.0</a></h2>
+<p><img src="https://ph-files.imgix.net/237d1ce4-67ab-46fa-857f-3d604353f5fa.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Framer 3.0" loading="lazy"><br><br>
+<strong>【标语】</strong>：具有代理、分支机构、社区和全新设计<br>
+<strong>【介绍】</strong>：代理将AI带到画布上，帮助您设计，编写，分析和组织您的网站。我们还推出了Branching，这是一种让团队在上线之前探索想法的新方式，并推出了新的Framer社区，创作者可以在其中分享并获得收益。这些发布改变了团队创建、维护和扩展网站的方式。我们觉得你会喜欢的。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/64HL7FCICRJ4CQ" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/framer" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：社区,代理,团队,网站,AI,Branching<br>
+<strong>票数</strong>： 🔺482<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年06月17日 PM03:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2026-06-17T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">PH今日热榜 | 2026-06-16</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-16.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-16.html"/>
-    <updated>2026-06-18T11:48:05.136Z</updated>
+    <updated>2026-06-19T12:02:21.010Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-goldfish"><span></span></a><a href="https://www.producthunt.com/products/goldfish-early-access" target="_blank" rel="noopener noreferrer">TOP1    Goldfish</a></h2>
 <p><img src="https://ph-files.imgix.net/e8daeeb6-2f20-4074-b8f5-aa1f3e42e321.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Goldfish" loading="lazy"><br><br>
 <strong>【标语】</strong>：按选项。它了解你的工作并像你一样回复<br>
@@ -38,7 +63,7 @@
     <title type="text">PH今日热榜 | 2026-06-15</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-15.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-15.html"/>
-    <updated>2026-06-18T11:48:05.153Z</updated>
+    <updated>2026-06-19T12:02:21.018Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-novu-connect"><span></span></a><a href="https://www.producthunt.com/products/novu" target="_blank" rel="noopener noreferrer">TOP1    Novu Connect</a></h2>
 <p><img src="https://ph-files.imgix.net/e3269d05-7df8-47b9-9f69-0b1c48eb64c2.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Novu Connect" loading="lazy"><br><br>
 <strong>【标语】</strong>：运送您的用户已经工作的代理<br>
@@ -63,7 +88,7 @@
     <title type="text">PH今日热榜 | 2026-06-14</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-14.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-14.html"/>
-    <updated>2026-06-18T11:48:05.168Z</updated>
+    <updated>2026-06-19T12:02:21.033Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-slashy"><span></span></a><a href="https://www.producthunt.com/products/slashy-3" target="_blank" rel="noopener noreferrer">TOP1    Slashy</a></h2>
 <p><img src="https://ph-files.imgix.net/352d13d9-89fb-44cf-8ff5-605a27e3d028.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Slashy" loading="lazy"><br><br>
 <strong>【标语】</strong>：为您处理电子邮件的人工智能助手<br>
@@ -88,7 +113,7 @@
     <title type="text">PH今日热榜 | 2026-06-13</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-13.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-13.html"/>
-    <updated>2026-06-18T11:48:05.177Z</updated>
+    <updated>2026-06-19T12:02:21.045Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-vercel-drop"><span></span></a><a href="https://www.producthunt.com/products/vercel" target="_blank" rel="noopener noreferrer">TOP1    Vercel Drop</a></h2>
 <p><img src="https://ph-files.imgix.net/15f195b6-839a-416a-bf73-a5da302c5cfa.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Vercel Drop" loading="lazy"><br><br>
 <strong>【标语】</strong>：放下它。它正在直播。<br>
@@ -113,7 +138,7 @@
     <title type="text">PH今日热榜 | 2026-06-12</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-12.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-12.html"/>
-    <updated>2026-06-18T11:48:05.191Z</updated>
+    <updated>2026-06-19T12:02:21.058Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-firma-dev"><span></span></a><a href="https://www.producthunt.com/products/firma-dev" target="_blank" rel="noopener noreferrer">TOP1    Firma.dev</a></h2>
 <p><img src="https://ph-files.imgix.net/25b05220-11fd-40f1-a5d2-2f0626f8911f.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Firma.dev" loading="lazy"><br><br>
 <strong>【标语】</strong>：您的应用程序的电子签名API平均每个信封约3美分<br>
@@ -138,7 +163,7 @@
     <title type="text">PH今日热榜 | 2026-06-11</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-11.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-11.html"/>
-    <updated>2026-06-18T11:48:05.198Z</updated>
+    <updated>2026-06-19T12:02:21.066Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-bond"><span></span></a><a href="https://www.producthunt.com/products/bond-12" target="_blank" rel="noopener noreferrer">TOP1    Bond</a></h2>
 <p><img src="https://ph-files.imgix.net/48c7311f-c697-48cf-b57f-806feda15896.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Bond" loading="lazy"><br><br>
 <strong>【标语】</strong>：自行完成的人工智能待办事项清单<br>
@@ -163,7 +188,7 @@
     <title type="text">PH今日热榜 | 2026-06-10</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-10.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-10.html"/>
-    <updated>2026-06-18T11:48:05.211Z</updated>
+    <updated>2026-06-19T12:02:21.079Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-publora"><span></span></a><a href="https://www.producthunt.com/products/publora" target="_blank" rel="noopener noreferrer">TOP1    Publora</a></h2>
 <p><img src="https://ph-files.imgix.net/712e199b-0dbc-44f3-8668-f02d03d35df6.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Publora" loading="lazy"><br><br>
 <strong>【标语】</strong>：一个发布API，供代理在10个社交平台上发布<br>
@@ -188,7 +213,7 @@
     <title type="text">PH今日热榜 | 2026-06-09</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-09.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-09.html"/>
-    <updated>2026-06-18T11:48:05.221Z</updated>
+    <updated>2026-06-19T12:02:21.090Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-vc-boom"><span></span></a><a href="https://www.producthunt.com/products/vcboom" target="_blank" rel="noopener noreferrer">TOP1    VC Boom</a></h2>
 <p><img src="https://ph-files.imgix.net/eea031af-af43-4ea8-899e-edefcfc28f7e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="VC Boom" loading="lazy"><br><br>
 <strong>【标语】</strong>：评分你的牌，结识适合的投资者，并筹集更多资金<br>
@@ -213,7 +238,7 @@
     <title type="text">PH今日热榜 | 2026-06-08</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-08.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-08.html"/>
-    <updated>2026-06-18T11:48:05.236Z</updated>
+    <updated>2026-06-19T12:02:21.105Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-honen"><span></span></a><a href="https://www.producthunt.com/products/honen" target="_blank" rel="noopener noreferrer">TOP1    Honen</a></h2>
 <p><img src="https://ph-files.imgix.net/ac3232b7-1a90-4a9d-9ced-086e2c4cabfb.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Honen" loading="lazy"><br><br>
 <strong>【标语】</strong>：适合任何公司的自动化教学+学习基础设施<br>
@@ -233,30 +258,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2026-06-08T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2026-06-07</title>
-    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-07.html</id>
-    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-07.html"/>
-    <updated>2026-06-18T11:48:05.245Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-dreambeans-by-google-labs"><span></span></a><a href="https://www.producthunt.com/products/google-labs" target="_blank" rel="noopener noreferrer">TOP1    Dreambeans by Google Labs</a></h2>
-<p><img src="https://ph-files.imgix.net/ea789565-9a79-4107-b3ee-84379d0ed868.webp?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Dreambeans by Google Labs" loading="lazy"><br><br>
-<strong>【标语】</strong>：从您的Google应用程序个性化的每日人工智能故事<br>
-<strong>【介绍】</strong>：Dreambeans会在夜间合成您的Gmail、日历、照片、YouTube和搜索，以提供每日人工智能生成的故事集。对于想要个人背景的Google AI Ultra订阅者来说，主动出现。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/JQLUSYPX7QVIND" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/google-labs" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-dreambeans-by-google-labs"><span></span></a><a href="https://www.producthunt.com/products/google-labs" target="_blank" rel="noopener noreferrer">TOP1    Dreambeans by Google Labs</a></h2>
-<p><img src="https://ph-files.imgix.net/ea789565-9a79-4107-b3ee-84379d0ed868.webp?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Dreambeans by Google Labs" loading="lazy"><br><br>
-<strong>【标语】</strong>：从您的Google应用程序个性化的每日人工智能故事<br>
-<strong>【介绍】</strong>：Dreambeans会在夜间合成您的Gmail、日历、照片、YouTube和搜索，以提供每日人工智能生成的故事集。对于想要个人背景的Google AI Ultra订阅者来说，主动出现。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/JQLUSYPX7QVIND" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/google-labs" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：Google,人工智能,每日,Dreambeans,Gmail,YouTube<br>
-<strong>票数</strong>： 🔺345<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年06月07日 PM03:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2026-06-07T00:00:00.000Z</published>
   </entry>
 </feed>
