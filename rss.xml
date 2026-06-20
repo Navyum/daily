@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 19 Jun 2026 12:02:20 GMT</pubDate>
-    <lastBuildDate>Fri, 19 Jun 2026 12:02:20 GMT</lastBuildDate>
+    <pubDate>Sat, 20 Jun 2026 10:30:04 GMT</pubDate>
+    <lastBuildDate>Sat, 20 Jun 2026 10:30:04 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-06-18</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-06-18.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-06-18.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-06-18</source>
+      <description>TOP1 Upstream Upstream 【标语】：专为人类和特工设计的收件箱 【介绍】：最后，是您期待的收件箱。代理商对您的消息进行排序、起草您的回复并清理幕后繁重的工作，所有这些都在客户端精心设计，使电子邮件感觉轻松、快捷、有趣。 【官网】：立即访问 【Product Hunt】：View on Product Hunt 关键词：收件箱,客户端...</description>
+      <category>PH</category>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-upstream"><span></span></a><a href="https://www.producthunt.com/products/upstream-3" target="_blank" rel="noopener noreferrer">TOP1    Upstream</a></h2>
+<p><img src="https://ph-files.imgix.net/714708bb-3b5d-4a0e-b37e-9437ea723dbe.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Upstream" loading="lazy"><br><br>
+<strong>【标语】</strong>：专为人类和特工设计的收件箱<br>
+<strong>【介绍】</strong>：最后，是您期待的收件箱。代理商对您的消息进行排序、起草您的回复并清理幕后繁重的工作，所有这些都在客户端精心设计，使电子邮件感觉轻松、快捷、有趣。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/RWE7MKUX4XZRYA" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/upstream-3" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：收件箱,客户端,电子邮件,精心设计,特工,代理商<br>
+<strong>票数</strong>： 🔺613<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年06月18日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/714708bb-3b5d-4a0e-b37e-9437ea723dbe.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-06-17</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-06-17.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年06月09日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/eea031af-af43-4ea8-899e-edefcfc28f7e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-06-08</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-06-08.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-06-08.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-06-08</source>
-      <description>TOP1 Honen Honen 【标语】：适合任何公司的自动化教学+学习基础设施 【介绍】：创建与您公司保持同步的员工培训。Honen在几秒钟内将团队知识转化为交互式人工智能主导的课程，并配有自适应课程、模拟和学习者见解。当您的文档、工具或流程更改时，课程会自动更新。 【官网】：立即访问 【Product Hunt】：View on Product ...</description>
-      <category>PH</category>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-honen"><span></span></a><a href="https://www.producthunt.com/products/honen" target="_blank" rel="noopener noreferrer">TOP1    Honen</a></h2>
-<p><img src="https://ph-files.imgix.net/ac3232b7-1a90-4a9d-9ced-086e2c4cabfb.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Honen" loading="lazy"><br><br>
-<strong>【标语】</strong>：适合任何公司的自动化教学+学习基础设施<br>
-<strong>【介绍】</strong>：创建与您公司保持同步的员工培训。Honen在几秒钟内将团队知识转化为交互式人工智能主导的课程，并配有自适应课程、模拟和学习者见解。当您的文档、工具或流程更改时，课程会自动更新。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/KGWER5KAKVLXHX" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/honen" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：课程,自动更新,Honen,学习者,交互式,文档<br>
-<strong>票数</strong>： 🔺464<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年06月08日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/ac3232b7-1a90-4a9d-9ced-086e2c4cabfb.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
