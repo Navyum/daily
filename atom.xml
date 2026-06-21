@@ -4,16 +4,41 @@
   <title>DAYHACK</title>
   <subtitle>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</subtitle>
   <icon>https://github.camscanner.top/daily/favicon.ico</icon>
-  <updated>2026-06-20T10:30:04.765Z</updated>
+  <updated>2026-06-21T11:13:10.677Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/"/>
   <category term="PH"/>
   <entry>
+    <title type="text">PH今日热榜 | 2026-06-19</title>
+    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-19.html</id>
+    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-19.html"/>
+    <updated>2026-06-21T11:13:10.678Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-claude-code-artifacts"><span></span></a><a href="https://www.producthunt.com/products/claude-redesigned" target="_blank" rel="noopener noreferrer">TOP1    Claude Code Artifacts</a></h2>
+<p><img src="https://ph-files.imgix.net/c58edf73-a3c8-4fe9-978f-570326c84efd.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Claude Code Artifacts" loading="lazy"><br><br>
+<strong>【标语】</strong>：实时预览并分享您的编码工作<br>
+<strong>【介绍】</strong>：在Claude Code中预览您正在进行的工作，将其作为根据您的完整会话上下文构建的实时交互式作品，并可与您的团队共享。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/ZKUSXUIDPQQBDF" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/claude-redesigned" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-claude-code-artifacts"><span></span></a><a href="https://www.producthunt.com/products/claude-redesigned" target="_blank" rel="noopener noreferrer">TOP1    Claude Code Artifacts</a></h2>
+<p><img src="https://ph-files.imgix.net/c58edf73-a3c8-4fe9-978f-570326c84efd.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Claude Code Artifacts" loading="lazy"><br><br>
+<strong>【标语】</strong>：实时预览并分享您的编码工作<br>
+<strong>【介绍】</strong>：在Claude Code中预览您正在进行的工作，将其作为根据您的完整会话上下文构建的实时交互式作品，并可与您的团队共享。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/ZKUSXUIDPQQBDF" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/claude-redesigned" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：预览,实时,Claude,Code,会话,上下文<br>
+<strong>票数</strong>： 🔺437<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年06月19日 PM03:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2026-06-19T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">PH今日热榜 | 2026-06-18</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-18.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-18.html"/>
-    <updated>2026-06-20T10:30:04.767Z</updated>
+    <updated>2026-06-21T11:13:10.705Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-upstream"><span></span></a><a href="https://www.producthunt.com/products/upstream-3" target="_blank" rel="noopener noreferrer">TOP1    Upstream</a></h2>
 <p><img src="https://ph-files.imgix.net/714708bb-3b5d-4a0e-b37e-9437ea723dbe.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Upstream" loading="lazy"><br><br>
 <strong>【标语】</strong>：专为人类和特工设计的收件箱<br>
@@ -38,7 +63,7 @@
     <title type="text">PH今日热榜 | 2026-06-17</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-17.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-17.html"/>
-    <updated>2026-06-20T10:30:04.797Z</updated>
+    <updated>2026-06-21T11:13:10.712Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-framer-3-0"><span></span></a><a href="https://www.producthunt.com/products/framer" target="_blank" rel="noopener noreferrer">TOP1    Framer 3.0</a></h2>
 <p><img src="https://ph-files.imgix.net/237d1ce4-67ab-46fa-857f-3d604353f5fa.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Framer 3.0" loading="lazy"><br><br>
 <strong>【标语】</strong>：具有代理、分支机构、社区和全新设计<br>
@@ -63,7 +88,7 @@
     <title type="text">PH今日热榜 | 2026-06-16</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-16.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-16.html"/>
-    <updated>2026-06-20T10:30:04.805Z</updated>
+    <updated>2026-06-21T11:13:10.725Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-goldfish"><span></span></a><a href="https://www.producthunt.com/products/goldfish-early-access" target="_blank" rel="noopener noreferrer">TOP1    Goldfish</a></h2>
 <p><img src="https://ph-files.imgix.net/e8daeeb6-2f20-4074-b8f5-aa1f3e42e321.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Goldfish" loading="lazy"><br><br>
 <strong>【标语】</strong>：按选项。它了解你的工作并像你一样回复<br>
@@ -88,7 +113,7 @@
     <title type="text">PH今日热榜 | 2026-06-15</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-15.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-15.html"/>
-    <updated>2026-06-20T10:30:04.820Z</updated>
+    <updated>2026-06-21T11:13:10.736Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-novu-connect"><span></span></a><a href="https://www.producthunt.com/products/novu" target="_blank" rel="noopener noreferrer">TOP1    Novu Connect</a></h2>
 <p><img src="https://ph-files.imgix.net/e3269d05-7df8-47b9-9f69-0b1c48eb64c2.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Novu Connect" loading="lazy"><br><br>
 <strong>【标语】</strong>：运送您的用户已经工作的代理<br>
@@ -113,7 +138,7 @@
     <title type="text">PH今日热榜 | 2026-06-14</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-14.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-14.html"/>
-    <updated>2026-06-20T10:30:04.828Z</updated>
+    <updated>2026-06-21T11:13:10.749Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-slashy"><span></span></a><a href="https://www.producthunt.com/products/slashy-3" target="_blank" rel="noopener noreferrer">TOP1    Slashy</a></h2>
 <p><img src="https://ph-files.imgix.net/352d13d9-89fb-44cf-8ff5-605a27e3d028.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Slashy" loading="lazy"><br><br>
 <strong>【标语】</strong>：为您处理电子邮件的人工智能助手<br>
@@ -138,7 +163,7 @@
     <title type="text">PH今日热榜 | 2026-06-13</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-13.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-13.html"/>
-    <updated>2026-06-20T10:30:04.843Z</updated>
+    <updated>2026-06-21T11:13:10.756Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-vercel-drop"><span></span></a><a href="https://www.producthunt.com/products/vercel" target="_blank" rel="noopener noreferrer">TOP1    Vercel Drop</a></h2>
 <p><img src="https://ph-files.imgix.net/15f195b6-839a-416a-bf73-a5da302c5cfa.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Vercel Drop" loading="lazy"><br><br>
 <strong>【标语】</strong>：放下它。它正在直播。<br>
@@ -163,7 +188,7 @@
     <title type="text">PH今日热榜 | 2026-06-12</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-12.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-12.html"/>
-    <updated>2026-06-20T10:30:04.852Z</updated>
+    <updated>2026-06-21T11:13:10.769Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-firma-dev"><span></span></a><a href="https://www.producthunt.com/products/firma-dev" target="_blank" rel="noopener noreferrer">TOP1    Firma.dev</a></h2>
 <p><img src="https://ph-files.imgix.net/25b05220-11fd-40f1-a5d2-2f0626f8911f.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Firma.dev" loading="lazy"><br><br>
 <strong>【标语】</strong>：您的应用程序的电子签名API平均每个信封约3美分<br>
@@ -188,7 +213,7 @@
     <title type="text">PH今日热榜 | 2026-06-11</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-11.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-11.html"/>
-    <updated>2026-06-20T10:30:04.868Z</updated>
+    <updated>2026-06-21T11:13:10.781Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-bond"><span></span></a><a href="https://www.producthunt.com/products/bond-12" target="_blank" rel="noopener noreferrer">TOP1    Bond</a></h2>
 <p><img src="https://ph-files.imgix.net/48c7311f-c697-48cf-b57f-806feda15896.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Bond" loading="lazy"><br><br>
 <strong>【标语】</strong>：自行完成的人工智能待办事项清单<br>
@@ -213,7 +238,7 @@
     <title type="text">PH今日热榜 | 2026-06-10</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-10.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-10.html"/>
-    <updated>2026-06-20T10:30:04.879Z</updated>
+    <updated>2026-06-21T11:13:10.794Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-publora"><span></span></a><a href="https://www.producthunt.com/products/publora" target="_blank" rel="noopener noreferrer">TOP1    Publora</a></h2>
 <p><img src="https://ph-files.imgix.net/712e199b-0dbc-44f3-8668-f02d03d35df6.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Publora" loading="lazy"><br><br>
 <strong>【标语】</strong>：一个发布API，供代理在10个社交平台上发布<br>
@@ -233,30 +258,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2026-06-10T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2026-06-09</title>
-    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-09.html</id>
-    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-09.html"/>
-    <updated>2026-06-20T10:30:04.895Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-vc-boom"><span></span></a><a href="https://www.producthunt.com/products/vcboom" target="_blank" rel="noopener noreferrer">TOP1    VC Boom</a></h2>
-<p><img src="https://ph-files.imgix.net/eea031af-af43-4ea8-899e-edefcfc28f7e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="VC Boom" loading="lazy"><br><br>
-<strong>【标语】</strong>：评分你的牌，结识适合的投资者，并筹集更多资金<br>
-<strong>【介绍】</strong>：VC Boom在90秒内为您的推介团队评分，并告诉您最快的解决方案，为您与47，000多名合适的投资者匹配（每个投资者都有一行适合的理由），然后起草您从自己的收件箱发送的个性化冷电子邮件。为每位投资者做好准备，然后预约电话。使用VC Boom的创始人已经筹集了9500万美元。由一位拥有8年经验的风险投资者打造，筹集了数亿美元，并部署在47家初创公司中。免费开始，无需订阅。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/NEBXF32UWM4O4P" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/vcboom" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-vc-boom"><span></span></a><a href="https://www.producthunt.com/products/vcboom" target="_blank" rel="noopener noreferrer">TOP1    VC Boom</a></h2>
-<p><img src="https://ph-files.imgix.net/eea031af-af43-4ea8-899e-edefcfc28f7e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="VC Boom" loading="lazy"><br><br>
-<strong>【标语】</strong>：评分你的牌，结识适合的投资者，并筹集更多资金<br>
-<strong>【介绍】</strong>：VC Boom在90秒内为您的推介团队评分，并告诉您最快的解决方案，为您与47，000多名合适的投资者匹配（每个投资者都有一行适合的理由），然后起草您从自己的收件箱发送的个性化冷电子邮件。为每位投资者做好准备，然后预约电话。使用VC Boom的创始人已经筹集了9500万美元。由一位拥有8年经验的风险投资者打造，筹集了数亿美元，并部署在47家初创公司中。免费开始，无需订阅。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/NEBXF32UWM4O4P" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/vcboom" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：筹集,VC,Boom,47,投资者,评分<br>
-<strong>票数</strong>： 🔺467<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年06月09日 PM03:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2026-06-09T00:00:00.000Z</published>
   </entry>
 </feed>
