@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 22 Jun 2026 13:30:37 GMT</pubDate>
-    <lastBuildDate>Mon, 22 Jun 2026 13:30:37 GMT</lastBuildDate>
+    <pubDate>Tue, 23 Jun 2026 10:58:45 GMT</pubDate>
+    <lastBuildDate>Tue, 23 Jun 2026 10:58:45 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-06-21</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-06-21.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-06-21.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-06-21</source>
+      <description>TOP1 Agent 37 Cloud Agent 37 Cloud 【标语】：为每位客户提供自己的Hermes或OpenClaw代理 【介绍】：代理37是托管持久代理，如Hermes，OpenClaw和ClaudeCode。所以你不需要自己在Mac mini或VPS上运行它们。一个API调用为您的每个客户提供自己的始终在线代理，每月3.44美元起。创...</description>
+      <category>PH</category>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-agent-37-cloud"><span></span></a><a href="https://www.producthunt.com/products/agent-37-38" target="_blank" rel="noopener noreferrer">TOP1    Agent 37 Cloud</a></h2>
+<p><img src="https://ph-files.imgix.net/f93261c8-32f1-4191-9c8a-856dc4e59c46.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Agent 37 Cloud" loading="lazy"><br><br>
+<strong>【标语】</strong>：为每位客户提供自己的Hermes或OpenClaw代理<br>
+<strong>【介绍】</strong>：代理37是托管持久代理，如Hermes，OpenClaw和ClaudeCode。所以你不需要自己在Mac mini或VPS上运行它们。一个API调用为您的每个客户提供自己的始终在线代理，每月3.44美元起。创始人使用它将垂直代理运送到自己的客户端，而无需照看服务器。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/G7ASKEML5CLFTD" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/agent-37-38" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：代理,Hermes,OpenClaw,自己,客户,37<br>
+<strong>票数</strong>： 🔺396<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年06月21日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/f93261c8-32f1-4191-9c8a-856dc4e59c46.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-06-20</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-06-20.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年06月12日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/25b05220-11fd-40f1-a5d2-2f0626f8911f.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-06-11</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-06-11.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-06-11.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-06-11</source>
-      <description>TOP1 Bond Bond 【标语】：自行完成的人工智能待办事项清单 【介绍】：邦德是一名人工智能高管幕僚长。它连接到您的工具，了解您的公司如何运作，并将分散的任务转化为自我管理的待办事项清单，该清单始终知道您下一步需要做什么。您可以要求邦德为下次会议做好准备、起草后续行动、发送电子邮件、创建行动项、识别拦截者、暴露风险或将任务委托给团队成员。 【官...</description>
-      <category>PH</category>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-bond"><span></span></a><a href="https://www.producthunt.com/products/bond-12" target="_blank" rel="noopener noreferrer">TOP1    Bond</a></h2>
-<p><img src="https://ph-files.imgix.net/48c7311f-c697-48cf-b57f-806feda15896.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Bond" loading="lazy"><br><br>
-<strong>【标语】</strong>：自行完成的人工智能待办事项清单<br>
-<strong>【介绍】</strong>：邦德是一名人工智能高管幕僚长。它连接到您的工具，了解您的公司如何运作，并将分散的任务转化为自我管理的待办事项清单，该清单始终知道您下一步需要做什么。您可以要求邦德为下次会议做好准备、起草后续行动、发送电子邮件、创建行动项、识别拦截者、暴露风险或将任务委托给团队成员。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/7SFOLQBBWUEQXW" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/bond-12" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：清单,待办,邦德,人工智能,事项,幕僚长<br>
-<strong>票数</strong>： 🔺634<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年06月11日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/48c7311f-c697-48cf-b57f-806feda15896.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
