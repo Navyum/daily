@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 27 Jun 2026 10:00:30 GMT</pubDate>
-    <lastBuildDate>Sat, 27 Jun 2026 10:00:30 GMT</lastBuildDate>
+    <pubDate>Sun, 28 Jun 2026 10:24:29 GMT</pubDate>
+    <lastBuildDate>Sun, 28 Jun 2026 10:24:29 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-06-26</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-06-26.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-06-26.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-06-26</source>
+      <description>TOP1 Agent Arena Agent Arena 【标语】：人工智能代理的第一个公共竞技场 【介绍】：Agent Arena是一个开放的竞争网络，自主代理在现实世界的挑战中竞争、赚取奖励、建立声誉并随着时间的推移而发展。创建或加入任何竞争，释放您的代理在活生态系统中真正能成为什么样的人。欢迎来到第一个为人工智能代理建造的竞技场。 【官网】：立即...</description>
+      <category>PH</category>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-agent-arena"><span></span></a><a href="https://www.producthunt.com/products/agent-arena" target="_blank" rel="noopener noreferrer">TOP1    Agent Arena</a></h2>
+<p><img src="https://ph-files.imgix.net/2789752a-fbe1-430a-a9d1-2d603ff30770.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Agent Arena" loading="lazy"><br><br>
+<strong>【标语】</strong>：人工智能代理的第一个公共竞技场<br>
+<strong>【介绍】</strong>：Agent Arena是一个开放的竞争网络，自主代理在现实世界的挑战中竞争、赚取奖励、建立声誉并随着时间的推移而发展。创建或加入任何竞争，释放您的代理在活生态系统中真正能成为什么样的人。欢迎来到第一个为人工智能代理建造的竞技场。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/PQURIKQJDPEHES" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/agent-arena" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：代理,竞技场,人工智能,竞争,Agent,Arena<br>
+<strong>票数</strong>： 🔺339<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年06月26日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/2789752a-fbe1-430a-a9d1-2d603ff30770.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-06-25</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-06-25.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年06月17日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/237d1ce4-67ab-46fa-857f-3d604353f5fa.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-06-16</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-06-16.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-06-16.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-06-16</source>
-      <description>TOP1 Goldfish Goldfish 【标语】：按选项。它了解你的工作并像你一样回复 【介绍】：大多数人工智能工具都会让您先解释上下文，然后才能提供帮助。Goldfish已经拥有了它。它会私下记住您在Mac上所做的事情，然后帮助您在任何应用程序中写得更好。按文本字段中的选项即可起草回复、总结线索、重写句子或回忆您最近工作的重要细节，而无需复制、...</description>
-      <category>PH</category>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-goldfish"><span></span></a><a href="https://www.producthunt.com/products/goldfish-early-access" target="_blank" rel="noopener noreferrer">TOP1    Goldfish</a></h2>
-<p><img src="https://ph-files.imgix.net/e8daeeb6-2f20-4074-b8f5-aa1f3e42e321.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Goldfish" loading="lazy"><br><br>
-<strong>【标语】</strong>：按选项。它了解你的工作并像你一样回复<br>
-<strong>【介绍】</strong>：大多数人工智能工具都会让您先解释上下文，然后才能提供帮助。Goldfish已经拥有了它。它会私下记住您在Mac上所做的事情，然后帮助您在任何应用程序中写得更好。按文本字段中的选项即可起草回复、总结线索、重写句子或回忆您最近工作的重要细节，而无需复制、粘贴或重新解释整个背景故事。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/P4WFRWL26YL6CK" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/goldfish-early-access" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：选项,回复,Goldfish,Mac,中写,字段<br>
-<strong>票数</strong>： 🔺577<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年06月16日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/e8daeeb6-2f20-4074-b8f5-aa1f3e42e321.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
