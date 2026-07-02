@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 01 Jul 2026 11:20:41 GMT</pubDate>
-    <lastBuildDate>Wed, 01 Jul 2026 11:20:41 GMT</lastBuildDate>
+    <pubDate>Thu, 02 Jul 2026 10:33:07 GMT</pubDate>
+    <lastBuildDate>Thu, 02 Jul 2026 10:33:07 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-06-30</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-06-30.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-06-30.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-06-30</source>
+      <description>TOP1 Cursor for iOS Cursor for iOS 【标语】：从任何地方使用编码代理构建 【介绍】：Cursor现已作为原生iOS应用程序公开测试版提供，因此您可以在任何地方进行构建。到目前为止，开发人员一直在努力绕过本地机器的限制，无论走到哪里，笔记本电脑都保持半开状态并含有咖啡因。使用Cursor for iOS，您可以在云中启动...</description>
+      <category>PH</category>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-cursor-for-ios"><span></span></a><a href="https://www.producthunt.com/products/cursor" target="_blank" rel="noopener noreferrer">TOP1    Cursor for iOS</a></h2>
+<p><img src="https://ph-files.imgix.net/cd0d1e71-589a-4d98-a22f-344db9dc89da.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Cursor for iOS" loading="lazy"><br><br>
+<strong>【标语】</strong>：从任何地方使用编码代理构建<br>
+<strong>【介绍】</strong>：Cursor现已作为原生iOS应用程序公开测试版提供，因此您可以在任何地方进行构建。到目前为止，开发人员一直在努力绕过本地机器的限制，无论走到哪里，笔记本电脑都保持半开状态并含有咖啡因。使用Cursor for iOS，您可以在云中启动始终在线的代理，或从手机控制计算机上运行的代理。当想法出现时，将其解雇，当工作准备好进行审查时收到通知，并在旅途中合并PR。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/KBJ3E75U6E6GTF" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/cursor" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：Cursor,iOS,代理,构建,开发人员,测试版<br>
+<strong>票数</strong>： 🔺538<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年06月30日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/cd0d1e71-589a-4d98-a22f-344db9dc89da.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-06-29</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-06-29.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年06月21日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/f93261c8-32f1-4191-9c8a-856dc4e59c46.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-06-20</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-06-20.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-06-20.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-06-20</source>
-      <description>TOP1 WorkClaw WorkClaw 【标语】：在Slack工作的协作、积极主动的人工智能同事 【介绍】：为您的团队认识人工智能团队。WorkClaws是协作、积极主动的人工智能同事，他们像其他同事一样在Slack和Microsoft Teams工作。它们是完全可定制的，可以通过学习技能和例行公事来按照您的方式完成工作。与大多数将一个人与一个助...</description>
-      <category>PH</category>
-      <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-workclaw"><span></span></a><a href="https://www.producthunt.com/products/workclaw" target="_blank" rel="noopener noreferrer">TOP1    WorkClaw</a></h2>
-<p><img src="https://ph-files.imgix.net/8d27c8cf-988b-4d01-8a51-a0ded3e763d6.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="WorkClaw" loading="lazy"><br><br>
-<strong>【标语】</strong>：在Slack工作的协作、积极主动的人工智能同事<br>
-<strong>【介绍】</strong>：为您的团队认识人工智能团队。WorkClaws是协作、积极主动的人工智能同事，他们像其他同事一样在Slack和Microsoft Teams工作。它们是完全可定制的，可以通过学习技能和例行公事来按照您的方式完成工作。与大多数将一个人与一个助理配对的人工智能产品不同，WorkClaws可以与整个团队24/7协作。每个Claw都有一个职位名称、组织结构图中的一名经理以及一台能够访问3，000多个应用程序的云托管ClawOS计算机。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/ZQTLJJWTPLMI3Z" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/workclaw" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：人工智能,协作,Slack,WorkClaws,同事,团队<br>
-<strong>票数</strong>： 🔺333<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年06月20日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/8d27c8cf-988b-4d01-8a51-a0ded3e763d6.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
