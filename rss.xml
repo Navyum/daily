@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 02 Jul 2026 10:33:07 GMT</pubDate>
-    <lastBuildDate>Thu, 02 Jul 2026 10:33:07 GMT</lastBuildDate>
+    <pubDate>Fri, 03 Jul 2026 10:31:00 GMT</pubDate>
+    <lastBuildDate>Fri, 03 Jul 2026 10:31:00 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-07-01</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-01.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-07-01.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-07-01</source>
+      <description>TOP1 Acti Acti 【标语】：用于移动命令和搜索的键盘 【介绍】：输入您需要的内容。持有Acti酒吧。Actii了解您的意图，并在您所在的地方带回正确的结果、链接或操作。使用Actii进行实时体育赛程、附近餐厅、Notion文档、LinkedIn个人资料、会面链接、日历操作和自定义工作流程-无需离开对话。 【官网】：立即访问 【Product...</description>
+      <category>PH</category>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-acti"><span></span></a><a href="https://www.producthunt.com/products/acti-2" target="_blank" rel="noopener noreferrer">TOP1    Acti</a></h2>
+<p><img src="https://ph-files.imgix.net/bee48359-0b85-4051-aa10-344d192062bf.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Acti" loading="lazy"><br><br>
+<strong>【标语】</strong>：用于移动命令和搜索的键盘<br>
+<strong>【介绍】</strong>：输入您需要的内容。持有Acti酒吧。Actii了解您的意图，并在您所在的地方带回正确的结果、链接或操作。使用Actii进行实时体育赛程、附近餐厅、Notion文档、LinkedIn个人资料、会面链接、日历操作和自定义工作流程-无需离开对话。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/JTS2SCFXSWS3V4" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/acti-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：Actii,链接,自定义,Acti,Notion,LinkedIn<br>
+<strong>票数</strong>： 🔺525<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年07月01日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/bee48359-0b85-4051-aa10-344d192062bf.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-06-30</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-06-30.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年06月22日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/c0274766-9f1d-41a3-8e28-486a5fd306c5.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-06-21</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-06-21.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-06-21.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-06-21</source>
-      <description>TOP1 Agent 37 Cloud Agent 37 Cloud 【标语】：为每位客户提供自己的Hermes或OpenClaw代理 【介绍】：代理37是托管持久代理，如Hermes，OpenClaw和ClaudeCode。所以你不需要自己在Mac mini或VPS上运行它们。一个API调用为您的每个客户提供自己的始终在线代理，每月3.44美元起。创...</description>
-      <category>PH</category>
-      <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-agent-37-cloud"><span></span></a><a href="https://www.producthunt.com/products/agent-37-38" target="_blank" rel="noopener noreferrer">TOP1    Agent 37 Cloud</a></h2>
-<p><img src="https://ph-files.imgix.net/f93261c8-32f1-4191-9c8a-856dc4e59c46.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Agent 37 Cloud" loading="lazy"><br><br>
-<strong>【标语】</strong>：为每位客户提供自己的Hermes或OpenClaw代理<br>
-<strong>【介绍】</strong>：代理37是托管持久代理，如Hermes，OpenClaw和ClaudeCode。所以你不需要自己在Mac mini或VPS上运行它们。一个API调用为您的每个客户提供自己的始终在线代理，每月3.44美元起。创始人使用它将垂直代理运送到自己的客户端，而无需照看服务器。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/G7ASKEML5CLFTD" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/agent-37-38" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：代理,Hermes,OpenClaw,自己,客户,37<br>
-<strong>票数</strong>： 🔺396<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年06月21日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/f93261c8-32f1-4191-9c8a-856dc4e59c46.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
