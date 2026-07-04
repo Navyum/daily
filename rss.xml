@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 03 Jul 2026 10:31:00 GMT</pubDate>
-    <lastBuildDate>Fri, 03 Jul 2026 10:31:00 GMT</lastBuildDate>
+    <pubDate>Sat, 04 Jul 2026 10:04:17 GMT</pubDate>
+    <lastBuildDate>Sat, 04 Jul 2026 10:04:17 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-07-02</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-02.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-07-02.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-07-02</source>
+      <description>TOP1 Context.dev Context.dev 【标语】：一个API来抓取，丰富和提取互联网 【介绍】：Context.dev是用于人工智能产品和代理的网络上下文API。抓取任何URL、抓取网站、将页面转换为LLM就绪的Markdown、将结构化数据提取到您自己的模式中、捕获屏幕截图并通过一个API检索徽标、颜色、字体、样式指南、公司数据和交...</description>
+      <category>PH</category>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-context-dev"><span></span></a><a href="https://www.producthunt.com/products/context-dev" target="_blank" rel="noopener noreferrer">TOP1    Context.dev</a></h2>
+<p><img src="https://ph-files.imgix.net/32a94a26-3db3-49c0-8b04-6ddd8ce5b479.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Context.dev" loading="lazy"><br><br>
+<strong>【标语】</strong>：一个API来抓取，丰富和提取互联网<br>
+<strong>【介绍】</strong>：Context.dev是用于人工智能产品和代理的网络上下文API。抓取任何URL、抓取网站、将页面转换为LLM就绪的Markdown、将结构化数据提取到您自己的模式中、捕获屏幕截图并通过一个API检索徽标、颜色、字体、样式指南、公司数据和交易丰富。由JC支持，无需卡，并且构建以便开发人员或编码代理可以在几分钟内集成。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/XBX6EKSLADLB4V" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/context-dev" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：API,抓取,提取,代理,徽标,开发人员<br>
+<strong>票数</strong>： 🔺730<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年07月02日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/32a94a26-3db3-49c0-8b04-6ddd8ce5b479.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-07-01</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-01.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年06月23日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/c7a4fc3e-dc24-4e20-8b1f-c75e1c447c79.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-06-22</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-06-22.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-06-22.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-06-22</source>
-      <description>TOP1 AgentX AgentX 【标语】：评估人工智能代理、查明问题并只需单击即可修复。 【介绍】：在人工智能代理失败之前对其进行评估。创建测试套件、运行评估并在问题进入生产之前查明问题。AgentX为您的人工智能代理提供完全的可观察性和可追溯性。人工智能分析不仅可以识别问题，还可以建议解决方案--就像为您的代理提供人工智能医生一样。在多个LLM...</description>
-      <category>PH</category>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-agentx"><span></span></a><a href="https://www.producthunt.com/products/agentx" target="_blank" rel="noopener noreferrer">TOP1    AgentX</a></h2>
-<p><img src="https://ph-files.imgix.net/c0274766-9f1d-41a3-8e28-486a5fd306c5.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="AgentX" loading="lazy"><br><br>
-<strong>【标语】</strong>：评估人工智能代理、查明问题并只需单击即可修复。<br>
-<strong>【介绍】</strong>：在人工智能代理失败之前对其进行评估。创建测试套件、运行评估并在问题进入生产之前查明问题。AgentX为您的人工智能代理提供完全的可观察性和可追溯性。人工智能分析不仅可以识别问题，还可以建议解决方案--就像为您的代理提供人工智能医生一样。在多个LLM提供商之间模拟运行您的代理，以比较性能、成本和延迟，帮助您更好地决定选择哪个LLM。部署前运行eval。就像人工智能代理的CI/CD一样。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/MAKIXB6C4DMJG6" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/agentx" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：人工智能,代理,LLM,评估,运行,查明<br>
-<strong>票数</strong>： 🔺530<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年06月22日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/c0274766-9f1d-41a3-8e28-486a5fd306c5.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
