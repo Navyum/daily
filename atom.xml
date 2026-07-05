@@ -4,16 +4,41 @@
   <title>DAYHACK</title>
   <subtitle>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</subtitle>
   <icon>https://github.camscanner.top/daily/favicon.ico</icon>
-  <updated>2026-07-04T10:04:17.662Z</updated>
+  <updated>2026-07-05T10:07:07.023Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/"/>
   <category term="PH"/>
   <entry>
+    <title type="text">PH今日热榜 | 2026-07-03</title>
+    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-03.html</id>
+    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-03.html"/>
+    <updated>2026-07-05T10:07:07.025Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-glaze-by-raycast"><span></span></a><a href="https://www.producthunt.com/products/glaze-4" target="_blank" rel="noopener noreferrer">TOP1    Glaze by Raycast</a></h2>
+<p><img src="https://ph-files.imgix.net/2375fc04-8d88-4b49-9412-58872203cbe8.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Glaze by Raycast" loading="lazy"><br><br>
+<strong>【标语】</strong>：通过与AI聊天创建您自己的Mac应用程序<br>
+<strong>【介绍】</strong>：Glaze是将创意转化为Mac应用程序的最简单方法。描述您想要什么，它就会构建一个真正的应用程序，该应用程序位于您的底座上，立即启动，离线工作，并充分利用您计算机的功能。最终成为个性化的、围绕您塑造的软件。来自Raycast的制作者。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/5O23FOO5ATZ5QC" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/glaze-4" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-glaze-by-raycast"><span></span></a><a href="https://www.producthunt.com/products/glaze-4" target="_blank" rel="noopener noreferrer">TOP1    Glaze by Raycast</a></h2>
+<p><img src="https://ph-files.imgix.net/2375fc04-8d88-4b49-9412-58872203cbe8.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Glaze by Raycast" loading="lazy"><br><br>
+<strong>【标语】</strong>：通过与AI聊天创建您自己的Mac应用程序<br>
+<strong>【介绍】</strong>：Glaze是将创意转化为Mac应用程序的最简单方法。描述您想要什么，它就会构建一个真正的应用程序，该应用程序位于您的底座上，立即启动，离线工作，并充分利用您计算机的功能。最终成为个性化的、围绕您塑造的软件。来自Raycast的制作者。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/5O23FOO5ATZ5QC" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/glaze-4" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：应用程序,Mac,离线,AI,Glaze,Raycast<br>
+<strong>票数</strong>： 🔺547<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年07月03日 PM03:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2026-07-03T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">PH今日热榜 | 2026-07-02</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-02.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-02.html"/>
-    <updated>2026-07-04T10:04:17.663Z</updated>
+    <updated>2026-07-05T10:07:07.059Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-context-dev"><span></span></a><a href="https://www.producthunt.com/products/context-dev" target="_blank" rel="noopener noreferrer">TOP1    Context.dev</a></h2>
 <p><img src="https://ph-files.imgix.net/32a94a26-3db3-49c0-8b04-6ddd8ce5b479.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Context.dev" loading="lazy"><br><br>
 <strong>【标语】</strong>：一个API来抓取，丰富和提取互联网<br>
@@ -38,7 +63,7 @@
     <title type="text">PH今日热榜 | 2026-07-01</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-01.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-01.html"/>
-    <updated>2026-07-04T10:04:17.687Z</updated>
+    <updated>2026-07-05T10:07:07.068Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-acti"><span></span></a><a href="https://www.producthunt.com/products/acti-2" target="_blank" rel="noopener noreferrer">TOP1    Acti</a></h2>
 <p><img src="https://ph-files.imgix.net/bee48359-0b85-4051-aa10-344d192062bf.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Acti" loading="lazy"><br><br>
 <strong>【标语】</strong>：用于移动命令和搜索的键盘<br>
@@ -63,7 +88,7 @@
     <title type="text">PH今日热榜 | 2026-06-30</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-30.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-30.html"/>
-    <updated>2026-07-04T10:04:17.696Z</updated>
+    <updated>2026-07-05T10:07:07.083Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-cursor-for-ios"><span></span></a><a href="https://www.producthunt.com/products/cursor" target="_blank" rel="noopener noreferrer">TOP1    Cursor for iOS</a></h2>
 <p><img src="https://ph-files.imgix.net/cd0d1e71-589a-4d98-a22f-344db9dc89da.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Cursor for iOS" loading="lazy"><br><br>
 <strong>【标语】</strong>：从任何地方使用编码代理构建<br>
@@ -88,7 +113,7 @@
     <title type="text">PH今日热榜 | 2026-06-29</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-29.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-29.html"/>
-    <updated>2026-07-04T10:04:17.710Z</updated>
+    <updated>2026-07-05T10:07:07.091Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-agent-mode-by-receiptor-ai"><span></span></a><a href="https://www.producthunt.com/products/receiptor-ai" target="_blank" rel="noopener noreferrer">TOP1    Agent Mode by Receiptor AI</a></h2>
 <p><img src="https://ph-files.imgix.net/ea5cfd31-1b70-4e8c-90ca-a87e8ab8ddc6.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Agent Mode by Receiptor AI" loading="lazy"><br><br>
 <strong>【标语】</strong>：端到端运行收据工作流程的簿记助理<br>
@@ -113,7 +138,7 @@
     <title type="text">PH今日热榜 | 2026-06-28</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-28.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-28.html"/>
-    <updated>2026-07-04T10:04:17.718Z</updated>
+    <updated>2026-07-05T10:07:07.105Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-discode-ai"><span></span></a><a href="https://www.producthunt.com/products/discode-ai" target="_blank" rel="noopener noreferrer">TOP1    discode.ai</a></h2>
 <p><img src="https://ph-files.imgix.net/106b9bca-50b4-4983-94c5-4f65119d2dac.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="discode.ai" loading="lazy"><br><br>
 <strong>【标语】</strong>：100+个AI模型，一个界面。环保友好。<br>
@@ -138,7 +163,7 @@
     <title type="text">PH今日热榜 | 2026-06-27</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-27.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-27.html"/>
-    <updated>2026-07-04T10:04:17.731Z</updated>
+    <updated>2026-07-05T10:07:07.114Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-folio-ai"><span></span></a><a href="https://www.producthunt.com/products/folio-ai" target="_blank" rel="noopener noreferrer">TOP1    Folio AI</a></h2>
 <p><img src="https://ph-files.imgix.net/20bf4588-4c35-430e-b02e-6af9ee6b0554.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Folio AI" loading="lazy"><br><br>
 <strong>【标语】</strong>：克劳德做幻灯片，用类固醇<br>
@@ -163,7 +188,7 @@
     <title type="text">PH今日热榜 | 2026-06-26</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-26.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-26.html"/>
-    <updated>2026-07-04T10:04:17.738Z</updated>
+    <updated>2026-07-05T10:07:07.128Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-agent-arena"><span></span></a><a href="https://www.producthunt.com/products/agent-arena" target="_blank" rel="noopener noreferrer">TOP1    Agent Arena</a></h2>
 <p><img src="https://ph-files.imgix.net/2789752a-fbe1-430a-a9d1-2d603ff30770.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Agent Arena" loading="lazy"><br><br>
 <strong>【标语】</strong>：人工智能代理的第一个公共竞技场<br>
@@ -188,7 +213,7 @@
     <title type="text">PH今日热榜 | 2026-06-25</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-25.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-25.html"/>
-    <updated>2026-07-04T10:04:17.751Z</updated>
+    <updated>2026-07-05T10:07:07.137Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-browseract"><span></span></a><a href="https://www.producthunt.com/products/browseract" target="_blank" rel="noopener noreferrer">TOP1    BrowserAct</a></h2>
 <p><img src="https://ph-files.imgix.net/249e2a89-5b62-48fa-b4fb-48b47cf2b4cd.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="BrowserAct" loading="lazy"><br><br>
 <strong>【标语】</strong>：人工智能代理的Web浏览器自动化<br>
@@ -213,7 +238,7 @@
     <title type="text">PH今日热榜 | 2026-06-24</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-24.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-24.html"/>
-    <updated>2026-07-04T10:04:17.764Z</updated>
+    <updated>2026-07-05T10:07:07.153Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-tencent-edgeone-makers"><span></span></a><a href="https://www.producthunt.com/products/tencent-edgeone-2" target="_blank" rel="noopener noreferrer">TOP1    Tencent EdgeOne Makers</a></h2>
 <p><img src="https://ph-files.imgix.net/693d0df2-dfcb-4422-bc89-c6a86a5f120a.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Tencent EdgeOne Makers" loading="lazy"><br><br>
 <strong>【标语】</strong>：几分钟内交付像网络应用程序一样的人工智能代理。<br>
@@ -233,30 +258,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2026-06-24T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2026-06-23</title>
-    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-23.html</id>
-    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-23.html"/>
-    <updated>2026-07-04T10:04:17.777Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-bluerails-discovery"><span></span></a><a href="https://www.producthunt.com/products/bluerails-discovery" target="_blank" rel="noopener noreferrer">TOP1    Bluerails Discovery </a></h2>
-<p><img src="https://ph-files.imgix.net/c7a4fc3e-dc24-4e20-8b1f-c75e1c447c79.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Bluerails Discovery " loading="lazy"><br><br>
-<strong>【标语】</strong>：人工智能代理用来寻找您并向您付款的铁轨<br>
-<strong>【介绍】</strong>：大多数“人工智能可见性”工具都止于告诉您人工智能是否提及您的品牌。Bluerail走得更远。我们让您能够联系人工智能代理，并准备好从他们那里获得报酬，这是我们已经为市场运营的轨道。脱颖而出的地方：·发现：来自400个样本的同行评审的人工智能可见性评分，而不是一次性猜测。免费，无需注册。·代理准备结账+全球结算·内置合规性立即尝试您的免费Discovery报告;代理支付接下来推出。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/SES4UURPNBOQ2O" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/bluerails-discovery" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-bluerails-discovery"><span></span></a><a href="https://www.producthunt.com/products/bluerails-discovery" target="_blank" rel="noopener noreferrer">TOP1    Bluerails Discovery </a></h2>
-<p><img src="https://ph-files.imgix.net/c7a4fc3e-dc24-4e20-8b1f-c75e1c447c79.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Bluerails Discovery " loading="lazy"><br><br>
-<strong>【标语】</strong>：人工智能代理用来寻找您并向您付款的铁轨<br>
-<strong>【介绍】</strong>：大多数“人工智能可见性”工具都止于告诉您人工智能是否提及您的品牌。Bluerail走得更远。我们让您能够联系人工智能代理，并准备好从他们那里获得报酬，这是我们已经为市场运营的轨道。脱颖而出的地方：·发现：来自400个样本的同行评审的人工智能可见性评分，而不是一次性猜测。免费，无需注册。·代理准备结账+全球结算·内置合规性立即尝试您的免费Discovery报告;代理支付接下来推出。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/SES4UURPNBOQ2O" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/bluerails-discovery" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：人工智能,代理,免费,可见,Bluerail,400<br>
-<strong>票数</strong>： 🔺590<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年06月23日 PM03:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2026-06-23T00:00:00.000Z</published>
   </entry>
 </feed>
