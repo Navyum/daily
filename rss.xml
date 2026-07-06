@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 05 Jul 2026 10:07:07 GMT</pubDate>
-    <lastBuildDate>Sun, 05 Jul 2026 10:07:07 GMT</lastBuildDate>
+    <pubDate>Mon, 06 Jul 2026 11:59:50 GMT</pubDate>
+    <lastBuildDate>Mon, 06 Jul 2026 11:59:50 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-07-04</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-04.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-07-04.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-07-04</source>
+      <description>TOP1 Vida Vida 【标语】：克隆自己。在你要求之前让人工智能完成工作 【介绍】：Vida是一个人工智能，可以学习你的工作方式，记住什么重要，并随着时间的推移变得更像你。您使用Vida越多，它就越了解您的习惯、项目和完成事情的方式。最终，它就像第二个版本的你一样工作--在你提出要求之前，就在后台悄悄地处理重复性工作。今天，我们推出了前5个SO...</description>
+      <category>PH</category>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-vida"><span></span></a><a href="https://www.producthunt.com/products/vida-5" target="_blank" rel="noopener noreferrer">TOP1    Vida</a></h2>
+<p><img src="https://ph-files.imgix.net/cbc4ba52-fa3e-436b-9e30-746e5643036e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Vida" loading="lazy"><br><br>
+<strong>【标语】</strong>：克隆自己。在你要求之前让人工智能完成工作<br>
+<strong>【介绍】</strong>：Vida是一个人工智能，可以学习你的工作方式，记住什么重要，并随着时间的推移变得更像你。您使用Vida越多，它就越了解您的习惯、项目和完成事情的方式。最终，它就像第二个版本的你一样工作--在你提出要求之前，就在后台悄悄地处理重复性工作。今天，我们推出了前5个SOTA用例：回复救援·提示救援·恢复救援·工作空间收件· Daily Wrap 95更多以在公共场合征服。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/NK4KBFW256NNE2" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/vida-5" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：Vida,救援,工作,人工智能,收件,--<br>
+<strong>票数</strong>： 🔺381<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年07月04日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/cbc4ba52-fa3e-436b-9e30-746e5643036e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-07-03</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-03.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年06月25日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/249e2a89-5b62-48fa-b4fb-48b47cf2b4cd.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-06-24</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-06-24.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-06-24.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-06-24</source>
-      <description>TOP1 Tencent EdgeOne Makers Tencent EdgeOne Makers 【标语】：几分钟内交付像网络应用程序一样的人工智能代理。 【介绍】：腾讯EdgeOne Makers是现代Web应用和AI代理的边缘平台。使用您首选的框架构建，并通过熟悉的CLI、Git和CI/CD工作流进行部署。获得内置的代理运行时、沙盒工具、内存、...</description>
-      <category>PH</category>
-      <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-tencent-edgeone-makers"><span></span></a><a href="https://www.producthunt.com/products/tencent-edgeone-2" target="_blank" rel="noopener noreferrer">TOP1    Tencent EdgeOne Makers</a></h2>
-<p><img src="https://ph-files.imgix.net/693d0df2-dfcb-4422-bc89-c6a86a5f120a.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Tencent EdgeOne Makers" loading="lazy"><br><br>
-<strong>【标语】</strong>：几分钟内交付像网络应用程序一样的人工智能代理。<br>
-<strong>【介绍】</strong>：腾讯EdgeOne Makers是现代Web应用和AI代理的边缘平台。使用您首选的框架构建，并通过熟悉的CLI、Git和CI/CD工作流进行部署。获得内置的代理运行时、沙盒工具、内存、可观察性、模型网关支持、无服务器功能和存储，而无需将复杂的基础架构拼接在一起。在几分钟内将AI代理添加到现有产品或启动新的AI应用程序。部署像网络应用程序一样的人工智能代理。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/F44CDFG34U37A3" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/tencent-edgeone-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：代理,AI,网络应用,人工智能,几分钟,部署<br>
-<strong>票数</strong>： 🔺546<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年06月24日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/693d0df2-dfcb-4422-bc89-c6a86a5f120a.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>

@@ -4,16 +4,41 @@
   <title>DAYHACK</title>
   <subtitle>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</subtitle>
   <icon>https://github.camscanner.top/daily/favicon.ico</icon>
-  <updated>2026-07-05T10:07:07.023Z</updated>
+  <updated>2026-07-06T11:59:50.510Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/"/>
   <category term="PH"/>
   <entry>
+    <title type="text">PH今日热榜 | 2026-07-04</title>
+    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-04.html</id>
+    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-04.html"/>
+    <updated>2026-07-06T11:59:50.511Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-vida"><span></span></a><a href="https://www.producthunt.com/products/vida-5" target="_blank" rel="noopener noreferrer">TOP1    Vida</a></h2>
+<p><img src="https://ph-files.imgix.net/cbc4ba52-fa3e-436b-9e30-746e5643036e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Vida" loading="lazy"><br><br>
+<strong>【标语】</strong>：克隆自己。在你要求之前让人工智能完成工作<br>
+<strong>【介绍】</strong>：Vida是一个人工智能，可以学习你的工作方式，记住什么重要，并随着时间的推移变得更像你。您使用Vida越多，它就越了解您的习惯、项目和完成事情的方式。最终，它就像第二个版本的你一样工作--在你提出要求之前，就在后台悄悄地处理重复性工作。今天，我们推出了前5个SOTA用例：回复救援·提示救援·恢复救援·工作空间收件· Daily Wrap 95更多以在公共场合征服。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/NK4KBFW256NNE2" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/vida-5" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-vida"><span></span></a><a href="https://www.producthunt.com/products/vida-5" target="_blank" rel="noopener noreferrer">TOP1    Vida</a></h2>
+<p><img src="https://ph-files.imgix.net/cbc4ba52-fa3e-436b-9e30-746e5643036e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Vida" loading="lazy"><br><br>
+<strong>【标语】</strong>：克隆自己。在你要求之前让人工智能完成工作<br>
+<strong>【介绍】</strong>：Vida是一个人工智能，可以学习你的工作方式，记住什么重要，并随着时间的推移变得更像你。您使用Vida越多，它就越了解您的习惯、项目和完成事情的方式。最终，它就像第二个版本的你一样工作--在你提出要求之前，就在后台悄悄地处理重复性工作。今天，我们推出了前5个SOTA用例：回复救援·提示救援·恢复救援·工作空间收件· Daily Wrap 95更多以在公共场合征服。<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/NK4KBFW256NNE2" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/vida-5" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：Vida,救援,工作,人工智能,收件,--<br>
+<strong>票数</strong>： 🔺381<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年07月04日 PM03:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2026-07-04T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">PH今日热榜 | 2026-07-03</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-03.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-03.html"/>
-    <updated>2026-07-05T10:07:07.025Z</updated>
+    <updated>2026-07-06T11:59:50.527Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-glaze-by-raycast"><span></span></a><a href="https://www.producthunt.com/products/glaze-4" target="_blank" rel="noopener noreferrer">TOP1    Glaze by Raycast</a></h2>
 <p><img src="https://ph-files.imgix.net/2375fc04-8d88-4b49-9412-58872203cbe8.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Glaze by Raycast" loading="lazy"><br><br>
 <strong>【标语】</strong>：通过与AI聊天创建您自己的Mac应用程序<br>
@@ -38,7 +63,7 @@
     <title type="text">PH今日热榜 | 2026-07-02</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-02.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-02.html"/>
-    <updated>2026-07-05T10:07:07.059Z</updated>
+    <updated>2026-07-06T11:59:50.541Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-context-dev"><span></span></a><a href="https://www.producthunt.com/products/context-dev" target="_blank" rel="noopener noreferrer">TOP1    Context.dev</a></h2>
 <p><img src="https://ph-files.imgix.net/32a94a26-3db3-49c0-8b04-6ddd8ce5b479.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Context.dev" loading="lazy"><br><br>
 <strong>【标语】</strong>：一个API来抓取，丰富和提取互联网<br>
@@ -63,7 +88,7 @@
     <title type="text">PH今日热榜 | 2026-07-01</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-01.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-01.html"/>
-    <updated>2026-07-05T10:07:07.068Z</updated>
+    <updated>2026-07-06T11:59:50.549Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-acti"><span></span></a><a href="https://www.producthunt.com/products/acti-2" target="_blank" rel="noopener noreferrer">TOP1    Acti</a></h2>
 <p><img src="https://ph-files.imgix.net/bee48359-0b85-4051-aa10-344d192062bf.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Acti" loading="lazy"><br><br>
 <strong>【标语】</strong>：用于移动命令和搜索的键盘<br>
@@ -88,7 +113,7 @@
     <title type="text">PH今日热榜 | 2026-06-30</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-30.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-30.html"/>
-    <updated>2026-07-05T10:07:07.083Z</updated>
+    <updated>2026-07-06T11:59:50.563Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-cursor-for-ios"><span></span></a><a href="https://www.producthunt.com/products/cursor" target="_blank" rel="noopener noreferrer">TOP1    Cursor for iOS</a></h2>
 <p><img src="https://ph-files.imgix.net/cd0d1e71-589a-4d98-a22f-344db9dc89da.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Cursor for iOS" loading="lazy"><br><br>
 <strong>【标语】</strong>：从任何地方使用编码代理构建<br>
@@ -113,7 +138,7 @@
     <title type="text">PH今日热榜 | 2026-06-29</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-29.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-29.html"/>
-    <updated>2026-07-05T10:07:07.091Z</updated>
+    <updated>2026-07-06T11:59:50.569Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-agent-mode-by-receiptor-ai"><span></span></a><a href="https://www.producthunt.com/products/receiptor-ai" target="_blank" rel="noopener noreferrer">TOP1    Agent Mode by Receiptor AI</a></h2>
 <p><img src="https://ph-files.imgix.net/ea5cfd31-1b70-4e8c-90ca-a87e8ab8ddc6.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Agent Mode by Receiptor AI" loading="lazy"><br><br>
 <strong>【标语】</strong>：端到端运行收据工作流程的簿记助理<br>
@@ -138,7 +163,7 @@
     <title type="text">PH今日热榜 | 2026-06-28</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-28.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-28.html"/>
-    <updated>2026-07-05T10:07:07.105Z</updated>
+    <updated>2026-07-06T11:59:50.582Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-discode-ai"><span></span></a><a href="https://www.producthunt.com/products/discode-ai" target="_blank" rel="noopener noreferrer">TOP1    discode.ai</a></h2>
 <p><img src="https://ph-files.imgix.net/106b9bca-50b4-4983-94c5-4f65119d2dac.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="discode.ai" loading="lazy"><br><br>
 <strong>【标语】</strong>：100+个AI模型，一个界面。环保友好。<br>
@@ -163,7 +188,7 @@
     <title type="text">PH今日热榜 | 2026-06-27</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-27.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-27.html"/>
-    <updated>2026-07-05T10:07:07.114Z</updated>
+    <updated>2026-07-06T11:59:50.589Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-folio-ai"><span></span></a><a href="https://www.producthunt.com/products/folio-ai" target="_blank" rel="noopener noreferrer">TOP1    Folio AI</a></h2>
 <p><img src="https://ph-files.imgix.net/20bf4588-4c35-430e-b02e-6af9ee6b0554.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Folio AI" loading="lazy"><br><br>
 <strong>【标语】</strong>：克劳德做幻灯片，用类固醇<br>
@@ -188,7 +213,7 @@
     <title type="text">PH今日热榜 | 2026-06-26</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-26.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-26.html"/>
-    <updated>2026-07-05T10:07:07.128Z</updated>
+    <updated>2026-07-06T11:59:50.607Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-agent-arena"><span></span></a><a href="https://www.producthunt.com/products/agent-arena" target="_blank" rel="noopener noreferrer">TOP1    Agent Arena</a></h2>
 <p><img src="https://ph-files.imgix.net/2789752a-fbe1-430a-a9d1-2d603ff30770.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Agent Arena" loading="lazy"><br><br>
 <strong>【标语】</strong>：人工智能代理的第一个公共竞技场<br>
@@ -213,7 +238,7 @@
     <title type="text">PH今日热榜 | 2026-06-25</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-25.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-25.html"/>
-    <updated>2026-07-05T10:07:07.137Z</updated>
+    <updated>2026-07-06T11:59:50.615Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-browseract"><span></span></a><a href="https://www.producthunt.com/products/browseract" target="_blank" rel="noopener noreferrer">TOP1    BrowserAct</a></h2>
 <p><img src="https://ph-files.imgix.net/249e2a89-5b62-48fa-b4fb-48b47cf2b4cd.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="BrowserAct" loading="lazy"><br><br>
 <strong>【标语】</strong>：人工智能代理的Web浏览器自动化<br>
@@ -233,30 +258,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2026-06-25T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2026-06-24</title>
-    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-24.html</id>
-    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-24.html"/>
-    <updated>2026-07-05T10:07:07.153Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-tencent-edgeone-makers"><span></span></a><a href="https://www.producthunt.com/products/tencent-edgeone-2" target="_blank" rel="noopener noreferrer">TOP1    Tencent EdgeOne Makers</a></h2>
-<p><img src="https://ph-files.imgix.net/693d0df2-dfcb-4422-bc89-c6a86a5f120a.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Tencent EdgeOne Makers" loading="lazy"><br><br>
-<strong>【标语】</strong>：几分钟内交付像网络应用程序一样的人工智能代理。<br>
-<strong>【介绍】</strong>：腾讯EdgeOne Makers是现代Web应用和AI代理的边缘平台。使用您首选的框架构建，并通过熟悉的CLI、Git和CI/CD工作流进行部署。获得内置的代理运行时、沙盒工具、内存、可观察性、模型网关支持、无服务器功能和存储，而无需将复杂的基础架构拼接在一起。在几分钟内将AI代理添加到现有产品或启动新的AI应用程序。部署像网络应用程序一样的人工智能代理。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/F44CDFG34U37A3" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/tencent-edgeone-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-tencent-edgeone-makers"><span></span></a><a href="https://www.producthunt.com/products/tencent-edgeone-2" target="_blank" rel="noopener noreferrer">TOP1    Tencent EdgeOne Makers</a></h2>
-<p><img src="https://ph-files.imgix.net/693d0df2-dfcb-4422-bc89-c6a86a5f120a.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Tencent EdgeOne Makers" loading="lazy"><br><br>
-<strong>【标语】</strong>：几分钟内交付像网络应用程序一样的人工智能代理。<br>
-<strong>【介绍】</strong>：腾讯EdgeOne Makers是现代Web应用和AI代理的边缘平台。使用您首选的框架构建，并通过熟悉的CLI、Git和CI/CD工作流进行部署。获得内置的代理运行时、沙盒工具、内存、可观察性、模型网关支持、无服务器功能和存储，而无需将复杂的基础架构拼接在一起。在几分钟内将AI代理添加到现有产品或启动新的AI应用程序。部署像网络应用程序一样的人工智能代理。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/F44CDFG34U37A3" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/tencent-edgeone-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：代理,AI,网络应用,人工智能,几分钟,部署<br>
-<strong>票数</strong>： 🔺546<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年06月24日 PM03:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2026-06-24T00:00:00.000Z</published>
   </entry>
 </feed>
