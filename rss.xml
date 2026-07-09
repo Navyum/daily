@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 08 Jul 2026 10:11:22 GMT</pubDate>
-    <lastBuildDate>Wed, 08 Jul 2026 10:11:22 GMT</lastBuildDate>
+    <pubDate>Thu, 09 Jul 2026 10:49:43 GMT</pubDate>
+    <lastBuildDate>Thu, 09 Jul 2026 10:49:43 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-07-07</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-07.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-07-07.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-07-07</source>
+      <description>TOP1 Badge Badge 【标语】：AI agents collect peer reviews to generate proof of work 【介绍】：Badge gives an AI agent that collects peer reviews to build proof of work. For job seekers - ...</description>
+      <category>PH</category>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-badge"><span></span></a><a href="https://www.producthunt.com/products/badge-3" target="_blank" rel="noopener noreferrer">TOP1    Badge</a></h2>
+<p><img src="https://ph-files.imgix.net/dbc627d5-6d62-4487-b9ad-776f6050d830.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Badge" loading="lazy"><br><br>
+<strong>【标语】</strong>：AI agents collect peer reviews to generate proof of work<br>
+<strong>【介绍】</strong>：Badge gives an AI agent that collects peer reviews to build proof of work. For job seekers - The agent connects to your contacts, requests anonymous reviews from your past colleagues, and builds a verified, portable trust score. score. For hiring managers - Badge gives you a 30 second reference checks on candidates, collecting authentic feedback from their actual coworkers to replace unreliable, AI-generated resumes and LinkedIn Recommendations.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/SJNBNECUTZE3BI" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/badge-3" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：AI,reviews,peer,proof,gives,agent<br>
+<strong>票数</strong>： 🔺451<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年07月07日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/dbc627d5-6d62-4487-b9ad-776f6050d830.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-07-06</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-06.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年06月28日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/106b9bca-50b4-4983-94c5-4f65119d2dac.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-06-27</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-06-27.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-06-27.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-06-27</source>
-      <description>TOP1 Folio AI Folio AI 【标语】：克劳德做幻灯片，用类固醇 【介绍】：Folio AI是第一个幻灯片实时人工智能副驾驶。它直接在PowerPoint或Google Slides中工作。它的速度至少比竞争对手快6倍，同时性能更好。 【官网】：立即访问 【Product Hunt】：View on Product Hunt 关键词：幻...</description>
-      <category>PH</category>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-folio-ai"><span></span></a><a href="https://www.producthunt.com/products/folio-ai" target="_blank" rel="noopener noreferrer">TOP1    Folio AI</a></h2>
-<p><img src="https://ph-files.imgix.net/20bf4588-4c35-430e-b02e-6af9ee6b0554.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Folio AI" loading="lazy"><br><br>
-<strong>【标语】</strong>：克劳德做幻灯片，用类固醇<br>
-<strong>【介绍】</strong>：Folio AI是第一个幻灯片实时人工智能副驾驶。它直接在PowerPoint或Google Slides中工作。它的速度至少比竞争对手快6倍，同时性能更好。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/334A7LA6L6NHLW" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/folio-ai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：幻灯片,Folio,AI,PowerPoint,Google,Slides<br>
-<strong>票数</strong>： 🔺311<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年06月27日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/20bf4588-4c35-430e-b02e-6af9ee6b0554.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
