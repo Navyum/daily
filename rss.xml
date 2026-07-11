@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 10 Jul 2026 10:48:09 GMT</pubDate>
-    <lastBuildDate>Fri, 10 Jul 2026 10:48:09 GMT</lastBuildDate>
+    <pubDate>Sat, 11 Jul 2026 09:22:06 GMT</pubDate>
+    <lastBuildDate>Sat, 11 Jul 2026 09:22:06 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-07-09</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-09.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-07-09.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-07-09</source>
+      <description>TOP1 Auriko Auriko 【标语】：Trading desk for LLM calls 【介绍】：Auriko treats LLM providers as trading venues and arbitrages the spread. Built by ex-quant traders, Auriko’s cost-arbitra...</description>
+      <category>PH</category>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-auriko"><span></span></a><a href="https://www.producthunt.com/products/auriko" target="_blank" rel="noopener noreferrer">TOP1    Auriko </a></h2>
+<p><img src="https://ph-files.imgix.net/1a860255-a7b5-4306-b74c-51b644cb42db.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Auriko " loading="lazy"><br><br>
+<strong>【标语】</strong>：Trading desk for LLM calls<br>
+<strong>【介绍】</strong>：Auriko treats LLM providers as trading venues and arbitrages the spread. Built by ex-quant traders, Auriko’s cost-arbitrage engine calibrates to each user’s request patterns and selects optimized inference paths based on token price, cache behavior, latency, reliability, and request quality. Auriko benchmarks show average 30% cost reduction against industry peers and direct providers. See the source: https://www.auriko.ai/reports/llm-cost-arbitrage<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/SYYO32SE2PLD3X" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/auriko" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：cost,LLM,providers,Auriko,arbitrage,request<br>
+<strong>票数</strong>： 🔺555<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年07月09日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/1a860255-a7b5-4306-b74c-51b644cb42db.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-07-08</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-08.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年06月30日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/cd0d1e71-589a-4d98-a22f-344db9dc89da.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-06-29</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-06-29.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-06-29.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-06-29</source>
-      <description>TOP1 Agent Mode by Receiptor AI Agent Mode by Receiptor AI 【标语】：端到端运行收据工作流程的簿记助理 【介绍】：Reciptor AI是一款代理簿记助手，可以端到端运行您的收据工作流程：它从您的收件箱和移动设备收集收据，在您的云或会计软件中组织它们，并将它们与您的银行交易进行匹配。它在后台安静...</description>
-      <category>PH</category>
-      <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-agent-mode-by-receiptor-ai"><span></span></a><a href="https://www.producthunt.com/products/receiptor-ai" target="_blank" rel="noopener noreferrer">TOP1    Agent Mode by Receiptor AI</a></h2>
-<p><img src="https://ph-files.imgix.net/ea5cfd31-1b70-4e8c-90ca-a87e8ab8ddc6.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Agent Mode by Receiptor AI" loading="lazy"><br><br>
-<strong>【标语】</strong>：端到端运行收据工作流程的簿记助理<br>
-<strong>【介绍】</strong>：Reciptor AI是一款代理簿记助手，可以端到端运行您的收据工作流程：它从您的收件箱和移动设备收集收据，在您的云或会计软件中组织它们，并将它们与您的银行交易进行匹配。它在后台安静地工作，准确率为99%，并且仅在需要更多上下文时才会提出问题。结果：干净的书籍和整理好的收据数据，您可以从任何地方查询：应用程序、WhatsApp或Claude和ChatGPT内部。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/DVSAWE2SN72E2P" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/receiptor-ai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：收据,端到,簿记,流程,收件箱,工作<br>
-<strong>票数</strong>： 🔺461<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年06月29日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/ea5cfd31-1b70-4e8c-90ca-a87e8ab8ddc6.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
