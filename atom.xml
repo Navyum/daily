@@ -4,16 +4,41 @@
   <title>DAYHACK</title>
   <subtitle>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</subtitle>
   <icon>https://github.camscanner.top/daily/favicon.ico</icon>
-  <updated>2026-07-11T09:22:06.845Z</updated>
+  <updated>2026-07-12T09:46:46.443Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/"/>
   <category term="PH"/>
   <entry>
+    <title type="text">PH今日热榜 | 2026-07-10</title>
+    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-10.html</id>
+    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-10.html"/>
+    <updated>2026-07-12T09:46:46.445Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-chatcut"><span></span></a><a href="https://www.producthunt.com/products/chatcut-ai-video-editor" target="_blank" rel="noopener noreferrer">TOP1    ChatCut</a></h2>
+<p><img src="https://ph-files.imgix.net/63e46d86-91c2-47ce-b208-78eae05d1ea2.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ChatCut" loading="lazy"><br><br>
+<strong>【标语】</strong>：Your AI video editor in ChatGPT, desktop, and web<br>
+<strong>【介绍】</strong>：ChatCut is a lightweight, professional-grade AI video editor anyone can use, even without editing experience. It’s like having a personal video editing assistant that understands your footage, intent, and timeline. Make structural edits, fine-tune cuts, add captions, B-roll, music, voiceover, motion graphics, stock footage, and AI-generated video in one place. Every edit stays editable on a real timeline, with XML export when you want to keep working elsewhere.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/FMMICV7TH5Z6XW" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/chatcut-ai-video-editor" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-chatcut"><span></span></a><a href="https://www.producthunt.com/products/chatcut-ai-video-editor" target="_blank" rel="noopener noreferrer">TOP1    ChatCut</a></h2>
+<p><img src="https://ph-files.imgix.net/63e46d86-91c2-47ce-b208-78eae05d1ea2.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ChatCut" loading="lazy"><br><br>
+<strong>【标语】</strong>：Your AI video editor in ChatGPT, desktop, and web<br>
+<strong>【介绍】</strong>：ChatCut is a lightweight, professional-grade AI video editor anyone can use, even without editing experience. It’s like having a personal video editing assistant that understands your footage, intent, and timeline. Make structural edits, fine-tune cuts, add captions, B-roll, music, voiceover, motion graphics, stock footage, and AI-generated video in one place. Every edit stays editable on a real timeline, with XML export when you want to keep working elsewhere.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/FMMICV7TH5Z6XW" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/chatcut-ai-video-editor" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：video,AI,editor,editing,footage,timeline<br>
+<strong>票数</strong>： 🔺668<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年07月10日 PM03:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2026-07-10T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">PH今日热榜 | 2026-07-09</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-09.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-09.html"/>
-    <updated>2026-07-11T09:22:06.846Z</updated>
+    <updated>2026-07-12T09:46:46.473Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-auriko"><span></span></a><a href="https://www.producthunt.com/products/auriko" target="_blank" rel="noopener noreferrer">TOP1    Auriko </a></h2>
 <p><img src="https://ph-files.imgix.net/1a860255-a7b5-4306-b74c-51b644cb42db.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Auriko " loading="lazy"><br><br>
 <strong>【标语】</strong>：Trading desk for LLM calls<br>
@@ -38,7 +63,7 @@
     <title type="text">PH今日热榜 | 2026-07-08</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-08.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-08.html"/>
-    <updated>2026-07-11T09:22:06.871Z</updated>
+    <updated>2026-07-12T09:46:46.483Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-exploreyc"><span></span></a><a href="https://www.producthunt.com/products/yc-company-explorer" target="_blank" rel="noopener noreferrer">TOP1    ExploreYC</a></h2>
 <p><img src="https://ph-files.imgix.net/baea8039-95b0-4f47-98fb-67956e53cf41.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ExploreYC" loading="lazy"><br><br>
 <strong>【标语】</strong>：Open-source API for Y Combinator &amp; a16z company data<br>
@@ -63,7 +88,7 @@
     <title type="text">PH今日热榜 | 2026-07-07</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-07.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-07.html"/>
-    <updated>2026-07-11T09:22:06.880Z</updated>
+    <updated>2026-07-12T09:46:46.500Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-badge"><span></span></a><a href="https://www.producthunt.com/products/badge-3" target="_blank" rel="noopener noreferrer">TOP1    Badge</a></h2>
 <p><img src="https://ph-files.imgix.net/dbc627d5-6d62-4487-b9ad-776f6050d830.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Badge" loading="lazy"><br><br>
 <strong>【标语】</strong>：AI agents collect peer reviews to generate proof of work<br>
@@ -88,7 +113,7 @@
     <title type="text">PH今日热榜 | 2026-07-06</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-06.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-06.html"/>
-    <updated>2026-07-11T09:22:06.892Z</updated>
+    <updated>2026-07-12T09:46:46.509Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-anysearch"><span></span></a><a href="https://www.producthunt.com/products/anysearch" target="_blank" rel="noopener noreferrer">TOP1    AnySearch</a></h2>
 <p><img src="https://ph-files.imgix.net/3434d483-2790-4082-aa8f-25efb86abf44.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="AnySearch" loading="lazy"><br><br>
 <strong>【标语】</strong>：受代理和开发者信任的实时结构化搜索<br>
@@ -113,7 +138,7 @@
     <title type="text">PH今日热榜 | 2026-07-05</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-05.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-05.html"/>
-    <updated>2026-07-11T09:22:06.903Z</updated>
+    <updated>2026-07-12T09:46:46.523Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-workbuddy"><span></span></a><a href="https://www.producthunt.com/products/workbuddy-2" target="_blank" rel="noopener noreferrer">TOP1    WorkBuddy</a></h2>
 <p><img src="https://ph-files.imgix.net/51c46bd1-bf4d-40ed-8d01-6127e1743a14.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="WorkBuddy" loading="lazy"><br><br>
 <strong>【标语】</strong>：与人工智能专家团队一起更快地产生尖锐的结果<br>
@@ -138,7 +163,7 @@
     <title type="text">PH今日热榜 | 2026-07-04</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-04.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-04.html"/>
-    <updated>2026-07-11T09:22:06.913Z</updated>
+    <updated>2026-07-12T09:46:46.531Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-vida"><span></span></a><a href="https://www.producthunt.com/products/vida-5" target="_blank" rel="noopener noreferrer">TOP1    Vida</a></h2>
 <p><img src="https://ph-files.imgix.net/cbc4ba52-fa3e-436b-9e30-746e5643036e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Vida" loading="lazy"><br><br>
 <strong>【标语】</strong>：克隆自己。在你要求之前让人工智能完成工作<br>
@@ -163,7 +188,7 @@
     <title type="text">PH今日热榜 | 2026-07-03</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-03.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-03.html"/>
-    <updated>2026-07-11T09:22:06.921Z</updated>
+    <updated>2026-07-12T09:46:46.547Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-glaze-by-raycast"><span></span></a><a href="https://www.producthunt.com/products/glaze-4" target="_blank" rel="noopener noreferrer">TOP1    Glaze by Raycast</a></h2>
 <p><img src="https://ph-files.imgix.net/2375fc04-8d88-4b49-9412-58872203cbe8.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Glaze by Raycast" loading="lazy"><br><br>
 <strong>【标语】</strong>：通过与AI聊天创建您自己的Mac应用程序<br>
@@ -188,7 +213,7 @@
     <title type="text">PH今日热榜 | 2026-07-02</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-02.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-02.html"/>
-    <updated>2026-07-11T09:22:06.934Z</updated>
+    <updated>2026-07-12T09:46:46.564Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-context-dev"><span></span></a><a href="https://www.producthunt.com/products/context-dev" target="_blank" rel="noopener noreferrer">TOP1    Context.dev</a></h2>
 <p><img src="https://ph-files.imgix.net/32a94a26-3db3-49c0-8b04-6ddd8ce5b479.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Context.dev" loading="lazy"><br><br>
 <strong>【标语】</strong>：一个API来抓取，丰富和提取互联网<br>
@@ -213,7 +238,7 @@
     <title type="text">PH今日热榜 | 2026-07-01</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-01.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-01.html"/>
-    <updated>2026-07-11T09:22:06.941Z</updated>
+    <updated>2026-07-12T09:46:46.572Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-acti"><span></span></a><a href="https://www.producthunt.com/products/acti-2" target="_blank" rel="noopener noreferrer">TOP1    Acti</a></h2>
 <p><img src="https://ph-files.imgix.net/bee48359-0b85-4051-aa10-344d192062bf.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Acti" loading="lazy"><br><br>
 <strong>【标语】</strong>：用于移动命令和搜索的键盘<br>
@@ -233,30 +258,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2026-07-01T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2026-06-30</title>
-    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-06-30.html</id>
-    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-06-30.html"/>
-    <updated>2026-07-11T09:22:06.951Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-cursor-for-ios"><span></span></a><a href="https://www.producthunt.com/products/cursor" target="_blank" rel="noopener noreferrer">TOP1    Cursor for iOS</a></h2>
-<p><img src="https://ph-files.imgix.net/cd0d1e71-589a-4d98-a22f-344db9dc89da.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Cursor for iOS" loading="lazy"><br><br>
-<strong>【标语】</strong>：从任何地方使用编码代理构建<br>
-<strong>【介绍】</strong>：Cursor现已作为原生iOS应用程序公开测试版提供，因此您可以在任何地方进行构建。到目前为止，开发人员一直在努力绕过本地机器的限制，无论走到哪里，笔记本电脑都保持半开状态并含有咖啡因。使用Cursor for iOS，您可以在云中启动始终在线的代理，或从手机控制计算机上运行的代理。当想法出现时，将其解雇，当工作准备好进行审查时收到通知，并在旅途中合并PR。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/KBJ3E75U6E6GTF" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/cursor" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-cursor-for-ios"><span></span></a><a href="https://www.producthunt.com/products/cursor" target="_blank" rel="noopener noreferrer">TOP1    Cursor for iOS</a></h2>
-<p><img src="https://ph-files.imgix.net/cd0d1e71-589a-4d98-a22f-344db9dc89da.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Cursor for iOS" loading="lazy"><br><br>
-<strong>【标语】</strong>：从任何地方使用编码代理构建<br>
-<strong>【介绍】</strong>：Cursor现已作为原生iOS应用程序公开测试版提供，因此您可以在任何地方进行构建。到目前为止，开发人员一直在努力绕过本地机器的限制，无论走到哪里，笔记本电脑都保持半开状态并含有咖啡因。使用Cursor for iOS，您可以在云中启动始终在线的代理，或从手机控制计算机上运行的代理。当想法出现时，将其解雇，当工作准备好进行审查时收到通知，并在旅途中合并PR。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/KBJ3E75U6E6GTF" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/cursor" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：Cursor,iOS,代理,构建,开发人员,测试版<br>
-<strong>票数</strong>： 🔺538<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年06月30日 PM03:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2026-06-30T00:00:00.000Z</published>
   </entry>
 </feed>
