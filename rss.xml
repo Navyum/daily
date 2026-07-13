@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 12 Jul 2026 09:46:46 GMT</pubDate>
-    <lastBuildDate>Sun, 12 Jul 2026 09:46:46 GMT</lastBuildDate>
+    <pubDate>Mon, 13 Jul 2026 10:54:21 GMT</pubDate>
+    <lastBuildDate>Mon, 13 Jul 2026 10:54:21 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-07-11</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-11.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-07-11.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-07-11</source>
+      <description>TOP1 Effects SDK Effects SDK 【标语】：AI video &amp; audio effects SDK for real-time apps 【介绍】：Effects SDK helps developers add production-ready AI video and audio effects to web, deskt...</description>
+      <category>PH</category>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-effects-sdk"><span></span></a><a href="https://www.producthunt.com/products/effects-sdk" target="_blank" rel="noopener noreferrer">TOP1    Effects SDK</a></h2>
+<p><img src="https://ph-files.imgix.net/0f98f1b7-fbf1-42d0-ba31-b7ff40b00e38.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Effects SDK" loading="lazy"><br><br>
+<strong>【标语】</strong>：AI video &amp; audio effects SDK for real-time apps<br>
+<strong>【介绍】</strong>：Effects SDK helps developers add production-ready AI video and audio effects to web, desktop, and mobile apps. Add background blur, virtual backgrounds, smart framing, lighting correction, beautification, overlays, avatars, and real-time noise suppression — all running client-side, without sending video or audio to our servers.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/UFCXYL336A5QGC" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/effects-sdk" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：video,audio,AI,effects,SDK,real<br>
+<strong>票数</strong>： 🔺459<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年07月11日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/0f98f1b7-fbf1-42d0-ba31-b7ff40b00e38.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-07-10</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-10.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年07月02日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/32a94a26-3db3-49c0-8b04-6ddd8ce5b479.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-07-01</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-01.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-07-01.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-07-01</source>
-      <description>TOP1 Acti Acti 【标语】：用于移动命令和搜索的键盘 【介绍】：输入您需要的内容。持有Acti酒吧。Actii了解您的意图，并在您所在的地方带回正确的结果、链接或操作。使用Actii进行实时体育赛程、附近餐厅、Notion文档、LinkedIn个人资料、会面链接、日历操作和自定义工作流程-无需离开对话。 【官网】：立即访问 【Product...</description>
-      <category>PH</category>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-acti"><span></span></a><a href="https://www.producthunt.com/products/acti-2" target="_blank" rel="noopener noreferrer">TOP1    Acti</a></h2>
-<p><img src="https://ph-files.imgix.net/bee48359-0b85-4051-aa10-344d192062bf.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Acti" loading="lazy"><br><br>
-<strong>【标语】</strong>：用于移动命令和搜索的键盘<br>
-<strong>【介绍】</strong>：输入您需要的内容。持有Acti酒吧。Actii了解您的意图，并在您所在的地方带回正确的结果、链接或操作。使用Actii进行实时体育赛程、附近餐厅、Notion文档、LinkedIn个人资料、会面链接、日历操作和自定义工作流程-无需离开对话。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/JTS2SCFXSWS3V4" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/acti-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：Actii,链接,自定义,Acti,Notion,LinkedIn<br>
-<strong>票数</strong>： 🔺525<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年07月01日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/bee48359-0b85-4051-aa10-344d192062bf.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
