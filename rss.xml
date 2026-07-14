@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 13 Jul 2026 10:54:21 GMT</pubDate>
-    <lastBuildDate>Mon, 13 Jul 2026 10:54:21 GMT</lastBuildDate>
+    <pubDate>Tue, 14 Jul 2026 09:51:43 GMT</pubDate>
+    <lastBuildDate>Tue, 14 Jul 2026 09:51:43 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-07-12</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-12.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-07-12.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-07-12</source>
+      <description>TOP1 Miora Miora 【标语】：Scale your creativity on editable canvas with agent memory 【介绍】：Not another AI image tool. Miora is an Agentic Creative Studio with Memory. Bring one idea,...</description>
+      <category>PH</category>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-miora"><span></span></a><a href="https://www.producthunt.com/products/miora-2" target="_blank" rel="noopener noreferrer">TOP1    Miora</a></h2>
+<p><img src="https://ph-files.imgix.net/549926bb-a831-438c-bc3f-413808b112d2.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Miora" loading="lazy"><br><br>
+<strong>【标语】</strong>：Scale your creativity on editable canvas with agent memory<br>
+<strong>【介绍】</strong>：Not another AI image tool. Miora is an Agentic Creative Studio with Memory. Bring one idea, generate multimodal assets on one editable canvas, turn auto-built memory into a reusable Skill, then create more, always true to your taste. One person, a whole creative studio.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/IZSZX2A4YB4GZE" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/miora-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：your,editable,canvas,Scale,creativity,agent<br>
+<strong>票数</strong>： 🔺567<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年07月12日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/549926bb-a831-438c-bc3f-413808b112d2.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-07-11</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-11.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年07月03日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/2375fc04-8d88-4b49-9412-58872203cbe8.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-07-02</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-02.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-07-02.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-07-02</source>
-      <description>TOP1 Context.dev Context.dev 【标语】：一个API来抓取，丰富和提取互联网 【介绍】：Context.dev是用于人工智能产品和代理的网络上下文API。抓取任何URL、抓取网站、将页面转换为LLM就绪的Markdown、将结构化数据提取到您自己的模式中、捕获屏幕截图并通过一个API检索徽标、颜色、字体、样式指南、公司数据和交...</description>
-      <category>PH</category>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-context-dev"><span></span></a><a href="https://www.producthunt.com/products/context-dev" target="_blank" rel="noopener noreferrer">TOP1    Context.dev</a></h2>
-<p><img src="https://ph-files.imgix.net/32a94a26-3db3-49c0-8b04-6ddd8ce5b479.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Context.dev" loading="lazy"><br><br>
-<strong>【标语】</strong>：一个API来抓取，丰富和提取互联网<br>
-<strong>【介绍】</strong>：Context.dev是用于人工智能产品和代理的网络上下文API。抓取任何URL、抓取网站、将页面转换为LLM就绪的Markdown、将结构化数据提取到您自己的模式中、捕获屏幕截图并通过一个API检索徽标、颜色、字体、样式指南、公司数据和交易丰富。由JC支持，无需卡，并且构建以便开发人员或编码代理可以在几分钟内集成。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/XBX6EKSLADLB4V" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/context-dev" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：API,抓取,提取,代理,徽标,开发人员<br>
-<strong>票数</strong>： 🔺730<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年07月02日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/32a94a26-3db3-49c0-8b04-6ddd8ce5b479.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
