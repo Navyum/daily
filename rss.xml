@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 14 Jul 2026 09:51:43 GMT</pubDate>
-    <lastBuildDate>Tue, 14 Jul 2026 09:51:43 GMT</lastBuildDate>
+    <pubDate>Wed, 15 Jul 2026 09:55:57 GMT</pubDate>
+    <lastBuildDate>Wed, 15 Jul 2026 09:55:57 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-07-13</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-13.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-07-13.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-07-13</source>
+      <description>TOP1 AgentKey AgentKey 【标语】：One-stop live data marketplace for your agent 【介绍】：AgentKey is a plugin that connects your agent to live external data in one command. Install it int...</description>
+      <category>PH</category>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-agentkey"><span></span></a><a href="https://www.producthunt.com/products/agentkey" target="_blank" rel="noopener noreferrer">TOP1    AgentKey</a></h2>
+<p><img src="https://ph-files.imgix.net/cbbf9bc2-c528-40b1-b606-d58313bce23d.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="AgentKey" loading="lazy"><br><br>
+<strong>【标语】</strong>：One-stop live data marketplace for your agent<br>
+<strong>【介绍】</strong>：AgentKey is a plugin that connects your agent to live external data in one command. Install it into Claude Code, Codex, OpenClaw, or any MCP-based agent and instantly unlock access to search, web pages, social platforms, finance, e-commerce, business and crypto data. No integrations. No setup. Auto failover keeps workflows running.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/U23MKZQPSZUKGY" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/agentkey" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：data,live,your,agent,No,stop<br>
+<strong>票数</strong>： 🔺650<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年07月13日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/cbbf9bc2-c528-40b1-b606-d58313bce23d.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-07-12</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-12.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年07月04日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/cbc4ba52-fa3e-436b-9e30-746e5643036e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-07-03</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-03.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-07-03.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-07-03</source>
-      <description>TOP1 Glaze by Raycast Glaze by Raycast 【标语】：通过与AI聊天创建您自己的Mac应用程序 【介绍】：Glaze是将创意转化为Mac应用程序的最简单方法。描述您想要什么，它就会构建一个真正的应用程序，该应用程序位于您的底座上，立即启动，离线工作，并充分利用您计算机的功能。最终成为个性化的、围绕您塑造的软件。来自Ra...</description>
-      <category>PH</category>
-      <pubDate>Fri, 03 Jul 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-glaze-by-raycast"><span></span></a><a href="https://www.producthunt.com/products/glaze-4" target="_blank" rel="noopener noreferrer">TOP1    Glaze by Raycast</a></h2>
-<p><img src="https://ph-files.imgix.net/2375fc04-8d88-4b49-9412-58872203cbe8.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Glaze by Raycast" loading="lazy"><br><br>
-<strong>【标语】</strong>：通过与AI聊天创建您自己的Mac应用程序<br>
-<strong>【介绍】</strong>：Glaze是将创意转化为Mac应用程序的最简单方法。描述您想要什么，它就会构建一个真正的应用程序，该应用程序位于您的底座上，立即启动，离线工作，并充分利用您计算机的功能。最终成为个性化的、围绕您塑造的软件。来自Raycast的制作者。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/5O23FOO5ATZ5QC" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/glaze-4" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：应用程序,Mac,离线,AI,Glaze,Raycast<br>
-<strong>票数</strong>： 🔺547<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年07月03日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/2375fc04-8d88-4b49-9412-58872203cbe8.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
