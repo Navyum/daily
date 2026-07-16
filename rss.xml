@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 15 Jul 2026 09:55:57 GMT</pubDate>
-    <lastBuildDate>Wed, 15 Jul 2026 09:55:57 GMT</lastBuildDate>
+    <pubDate>Thu, 16 Jul 2026 10:02:31 GMT</pubDate>
+    <lastBuildDate>Thu, 16 Jul 2026 10:02:31 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-07-14</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-14.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-07-14.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-07-14</source>
+      <description>TOP1 ClawTeams ClawTeams 【标语】：The first goal-driven, proactive AI team for e-commerce 【介绍】：ClawTeams is an AI employee platform for e-commerce sellers. Instead of hiring special...</description>
+      <category>PH</category>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-clawteams"><span></span></a><a href="https://www.producthunt.com/products/clawteams" target="_blank" rel="noopener noreferrer">TOP1    ClawTeams</a></h2>
+<p><img src="https://ph-files.imgix.net/979edc63-1ca3-45b2-a5e9-12171aa60b01.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ClawTeams" loading="lazy"><br><br>
+<strong>【标语】</strong>：The first goal-driven, proactive AI team for e-commerce<br>
+<strong>【介绍】</strong>：ClawTeams is an AI employee platform for e-commerce sellers. Instead of hiring specialists—or doing everything yourself—you get a coordinated AI team that thinks, plans, and executes like real employees. One goal. One team. Zero micromanagement. Tell your team lead what you want—"Increase Q4 revenue by 20%"—and they break it down, assign specialists, and run the plan. You get updates in Slack or Discord. High-stakes decisions wait for your approval. Everything else just happens.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/XOOTYQZQO66BZK" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/clawteams" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：team,AI,goal,specialists,get,your<br>
+<strong>票数</strong>： 🔺723<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年07月14日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/979edc63-1ca3-45b2-a5e9-12171aa60b01.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-07-13</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-13.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年07月05日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/51c46bd1-bf4d-40ed-8d01-6127e1743a14.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-07-04</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-04.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-07-04.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-07-04</source>
-      <description>TOP1 Vida Vida 【标语】：克隆自己。在你要求之前让人工智能完成工作 【介绍】：Vida是一个人工智能，可以学习你的工作方式，记住什么重要，并随着时间的推移变得更像你。您使用Vida越多，它就越了解您的习惯、项目和完成事情的方式。最终，它就像第二个版本的你一样工作--在你提出要求之前，就在后台悄悄地处理重复性工作。今天，我们推出了前5个SO...</description>
-      <category>PH</category>
-      <pubDate>Sat, 04 Jul 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-vida"><span></span></a><a href="https://www.producthunt.com/products/vida-5" target="_blank" rel="noopener noreferrer">TOP1    Vida</a></h2>
-<p><img src="https://ph-files.imgix.net/cbc4ba52-fa3e-436b-9e30-746e5643036e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Vida" loading="lazy"><br><br>
-<strong>【标语】</strong>：克隆自己。在你要求之前让人工智能完成工作<br>
-<strong>【介绍】</strong>：Vida是一个人工智能，可以学习你的工作方式，记住什么重要，并随着时间的推移变得更像你。您使用Vida越多，它就越了解您的习惯、项目和完成事情的方式。最终，它就像第二个版本的你一样工作--在你提出要求之前，就在后台悄悄地处理重复性工作。今天，我们推出了前5个SOTA用例：回复救援·提示救援·恢复救援·工作空间收件· Daily Wrap 95更多以在公共场合征服。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/NK4KBFW256NNE2" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/vida-5" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：Vida,救援,工作,人工智能,收件,--<br>
-<strong>票数</strong>： 🔺381<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年07月04日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/cbc4ba52-fa3e-436b-9e30-746e5643036e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
