@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 16 Jul 2026 10:02:31 GMT</pubDate>
-    <lastBuildDate>Thu, 16 Jul 2026 10:02:31 GMT</lastBuildDate>
+    <pubDate>Fri, 17 Jul 2026 09:51:36 GMT</pubDate>
+    <lastBuildDate>Fri, 17 Jul 2026 09:51:36 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-07-15</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-15.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-07-15.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-07-15</source>
+      <description>TOP1 V2Fun V2Fun 【标语】：Generate 3D character with 8K textures and AI motion capture 【介绍】：V2Fun is an AI 3D creation platform built with self-developed 3D modeling and AI motion c...</description>
+      <category>PH</category>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-v2fun"><span></span></a><a href="https://www.producthunt.com/products/v2fun" target="_blank" rel="noopener noreferrer">TOP1    V2Fun</a></h2>
+<p><img src="https://ph-files.imgix.net/0277dfe3-ea5c-459f-80a2-611d3d8f8fe5.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="V2Fun" loading="lazy"><br><br>
+<strong>【标语】</strong>：Generate 3D character with 8K textures and AI motion capture<br>
+<strong>【介绍】</strong>：V2Fun is an AI 3D creation platform built with self-developed 3D modeling and AI motion capture models. It helps creators turn images, prompts, and videos into high-quality 3D models, enhance assets with advanced 8K texture generation, and create motion-ready characters without switching between separate modeling, texturing, and mocap tools. V2Fun also supports image generation through models including Nano Banana and others, so creators can explore visual concepts and bring them into 3D faster.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/YMZ2X3HYSCQ2UP" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/v2fun" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：3D,AI,motion,models,8K,modeling<br>
+<strong>票数</strong>： 🔺646<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年07月15日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/0277dfe3-ea5c-459f-80a2-611d3d8f8fe5.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-07-14</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-14.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年07月06日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/3434d483-2790-4082-aa8f-25efb86abf44.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-07-05</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-05.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-07-05.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-07-05</source>
-      <description>TOP1 WorkBuddy WorkBuddy 【标语】：与人工智能专家团队一起更快地产生尖锐的结果 【介绍】：Tencent WorkBuddy是一款专为日常办公而打造的人工智能代理。提出请求。指导您的人工智能专家团队。提出第二种意见。获得尖锐、即用型的结果。 【官网】：立即访问 【Product Hunt】：View on Product Hun...</description>
-      <category>PH</category>
-      <pubDate>Sun, 05 Jul 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-workbuddy"><span></span></a><a href="https://www.producthunt.com/products/workbuddy-2" target="_blank" rel="noopener noreferrer">TOP1    WorkBuddy</a></h2>
-<p><img src="https://ph-files.imgix.net/51c46bd1-bf4d-40ed-8d01-6127e1743a14.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="WorkBuddy" loading="lazy"><br><br>
-<strong>【标语】</strong>：与人工智能专家团队一起更快地产生尖锐的结果<br>
-<strong>【介绍】</strong>：Tencent WorkBuddy是一款专为日常办公而打造的人工智能代理。提出请求。指导您的人工智能专家团队。提出第二种意见。获得尖锐、即用型的结果。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/UHHXBJG665CHTW" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/workbuddy-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：人工智能,尖锐,团队,Tencent,WorkBuddy,专家<br>
-<strong>票数</strong>： 🔺385<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年07月05日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/51c46bd1-bf4d-40ed-8d01-6127e1743a14.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
