@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 17 Jul 2026 09:51:36 GMT</pubDate>
-    <lastBuildDate>Fri, 17 Jul 2026 09:51:36 GMT</lastBuildDate>
+    <pubDate>Sat, 18 Jul 2026 09:18:58 GMT</pubDate>
+    <lastBuildDate>Sat, 18 Jul 2026 09:18:58 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-07-16</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-16.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-07-16.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-07-16</source>
+      <description>TOP1 Paradigm Paradigm 【标语】：Turn any goal into a personalized, adaptive learning path. 【介绍】：Paradigm reimagines education around the individual, taking any learning goal and tur...</description>
+      <category>PH</category>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-paradigm"><span></span></a><a href="https://www.producthunt.com/products/paradigm-3" target="_blank" rel="noopener noreferrer">TOP1    Paradigm</a></h2>
+<p><img src="https://ph-files.imgix.net/a77258f0-dc12-4465-b009-725138372fe3.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Paradigm" loading="lazy"><br><br>
+<strong>【标语】</strong>：Turn any goal into a personalized, adaptive learning path.<br>
+<strong>【介绍】</strong>：Paradigm reimagines education around the individual, taking any learning goal and turning it into a step-by-step path that evolves with your progress, helping you move steadily from curiosity to mastery without getting lost.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/BASZVKO22HWWKN" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/paradigm-3" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：any,goal,into,learning,path,step<br>
+<strong>票数</strong>： 🔺607<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年07月16日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/a77258f0-dc12-4465-b009-725138372fe3.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-07-15</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-15.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年07月07日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/dbc627d5-6d62-4487-b9ad-776f6050d830.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-07-06</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-06.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-07-06.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-07-06</source>
-      <description>TOP1 AnySearch AnySearch 【标语】：受代理和开发者信任的实时结构化搜索 【介绍】：代理的搜索工具，而不是搜索框。人工智能代理的好坏取决于他们收到的信息。当连接到AnySearch时，您的代理会从并行搜索的可信来源中获得过滤、重复数据消除和结构化信息，帮助其生成更可靠的结果。自由开始。 【官网】：立即访问 【Product Hun...</description>
-      <category>PH</category>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-anysearch"><span></span></a><a href="https://www.producthunt.com/products/anysearch" target="_blank" rel="noopener noreferrer">TOP1    AnySearch</a></h2>
-<p><img src="https://ph-files.imgix.net/3434d483-2790-4082-aa8f-25efb86abf44.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="AnySearch" loading="lazy"><br><br>
-<strong>【标语】</strong>：受代理和开发者信任的实时结构化搜索<br>
-<strong>【介绍】</strong>：代理的搜索工具，而不是搜索框。人工智能代理的好坏取决于他们收到的信息。当连接到AnySearch时，您的代理会从并行搜索的可信来源中获得过滤、重复数据消除和结构化信息，帮助其生成更可靠的结果。自由开始。<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/XAHTE3V55ECFBX" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/anysearch" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：搜索,代理,结构化,AnySearch,代理会,开发者<br>
-<strong>票数</strong>： 🔺537<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年07月06日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/3434d483-2790-4082-aa8f-25efb86abf44.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
