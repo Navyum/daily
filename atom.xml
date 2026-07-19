@@ -4,16 +4,41 @@
   <title>DAYHACK</title>
   <subtitle>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</subtitle>
   <icon>https://github.camscanner.top/daily/favicon.ico</icon>
-  <updated>2026-07-18T09:18:58.734Z</updated>
+  <updated>2026-07-19T09:47:32.754Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/"/>
   <category term="PH"/>
   <entry>
+    <title type="text">PH今日热榜 | 2026-07-17</title>
+    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-17.html</id>
+    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-17.html"/>
+    <updated>2026-07-19T09:47:32.755Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-unabyss-for-claude"><span></span></a><a href="https://www.producthunt.com/products/unabyss" target="_blank" rel="noopener noreferrer">TOP1    Unabyss for Claude</a></h2>
+<p><img src="https://ph-files.imgix.net/fd1493ae-aeef-440f-8346-1a286c1b2718.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Unabyss for Claude" loading="lazy"><br><br>
+<strong>【标语】</strong>：Shared memory across all apps and LLMs. In Claude<br>
+<strong>【介绍】</strong>：Claude doesn't know what happens in GPT. Neither one really knows who you are or what your company does. Now they can. Unabyss gives Claude memories from your other AI agents and everyday apps: email, Drive, GitHub, Notion, meeting recorders, and 20+ more. It saves new memories too, so GPT and Cursor stay in sync with the exact same context - sharper than wiring each tool into Claude one by one. Finally, a real memory that follows you. Private. Portable.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/AW6GAYWJDAD4GS" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/unabyss" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-unabyss-for-claude"><span></span></a><a href="https://www.producthunt.com/products/unabyss" target="_blank" rel="noopener noreferrer">TOP1    Unabyss for Claude</a></h2>
+<p><img src="https://ph-files.imgix.net/fd1493ae-aeef-440f-8346-1a286c1b2718.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Unabyss for Claude" loading="lazy"><br><br>
+<strong>【标语】</strong>：Shared memory across all apps and LLMs. In Claude<br>
+<strong>【介绍】</strong>：Claude doesn't know what happens in GPT. Neither one really knows who you are or what your company does. Now they can. Unabyss gives Claude memories from your other AI agents and everyday apps: email, Drive, GitHub, Notion, meeting recorders, and 20+ more. It saves new memories too, so GPT and Cursor stay in sync with the exact same context - sharper than wiring each tool into Claude one by one. Finally, a real memory that follows you. Private. Portable.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/AW6GAYWJDAD4GS" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/unabyss" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：memory,apps,what,GPT,your,Claude<br>
+<strong>票数</strong>： 🔺577<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年07月17日 PM03:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2026-07-17T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">PH今日热榜 | 2026-07-16</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-16.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-16.html"/>
-    <updated>2026-07-18T09:18:58.736Z</updated>
+    <updated>2026-07-19T09:47:32.769Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-paradigm"><span></span></a><a href="https://www.producthunt.com/products/paradigm-3" target="_blank" rel="noopener noreferrer">TOP1    Paradigm</a></h2>
 <p><img src="https://ph-files.imgix.net/a77258f0-dc12-4465-b009-725138372fe3.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Paradigm" loading="lazy"><br><br>
 <strong>【标语】</strong>：Turn any goal into a personalized, adaptive learning path.<br>
@@ -38,7 +63,7 @@
     <title type="text">PH今日热榜 | 2026-07-15</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-15.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-15.html"/>
-    <updated>2026-07-18T09:18:58.759Z</updated>
+    <updated>2026-07-19T09:47:32.784Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-v2fun"><span></span></a><a href="https://www.producthunt.com/products/v2fun" target="_blank" rel="noopener noreferrer">TOP1    V2Fun</a></h2>
 <p><img src="https://ph-files.imgix.net/0277dfe3-ea5c-459f-80a2-611d3d8f8fe5.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="V2Fun" loading="lazy"><br><br>
 <strong>【标语】</strong>：Generate 3D character with 8K textures and AI motion capture<br>
@@ -63,7 +88,7 @@
     <title type="text">PH今日热榜 | 2026-07-14</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-14.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-14.html"/>
-    <updated>2026-07-18T09:18:58.767Z</updated>
+    <updated>2026-07-19T09:47:32.793Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-clawteams"><span></span></a><a href="https://www.producthunt.com/products/clawteams" target="_blank" rel="noopener noreferrer">TOP1    ClawTeams</a></h2>
 <p><img src="https://ph-files.imgix.net/979edc63-1ca3-45b2-a5e9-12171aa60b01.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ClawTeams" loading="lazy"><br><br>
 <strong>【标语】</strong>：The first goal-driven, proactive AI team for e-commerce<br>
@@ -88,7 +113,7 @@
     <title type="text">PH今日热榜 | 2026-07-13</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-13.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-13.html"/>
-    <updated>2026-07-18T09:18:58.782Z</updated>
+    <updated>2026-07-19T09:47:32.810Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-agentkey"><span></span></a><a href="https://www.producthunt.com/products/agentkey" target="_blank" rel="noopener noreferrer">TOP1    AgentKey</a></h2>
 <p><img src="https://ph-files.imgix.net/cbbf9bc2-c528-40b1-b606-d58313bce23d.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="AgentKey" loading="lazy"><br><br>
 <strong>【标语】</strong>：One-stop live data marketplace for your agent<br>
@@ -113,7 +138,7 @@
     <title type="text">PH今日热榜 | 2026-07-12</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-12.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-12.html"/>
-    <updated>2026-07-18T09:18:58.799Z</updated>
+    <updated>2026-07-19T09:47:32.823Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-miora"><span></span></a><a href="https://www.producthunt.com/products/miora-2" target="_blank" rel="noopener noreferrer">TOP1    Miora</a></h2>
 <p><img src="https://ph-files.imgix.net/549926bb-a831-438c-bc3f-413808b112d2.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Miora" loading="lazy"><br><br>
 <strong>【标语】</strong>：Scale your creativity on editable canvas with agent memory<br>
@@ -138,7 +163,7 @@
     <title type="text">PH今日热榜 | 2026-07-11</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-11.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-11.html"/>
-    <updated>2026-07-18T09:18:58.806Z</updated>
+    <updated>2026-07-19T09:47:32.832Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-effects-sdk"><span></span></a><a href="https://www.producthunt.com/products/effects-sdk" target="_blank" rel="noopener noreferrer">TOP1    Effects SDK</a></h2>
 <p><img src="https://ph-files.imgix.net/0f98f1b7-fbf1-42d0-ba31-b7ff40b00e38.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Effects SDK" loading="lazy"><br><br>
 <strong>【标语】</strong>：AI video &amp; audio effects SDK for real-time apps<br>
@@ -163,7 +188,7 @@
     <title type="text">PH今日热榜 | 2026-07-10</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-10.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-10.html"/>
-    <updated>2026-07-18T09:18:58.820Z</updated>
+    <updated>2026-07-19T09:47:32.846Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-chatcut"><span></span></a><a href="https://www.producthunt.com/products/chatcut-ai-video-editor" target="_blank" rel="noopener noreferrer">TOP1    ChatCut</a></h2>
 <p><img src="https://ph-files.imgix.net/63e46d86-91c2-47ce-b208-78eae05d1ea2.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ChatCut" loading="lazy"><br><br>
 <strong>【标语】</strong>：Your AI video editor in ChatGPT, desktop, and web<br>
@@ -188,7 +213,7 @@
     <title type="text">PH今日热榜 | 2026-07-09</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-09.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-09.html"/>
-    <updated>2026-07-18T09:18:58.831Z</updated>
+    <updated>2026-07-19T09:47:32.857Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-auriko"><span></span></a><a href="https://www.producthunt.com/products/auriko" target="_blank" rel="noopener noreferrer">TOP1    Auriko </a></h2>
 <p><img src="https://ph-files.imgix.net/1a860255-a7b5-4306-b74c-51b644cb42db.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Auriko " loading="lazy"><br><br>
 <strong>【标语】</strong>：Trading desk for LLM calls<br>
@@ -213,7 +238,7 @@
     <title type="text">PH今日热榜 | 2026-07-08</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-08.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-08.html"/>
-    <updated>2026-07-18T09:18:58.846Z</updated>
+    <updated>2026-07-19T09:47:32.870Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-exploreyc"><span></span></a><a href="https://www.producthunt.com/products/yc-company-explorer" target="_blank" rel="noopener noreferrer">TOP1    ExploreYC</a></h2>
 <p><img src="https://ph-files.imgix.net/baea8039-95b0-4f47-98fb-67956e53cf41.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ExploreYC" loading="lazy"><br><br>
 <strong>【标语】</strong>：Open-source API for Y Combinator &amp; a16z company data<br>
@@ -233,30 +258,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2026-07-08T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2026-07-07</title>
-    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-07.html</id>
-    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-07.html"/>
-    <updated>2026-07-18T09:18:58.854Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-badge"><span></span></a><a href="https://www.producthunt.com/products/badge-3" target="_blank" rel="noopener noreferrer">TOP1    Badge</a></h2>
-<p><img src="https://ph-files.imgix.net/dbc627d5-6d62-4487-b9ad-776f6050d830.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Badge" loading="lazy"><br><br>
-<strong>【标语】</strong>：AI agents collect peer reviews to generate proof of work<br>
-<strong>【介绍】</strong>：Badge gives an AI agent that collects peer reviews to build proof of work. For job seekers - The agent connects to your contacts, requests anonymous reviews from your past colleagues, and builds a verified, portable trust score. score. For hiring managers - Badge gives you a 30 second reference checks on candidates, collecting authentic feedback from their actual coworkers to replace unreliable, AI-generated resumes and LinkedIn Recommendations.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/SJNBNECUTZE3BI" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/badge-3" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-badge"><span></span></a><a href="https://www.producthunt.com/products/badge-3" target="_blank" rel="noopener noreferrer">TOP1    Badge</a></h2>
-<p><img src="https://ph-files.imgix.net/dbc627d5-6d62-4487-b9ad-776f6050d830.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Badge" loading="lazy"><br><br>
-<strong>【标语】</strong>：AI agents collect peer reviews to generate proof of work<br>
-<strong>【介绍】</strong>：Badge gives an AI agent that collects peer reviews to build proof of work. For job seekers - The agent connects to your contacts, requests anonymous reviews from your past colleagues, and builds a verified, portable trust score. score. For hiring managers - Badge gives you a 30 second reference checks on candidates, collecting authentic feedback from their actual coworkers to replace unreliable, AI-generated resumes and LinkedIn Recommendations.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/SJNBNECUTZE3BI" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/badge-3" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：AI,reviews,peer,proof,gives,agent<br>
-<strong>票数</strong>： 🔺451<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年07月07日 PM03:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2026-07-07T00:00:00.000Z</published>
   </entry>
 </feed>
