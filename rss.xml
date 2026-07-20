@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 19 Jul 2026 09:47:32 GMT</pubDate>
-    <lastBuildDate>Sun, 19 Jul 2026 09:47:32 GMT</lastBuildDate>
+    <pubDate>Mon, 20 Jul 2026 10:45:37 GMT</pubDate>
+    <lastBuildDate>Mon, 20 Jul 2026 10:45:37 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-07-18</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-18.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-07-18.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-07-18</source>
+      <description>TOP1 ZooData ZooData 【标语】：The data layer for AI agents 【介绍】：ZooData turns any URL into agent-ready JSON, so AI agents can work with structured data instead of raw HTML or bloate...</description>
+      <category>PH</category>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-zoodata"><span></span></a><a href="https://www.producthunt.com/products/zoodata" target="_blank" rel="noopener noreferrer">TOP1    ZooData</a></h2>
+<p><img src="https://ph-files.imgix.net/b25f8583-fe6f-4505-b36d-e3b740443b0f.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ZooData" loading="lazy"><br><br>
+<strong>【标语】</strong>：The data layer for AI agents<br>
+<strong>【介绍】</strong>：ZooData turns any URL into agent-ready JSON, so AI agents can work with structured data instead of raw HTML or bloated markdown. Use ~75% fewer LLM tokens, pay only for the fields you use, and skip extra extraction credits.Beyond extraction, ZooData gives agents pre-analyzed e-commerce intelligence — competitor, market, traffic, and consumer insights — live for Amazon and TikTok. API, CLI, and MCP server included. Start with 1,000 free credits, no card required.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/2S6BVJ6IPXLOG5" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/zoodata" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：data,AI,agents,extraction,credits,layer<br>
+<strong>票数</strong>： 🔺595<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年07月18日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/b25f8583-fe6f-4505-b36d-e3b740443b0f.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-07-17</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-17.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年07月09日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/1a860255-a7b5-4306-b74c-51b644cb42db.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-07-08</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-08.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-07-08.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-07-08</source>
-      <description>TOP1 ExploreYC ExploreYC 【标语】：Open-source API for Y Combinator &amp; a16z company data 【介绍】：One open-source API for startup data across Y Combinator AND a16z - 6,600+ companies with...</description>
-      <category>PH</category>
-      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-exploreyc"><span></span></a><a href="https://www.producthunt.com/products/yc-company-explorer" target="_blank" rel="noopener noreferrer">TOP1    ExploreYC</a></h2>
-<p><img src="https://ph-files.imgix.net/baea8039-95b0-4f47-98fb-67956e53cf41.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ExploreYC" loading="lazy"><br><br>
-<strong>【标语】</strong>：Open-source API for Y Combinator &amp; a16z company data<br>
-<strong>【介绍】</strong>：One open-source API for startup data across Y Combinator AND a16z - 6,600+ companies with funding, stage, IPO/M&amp;A exits, and founders. Filter by VC (yc/a16z/all), batch, industry, country, or search. Grab a free API key, read the docs (curl/Node/Python + Swagger), and build in 30 seconds. Plus the full web app: map, analytics, funding data, a live hiring board, and AI tools.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/TXISOCQQFTUHJC" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/yc-company-explorer" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：API,a16z,source,Combinator,data,funding<br>
-<strong>票数</strong>： 🔺416<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年07月08日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/baea8039-95b0-4f47-98fb-67956e53cf41.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
