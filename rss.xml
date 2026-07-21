@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 20 Jul 2026 10:45:37 GMT</pubDate>
-    <lastBuildDate>Mon, 20 Jul 2026 10:45:37 GMT</lastBuildDate>
+    <pubDate>Tue, 21 Jul 2026 10:20:31 GMT</pubDate>
+    <lastBuildDate>Tue, 21 Jul 2026 10:20:31 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-07-19</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-19.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-07-19.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-07-19</source>
+      <description>TOP1 OpenSEO OpenSEO 【标语】：The open source Ahrefs alternative 【介绍】：Without good data, your agent gives generic advice. Keyword research, competitor research, backlinks and site a...</description>
+      <category>PH</category>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-openseo"><span></span></a><a href="https://www.producthunt.com/products/openseo" target="_blank" rel="noopener noreferrer">TOP1    OpenSEO</a></h2>
+<p><img src="https://ph-files.imgix.net/4e9ba10f-3997-42e5-8606-664347937ec5.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="OpenSEO" loading="lazy"><br><br>
+<strong>【标语】</strong>：The open source Ahrefs alternative<br>
+<strong>【介绍】</strong>：Without good data, your agent gives generic advice. Keyword research, competitor research, backlinks and site audits, starting at $10/month instead of a $100-plus monthly subscription. Connect with MCP so that you can work with your agent to build an SEO strategy and write content tailored to your company.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/Y35NVXDA24JBBT" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/openseo" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：your,agent,research,open,source,Ahrefs<br>
+<strong>票数</strong>： 🔺709<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年07月19日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/4e9ba10f-3997-42e5-8606-664347937ec5.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-07-18</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-18.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年07月10日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/63e46d86-91c2-47ce-b208-78eae05d1ea2.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-07-09</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-09.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-07-09.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-07-09</source>
-      <description>TOP1 Auriko Auriko 【标语】：Trading desk for LLM calls 【介绍】：Auriko treats LLM providers as trading venues and arbitrages the spread. Built by ex-quant traders, Auriko’s cost-arbitra...</description>
-      <category>PH</category>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-auriko"><span></span></a><a href="https://www.producthunt.com/products/auriko" target="_blank" rel="noopener noreferrer">TOP1    Auriko </a></h2>
-<p><img src="https://ph-files.imgix.net/1a860255-a7b5-4306-b74c-51b644cb42db.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Auriko " loading="lazy"><br><br>
-<strong>【标语】</strong>：Trading desk for LLM calls<br>
-<strong>【介绍】</strong>：Auriko treats LLM providers as trading venues and arbitrages the spread. Built by ex-quant traders, Auriko’s cost-arbitrage engine calibrates to each user’s request patterns and selects optimized inference paths based on token price, cache behavior, latency, reliability, and request quality. Auriko benchmarks show average 30% cost reduction against industry peers and direct providers. See the source: https://www.auriko.ai/reports/llm-cost-arbitrage<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/SYYO32SE2PLD3X" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/auriko" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：cost,LLM,providers,Auriko,arbitrage,request<br>
-<strong>票数</strong>： 🔺555<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年07月09日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/1a860255-a7b5-4306-b74c-51b644cb42db.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
