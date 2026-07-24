@@ -4,16 +4,41 @@
   <title>DAYHACK</title>
   <subtitle>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</subtitle>
   <icon>https://github.camscanner.top/daily/favicon.ico</icon>
-  <updated>2026-07-23T10:14:50.344Z</updated>
+  <updated>2026-07-24T10:11:26.299Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/"/>
   <category term="PH"/>
   <entry>
+    <title type="text">PH今日热榜 | 2026-07-22</title>
+    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-22.html</id>
+    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-22.html"/>
+    <updated>2026-07-24T10:11:26.301Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-buzzy"><span></span></a><a href="https://www.producthunt.com/products/buzzy-2" target="_blank" rel="noopener noreferrer">TOP1    Buzzy</a></h2>
+<p><img src="https://ph-files.imgix.net/991c8f73-7222-4a5a-9e89-0c90bd5b7a3d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Buzzy" loading="lazy"><br><br>
+<strong>【标语】</strong>：Your creative AI co-director<br>
+<strong>【介绍】</strong>：Buzzy is the first truly agentic infinite canvas for video creation. It helps you spark ideas, build moodboards, and precisely photoshop your video in one click — while creating unlimited-length blockbuster films and commercial ads, keeping unlimited subjects consistent, controlling lighting and camera angles, and precisely editing video like photoshop in one workspace.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/3CNNP4C2NOIRFY" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/buzzy-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-buzzy"><span></span></a><a href="https://www.producthunt.com/products/buzzy-2" target="_blank" rel="noopener noreferrer">TOP1    Buzzy</a></h2>
+<p><img src="https://ph-files.imgix.net/991c8f73-7222-4a5a-9e89-0c90bd5b7a3d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Buzzy" loading="lazy"><br><br>
+<strong>【标语】</strong>：Your creative AI co-director<br>
+<strong>【介绍】</strong>：Buzzy is the first truly agentic infinite canvas for video creation. It helps you spark ideas, build moodboards, and precisely photoshop your video in one click — while creating unlimited-length blockbuster films and commercial ads, keeping unlimited subjects consistent, controlling lighting and camera angles, and precisely editing video like photoshop in one workspace.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/3CNNP4C2NOIRFY" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/buzzy-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：video,precisely,photoshop,unlimited,Your,creative<br>
+<strong>票数</strong>： 🔺511<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年07月22日 PM03:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2026-07-22T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">PH今日热榜 | 2026-07-21</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-21.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-21.html"/>
-    <updated>2026-07-23T10:14:50.345Z</updated>
+    <updated>2026-07-24T10:11:26.324Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-lev8"><span></span></a><a href="https://www.producthunt.com/products/lev8" target="_blank" rel="noopener noreferrer">TOP1    Lev8</a></h2>
 <p><img src="https://ph-files.imgix.net/860330de-7862-4f22-9249-0b103250b689.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Lev8" loading="lazy"><br><br>
 <strong>【标语】</strong>：Find, research, and reach the right people<br>
@@ -38,7 +63,7 @@
     <title type="text">PH今日热榜 | 2026-07-20</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-20.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-20.html"/>
-    <updated>2026-07-23T10:14:50.363Z</updated>
+    <updated>2026-07-24T10:11:26.334Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-fuzzy-ai"><span></span></a><a href="https://www.producthunt.com/products/fuzzy-ai-2" target="_blank" rel="noopener noreferrer">TOP1    Fuzzy AI</a></h2>
 <p><img src="https://ph-files.imgix.net/2949c005-a937-445a-b866-aabf3c3aedf1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Fuzzy AI" loading="lazy"><br><br>
 <strong>【标语】</strong>：We warm your prospects before reaching out<br>
@@ -63,7 +88,7 @@
     <title type="text">PH今日热榜 | 2026-07-19</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-19.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-19.html"/>
-    <updated>2026-07-23T10:14:50.378Z</updated>
+    <updated>2026-07-24T10:11:26.348Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-openseo"><span></span></a><a href="https://www.producthunt.com/products/openseo" target="_blank" rel="noopener noreferrer">TOP1    OpenSEO</a></h2>
 <p><img src="https://ph-files.imgix.net/4e9ba10f-3997-42e5-8606-664347937ec5.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="OpenSEO" loading="lazy"><br><br>
 <strong>【标语】</strong>：The open source Ahrefs alternative<br>
@@ -88,7 +113,7 @@
     <title type="text">PH今日热榜 | 2026-07-18</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-18.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-18.html"/>
-    <updated>2026-07-23T10:14:50.387Z</updated>
+    <updated>2026-07-24T10:11:26.357Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-zoodata"><span></span></a><a href="https://www.producthunt.com/products/zoodata" target="_blank" rel="noopener noreferrer">TOP1    ZooData</a></h2>
 <p><img src="https://ph-files.imgix.net/b25f8583-fe6f-4505-b36d-e3b740443b0f.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ZooData" loading="lazy"><br><br>
 <strong>【标语】</strong>：The data layer for AI agents<br>
@@ -113,7 +138,7 @@
     <title type="text">PH今日热榜 | 2026-07-17</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-17.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-17.html"/>
-    <updated>2026-07-23T10:14:50.404Z</updated>
+    <updated>2026-07-24T10:11:26.370Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-unabyss-for-claude"><span></span></a><a href="https://www.producthunt.com/products/unabyss" target="_blank" rel="noopener noreferrer">TOP1    Unabyss for Claude</a></h2>
 <p><img src="https://ph-files.imgix.net/fd1493ae-aeef-440f-8346-1a286c1b2718.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Unabyss for Claude" loading="lazy"><br><br>
 <strong>【标语】</strong>：Shared memory across all apps and LLMs. In Claude<br>
@@ -138,7 +163,7 @@
     <title type="text">PH今日热榜 | 2026-07-16</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-16.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-16.html"/>
-    <updated>2026-07-23T10:14:50.412Z</updated>
+    <updated>2026-07-24T10:11:26.385Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-paradigm"><span></span></a><a href="https://www.producthunt.com/products/paradigm-3" target="_blank" rel="noopener noreferrer">TOP1    Paradigm</a></h2>
 <p><img src="https://ph-files.imgix.net/a77258f0-dc12-4465-b009-725138372fe3.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Paradigm" loading="lazy"><br><br>
 <strong>【标语】</strong>：Turn any goal into a personalized, adaptive learning path.<br>
@@ -163,7 +188,7 @@
     <title type="text">PH今日热榜 | 2026-07-15</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-15.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-15.html"/>
-    <updated>2026-07-23T10:14:50.426Z</updated>
+    <updated>2026-07-24T10:11:26.394Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-v2fun"><span></span></a><a href="https://www.producthunt.com/products/v2fun" target="_blank" rel="noopener noreferrer">TOP1    V2Fun</a></h2>
 <p><img src="https://ph-files.imgix.net/0277dfe3-ea5c-459f-80a2-611d3d8f8fe5.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="V2Fun" loading="lazy"><br><br>
 <strong>【标语】</strong>：Generate 3D character with 8K textures and AI motion capture<br>
@@ -188,7 +213,7 @@
     <title type="text">PH今日热榜 | 2026-07-14</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-14.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-14.html"/>
-    <updated>2026-07-23T10:14:50.434Z</updated>
+    <updated>2026-07-24T10:11:26.409Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-clawteams"><span></span></a><a href="https://www.producthunt.com/products/clawteams" target="_blank" rel="noopener noreferrer">TOP1    ClawTeams</a></h2>
 <p><img src="https://ph-files.imgix.net/979edc63-1ca3-45b2-a5e9-12171aa60b01.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ClawTeams" loading="lazy"><br><br>
 <strong>【标语】</strong>：The first goal-driven, proactive AI team for e-commerce<br>
@@ -213,7 +238,7 @@
     <title type="text">PH今日热榜 | 2026-07-13</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-13.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-13.html"/>
-    <updated>2026-07-23T10:14:50.449Z</updated>
+    <updated>2026-07-24T10:11:26.417Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-agentkey"><span></span></a><a href="https://www.producthunt.com/products/agentkey" target="_blank" rel="noopener noreferrer">TOP1    AgentKey</a></h2>
 <p><img src="https://ph-files.imgix.net/cbbf9bc2-c528-40b1-b606-d58313bce23d.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="AgentKey" loading="lazy"><br><br>
 <strong>【标语】</strong>：One-stop live data marketplace for your agent<br>
@@ -233,30 +258,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2026-07-13T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2026-07-12</title>
-    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-12.html</id>
-    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-12.html"/>
-    <updated>2026-07-23T10:14:50.462Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-miora"><span></span></a><a href="https://www.producthunt.com/products/miora-2" target="_blank" rel="noopener noreferrer">TOP1    Miora</a></h2>
-<p><img src="https://ph-files.imgix.net/549926bb-a831-438c-bc3f-413808b112d2.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Miora" loading="lazy"><br><br>
-<strong>【标语】</strong>：Scale your creativity on editable canvas with agent memory<br>
-<strong>【介绍】</strong>：Not another AI image tool. Miora is an Agentic Creative Studio with Memory. Bring one idea, generate multimodal assets on one editable canvas, turn auto-built memory into a reusable Skill, then create more, always true to your taste. One person, a whole creative studio.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/IZSZX2A4YB4GZE" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/miora-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-miora"><span></span></a><a href="https://www.producthunt.com/products/miora-2" target="_blank" rel="noopener noreferrer">TOP1    Miora</a></h2>
-<p><img src="https://ph-files.imgix.net/549926bb-a831-438c-bc3f-413808b112d2.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Miora" loading="lazy"><br><br>
-<strong>【标语】</strong>：Scale your creativity on editable canvas with agent memory<br>
-<strong>【介绍】</strong>：Not another AI image tool. Miora is an Agentic Creative Studio with Memory. Bring one idea, generate multimodal assets on one editable canvas, turn auto-built memory into a reusable Skill, then create more, always true to your taste. One person, a whole creative studio.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/IZSZX2A4YB4GZE" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/miora-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：your,editable,canvas,Scale,creativity,agent<br>
-<strong>票数</strong>： 🔺567<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年07月12日 PM03:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2026-07-12T00:00:00.000Z</published>
   </entry>
 </feed>
