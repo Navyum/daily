@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 24 Jul 2026 10:11:26 GMT</pubDate>
-    <lastBuildDate>Fri, 24 Jul 2026 10:11:26 GMT</lastBuildDate>
+    <pubDate>Sat, 25 Jul 2026 09:41:06 GMT</pubDate>
+    <lastBuildDate>Sat, 25 Jul 2026 09:41:06 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-07-23</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-23.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-07-23.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-07-23</source>
+      <description>TOP1 PromptQL PromptQL 【标语】：Multiplayer AI that replaces Slack 【介绍】：Stop splitting team knowledge between Slack and everyone&amp;apos;s private AI chats. PromptQL is multiplayer AI for t...</description>
+      <category>PH</category>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-promptql"><span></span></a><a href="https://www.producthunt.com/products/promptql" target="_blank" rel="noopener noreferrer">TOP1    PromptQL</a></h2>
+<p><img src="https://ph-files.imgix.net/ad66a363-60bc-4e00-8bfa-c78726524c1d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="PromptQL" loading="lazy"><br><br>
+<strong>【标语】</strong>：Multiplayer AI that replaces Slack<br>
+<strong>【介绍】</strong>：Stop splitting team knowledge between Slack and everyone's private AI chats. PromptQL is multiplayer AI for teams: think Claude or ChatGPT in shared threads. Tag teammates to review, correct, and refine answers without losing the reasoning. Connect databases, SaaS apps, coding agents, and events. PromptQL captures tribal knowledge and suggests shared-brain updates so context compounds. Scopes and multi-user permissions keep the right context accessible to the right people.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/UDARQUO4K2JLJ3" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/promptql" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：AI,knowledge,PromptQL,shared,context,right<br>
+<strong>票数</strong>： 🔺449<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年07月23日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/ad66a363-60bc-4e00-8bfa-c78726524c1d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-07-22</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-22.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年07月14日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/979edc63-1ca3-45b2-a5e9-12171aa60b01.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-07-13</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-13.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-07-13.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-07-13</source>
-      <description>TOP1 AgentKey AgentKey 【标语】：One-stop live data marketplace for your agent 【介绍】：AgentKey is a plugin that connects your agent to live external data in one command. Install it int...</description>
-      <category>PH</category>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-agentkey"><span></span></a><a href="https://www.producthunt.com/products/agentkey" target="_blank" rel="noopener noreferrer">TOP1    AgentKey</a></h2>
-<p><img src="https://ph-files.imgix.net/cbbf9bc2-c528-40b1-b606-d58313bce23d.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="AgentKey" loading="lazy"><br><br>
-<strong>【标语】</strong>：One-stop live data marketplace for your agent<br>
-<strong>【介绍】</strong>：AgentKey is a plugin that connects your agent to live external data in one command. Install it into Claude Code, Codex, OpenClaw, or any MCP-based agent and instantly unlock access to search, web pages, social platforms, finance, e-commerce, business and crypto data. No integrations. No setup. Auto failover keeps workflows running.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/U23MKZQPSZUKGY" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/agentkey" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：data,live,your,agent,No,stop<br>
-<strong>票数</strong>： 🔺650<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年07月13日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/cbbf9bc2-c528-40b1-b606-d58313bce23d.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
