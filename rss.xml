@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 26 Jul 2026 09:54:25 GMT</pubDate>
-    <lastBuildDate>Sun, 26 Jul 2026 09:54:25 GMT</lastBuildDate>
+    <pubDate>Mon, 27 Jul 2026 11:14:09 GMT</pubDate>
+    <lastBuildDate>Mon, 27 Jul 2026 11:14:09 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-07-25</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-25.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-07-25.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-07-25</source>
+      <description>TOP1 Heard Heard 【标语】：Give Claude Code and Codex a voice 【介绍】：Heard is a macOS voice layer for your agentic workflows. It connects to Claude Code, Codex, and Cursor and turns th...</description>
+      <category>PH</category>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-heard"><span></span></a><a href="https://www.producthunt.com/products/heard-2" target="_blank" rel="noopener noreferrer">TOP1    Heard</a></h2>
+<p><img src="https://ph-files.imgix.net/cdd91f13-8e71-480c-9e01-2a1b11f04a6a.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Heard" loading="lazy"><br><br>
+<strong>【标语】</strong>：Give Claude Code and Codex a voice<br>
+<strong>【介绍】</strong>：Heard is a macOS voice layer for your agentic workflows. It connects to Claude Code, Codex, and Cursor and turns their output into intelligent summaries you can hear. Full commentary when your eyes are elsewhere, or silence until something errors or needs a decision. With agents run in parallel, Heard summarizes at the project level, so you hear where the work stands, not five terminals talking over each other. Pair your phone and it comes with you. Open source, free for personal use.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/HOUL4RGO5V5BZ2" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/heard-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：your,Claude,Code,Codex,hear,Give<br>
+<strong>票数</strong>： 🔺330<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年07月25日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/cdd91f13-8e71-480c-9e01-2a1b11f04a6a.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-07-24</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-24.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年07月16日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/a77258f0-dc12-4465-b009-725138372fe3.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-07-15</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-15.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-07-15.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-07-15</source>
-      <description>TOP1 V2Fun V2Fun 【标语】：Generate 3D character with 8K textures and AI motion capture 【介绍】：V2Fun is an AI 3D creation platform built with self-developed 3D modeling and AI motion c...</description>
-      <category>PH</category>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-v2fun"><span></span></a><a href="https://www.producthunt.com/products/v2fun" target="_blank" rel="noopener noreferrer">TOP1    V2Fun</a></h2>
-<p><img src="https://ph-files.imgix.net/0277dfe3-ea5c-459f-80a2-611d3d8f8fe5.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="V2Fun" loading="lazy"><br><br>
-<strong>【标语】</strong>：Generate 3D character with 8K textures and AI motion capture<br>
-<strong>【介绍】</strong>：V2Fun is an AI 3D creation platform built with self-developed 3D modeling and AI motion capture models. It helps creators turn images, prompts, and videos into high-quality 3D models, enhance assets with advanced 8K texture generation, and create motion-ready characters without switching between separate modeling, texturing, and mocap tools. V2Fun also supports image generation through models including Nano Banana and others, so creators can explore visual concepts and bring them into 3D faster.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/YMZ2X3HYSCQ2UP" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/v2fun" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：3D,AI,motion,models,8K,modeling<br>
-<strong>票数</strong>： 🔺646<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年07月15日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/0277dfe3-ea5c-459f-80a2-611d3d8f8fe5.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
