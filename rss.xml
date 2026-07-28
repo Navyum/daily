@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 27 Jul 2026 11:14:09 GMT</pubDate>
-    <lastBuildDate>Mon, 27 Jul 2026 11:14:09 GMT</lastBuildDate>
+    <pubDate>Tue, 28 Jul 2026 10:29:36 GMT</pubDate>
+    <lastBuildDate>Tue, 28 Jul 2026 10:29:36 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-07-26</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-26.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-07-26.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-07-26</source>
+      <description>TOP1 Athena by Shoplazza Athena by Shoplazza 【标语】：An orchestrator agent for your entire commerce stack 【介绍】：Athena helps you build a polished, launch-ready store with complete p...</description>
+      <category>PH</category>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-athena-by-shoplazza"><span></span></a><a href="https://www.producthunt.com/products/athena-by-shoplazza" target="_blank" rel="noopener noreferrer">TOP1    Athena by Shoplazza</a></h2>
+<p><img src="https://ph-files.imgix.net/614a9e6e-e262-4934-b558-9d1a44a84e45.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Athena by Shoplazza" loading="lazy"><br><br>
+<strong>【标语】</strong>：An orchestrator agent for your entire commerce stack<br>
+<strong>【介绍】</strong>：Athena helps you build a polished, launch-ready store with complete pages, products, and localized copy. From there, it keeps the business moving by creating products in bulk, setting up discounts, configuring shipping, and launching ad campaigns. Payments, logistics, fulfillment, and loyalty are built into the same platform, so the store Athena creates is not just a storefront. It is ready to operate as a real business.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/BFVWD7733PP65I" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/athena-by-shoplazza" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：ready,store,products,business,orchestrator,agent<br>
+<strong>票数</strong>： 🔺386<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年07月26日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/614a9e6e-e262-4934-b558-9d1a44a84e45.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-07-25</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-25.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年07月17日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/fd1493ae-aeef-440f-8346-1a286c1b2718.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-07-16</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-16.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-07-16.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-07-16</source>
-      <description>TOP1 Paradigm Paradigm 【标语】：Turn any goal into a personalized, adaptive learning path. 【介绍】：Paradigm reimagines education around the individual, taking any learning goal and tur...</description>
-      <category>PH</category>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-paradigm"><span></span></a><a href="https://www.producthunt.com/products/paradigm-3" target="_blank" rel="noopener noreferrer">TOP1    Paradigm</a></h2>
-<p><img src="https://ph-files.imgix.net/a77258f0-dc12-4465-b009-725138372fe3.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Paradigm" loading="lazy"><br><br>
-<strong>【标语】</strong>：Turn any goal into a personalized, adaptive learning path.<br>
-<strong>【介绍】</strong>：Paradigm reimagines education around the individual, taking any learning goal and turning it into a step-by-step path that evolves with your progress, helping you move steadily from curiosity to mastery without getting lost.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/BASZVKO22HWWKN" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/paradigm-3" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：any,goal,into,learning,path,step<br>
-<strong>票数</strong>： 🔺607<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年07月16日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/a77258f0-dc12-4465-b009-725138372fe3.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
