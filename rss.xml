@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 28 Jul 2026 10:29:36 GMT</pubDate>
-    <lastBuildDate>Tue, 28 Jul 2026 10:29:36 GMT</lastBuildDate>
+    <pubDate>Wed, 29 Jul 2026 10:33:58 GMT</pubDate>
+    <lastBuildDate>Wed, 29 Jul 2026 10:33:58 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-07-27</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-27.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-07-27.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-07-27</source>
+      <description>TOP1 Adomate Adomate 【标语】：Turn data into winning ads. At scale. 【介绍】：With Adomate you create ads from data, at scale. Take data from your Meta ad account, the ad library and rev...</description>
+      <category>PH</category>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-adomate"><span></span></a><a href="https://www.producthunt.com/products/adomate" target="_blank" rel="noopener noreferrer">TOP1    Adomate</a></h2>
+<p><img src="https://ph-files.imgix.net/cb2c9bab-22c9-40c4-83c4-3bedf88219f1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Adomate" loading="lazy"><br><br>
+<strong>【标语】</strong>：Turn data into winning ads. At scale.<br>
+<strong>【介绍】</strong>：With Adomate you create ads from data, at scale. Take data from your Meta ad account, the ad library and reviews from Trustpilot and Amazon. Build creative research workflows that create branded ad concepts, the way you want. Fully traceable to their original data trigger, no blackbox.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/EPLPB5QB6JEVTX" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/adomate" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：data,ad,ads,scale,create,Turn<br>
+<strong>票数</strong>： 🔺530<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年07月27日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/cb2c9bab-22c9-40c4-83c4-3bedf88219f1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-07-26</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-26.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年07月18日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/b25f8583-fe6f-4505-b36d-e3b740443b0f.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-07-17</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-17.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-07-17.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-07-17</source>
-      <description>TOP1 Unabyss for Claude Unabyss for Claude 【标语】：Shared memory across all apps and LLMs. In Claude 【介绍】：Claude doesn&amp;apos;t know what happens in GPT. Neither one really knows who you ...</description>
-      <category>PH</category>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-unabyss-for-claude"><span></span></a><a href="https://www.producthunt.com/products/unabyss" target="_blank" rel="noopener noreferrer">TOP1    Unabyss for Claude</a></h2>
-<p><img src="https://ph-files.imgix.net/fd1493ae-aeef-440f-8346-1a286c1b2718.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Unabyss for Claude" loading="lazy"><br><br>
-<strong>【标语】</strong>：Shared memory across all apps and LLMs. In Claude<br>
-<strong>【介绍】</strong>：Claude doesn't know what happens in GPT. Neither one really knows who you are or what your company does. Now they can. Unabyss gives Claude memories from your other AI agents and everyday apps: email, Drive, GitHub, Notion, meeting recorders, and 20+ more. It saves new memories too, so GPT and Cursor stay in sync with the exact same context - sharper than wiring each tool into Claude one by one. Finally, a real memory that follows you. Private. Portable.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/AW6GAYWJDAD4GS" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/unabyss" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：memory,apps,what,GPT,your,Claude<br>
-<strong>票数</strong>： 🔺577<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年07月17日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/fd1493ae-aeef-440f-8346-1a286c1b2718.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
