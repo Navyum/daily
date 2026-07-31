@@ -7,6 +7,20 @@
   "favicon": "https://github.camscanner.top/daily/favicon.ico",
   "items": [
     {
+      "title": "PH今日热榜 | 2026-07-29",
+      "url": "https://github.camscanner.top/daily/posts/PH-daily-2026-07-29.html",
+      "id": "https://github.camscanner.top/daily/posts/PH-daily-2026-07-29.html",
+      "summary": "TOP1 Prelint Prelint 【标语】：Prevent product drift in AI-written code 【介绍】：AI writes your code at 10× speed. Prelint makes sure it's the right code - it reviews every PR against yo...",
+      "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-prelint\"><span></span></a><a href=\"https://www.producthunt.com/products/prelint\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1    Prelint</a></h2>\n<p><img src=\"https://ph-files.imgix.net/452c6376-5262-4400-929e-0b9befe4b96e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"Prelint\" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>：Prevent product drift in AI-written code<br>\n<strong>【介绍】</strong>：AI writes your code at 10× speed. Prelint makes sure it's the right code - it reviews every PR against your ADRs, docs and past decisions, and catches product drift before it ships. On teams using several AI reviewers, ~40% of the issues fixed before merge are caught by Prelint.<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/7JDFCGARSHV32N\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/products/prelint\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：product,drift,AI,your,code,Prelint<br>\n<strong>票数</strong>： 🔺555<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2026年07月29日 PM03:01 (北京时间)<br><br></p>\n",
+      "image": "https://ph-files.imgix.net/452c6376-5262-4400-929e-0b9befe4b96e.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+      "date_published": "2026-07-29T00:00:00.000Z",
+      "date_modified": "2026-07-31T10:32:28.355Z",
+      "authors": [],
+      "tags": [
+        "PH"
+      ]
+    },
+    {
       "title": "PH今日热榜 | 2026-07-28",
       "url": "https://github.camscanner.top/daily/posts/PH-daily-2026-07-28.html",
       "id": "https://github.camscanner.top/daily/posts/PH-daily-2026-07-28.html",
@@ -14,7 +28,7 @@
       "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-prefactor\"><span></span></a><a href=\"https://www.producthunt.com/products/prefactor\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1    Prefactor</a></h2>\n<p><img src=\"https://ph-files.imgix.net/a3db6429-c30c-4462-a6ff-d3896ad6d2c5.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"Prefactor\" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>：Evaluate your AI Agents in real-time<br>\n<strong>【介绍】</strong>：Most agents pass their evals and fail in production. Prefactor is the evaluation layer that closes the gap. We score every agent run in real time, surface quality regressions and drift as they happen, and show engineering teams exactly how their agents are performing at scale. Built for the teams shipping agents to customers.<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/Y5XXYGBXLHNUGG\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/products/prefactor\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：agents,real,their,teams,Evaluate,your<br>\n<strong>票数</strong>： 🔺586<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2026年07月28日 PM03:01 (北京时间)<br><br></p>\n",
       "image": "https://ph-files.imgix.net/a3db6429-c30c-4462-a6ff-d3896ad6d2c5.png?auto=format&fit=crop&frame=1&h=512&w=1024",
       "date_published": "2026-07-28T00:00:00.000Z",
-      "date_modified": "2026-07-30T10:18:33.067Z",
+      "date_modified": "2026-07-31T10:32:28.356Z",
       "authors": [],
       "tags": [
         "PH"
@@ -28,7 +42,7 @@
       "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-adomate\"><span></span></a><a href=\"https://www.producthunt.com/products/adomate\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1    Adomate</a></h2>\n<p><img src=\"https://ph-files.imgix.net/cb2c9bab-22c9-40c4-83c4-3bedf88219f1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"Adomate\" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>：Turn data into winning ads. At scale.<br>\n<strong>【介绍】</strong>：With Adomate you create ads from data, at scale. Take data from your Meta ad account, the ad library and reviews from Trustpilot and Amazon. Build creative research workflows that create branded ad concepts, the way you want. Fully traceable to their original data trigger, no blackbox.<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/EPLPB5QB6JEVTX\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/products/adomate\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：data,ad,ads,scale,create,Turn<br>\n<strong>票数</strong>： 🔺530<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2026年07月27日 PM03:01 (北京时间)<br><br></p>\n",
       "image": "https://ph-files.imgix.net/cb2c9bab-22c9-40c4-83c4-3bedf88219f1.png?auto=format&fit=crop&frame=1&h=512&w=1024",
       "date_published": "2026-07-27T00:00:00.000Z",
-      "date_modified": "2026-07-30T10:18:33.068Z",
+      "date_modified": "2026-07-31T10:32:28.356Z",
       "authors": [],
       "tags": [
         "PH"
@@ -42,7 +56,7 @@
       "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-athena-by-shoplazza\"><span></span></a><a href=\"https://www.producthunt.com/products/athena-by-shoplazza\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1    Athena by Shoplazza</a></h2>\n<p><img src=\"https://ph-files.imgix.net/614a9e6e-e262-4934-b558-9d1a44a84e45.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"Athena by Shoplazza\" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>：An orchestrator agent for your entire commerce stack<br>\n<strong>【介绍】</strong>：Athena helps you build a polished, launch-ready store with complete pages, products, and localized copy. From there, it keeps the business moving by creating products in bulk, setting up discounts, configuring shipping, and launching ad campaigns. Payments, logistics, fulfillment, and loyalty are built into the same platform, so the store Athena creates is not just a storefront. It is ready to operate as a real business.<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/BFVWD7733PP65I\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/products/athena-by-shoplazza\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：ready,store,products,business,orchestrator,agent<br>\n<strong>票数</strong>： 🔺386<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2026年07月26日 PM03:01 (北京时间)<br><br></p>\n",
       "image": "https://ph-files.imgix.net/614a9e6e-e262-4934-b558-9d1a44a84e45.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024",
       "date_published": "2026-07-26T00:00:00.000Z",
-      "date_modified": "2026-07-30T10:18:33.069Z",
+      "date_modified": "2026-07-31T10:32:28.357Z",
       "authors": [],
       "tags": [
         "PH"
@@ -56,7 +70,7 @@
       "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-heard\"><span></span></a><a href=\"https://www.producthunt.com/products/heard-2\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1    Heard</a></h2>\n<p><img src=\"https://ph-files.imgix.net/cdd91f13-8e71-480c-9e01-2a1b11f04a6a.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"Heard\" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>：Give Claude Code and Codex a voice<br>\n<strong>【介绍】</strong>：Heard is a macOS voice layer for your agentic workflows. It connects to Claude Code, Codex, and Cursor and turns their output into intelligent summaries you can hear. Full commentary when your eyes are elsewhere, or silence until something errors or needs a decision. With agents run in parallel, Heard summarizes at the project level, so you hear where the work stands, not five terminals talking over each other. Pair your phone and it comes with you. Open source, free for personal use.<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/HOUL4RGO5V5BZ2\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/products/heard-2\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：your,Claude,Code,Codex,hear,Give<br>\n<strong>票数</strong>： 🔺330<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2026年07月25日 PM03:01 (北京时间)<br><br></p>\n",
       "image": "https://ph-files.imgix.net/cdd91f13-8e71-480c-9e01-2a1b11f04a6a.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024",
       "date_published": "2026-07-25T00:00:00.000Z",
-      "date_modified": "2026-07-30T10:18:33.070Z",
+      "date_modified": "2026-07-31T10:32:28.358Z",
       "authors": [],
       "tags": [
         "PH"
@@ -70,7 +84,7 @@
       "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-fedica-2-0\"><span></span></a><a href=\"https://www.producthunt.com/products/fedica\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1    Fedica 2.0</a></h2>\n<p><img src=\"https://ph-files.imgix.net/10af38df-6a20-4276-a2a0-38b5492fdccc.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"Fedica 2.0\" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>：Publish and grow your profile across social apps<br>\n<strong>【介绍】</strong>：For creators who want to succeed when their fans are fragmented across platforms. Know who engages, what they care about, and where they're from, with deep audience segmentation and demographics. Publish tailored posts on 12+ platforms. Connect with engagers from one inbox. 15 years of audience intelligence, built on Tweepsmap's geographic foundation. We put the people back in your analytics.<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/BUIW56GARKIM77\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/products/fedica\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：Publish,your,across,who,platforms,they<br>\n<strong>票数</strong>： 🔺397<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2026年07月24日 PM03:01 (北京时间)<br><br></p>\n",
       "image": "https://ph-files.imgix.net/10af38df-6a20-4276-a2a0-38b5492fdccc.png?auto=format&fit=crop&frame=1&h=512&w=1024",
       "date_published": "2026-07-24T00:00:00.000Z",
-      "date_modified": "2026-07-30T10:18:33.071Z",
+      "date_modified": "2026-07-31T10:32:28.359Z",
       "authors": [],
       "tags": [
         "PH"
@@ -84,7 +98,7 @@
       "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-promptql\"><span></span></a><a href=\"https://www.producthunt.com/products/promptql\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1    PromptQL</a></h2>\n<p><img src=\"https://ph-files.imgix.net/ad66a363-60bc-4e00-8bfa-c78726524c1d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"PromptQL\" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>：Multiplayer AI that replaces Slack<br>\n<strong>【介绍】</strong>：Stop splitting team knowledge between Slack and everyone's private AI chats. PromptQL is multiplayer AI for teams: think Claude or ChatGPT in shared threads. Tag teammates to review, correct, and refine answers without losing the reasoning. Connect databases, SaaS apps, coding agents, and events. PromptQL captures tribal knowledge and suggests shared-brain updates so context compounds. Scopes and multi-user permissions keep the right context accessible to the right people.<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/UDARQUO4K2JLJ3\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/products/promptql\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：AI,knowledge,PromptQL,shared,context,right<br>\n<strong>票数</strong>： 🔺449<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2026年07月23日 PM03:01 (北京时间)<br><br></p>\n",
       "image": "https://ph-files.imgix.net/ad66a363-60bc-4e00-8bfa-c78726524c1d.png?auto=format&fit=crop&frame=1&h=512&w=1024",
       "date_published": "2026-07-23T00:00:00.000Z",
-      "date_modified": "2026-07-30T10:18:33.073Z",
+      "date_modified": "2026-07-31T10:32:28.360Z",
       "authors": [],
       "tags": [
         "PH"
@@ -98,7 +112,7 @@
       "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-buzzy\"><span></span></a><a href=\"https://www.producthunt.com/products/buzzy-2\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1    Buzzy</a></h2>\n<p><img src=\"https://ph-files.imgix.net/991c8f73-7222-4a5a-9e89-0c90bd5b7a3d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"Buzzy\" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>：Your creative AI co-director<br>\n<strong>【介绍】</strong>：Buzzy is the first truly agentic infinite canvas for video creation. It helps you spark ideas, build moodboards, and precisely photoshop your video in one click — while creating unlimited-length blockbuster films and commercial ads, keeping unlimited subjects consistent, controlling lighting and camera angles, and precisely editing video like photoshop in one workspace.<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/3CNNP4C2NOIRFY\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/products/buzzy-2\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：video,precisely,photoshop,unlimited,Your,creative<br>\n<strong>票数</strong>： 🔺511<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2026年07月22日 PM03:01 (北京时间)<br><br></p>\n",
       "image": "https://ph-files.imgix.net/991c8f73-7222-4a5a-9e89-0c90bd5b7a3d.png?auto=format&fit=crop&frame=1&h=512&w=1024",
       "date_published": "2026-07-22T00:00:00.000Z",
-      "date_modified": "2026-07-30T10:18:33.074Z",
+      "date_modified": "2026-07-31T10:32:28.361Z",
       "authors": [],
       "tags": [
         "PH"
@@ -112,7 +126,7 @@
       "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-lev8\"><span></span></a><a href=\"https://www.producthunt.com/products/lev8\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1    Lev8</a></h2>\n<p><img src=\"https://ph-files.imgix.net/860330de-7862-4f22-9249-0b103250b689.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"Lev8\" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>：Find, research, and reach the right people<br>\n<strong>【介绍】</strong>：Chat with Lev8, the fastest way to find and reach your target people and companies, powered by live web search via parallel AI agents across every corner of the internet. Enrich CSVs with waterfall lookups, monitor intent signals, and send personalized multi-channel messages, all running automatically.<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/IITOSI26P6BQTV\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/products/lev8\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：reach,Find,research,right,peopleChat,Lev8<br>\n<strong>票数</strong>： 🔺552<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2026年07月21日 PM03:01 (北京时间)<br><br></p>\n",
       "image": "https://ph-files.imgix.net/860330de-7862-4f22-9249-0b103250b689.png?auto=format&fit=crop&frame=1&h=512&w=1024",
       "date_published": "2026-07-21T00:00:00.000Z",
-      "date_modified": "2026-07-30T10:18:33.075Z",
+      "date_modified": "2026-07-31T10:32:28.362Z",
       "authors": [],
       "tags": [
         "PH"
@@ -126,21 +140,7 @@
       "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-fuzzy-ai\"><span></span></a><a href=\"https://www.producthunt.com/products/fuzzy-ai-2\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1    Fuzzy AI</a></h2>\n<p><img src=\"https://ph-files.imgix.net/2949c005-a937-445a-b866-aabf3c3aedf1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"Fuzzy AI\" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>：We warm your prospects before reaching out<br>\n<strong>【介绍】</strong>：Cold outreach gets ignored because prospects do not know you yet. Fuzzy warms them before you ever reach out by finding people already engaging in your market, helping you stay visible through content and thoughtful comments, then launching personalised LinkedIn and email campaigns in your voice. Research, enrichment, sequences, replies and team workflows live in one place. Customers call it intuitive, seamless and more comprehensive than the tools they used before.<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/TZH7KMCWHJXAY5\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/products/fuzzy-ai-2\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：your,before,prospects,warm,reaching,outCold<br>\n<strong>票数</strong>： 🔺650<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2026年07月20日 PM03:01 (北京时间)<br><br></p>\n",
       "image": "https://ph-files.imgix.net/2949c005-a937-445a-b866-aabf3c3aedf1.png?auto=format&fit=crop&frame=1&h=512&w=1024",
       "date_published": "2026-07-20T00:00:00.000Z",
-      "date_modified": "2026-07-30T10:18:33.076Z",
-      "authors": [],
-      "tags": [
-        "PH"
-      ]
-    },
-    {
-      "title": "PH今日热榜 | 2026-07-19",
-      "url": "https://github.camscanner.top/daily/posts/PH-daily-2026-07-19.html",
-      "id": "https://github.camscanner.top/daily/posts/PH-daily-2026-07-19.html",
-      "summary": "TOP1 OpenSEO OpenSEO 【标语】：The open source Ahrefs alternative 【介绍】：Without good data, your agent gives generic advice. Keyword research, competitor research, backlinks and site a...",
-      "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-openseo\"><span></span></a><a href=\"https://www.producthunt.com/products/openseo\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1    OpenSEO</a></h2>\n<p><img src=\"https://ph-files.imgix.net/4e9ba10f-3997-42e5-8606-664347937ec5.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"OpenSEO\" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>：The open source Ahrefs alternative<br>\n<strong>【介绍】</strong>：Without good data, your agent gives generic advice. Keyword research, competitor research, backlinks and site audits, starting at $10/month instead of a $100-plus monthly subscription. Connect with MCP so that you can work with your agent to build an SEO strategy and write content tailored to your company.<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/Y35NVXDA24JBBT\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/products/openseo\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：your,agent,research,open,source,Ahrefs<br>\n<strong>票数</strong>： 🔺709<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2026年07月19日 PM03:01 (北京时间)<br><br></p>\n",
-      "image": "https://ph-files.imgix.net/4e9ba10f-3997-42e5-8606-664347937ec5.png?auto=format&fit=crop&frame=1&h=512&w=1024",
-      "date_published": "2026-07-19T00:00:00.000Z",
-      "date_modified": "2026-07-30T10:18:33.077Z",
+      "date_modified": "2026-07-31T10:32:28.362Z",
       "authors": [],
       "tags": [
         "PH"
