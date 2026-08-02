@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 01 Aug 2026 09:53:20 GMT</pubDate>
-    <lastBuildDate>Sat, 01 Aug 2026 09:53:20 GMT</lastBuildDate>
+    <pubDate>Sun, 02 Aug 2026 09:51:45 GMT</pubDate>
+    <lastBuildDate>Sun, 02 Aug 2026 09:51:45 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-07-31</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-31.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-07-31.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-07-31</source>
+      <description>TOP1 MiniMax H3 MiniMax H3 【标语】：Unified video generation for motion design and branding 【介绍】：MiniMax H3 is an open multimodal model that generates 2K video with native stereo so...</description>
+      <category>PH</category>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-minimax-h3"><span></span></a><a href="https://www.producthunt.com/products/minimax" target="_blank" rel="noopener noreferrer">TOP1    MiniMax H3</a></h2>
+<p><img src="https://ph-files.imgix.net/8ebf1d62-3a79-46ee-84b2-016179ab458e.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="MiniMax H3" loading="lazy"><br><br>
+<strong>【标语】</strong>：Unified video generation for motion design and branding<br>
+<strong>【介绍】</strong>：MiniMax H3 is an open multimodal model that generates 2K video with native stereo sound. It unifies text, image, and audio inputs, excelling at accurate text rendering, visual packaging, and complex instruction following for commercial content creation.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/OLTE3UX4QGE277" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/minimax" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：video,text,Unified,generation,motion,design<br>
+<strong>票数</strong>： 🔺350<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年07月31日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/8ebf1d62-3a79-46ee-84b2-016179ab458e.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-07-30</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-30.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年07月22日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/991c8f73-7222-4a5a-9e89-0c90bd5b7a3d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-07-21</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-21.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-07-21.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-07-21</source>
-      <description>TOP1 Lev8 Lev8 【标语】：Find, research, and reach the right people 【介绍】：Chat with Lev8, the fastest way to find and reach your target people and companies, powered by live web searc...</description>
-      <category>PH</category>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-lev8"><span></span></a><a href="https://www.producthunt.com/products/lev8" target="_blank" rel="noopener noreferrer">TOP1    Lev8</a></h2>
-<p><img src="https://ph-files.imgix.net/860330de-7862-4f22-9249-0b103250b689.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Lev8" loading="lazy"><br><br>
-<strong>【标语】</strong>：Find, research, and reach the right people<br>
-<strong>【介绍】</strong>：Chat with Lev8, the fastest way to find and reach your target people and companies, powered by live web search via parallel AI agents across every corner of the internet. Enrich CSVs with waterfall lookups, monitor intent signals, and send personalized multi-channel messages, all running automatically.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/IITOSI26P6BQTV" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/lev8" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：reach,Find,research,right,peopleChat,Lev8<br>
-<strong>票数</strong>： 🔺552<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年07月21日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/860330de-7862-4f22-9249-0b103250b689.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
