@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 02 Aug 2026 09:51:45 GMT</pubDate>
-    <lastBuildDate>Sun, 02 Aug 2026 09:51:45 GMT</lastBuildDate>
+    <pubDate>Mon, 03 Aug 2026 11:16:30 GMT</pubDate>
+    <lastBuildDate>Mon, 03 Aug 2026 11:16:30 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-08-01</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-08-01.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-08-01.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-08-01</source>
+      <description>TOP1 NudgeForMe NudgeForMe 【标语】：AI follow-up agent for missed email opportunities 【介绍】：NudgeForMe scans your sent conversations, finds threads where someone never replied, and d...</description>
+      <category>PH</category>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-nudgeforme"><span></span></a><a href="https://www.producthunt.com/products/nudgeforme" target="_blank" rel="noopener noreferrer">TOP1    NudgeForMe</a></h2>
+<p><img src="https://ph-files.imgix.net/115820aa-c6ca-4484-b985-6101d54f4b28.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="NudgeForMe" loading="lazy"><br><br>
+<strong>【标语】</strong>：AI follow-up agent for missed email opportunities<br>
+<strong>【介绍】</strong>：NudgeForMe scans your sent conversations, finds threads where someone never replied, and drafts natural follow-ups inside your own mailbox. It starts in draft mode, so you stay in control. You can review each opportunity, select the useful ones, and send from Gmail, Outlook, or IMAP/SMTP. Built by the Snoooz team after processing millions of emails, NudgeForMe is focused on one painful workflow: making sure leads, deals, partnerships, and customer conversations do not quietly go cold.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/G2YNDDYM6FTUFG" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/nudgeforme" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：follow,your,conversations,AI,up,agent<br>
+<strong>票数</strong>： 🔺310<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年08月01日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/115820aa-c6ca-4484-b985-6101d54f4b28.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-07-31</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-31.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年07月23日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/ad66a363-60bc-4e00-8bfa-c78726524c1d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-07-22</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-22.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-07-22.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-07-22</source>
-      <description>TOP1 Buzzy Buzzy 【标语】：Your creative AI co-director 【介绍】：Buzzy is the first truly agentic infinite canvas for video creation. It helps you spark ideas, build moodboards, and prec...</description>
-      <category>PH</category>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-buzzy"><span></span></a><a href="https://www.producthunt.com/products/buzzy-2" target="_blank" rel="noopener noreferrer">TOP1    Buzzy</a></h2>
-<p><img src="https://ph-files.imgix.net/991c8f73-7222-4a5a-9e89-0c90bd5b7a3d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Buzzy" loading="lazy"><br><br>
-<strong>【标语】</strong>：Your creative AI co-director<br>
-<strong>【介绍】</strong>：Buzzy is the first truly agentic infinite canvas for video creation. It helps you spark ideas, build moodboards, and precisely photoshop your video in one click — while creating unlimited-length blockbuster films and commercial ads, keeping unlimited subjects consistent, controlling lighting and camera angles, and precisely editing video like photoshop in one workspace.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/3CNNP4C2NOIRFY" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/buzzy-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：video,precisely,photoshop,unlimited,Your,creative<br>
-<strong>票数</strong>： 🔺511<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年07月22日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/991c8f73-7222-4a5a-9e89-0c90bd5b7a3d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>

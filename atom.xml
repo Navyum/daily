@@ -4,16 +4,41 @@
   <title>DAYHACK</title>
   <subtitle>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</subtitle>
   <icon>https://github.camscanner.top/daily/favicon.ico</icon>
-  <updated>2026-08-02T09:51:45.027Z</updated>
+  <updated>2026-08-03T11:16:30.750Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/"/>
   <category term="PH"/>
   <entry>
+    <title type="text">PH今日热榜 | 2026-08-01</title>
+    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-01.html</id>
+    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-01.html"/>
+    <updated>2026-08-03T11:16:30.752Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-nudgeforme"><span></span></a><a href="https://www.producthunt.com/products/nudgeforme" target="_blank" rel="noopener noreferrer">TOP1    NudgeForMe</a></h2>
+<p><img src="https://ph-files.imgix.net/115820aa-c6ca-4484-b985-6101d54f4b28.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="NudgeForMe" loading="lazy"><br><br>
+<strong>【标语】</strong>：AI follow-up agent for missed email opportunities<br>
+<strong>【介绍】</strong>：NudgeForMe scans your sent conversations, finds threads where someone never replied, and drafts natural follow-ups inside your own mailbox. It starts in draft mode, so you stay in control. You can review each opportunity, select the useful ones, and send from Gmail, Outlook, or IMAP/SMTP. Built by the Snoooz team after processing millions of emails, NudgeForMe is focused on one painful workflow: making sure leads, deals, partnerships, and customer conversations do not quietly go cold.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/G2YNDDYM6FTUFG" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/nudgeforme" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-nudgeforme"><span></span></a><a href="https://www.producthunt.com/products/nudgeforme" target="_blank" rel="noopener noreferrer">TOP1    NudgeForMe</a></h2>
+<p><img src="https://ph-files.imgix.net/115820aa-c6ca-4484-b985-6101d54f4b28.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="NudgeForMe" loading="lazy"><br><br>
+<strong>【标语】</strong>：AI follow-up agent for missed email opportunities<br>
+<strong>【介绍】</strong>：NudgeForMe scans your sent conversations, finds threads where someone never replied, and drafts natural follow-ups inside your own mailbox. It starts in draft mode, so you stay in control. You can review each opportunity, select the useful ones, and send from Gmail, Outlook, or IMAP/SMTP. Built by the Snoooz team after processing millions of emails, NudgeForMe is focused on one painful workflow: making sure leads, deals, partnerships, and customer conversations do not quietly go cold.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/G2YNDDYM6FTUFG" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/nudgeforme" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：follow,your,conversations,AI,up,agent<br>
+<strong>票数</strong>： 🔺310<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年08月01日 PM03:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2026-08-01T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">PH今日热榜 | 2026-07-31</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-31.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-31.html"/>
-    <updated>2026-08-02T09:51:45.028Z</updated>
+    <updated>2026-08-03T11:16:30.775Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-minimax-h3"><span></span></a><a href="https://www.producthunt.com/products/minimax" target="_blank" rel="noopener noreferrer">TOP1    MiniMax H3</a></h2>
 <p><img src="https://ph-files.imgix.net/8ebf1d62-3a79-46ee-84b2-016179ab458e.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="MiniMax H3" loading="lazy"><br><br>
 <strong>【标语】</strong>：Unified video generation for motion design and branding<br>
@@ -38,7 +63,7 @@
     <title type="text">PH今日热榜 | 2026-07-30</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-30.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-30.html"/>
-    <updated>2026-08-02T09:51:45.057Z</updated>
+    <updated>2026-08-03T11:16:30.786Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-ski"><span></span></a><a href="https://www.producthunt.com/products/ski" target="_blank" rel="noopener noreferrer">TOP1    SKI</a></h2>
 <p><img src="https://ph-files.imgix.net/9e7fefdc-964d-4b38-9c8a-0bc89eb64bc2.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="SKI" loading="lazy"><br><br>
 <strong>【标语】</strong>：Free voice coding for Claude Code, Codex and more<br>
@@ -63,7 +88,7 @@
     <title type="text">PH今日热榜 | 2026-07-29</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-29.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-29.html"/>
-    <updated>2026-08-02T09:51:45.065Z</updated>
+    <updated>2026-08-03T11:16:30.803Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-prelint"><span></span></a><a href="https://www.producthunt.com/products/prelint" target="_blank" rel="noopener noreferrer">TOP1    Prelint</a></h2>
 <p><img src="https://ph-files.imgix.net/452c6376-5262-4400-929e-0b9befe4b96e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Prelint" loading="lazy"><br><br>
 <strong>【标语】</strong>：Prevent product drift in AI-written code<br>
@@ -88,7 +113,7 @@
     <title type="text">PH今日热榜 | 2026-07-28</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-28.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-28.html"/>
-    <updated>2026-08-02T09:51:45.079Z</updated>
+    <updated>2026-08-03T11:16:30.812Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-prefactor"><span></span></a><a href="https://www.producthunt.com/products/prefactor" target="_blank" rel="noopener noreferrer">TOP1    Prefactor</a></h2>
 <p><img src="https://ph-files.imgix.net/a3db6429-c30c-4462-a6ff-d3896ad6d2c5.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Prefactor" loading="lazy"><br><br>
 <strong>【标语】</strong>：Evaluate your AI Agents in real-time<br>
@@ -113,7 +138,7 @@
     <title type="text">PH今日热榜 | 2026-07-27</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-27.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-27.html"/>
-    <updated>2026-08-02T09:51:45.087Z</updated>
+    <updated>2026-08-03T11:16:30.825Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-adomate"><span></span></a><a href="https://www.producthunt.com/products/adomate" target="_blank" rel="noopener noreferrer">TOP1    Adomate</a></h2>
 <p><img src="https://ph-files.imgix.net/cb2c9bab-22c9-40c4-83c4-3bedf88219f1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Adomate" loading="lazy"><br><br>
 <strong>【标语】</strong>：Turn data into winning ads. At scale.<br>
@@ -138,7 +163,7 @@
     <title type="text">PH今日热榜 | 2026-07-26</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-26.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-26.html"/>
-    <updated>2026-08-02T09:51:45.100Z</updated>
+    <updated>2026-08-03T11:16:30.843Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-athena-by-shoplazza"><span></span></a><a href="https://www.producthunt.com/products/athena-by-shoplazza" target="_blank" rel="noopener noreferrer">TOP1    Athena by Shoplazza</a></h2>
 <p><img src="https://ph-files.imgix.net/614a9e6e-e262-4934-b558-9d1a44a84e45.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Athena by Shoplazza" loading="lazy"><br><br>
 <strong>【标语】</strong>：An orchestrator agent for your entire commerce stack<br>
@@ -163,7 +188,7 @@
     <title type="text">PH今日热榜 | 2026-07-25</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-25.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-25.html"/>
-    <updated>2026-08-02T09:51:45.114Z</updated>
+    <updated>2026-08-03T11:16:30.852Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-heard"><span></span></a><a href="https://www.producthunt.com/products/heard-2" target="_blank" rel="noopener noreferrer">TOP1    Heard</a></h2>
 <p><img src="https://ph-files.imgix.net/cdd91f13-8e71-480c-9e01-2a1b11f04a6a.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Heard" loading="lazy"><br><br>
 <strong>【标语】</strong>：Give Claude Code and Codex a voice<br>
@@ -188,7 +213,7 @@
     <title type="text">PH今日热榜 | 2026-07-24</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-24.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-24.html"/>
-    <updated>2026-08-02T09:51:45.124Z</updated>
+    <updated>2026-08-03T11:16:30.868Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-fedica-2-0"><span></span></a><a href="https://www.producthunt.com/products/fedica" target="_blank" rel="noopener noreferrer">TOP1    Fedica 2.0</a></h2>
 <p><img src="https://ph-files.imgix.net/10af38df-6a20-4276-a2a0-38b5492fdccc.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Fedica 2.0" loading="lazy"><br><br>
 <strong>【标语】</strong>：Publish and grow your profile across social apps<br>
@@ -213,7 +238,7 @@
     <title type="text">PH今日热榜 | 2026-07-23</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-23.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-23.html"/>
-    <updated>2026-08-02T09:51:45.139Z</updated>
+    <updated>2026-08-03T11:16:30.875Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-promptql"><span></span></a><a href="https://www.producthunt.com/products/promptql" target="_blank" rel="noopener noreferrer">TOP1    PromptQL</a></h2>
 <p><img src="https://ph-files.imgix.net/ad66a363-60bc-4e00-8bfa-c78726524c1d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="PromptQL" loading="lazy"><br><br>
 <strong>【标语】</strong>：Multiplayer AI that replaces Slack<br>
@@ -233,30 +258,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2026-07-23T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2026-07-22</title>
-    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-22.html</id>
-    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-22.html"/>
-    <updated>2026-08-02T09:51:45.146Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-buzzy"><span></span></a><a href="https://www.producthunt.com/products/buzzy-2" target="_blank" rel="noopener noreferrer">TOP1    Buzzy</a></h2>
-<p><img src="https://ph-files.imgix.net/991c8f73-7222-4a5a-9e89-0c90bd5b7a3d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Buzzy" loading="lazy"><br><br>
-<strong>【标语】</strong>：Your creative AI co-director<br>
-<strong>【介绍】</strong>：Buzzy is the first truly agentic infinite canvas for video creation. It helps you spark ideas, build moodboards, and precisely photoshop your video in one click — while creating unlimited-length blockbuster films and commercial ads, keeping unlimited subjects consistent, controlling lighting and camera angles, and precisely editing video like photoshop in one workspace.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/3CNNP4C2NOIRFY" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/buzzy-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-buzzy"><span></span></a><a href="https://www.producthunt.com/products/buzzy-2" target="_blank" rel="noopener noreferrer">TOP1    Buzzy</a></h2>
-<p><img src="https://ph-files.imgix.net/991c8f73-7222-4a5a-9e89-0c90bd5b7a3d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Buzzy" loading="lazy"><br><br>
-<strong>【标语】</strong>：Your creative AI co-director<br>
-<strong>【介绍】</strong>：Buzzy is the first truly agentic infinite canvas for video creation. It helps you spark ideas, build moodboards, and precisely photoshop your video in one click — while creating unlimited-length blockbuster films and commercial ads, keeping unlimited subjects consistent, controlling lighting and camera angles, and precisely editing video like photoshop in one workspace.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/3CNNP4C2NOIRFY" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/buzzy-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：video,precisely,photoshop,unlimited,Your,creative<br>
-<strong>票数</strong>： 🔺511<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年07月22日 PM03:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2026-07-22T00:00:00.000Z</published>
   </entry>
 </feed>
