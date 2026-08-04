@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 03 Aug 2026 11:16:30 GMT</pubDate>
-    <lastBuildDate>Mon, 03 Aug 2026 11:16:30 GMT</lastBuildDate>
+    <pubDate>Tue, 04 Aug 2026 10:31:18 GMT</pubDate>
+    <lastBuildDate>Tue, 04 Aug 2026 10:31:18 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-08-02</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-08-02.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-08-02.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-08-02</source>
+      <description>TOP1 Zinley Zinley 【标语】：Your Personal AI Representative for calls, email, and tasks 【介绍】：Most AI waits inside a chat. Zinley is reachable by you and the people around you. With ...</description>
+      <category>PH</category>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-zinley"><span></span></a><a href="https://www.producthunt.com/products/zinley" target="_blank" rel="noopener noreferrer">TOP1    Zinley</a></h2>
+<p><img src="https://ph-files.imgix.net/29fdef64-b213-4aa7-85c5-ad13c0fba45a.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Zinley" loading="lazy"><br><br>
+<strong>【标语】</strong>：Your Personal AI Representative for calls, email, and tasks<br>
+<strong>【介绍】</strong>：Most AI waits inside a chat. Zinley is reachable by you and the people around you. With its own phone number and email, it answers calls, handles email, books things, and gets work done within your rules. It remembers your people and relationships, then reports back in your language. Not another chatbot. A second you that shows up.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/IQRSF4SZFC3JK2" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/zinley" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：email,your,AI,calls,people,Your<br>
+<strong>票数</strong>： 🔺399<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年08月02日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/29fdef64-b213-4aa7-85c5-ad13c0fba45a.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-08-01</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-08-01.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年07月24日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/10af38df-6a20-4276-a2a0-38b5492fdccc.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-07-23</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-23.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-07-23.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-07-23</source>
-      <description>TOP1 PromptQL PromptQL 【标语】：Multiplayer AI that replaces Slack 【介绍】：Stop splitting team knowledge between Slack and everyone&amp;apos;s private AI chats. PromptQL is multiplayer AI for t...</description>
-      <category>PH</category>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-promptql"><span></span></a><a href="https://www.producthunt.com/products/promptql" target="_blank" rel="noopener noreferrer">TOP1    PromptQL</a></h2>
-<p><img src="https://ph-files.imgix.net/ad66a363-60bc-4e00-8bfa-c78726524c1d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="PromptQL" loading="lazy"><br><br>
-<strong>【标语】</strong>：Multiplayer AI that replaces Slack<br>
-<strong>【介绍】</strong>：Stop splitting team knowledge between Slack and everyone's private AI chats. PromptQL is multiplayer AI for teams: think Claude or ChatGPT in shared threads. Tag teammates to review, correct, and refine answers without losing the reasoning. Connect databases, SaaS apps, coding agents, and events. PromptQL captures tribal knowledge and suggests shared-brain updates so context compounds. Scopes and multi-user permissions keep the right context accessible to the right people.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/UDARQUO4K2JLJ3" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/promptql" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：AI,knowledge,PromptQL,shared,context,right<br>
-<strong>票数</strong>： 🔺449<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年07月23日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/ad66a363-60bc-4e00-8bfa-c78726524c1d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
