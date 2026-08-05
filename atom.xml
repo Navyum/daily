@@ -4,16 +4,41 @@
   <title>DAYHACK</title>
   <subtitle>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</subtitle>
   <icon>https://github.camscanner.top/daily/favicon.ico</icon>
-  <updated>2026-08-04T10:31:18.301Z</updated>
+  <updated>2026-08-05T10:29:36.948Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/"/>
   <category term="PH"/>
   <entry>
+    <title type="text">PH今日热榜 | 2026-08-03</title>
+    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-03.html</id>
+    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-03.html"/>
+    <updated>2026-08-05T10:29:36.950Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-agentsky"><span></span></a><a href="https://www.producthunt.com/products/agentsky" target="_blank" rel="noopener noreferrer">TOP1    AgentSky</a></h2>
+<p><img src="https://ph-files.imgix.net/6dd00586-2463-4cd6-8e7c-07854bb731de.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="AgentSky" loading="lazy"><br><br>
+<strong>【标语】</strong>：Any harness, any LLM — cloud-hosted agents on demand.<br>
+<strong>【介绍】</strong>：Managed agent as a service: launch a long-horizon AI agent in one click — Claude Code, Codex, Hermes, or OpenClaw — with full history, managed recovery, and access through WhatsApp, iMessage, Telegram, Slack, web, API developers, and CLI.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/VKQBZ233EK3JBM" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/agentsky" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-agentsky"><span></span></a><a href="https://www.producthunt.com/products/agentsky" target="_blank" rel="noopener noreferrer">TOP1    AgentSky</a></h2>
+<p><img src="https://ph-files.imgix.net/6dd00586-2463-4cd6-8e7c-07854bb731de.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="AgentSky" loading="lazy"><br><br>
+<strong>【标语】</strong>：Any harness, any LLM — cloud-hosted agents on demand.<br>
+<strong>【介绍】</strong>：Managed agent as a service: launch a long-horizon AI agent in one click — Claude Code, Codex, Hermes, or OpenClaw — with full history, managed recovery, and access through WhatsApp, iMessage, Telegram, Slack, web, API developers, and CLI.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/VKQBZ233EK3JBM" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/agentsky" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：agent,Any,harness,any,LLM,cloud<br>
+<strong>票数</strong>： 🔺443<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年08月03日 PM03:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2026-08-03T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">PH今日热榜 | 2026-08-02</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-02.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-02.html"/>
-    <updated>2026-08-04T10:31:18.303Z</updated>
+    <updated>2026-08-05T10:29:36.968Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-zinley"><span></span></a><a href="https://www.producthunt.com/products/zinley" target="_blank" rel="noopener noreferrer">TOP1    Zinley</a></h2>
 <p><img src="https://ph-files.imgix.net/29fdef64-b213-4aa7-85c5-ad13c0fba45a.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Zinley" loading="lazy"><br><br>
 <strong>【标语】</strong>：Your Personal AI Representative for calls, email, and tasks<br>
@@ -38,7 +63,7 @@
     <title type="text">PH今日热榜 | 2026-08-01</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-01.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-01.html"/>
-    <updated>2026-08-04T10:31:18.321Z</updated>
+    <updated>2026-08-05T10:29:36.985Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-nudgeforme"><span></span></a><a href="https://www.producthunt.com/products/nudgeforme" target="_blank" rel="noopener noreferrer">TOP1    NudgeForMe</a></h2>
 <p><img src="https://ph-files.imgix.net/115820aa-c6ca-4484-b985-6101d54f4b28.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="NudgeForMe" loading="lazy"><br><br>
 <strong>【标语】</strong>：AI follow-up agent for missed email opportunities<br>
@@ -63,7 +88,7 @@
     <title type="text">PH今日热榜 | 2026-07-31</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-31.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-31.html"/>
-    <updated>2026-08-04T10:31:18.339Z</updated>
+    <updated>2026-08-05T10:29:37.002Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-minimax-h3"><span></span></a><a href="https://www.producthunt.com/products/minimax" target="_blank" rel="noopener noreferrer">TOP1    MiniMax H3</a></h2>
 <p><img src="https://ph-files.imgix.net/8ebf1d62-3a79-46ee-84b2-016179ab458e.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="MiniMax H3" loading="lazy"><br><br>
 <strong>【标语】</strong>：Unified video generation for motion design and branding<br>
@@ -88,7 +113,7 @@
     <title type="text">PH今日热榜 | 2026-07-30</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-30.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-30.html"/>
-    <updated>2026-08-04T10:31:18.353Z</updated>
+    <updated>2026-08-05T10:29:37.010Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-ski"><span></span></a><a href="https://www.producthunt.com/products/ski" target="_blank" rel="noopener noreferrer">TOP1    SKI</a></h2>
 <p><img src="https://ph-files.imgix.net/9e7fefdc-964d-4b38-9c8a-0bc89eb64bc2.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="SKI" loading="lazy"><br><br>
 <strong>【标语】</strong>：Free voice coding for Claude Code, Codex and more<br>
@@ -113,7 +138,7 @@
     <title type="text">PH今日热榜 | 2026-07-29</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-29.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-29.html"/>
-    <updated>2026-08-04T10:31:18.363Z</updated>
+    <updated>2026-08-05T10:29:37.025Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-prelint"><span></span></a><a href="https://www.producthunt.com/products/prelint" target="_blank" rel="noopener noreferrer">TOP1    Prelint</a></h2>
 <p><img src="https://ph-files.imgix.net/452c6376-5262-4400-929e-0b9befe4b96e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Prelint" loading="lazy"><br><br>
 <strong>【标语】</strong>：Prevent product drift in AI-written code<br>
@@ -138,7 +163,7 @@
     <title type="text">PH今日热榜 | 2026-07-28</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-28.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-28.html"/>
-    <updated>2026-08-04T10:31:18.379Z</updated>
+    <updated>2026-08-05T10:29:37.033Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-prefactor"><span></span></a><a href="https://www.producthunt.com/products/prefactor" target="_blank" rel="noopener noreferrer">TOP1    Prefactor</a></h2>
 <p><img src="https://ph-files.imgix.net/a3db6429-c30c-4462-a6ff-d3896ad6d2c5.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Prefactor" loading="lazy"><br><br>
 <strong>【标语】</strong>：Evaluate your AI Agents in real-time<br>
@@ -163,7 +188,7 @@
     <title type="text">PH今日热榜 | 2026-07-27</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-27.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-27.html"/>
-    <updated>2026-08-04T10:31:18.388Z</updated>
+    <updated>2026-08-05T10:29:37.048Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-adomate"><span></span></a><a href="https://www.producthunt.com/products/adomate" target="_blank" rel="noopener noreferrer">TOP1    Adomate</a></h2>
 <p><img src="https://ph-files.imgix.net/cb2c9bab-22c9-40c4-83c4-3bedf88219f1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Adomate" loading="lazy"><br><br>
 <strong>【标语】</strong>：Turn data into winning ads. At scale.<br>
@@ -188,7 +213,7 @@
     <title type="text">PH今日热榜 | 2026-07-26</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-26.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-26.html"/>
-    <updated>2026-08-04T10:31:18.402Z</updated>
+    <updated>2026-08-05T10:29:37.057Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-athena-by-shoplazza"><span></span></a><a href="https://www.producthunt.com/products/athena-by-shoplazza" target="_blank" rel="noopener noreferrer">TOP1    Athena by Shoplazza</a></h2>
 <p><img src="https://ph-files.imgix.net/614a9e6e-e262-4934-b558-9d1a44a84e45.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Athena by Shoplazza" loading="lazy"><br><br>
 <strong>【标语】</strong>：An orchestrator agent for your entire commerce stack<br>
@@ -213,7 +238,7 @@
     <title type="text">PH今日热榜 | 2026-07-25</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-25.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-25.html"/>
-    <updated>2026-08-04T10:31:18.412Z</updated>
+    <updated>2026-08-05T10:29:37.073Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-heard"><span></span></a><a href="https://www.producthunt.com/products/heard-2" target="_blank" rel="noopener noreferrer">TOP1    Heard</a></h2>
 <p><img src="https://ph-files.imgix.net/cdd91f13-8e71-480c-9e01-2a1b11f04a6a.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Heard" loading="lazy"><br><br>
 <strong>【标语】</strong>：Give Claude Code and Codex a voice<br>
@@ -233,30 +258,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2026-07-25T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2026-07-24</title>
-    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-07-24.html</id>
-    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-07-24.html"/>
-    <updated>2026-08-04T10:31:18.426Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-fedica-2-0"><span></span></a><a href="https://www.producthunt.com/products/fedica" target="_blank" rel="noopener noreferrer">TOP1    Fedica 2.0</a></h2>
-<p><img src="https://ph-files.imgix.net/10af38df-6a20-4276-a2a0-38b5492fdccc.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Fedica 2.0" loading="lazy"><br><br>
-<strong>【标语】</strong>：Publish and grow your profile across social apps<br>
-<strong>【介绍】</strong>：For creators who want to succeed when their fans are fragmented across platforms. Know who engages, what they care about, and where they're from, with deep audience segmentation and demographics. Publish tailored posts on 12+ platforms. Connect with engagers from one inbox. 15 years of audience intelligence, built on Tweepsmap's geographic foundation. We put the people back in your analytics.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/BUIW56GARKIM77" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/fedica" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-fedica-2-0"><span></span></a><a href="https://www.producthunt.com/products/fedica" target="_blank" rel="noopener noreferrer">TOP1    Fedica 2.0</a></h2>
-<p><img src="https://ph-files.imgix.net/10af38df-6a20-4276-a2a0-38b5492fdccc.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Fedica 2.0" loading="lazy"><br><br>
-<strong>【标语】</strong>：Publish and grow your profile across social apps<br>
-<strong>【介绍】</strong>：For creators who want to succeed when their fans are fragmented across platforms. Know who engages, what they care about, and where they're from, with deep audience segmentation and demographics. Publish tailored posts on 12+ platforms. Connect with engagers from one inbox. 15 years of audience intelligence, built on Tweepsmap's geographic foundation. We put the people back in your analytics.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/BUIW56GARKIM77" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/fedica" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：Publish,your,across,who,platforms,they<br>
-<strong>票数</strong>： 🔺397<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年07月24日 PM03:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2026-07-24T00:00:00.000Z</published>
   </entry>
 </feed>

@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 04 Aug 2026 10:31:18 GMT</pubDate>
-    <lastBuildDate>Tue, 04 Aug 2026 10:31:18 GMT</lastBuildDate>
+    <pubDate>Wed, 05 Aug 2026 10:29:36 GMT</pubDate>
+    <lastBuildDate>Wed, 05 Aug 2026 10:29:36 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-08-03</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-08-03.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-08-03.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-08-03</source>
+      <description>TOP1 AgentSky AgentSky 【标语】：Any harness, any LLM — cloud-hosted agents on demand. 【介绍】：Managed agent as a service: launch a long-horizon AI agent in one click — Claude Code, Cod...</description>
+      <category>PH</category>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-agentsky"><span></span></a><a href="https://www.producthunt.com/products/agentsky" target="_blank" rel="noopener noreferrer">TOP1    AgentSky</a></h2>
+<p><img src="https://ph-files.imgix.net/6dd00586-2463-4cd6-8e7c-07854bb731de.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="AgentSky" loading="lazy"><br><br>
+<strong>【标语】</strong>：Any harness, any LLM — cloud-hosted agents on demand.<br>
+<strong>【介绍】</strong>：Managed agent as a service: launch a long-horizon AI agent in one click — Claude Code, Codex, Hermes, or OpenClaw — with full history, managed recovery, and access through WhatsApp, iMessage, Telegram, Slack, web, API developers, and CLI.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/VKQBZ233EK3JBM" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/agentsky" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：agent,Any,harness,any,LLM,cloud<br>
+<strong>票数</strong>： 🔺443<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年08月03日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/6dd00586-2463-4cd6-8e7c-07854bb731de.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-08-02</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-08-02.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年07月25日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/cdd91f13-8e71-480c-9e01-2a1b11f04a6a.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-07-24</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-24.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-07-24.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-07-24</source>
-      <description>TOP1 Fedica 2.0 Fedica 2.0 【标语】：Publish and grow your profile across social apps 【介绍】：For creators who want to succeed when their fans are fragmented across platforms. Know who ...</description>
-      <category>PH</category>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-fedica-2-0"><span></span></a><a href="https://www.producthunt.com/products/fedica" target="_blank" rel="noopener noreferrer">TOP1    Fedica 2.0</a></h2>
-<p><img src="https://ph-files.imgix.net/10af38df-6a20-4276-a2a0-38b5492fdccc.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Fedica 2.0" loading="lazy"><br><br>
-<strong>【标语】</strong>：Publish and grow your profile across social apps<br>
-<strong>【介绍】</strong>：For creators who want to succeed when their fans are fragmented across platforms. Know who engages, what they care about, and where they're from, with deep audience segmentation and demographics. Publish tailored posts on 12+ platforms. Connect with engagers from one inbox. 15 years of audience intelligence, built on Tweepsmap's geographic foundation. We put the people back in your analytics.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/BUIW56GARKIM77" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/fedica" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：Publish,your,across,who,platforms,they<br>
-<strong>票数</strong>： 🔺397<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年07月24日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/10af38df-6a20-4276-a2a0-38b5492fdccc.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
