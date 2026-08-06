@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 05 Aug 2026 10:29:36 GMT</pubDate>
-    <lastBuildDate>Wed, 05 Aug 2026 10:29:36 GMT</lastBuildDate>
+    <pubDate>Thu, 06 Aug 2026 10:33:25 GMT</pubDate>
+    <lastBuildDate>Thu, 06 Aug 2026 10:33:25 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-08-04</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-08-04.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-08-04.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-08-04</source>
+      <description>TOP1 Hey Noah Hey Noah 【标语】：A proactive AI executive assistant for founders 【介绍】：Noah is a proactive AI executive assistant for founders. Claude talks to you; Noah talks to your...</description>
+      <category>PH</category>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-hey-noah"><span></span></a><a href="https://www.producthunt.com/products/hey-noah" target="_blank" rel="noopener noreferrer">TOP1    Hey Noah</a></h2>
+<p><img src="https://ph-files.imgix.net/26e4fcaa-a567-4f35-a82f-3f4e3f0ee446.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Hey Noah" loading="lazy"><br><br>
+<strong>【标语】</strong>：A proactive AI executive assistant for founders<br>
+<strong>【介绍】</strong>：Noah is a proactive AI executive assistant for founders. Claude talks to you; Noah talks to your network. It's like Tesla Full Self Driving, and not cruise control- an autonomous AI EA that manages your calendar, relationships, and follow-ups across email, text, and WhatsApp - so nothing slips. Think of it as an always-on EA living in your SMS and helping you with meeting logistics.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/XG4DNYGMW6GCPP" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/hey-noah" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：AI,your,proactive,executive,assistant,talks<br>
+<strong>票数</strong>： 🔺539<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年08月04日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/26e4fcaa-a567-4f35-a82f-3f4e3f0ee446.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-08-03</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-08-03.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年07月26日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/614a9e6e-e262-4934-b558-9d1a44a84e45.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-07-25</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-25.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-07-25.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-07-25</source>
-      <description>TOP1 Heard Heard 【标语】：Give Claude Code and Codex a voice 【介绍】：Heard is a macOS voice layer for your agentic workflows. It connects to Claude Code, Codex, and Cursor and turns th...</description>
-      <category>PH</category>
-      <pubDate>Sat, 25 Jul 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-heard"><span></span></a><a href="https://www.producthunt.com/products/heard-2" target="_blank" rel="noopener noreferrer">TOP1    Heard</a></h2>
-<p><img src="https://ph-files.imgix.net/cdd91f13-8e71-480c-9e01-2a1b11f04a6a.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Heard" loading="lazy"><br><br>
-<strong>【标语】</strong>：Give Claude Code and Codex a voice<br>
-<strong>【介绍】</strong>：Heard is a macOS voice layer for your agentic workflows. It connects to Claude Code, Codex, and Cursor and turns their output into intelligent summaries you can hear. Full commentary when your eyes are elsewhere, or silence until something errors or needs a decision. With agents run in parallel, Heard summarizes at the project level, so you hear where the work stands, not five terminals talking over each other. Pair your phone and it comes with you. Open source, free for personal use.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/HOUL4RGO5V5BZ2" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/heard-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：your,Claude,Code,Codex,hear,Give<br>
-<strong>票数</strong>： 🔺330<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年07月25日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/cdd91f13-8e71-480c-9e01-2a1b11f04a6a.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
