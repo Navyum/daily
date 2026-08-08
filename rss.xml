@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 08 Aug 2026 08:32:57 GMT</pubDate>
-    <lastBuildDate>Sat, 08 Aug 2026 08:32:57 GMT</lastBuildDate>
+    <pubDate>Sat, 08 Aug 2026 09:32:03 GMT</pubDate>
+    <lastBuildDate>Sat, 08 Aug 2026 09:32:03 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-08-07</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-08-07.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-08-07.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-08-07</source>
+      <description>TOP1 Coldtea.ai Coldtea.ai 【标语】：Make your software self-driving 【介绍】：The faster your team ships with AI, the harder it becomes to keep production stable. Not anymore. Coldtea is...</description>
+      <category>PH</category>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-coldtea-ai"><span></span></a><a href="https://www.producthunt.com/products/coldtea" target="_blank" rel="noopener noreferrer">TOP1    Coldtea.ai</a></h2>
+<p><img src="https://ph-files.imgix.net/f7841527-de48-4834-a8bd-34f7b688d409.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Coldtea.ai" loading="lazy"><br><br>
+<strong>【标语】</strong>：Make your software self-driving<br>
+<strong>【介绍】</strong>：The faster your team ships with AI, the harder it becomes to keep production stable. Not anymore. Coldtea is an agentic IDE where your coding agents build, visual QA agents catch regressions, and AI monitoring watches production, so your team can keep moving at agent speed without breaking anything<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/WB4IUOEMBNYG5V" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/coldtea" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：your,team,AI,keep,production,agents<br>
+<strong>票数</strong>： 🔺469<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年08月07日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/f7841527-de48-4834-a8bd-34f7b688d409.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-08-06</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-08-06.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年07月29日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/452c6376-5262-4400-929e-0b9befe4b96e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-07-28</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-28.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-07-28.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-07-28</source>
-      <description>TOP1 Prefactor Prefactor 【标语】：Evaluate your AI Agents in real-time 【介绍】：Most agents pass their evals and fail in production. Prefactor is the evaluation layer that closes the ga...</description>
-      <category>PH</category>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-prefactor"><span></span></a><a href="https://www.producthunt.com/products/prefactor" target="_blank" rel="noopener noreferrer">TOP1    Prefactor</a></h2>
-<p><img src="https://ph-files.imgix.net/a3db6429-c30c-4462-a6ff-d3896ad6d2c5.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Prefactor" loading="lazy"><br><br>
-<strong>【标语】</strong>：Evaluate your AI Agents in real-time<br>
-<strong>【介绍】</strong>：Most agents pass their evals and fail in production. Prefactor is the evaluation layer that closes the gap. We score every agent run in real time, surface quality regressions and drift as they happen, and show engineering teams exactly how their agents are performing at scale. Built for the teams shipping agents to customers.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/Y5XXYGBXLHNUGG" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/prefactor" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：agents,real,their,teams,Evaluate,your<br>
-<strong>票数</strong>： 🔺586<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年07月28日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/a3db6429-c30c-4462-a6ff-d3896ad6d2c5.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
