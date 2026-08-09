@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 09 Aug 2026 08:35:06 GMT</pubDate>
-    <lastBuildDate>Sun, 09 Aug 2026 08:35:06 GMT</lastBuildDate>
+    <pubDate>Sun, 09 Aug 2026 09:33:20 GMT</pubDate>
+    <lastBuildDate>Sun, 09 Aug 2026 09:33:20 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-08-08</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-08-08.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-08-08.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-08-08</source>
+      <description>TOP1 The GTM Co-Founder The GTM Co-Founder 【标语】：Open-source GTM skills for technical founders 【介绍】：Most AI hands dev-tool founders the same generic sales and marketing advice. T...</description>
+      <category>PH</category>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-the-gtm-co-founder"><span></span></a><a href="https://www.producthunt.com/products/the-gtm-co-founder" target="_blank" rel="noopener noreferrer">TOP1    The GTM Co-Founder</a></h2>
+<p><img src="https://ph-files.imgix.net/9e9d0ad5-6421-4a91-909d-db9567828a79.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="The GTM Co-Founder" loading="lazy"><br><br>
+<strong>【标语】</strong>：Open-source GTM skills for technical founders<br>
+<strong>【介绍】</strong>：Most AI hands dev-tool founders the same generic sales and marketing advice. The GTM Co-Founder doesn't. It's a set of open-source skills that interview you once, learn your real product and market, then walk you move by move through a prioritised GTM roadmap: who it's for, positioning, your first 50 users, launch, pricing, etc. Grounded in the playbooks of Adam Frankl and Jakub Czakon, plus my own time as a Founding AE and GTM advisor. Free and open source.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/VPBAUGHOUKAU4E" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/the-gtm-co-founder" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：GTM,source,skills,open,your,move<br>
+<strong>票数</strong>： 🔺373<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年08月08日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/9e9d0ad5-6421-4a91-909d-db9567828a79.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-08-07</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-08-07.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年07月30日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/9e7fefdc-964d-4b38-9c8a-0bc89eb64bc2.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-07-29</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-29.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-07-29.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-07-29</source>
-      <description>TOP1 Prelint Prelint 【标语】：Prevent product drift in AI-written code 【介绍】：AI writes your code at 10× speed. Prelint makes sure it&amp;apos;s the right code - it reviews every PR against yo...</description>
-      <category>PH</category>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-prelint"><span></span></a><a href="https://www.producthunt.com/products/prelint" target="_blank" rel="noopener noreferrer">TOP1    Prelint</a></h2>
-<p><img src="https://ph-files.imgix.net/452c6376-5262-4400-929e-0b9befe4b96e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Prelint" loading="lazy"><br><br>
-<strong>【标语】</strong>：Prevent product drift in AI-written code<br>
-<strong>【介绍】</strong>：AI writes your code at 10× speed. Prelint makes sure it's the right code - it reviews every PR against your ADRs, docs and past decisions, and catches product drift before it ships. On teams using several AI reviewers, ~40% of the issues fixed before merge are caught by Prelint.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/7JDFCGARSHV32N" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/prelint" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：product,drift,AI,your,code,Prelint<br>
-<strong>票数</strong>： 🔺555<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年07月29日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/452c6376-5262-4400-929e-0b9befe4b96e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
