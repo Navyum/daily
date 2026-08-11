@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 10 Aug 2026 09:12:27 GMT</pubDate>
-    <lastBuildDate>Mon, 10 Aug 2026 09:12:27 GMT</lastBuildDate>
+    <pubDate>Tue, 11 Aug 2026 08:47:18 GMT</pubDate>
+    <lastBuildDate>Tue, 11 Aug 2026 08:47:18 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-08-09</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-08-09.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-08-09.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-08-09</source>
+      <description>TOP1 Omniwork Omniwork 【标语】：The Creative Agent OS, create better with desktop AI agents 【介绍】：Omniwork is an always-on Creative Agent OS that turns ideas into finished work. Spec...</description>
+      <category>PH</category>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-omniwork"><span></span></a><a href="https://www.producthunt.com/products/omniwork-2" target="_blank" rel="noopener noreferrer">TOP1    Omniwork</a></h2>
+<p><img src="https://ph-files.imgix.net/9028ef02-49f7-429c-8ca3-c8d7abd4753d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Omniwork" loading="lazy"><br><br>
+<strong>【标语】</strong>：The Creative Agent OS, create better with desktop AI agents<br>
+<strong>【介绍】</strong>：Omniwork is an always-on Creative Agent OS that turns ideas into finished work. Specialized AI agents research, create, monitor, and automate your creative workflows, while a proactive desktop companion keeps projects moving and pushes results, alerts, and progress straight to your screen.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/M4Y5GPSVZTCBSU" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/omniwork-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：Creative,Agent,OS,create,desktop,AI<br>
+<strong>票数</strong>： 🔺406<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年08月09日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/9028ef02-49f7-429c-8ca3-c8d7abd4753d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-08-08</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-08-08.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年07月31日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/8ebf1d62-3a79-46ee-84b2-016179ab458e.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-07-30</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-07-30.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-07-30.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-07-30</source>
-      <description>TOP1 SKI SKI 【标语】：Free voice coding for Claude Code, Codex and more 【介绍】：We just built SKI — voice coding for Claude Code, Codex and more. It&amp;apos;s not dictation: your agent answers...</description>
-      <category>PH</category>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-ski"><span></span></a><a href="https://www.producthunt.com/products/ski" target="_blank" rel="noopener noreferrer">TOP1    SKI</a></h2>
-<p><img src="https://ph-files.imgix.net/9e7fefdc-964d-4b38-9c8a-0bc89eb64bc2.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="SKI" loading="lazy"><br><br>
-<strong>【标语】</strong>：Free voice coding for Claude Code, Codex and more<br>
-<strong>【介绍】</strong>：We just built SKI — voice coding for Claude Code, Codex and more. It's not dictation: your agent answers you out loud, like a real teammate, so you build at the speed you think. You can even bring it into a meeting to build live, or send it in your place to speak for you. It's an ambient thing that just sits on your desktop — hit a key, talk, it works. All on your machine, free. Available on Mac &amp; Windows.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/4776JMPD744PM7" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/ski" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：your,voice,coding,Claude,Code,Codex<br>
-<strong>票数</strong>： 🔺570<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年07月30日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/9e7fefdc-964d-4b38-9c8a-0bc89eb64bc2.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
