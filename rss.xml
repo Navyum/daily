@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 12 Aug 2026 09:06:43 GMT</pubDate>
-    <lastBuildDate>Wed, 12 Aug 2026 09:06:43 GMT</lastBuildDate>
+    <pubDate>Thu, 13 Aug 2026 09:06:36 GMT</pubDate>
+    <lastBuildDate>Thu, 13 Aug 2026 09:06:36 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-08-11</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-08-11.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-08-11.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-08-11</source>
+      <description>TOP1 Tines 3B Tines 3B 【标语】：The secure environment for agents, apps, and automations 【介绍】：Tines 3B is the single, secure environment for your most important agents, apps, and au...</description>
+      <category>PH</category>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-tines-3b"><span></span></a><a href="https://www.producthunt.com/products/tines" target="_blank" rel="noopener noreferrer">TOP1    Tines 3B</a></h2>
+<p><img src="https://ph-files.imgix.net/5f314c84-bfa5-4d6e-b1ab-82e0c1e0530e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Tines 3B" loading="lazy"><br><br>
+<strong>【标语】</strong>：The secure environment for agents, apps, and automations<br>
+<strong>【介绍】</strong>：Tines 3B is the single, secure environment for your most important agents, apps, and automation. Build with AI, from anywhere. Code runs isolated and credentials stay protected. Everything you ship is fully auditable and monitored from one place. Tines 3B is code-first and AI-native, built to help you move fast without compromising on security. Explore Edition is available today and gives you access to 3 live workflows with unlimited users, spaces, and connectors.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/YIH4E6DK7N5RLY" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/tines" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：secure,environment,agents,apps,3B,AI<br>
+<strong>票数</strong>： 🔺405<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年08月11日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/5f314c84-bfa5-4d6e-b1ab-82e0c1e0530e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-08-10</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-08-10.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年08月02日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/29fdef64-b213-4aa7-85c5-ad13c0fba45a.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-08-01</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-08-01.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-08-01.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-08-01</source>
-      <description>TOP1 NudgeForMe NudgeForMe 【标语】：AI follow-up agent for missed email opportunities 【介绍】：NudgeForMe scans your sent conversations, finds threads where someone never replied, and d...</description>
-      <category>PH</category>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-nudgeforme"><span></span></a><a href="https://www.producthunt.com/products/nudgeforme" target="_blank" rel="noopener noreferrer">TOP1    NudgeForMe</a></h2>
-<p><img src="https://ph-files.imgix.net/115820aa-c6ca-4484-b985-6101d54f4b28.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="NudgeForMe" loading="lazy"><br><br>
-<strong>【标语】</strong>：AI follow-up agent for missed email opportunities<br>
-<strong>【介绍】</strong>：NudgeForMe scans your sent conversations, finds threads where someone never replied, and drafts natural follow-ups inside your own mailbox. It starts in draft mode, so you stay in control. You can review each opportunity, select the useful ones, and send from Gmail, Outlook, or IMAP/SMTP. Built by the Snoooz team after processing millions of emails, NudgeForMe is focused on one painful workflow: making sure leads, deals, partnerships, and customer conversations do not quietly go cold.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/G2YNDDYM6FTUFG" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/nudgeforme" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：follow,your,conversations,AI,up,agent<br>
-<strong>票数</strong>： 🔺310<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年08月01日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/115820aa-c6ca-4484-b985-6101d54f4b28.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
