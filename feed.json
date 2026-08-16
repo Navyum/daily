@@ -7,6 +7,20 @@
   "favicon": "https://github.camscanner.top/daily/favicon.ico",
   "items": [
     {
+      "title": "PH今日热榜 | 2026-08-15",
+      "url": "https://github.camscanner.top/daily/posts/PH-daily-2026-08-15.html",
+      "id": "https://github.camscanner.top/daily/posts/PH-daily-2026-08-15.html",
+      "summary": "TOP1 Inferock Bench Inferock Bench 【标语】：An independent receipt for every LLM API call 【介绍】：Inferock-bench is a local proxy that sits between your app and OpenAI, Anthropic, Gemi...",
+      "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-inferock-bench\"><span></span></a><a href=\"https://www.producthunt.com/products/inferock-bench\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1    Inferock Bench</a></h2>\n<p><img src=\"https://ph-files.imgix.net/42a255e5-2317-4539-ae0a-db2551b450bd.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"Inferock Bench\" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>：An independent receipt for every LLM API call<br>\n<strong>【介绍】</strong>：Inferock-bench is a local proxy that sits between your app and OpenAI, Anthropic, Gemini, or OpenRouter shaped calls. It captures per-call token usage, failures, and retries, then generates an independent receipt showing what you were billed and how much you're actually overpaying for.<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/GR7NKWTUDANGUS\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/products/inferock-bench\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：independent,receipt,every,LLM,API,callInferock<br>\n<strong>票数</strong>： 🔺284<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2026年08月15日 PM03:01 (北京时间)<br><br></p>\n",
+      "image": "https://ph-files.imgix.net/42a255e5-2317-4539-ae0a-db2551b450bd.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+      "date_published": "2026-08-15T00:00:00.000Z",
+      "date_modified": "2026-08-16T09:21:33.485Z",
+      "authors": [],
+      "tags": [
+        "PH"
+      ]
+    },
+    {
       "title": "PH今日热榜 | 2026-08-14",
       "url": "https://github.camscanner.top/daily/posts/PH-daily-2026-08-14.html",
       "id": "https://github.camscanner.top/daily/posts/PH-daily-2026-08-14.html",
@@ -14,7 +28,7 @@
       "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-outcome\"><span></span></a><a href=\"https://www.producthunt.com/products/contentblocks\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1    Outcome </a></h2>\n<p><img src=\"https://ph-files.imgix.net/15e0dd12-567b-4504-876e-86f6e795b79c.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"Outcome \" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>：Turn your content into a personal outcome for every lead<br>\n<strong>【介绍】</strong>：Outcome helps creators turn their content and expertise into personalized funnels that listen, understand, and deliver a useful outcome to every lead. Instead of sending everyone the same lead magnet or placing them into a predefined quiz result bucket, an Outcome Funnel uses each person’s answers together with the creator’s content, knowledge, and process to generate something made for them - an action plan, audit, score, roadmap, recommendation, and more.<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/GBFHMSYXVPFMF7\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/products/contentblocks\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：content,into,outcome,every,lead,them<br>\n<strong>票数</strong>： 🔺352<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2026年08月14日 PM03:01 (北京时间)<br><br></p>\n",
       "image": "https://ph-files.imgix.net/15e0dd12-567b-4504-876e-86f6e795b79c.png?auto=format&fit=crop&frame=1&h=512&w=1024",
       "date_published": "2026-08-14T00:00:00.000Z",
-      "date_modified": "2026-08-16T08:21:34.276Z",
+      "date_modified": "2026-08-16T09:21:33.486Z",
       "authors": [],
       "tags": [
         "PH"
@@ -28,7 +42,7 @@
       "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-kane-cli\"><span></span></a><a href=\"https://www.producthunt.com/products/lambdatest\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1    Kane CLI</a></h2>\n<p><img src=\"https://ph-files.imgix.net/e5c5b6bb-38a2-4eb3-898d-9b3c4958dc77.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"Kane CLI\" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>：Natural language browser &amp; mobile app tests from terminal<br>\n<strong>【介绍】</strong>：An agentic quality verifier for developers and AI coding agents. Describe a test in natural language, and Kane CLI runs it in a real Chrome browser and returns pass or fail with shareable proof. No selectors to write. Local-first, free to start.<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/3OE7IF5ZP7LPWJ\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/products/lambdatest\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：language,browser,Natural,mobile,app,tests<br>\n<strong>票数</strong>： 🔺446<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2026年08月13日 PM03:01 (北京时间)<br><br></p>\n",
       "image": "https://ph-files.imgix.net/e5c5b6bb-38a2-4eb3-898d-9b3c4958dc77.png?auto=format&fit=crop&frame=1&h=512&w=1024",
       "date_published": "2026-08-13T00:00:00.000Z",
-      "date_modified": "2026-08-16T08:21:34.277Z",
+      "date_modified": "2026-08-16T09:21:33.487Z",
       "authors": [],
       "tags": [
         "PH"
@@ -42,7 +56,7 @@
       "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-dograh\"><span></span></a><a href=\"https://www.producthunt.com/products/dograh\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1    Dograh</a></h2>\n<p><img src=\"https://ph-files.imgix.net/3e786432-ae63-4c7f-8096-185d60bbfd2b.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"Dograh\" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>：The open source VAPI alternative<br>\n<strong>【介绍】</strong>：Closed voice platforms make you rent your own agents. Dograh is completely open source- nothing is gated. Visual flow builder, add your model key across 30+ integrations or use local models, telephony, human transfer, and advanced QA &amp; monitoring - all free to self-host in one command. Also connect your claude code with MCP to build voice agents for a use case or call recordings.<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/DAII3FVF5KT5VU\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/products/dograh\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：your,open,source,voice,agents,use<br>\n<strong>票数</strong>： 🔺523<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2026年08月12日 PM03:01 (北京时间)<br><br></p>\n",
       "image": "https://ph-files.imgix.net/3e786432-ae63-4c7f-8096-185d60bbfd2b.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024",
       "date_published": "2026-08-12T00:00:00.000Z",
-      "date_modified": "2026-08-16T08:21:34.278Z",
+      "date_modified": "2026-08-16T09:21:33.487Z",
       "authors": [],
       "tags": [
         "PH"
@@ -56,7 +70,7 @@
       "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-tines-3b\"><span></span></a><a href=\"https://www.producthunt.com/products/tines\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1    Tines 3B</a></h2>\n<p><img src=\"https://ph-files.imgix.net/5f314c84-bfa5-4d6e-b1ab-82e0c1e0530e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"Tines 3B\" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>：The secure environment for agents, apps, and automations<br>\n<strong>【介绍】</strong>：Tines 3B is the single, secure environment for your most important agents, apps, and automation. Build with AI, from anywhere. Code runs isolated and credentials stay protected. Everything you ship is fully auditable and monitored from one place. Tines 3B is code-first and AI-native, built to help you move fast without compromising on security. Explore Edition is available today and gives you access to 3 live workflows with unlimited users, spaces, and connectors.<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/YIH4E6DK7N5RLY\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/products/tines\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：secure,environment,agents,apps,3B,AI<br>\n<strong>票数</strong>： 🔺405<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2026年08月11日 PM03:01 (北京时间)<br><br></p>\n",
       "image": "https://ph-files.imgix.net/5f314c84-bfa5-4d6e-b1ab-82e0c1e0530e.png?auto=format&fit=crop&frame=1&h=512&w=1024",
       "date_published": "2026-08-11T00:00:00.000Z",
-      "date_modified": "2026-08-16T08:21:34.278Z",
+      "date_modified": "2026-08-16T09:21:33.488Z",
       "authors": [],
       "tags": [
         "PH"
@@ -70,7 +84,7 @@
       "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-oqoqo\"><span></span></a><a href=\"https://www.producthunt.com/products/oqoqo\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1    oqoqo</a></h2>\n<p><img src=\"https://ph-files.imgix.net/0f576f5a-fef2-4f60-b85a-6f27d5f11777.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"oqoqo\" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>：Build evals and custom benchmarks for real-world tasks<br>\n<strong>【介绍】</strong>：Run eval experiments at scale in realistic environments. Define custom task sets to build your private benchmarks, measure how well agents can use any product, and find best models for your use cases. Generate dynamic insights to detect frictions in product interfaces or token inefficiencies.<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/HURZKMJEK6FWXH\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/products/oqoqo\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：custom,benchmarks,your,use,product,Build<br>\n<strong>票数</strong>： 🔺348<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2026年08月10日 PM03:01 (北京时间)<br><br></p>\n",
       "image": "https://ph-files.imgix.net/0f576f5a-fef2-4f60-b85a-6f27d5f11777.png?auto=format&fit=crop&frame=1&h=512&w=1024",
       "date_published": "2026-08-10T00:00:00.000Z",
-      "date_modified": "2026-08-16T08:21:34.279Z",
+      "date_modified": "2026-08-16T09:21:33.488Z",
       "authors": [],
       "tags": [
         "PH"
@@ -84,7 +98,7 @@
       "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-omniwork\"><span></span></a><a href=\"https://www.producthunt.com/products/omniwork-2\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1    Omniwork</a></h2>\n<p><img src=\"https://ph-files.imgix.net/9028ef02-49f7-429c-8ca3-c8d7abd4753d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"Omniwork\" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>：The Creative Agent OS, create better with desktop AI agents<br>\n<strong>【介绍】</strong>：Omniwork is an always-on Creative Agent OS that turns ideas into finished work. Specialized AI agents research, create, monitor, and automate your creative workflows, while a proactive desktop companion keeps projects moving and pushes results, alerts, and progress straight to your screen.<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/M4Y5GPSVZTCBSU\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/products/omniwork-2\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：Creative,Agent,OS,create,desktop,AI<br>\n<strong>票数</strong>： 🔺406<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2026年08月09日 PM03:01 (北京时间)<br><br></p>\n",
       "image": "https://ph-files.imgix.net/9028ef02-49f7-429c-8ca3-c8d7abd4753d.png?auto=format&fit=crop&frame=1&h=512&w=1024",
       "date_published": "2026-08-09T00:00:00.000Z",
-      "date_modified": "2026-08-16T08:21:34.280Z",
+      "date_modified": "2026-08-16T09:21:33.489Z",
       "authors": [],
       "tags": [
         "PH"
@@ -98,7 +112,7 @@
       "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-the-gtm-co-founder\"><span></span></a><a href=\"https://www.producthunt.com/products/the-gtm-co-founder\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1    The GTM Co-Founder</a></h2>\n<p><img src=\"https://ph-files.imgix.net/9e9d0ad5-6421-4a91-909d-db9567828a79.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"The GTM Co-Founder\" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>：Open-source GTM skills for technical founders<br>\n<strong>【介绍】</strong>：Most AI hands dev-tool founders the same generic sales and marketing advice. The GTM Co-Founder doesn't. It's a set of open-source skills that interview you once, learn your real product and market, then walk you move by move through a prioritised GTM roadmap: who it's for, positioning, your first 50 users, launch, pricing, etc. Grounded in the playbooks of Adam Frankl and Jakub Czakon, plus my own time as a Founding AE and GTM advisor. Free and open source.<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/VPBAUGHOUKAU4E\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/products/the-gtm-co-founder\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：GTM,source,skills,open,your,move<br>\n<strong>票数</strong>： 🔺375<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2026年08月08日 PM03:01 (北京时间)<br><br></p>\n",
       "image": "https://ph-files.imgix.net/9e9d0ad5-6421-4a91-909d-db9567828a79.png?auto=format&fit=crop&frame=1&h=512&w=1024",
       "date_published": "2026-08-08T00:00:00.000Z",
-      "date_modified": "2026-08-16T08:21:34.281Z",
+      "date_modified": "2026-08-16T09:21:33.490Z",
       "authors": [],
       "tags": [
         "PH"
@@ -112,7 +126,7 @@
       "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-coldtea-ai\"><span></span></a><a href=\"https://www.producthunt.com/products/coldtea\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1    Coldtea.ai</a></h2>\n<p><img src=\"https://ph-files.imgix.net/f7841527-de48-4834-a8bd-34f7b688d409.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"Coldtea.ai\" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>：Make your software self-driving<br>\n<strong>【介绍】</strong>：The faster your team ships with AI, the harder it becomes to keep production stable. Not anymore. Coldtea is an agentic IDE where your coding agents build, visual QA agents catch regressions, and AI monitoring watches production, so your team can keep moving at agent speed without breaking anything<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/WB4IUOEMBNYG5V\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/products/coldtea\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：your,team,AI,keep,production,agents<br>\n<strong>票数</strong>： 🔺472<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2026年08月07日 PM03:01 (北京时间)<br><br></p>\n",
       "image": "https://ph-files.imgix.net/f7841527-de48-4834-a8bd-34f7b688d409.png?auto=format&fit=crop&frame=1&h=512&w=1024",
       "date_published": "2026-08-07T00:00:00.000Z",
-      "date_modified": "2026-08-16T08:21:34.281Z",
+      "date_modified": "2026-08-16T09:21:33.490Z",
       "authors": [],
       "tags": [
         "PH"
@@ -126,21 +140,7 @@
       "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-cloudflare-os\"><span></span></a><a href=\"https://www.producthunt.com/products/cloudflare\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1    Cloudflare OS</a></h2>\n<p><img src=\"https://ph-files.imgix.net/301ddb2d-8c92-4e56-b87e-0e4aa3f84c5f.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"Cloudflare OS\" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>：Build the AI operating system for your company<br>\n<strong>【介绍】</strong>：Give every person an agent and workspace built around how your company works, what it knows, and the systems it relies on. Cloudflare OS is the open source AI operating system companies can shape around their own context, tools, and rules.<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/VYDPLSA7MSOD7N\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/products/cloudflare\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：AI,operating,system,your,around,Build<br>\n<strong>票数</strong>： 🔺444<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2026年08月06日 PM03:01 (北京时间)<br><br></p>\n",
       "image": "https://ph-files.imgix.net/301ddb2d-8c92-4e56-b87e-0e4aa3f84c5f.png?auto=format&fit=crop&frame=1&h=512&w=1024",
       "date_published": "2026-08-06T00:00:00.000Z",
-      "date_modified": "2026-08-16T08:21:34.287Z",
-      "authors": [],
-      "tags": [
-        "PH"
-      ]
-    },
-    {
-      "title": "PH今日热榜 | 2026-08-05",
-      "url": "https://github.camscanner.top/daily/posts/PH-daily-2026-08-05.html",
-      "id": "https://github.camscanner.top/daily/posts/PH-daily-2026-08-05.html",
-      "summary": "TOP1 AdAnt AI AdAnt AI 【标语】：Claude for viral, high-converting social ads 【介绍】：AdAnt AI is a team of Creative Agents that handles Social Ad Strategy, Creation, and Iteration. Bui...",
-      "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-adant-ai\"><span></span></a><a href=\"https://www.producthunt.com/products/adant-ai\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1    AdAnt AI</a></h2>\n<p><img src=\"https://ph-files.imgix.net/c5e40c1e-f537-42ad-a8eb-b98fe183b20b.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"AdAnt AI\" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>：Claude for viral, high-converting social ads<br>\n<strong>【介绍】</strong>：AdAnt AI is a team of Creative Agents that handles Social Ad Strategy, Creation, and Iteration. Built on the strategies our founding team used to generate 50M+ Organic Views and reduce Paid Acquisition Costs by 60% on average, AdAnt AI creates Scroll-Stopping, High-Converting Ads for TikTok, Instagram, and YouTube.<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/QNPUB2TD4A4RX4\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/products/adant-ai\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：AI,team,Claude,viral,high,converting<br>\n<strong>票数</strong>： 🔺591<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2026年08月05日 PM03:01 (北京时间)<br><br></p>\n",
-      "image": "https://ph-files.imgix.net/c5e40c1e-f537-42ad-a8eb-b98fe183b20b.png?auto=format&fit=crop&frame=1&h=512&w=1024",
-      "date_published": "2026-08-05T00:00:00.000Z",
-      "date_modified": "2026-08-16T08:21:34.288Z",
+      "date_modified": "2026-08-16T09:21:33.496Z",
       "authors": [],
       "tags": [
         "PH"

@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 16 Aug 2026 08:21:34 GMT</pubDate>
-    <lastBuildDate>Sun, 16 Aug 2026 08:21:34 GMT</lastBuildDate>
+    <pubDate>Sun, 16 Aug 2026 09:21:33 GMT</pubDate>
+    <lastBuildDate>Sun, 16 Aug 2026 09:21:33 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-08-15</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-08-15.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-08-15.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-08-15</source>
+      <description>TOP1 Inferock Bench Inferock Bench 【标语】：An independent receipt for every LLM API call 【介绍】：Inferock-bench is a local proxy that sits between your app and OpenAI, Anthropic, Gemi...</description>
+      <category>PH</category>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-inferock-bench"><span></span></a><a href="https://www.producthunt.com/products/inferock-bench" target="_blank" rel="noopener noreferrer">TOP1    Inferock Bench</a></h2>
+<p><img src="https://ph-files.imgix.net/42a255e5-2317-4539-ae0a-db2551b450bd.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Inferock Bench" loading="lazy"><br><br>
+<strong>【标语】</strong>：An independent receipt for every LLM API call<br>
+<strong>【介绍】</strong>：Inferock-bench is a local proxy that sits between your app and OpenAI, Anthropic, Gemini, or OpenRouter shaped calls. It captures per-call token usage, failures, and retries, then generates an independent receipt showing what you were billed and how much you're actually overpaying for.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/GR7NKWTUDANGUS" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/inferock-bench" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：independent,receipt,every,LLM,API,callInferock<br>
+<strong>票数</strong>： 🔺284<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年08月15日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/42a255e5-2317-4539-ae0a-db2551b450bd.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-08-14</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-08-14.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年08月06日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/301ddb2d-8c92-4e56-b87e-0e4aa3f84c5f.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-08-05</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-08-05.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-08-05.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-08-05</source>
-      <description>TOP1 AdAnt AI AdAnt AI 【标语】：Claude for viral, high-converting social ads 【介绍】：AdAnt AI is a team of Creative Agents that handles Social Ad Strategy, Creation, and Iteration. Bui...</description>
-      <category>PH</category>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-adant-ai"><span></span></a><a href="https://www.producthunt.com/products/adant-ai" target="_blank" rel="noopener noreferrer">TOP1    AdAnt AI</a></h2>
-<p><img src="https://ph-files.imgix.net/c5e40c1e-f537-42ad-a8eb-b98fe183b20b.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="AdAnt AI" loading="lazy"><br><br>
-<strong>【标语】</strong>：Claude for viral, high-converting social ads<br>
-<strong>【介绍】</strong>：AdAnt AI is a team of Creative Agents that handles Social Ad Strategy, Creation, and Iteration. Built on the strategies our founding team used to generate 50M+ Organic Views and reduce Paid Acquisition Costs by 60% on average, AdAnt AI creates Scroll-Stopping, High-Converting Ads for TikTok, Instagram, and YouTube.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/QNPUB2TD4A4RX4" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/adant-ai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：AI,team,Claude,viral,high,converting<br>
-<strong>票数</strong>： 🔺591<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年08月05日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/c5e40c1e-f537-42ad-a8eb-b98fe183b20b.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
