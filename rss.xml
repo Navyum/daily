@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 17 Aug 2026 08:36:06 GMT</pubDate>
-    <lastBuildDate>Mon, 17 Aug 2026 08:36:06 GMT</lastBuildDate>
+    <pubDate>Mon, 17 Aug 2026 09:34:59 GMT</pubDate>
+    <lastBuildDate>Mon, 17 Aug 2026 09:34:59 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-08-16</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-08-16.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-08-16.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-08-16</source>
+      <description>TOP1 HarnessRouter Community Edition HarnessRouter Community Edition 【标语】：Open-source unified interface for agent harnesses 【介绍】：Plug-and-play managed agent harnesses in your pr...</description>
+      <category>PH</category>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-harnessrouter-community-edition"><span></span></a><a href="https://www.producthunt.com/products/epsilla" target="_blank" rel="noopener noreferrer">TOP1    HarnessRouter Community Edition</a></h2>
+<p><img src="https://ph-files.imgix.net/ab44ed35-a270-4ba3-87c2-7a1139a640d1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="HarnessRouter Community Edition" loading="lazy"><br><br>
+<strong>【标语】</strong>：Open-source unified interface for agent harnesses<br>
+<strong>【介绍】</strong>：Plug-and-play managed agent harnesses in your product: Codex, Claude Code and Hermes through one API on your infrastructure, now open sourced under Apache 2.0. Switch harnesses without rebuilding your backend. Sessions, streaming, files, artifacts, cancellation, failure recovery, all handled. Model provider keys, state, and deliveries under your control. Gateway, Runner, Console in one Docker container. Ready-to-use starter kit apps as inspiration of possibilities.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/C247JURJJIF5WQ" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/epsilla" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：your,agent,harnesses,under,Open,source<br>
+<strong>票数</strong>： 🔺325<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年08月16日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/ab44ed35-a270-4ba3-87c2-7a1139a640d1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-08-15</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-08-15.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年08月07日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/f7841527-de48-4834-a8bd-34f7b688d409.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-08-06</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-08-06.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-08-06.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-08-06</source>
-      <description>TOP1 Cloudflare OS Cloudflare OS 【标语】：Build the AI operating system for your company 【介绍】：Give every person an agent and workspace built around how your company works, what it k...</description>
-      <category>PH</category>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-cloudflare-os"><span></span></a><a href="https://www.producthunt.com/products/cloudflare" target="_blank" rel="noopener noreferrer">TOP1    Cloudflare OS</a></h2>
-<p><img src="https://ph-files.imgix.net/301ddb2d-8c92-4e56-b87e-0e4aa3f84c5f.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Cloudflare OS" loading="lazy"><br><br>
-<strong>【标语】</strong>：Build the AI operating system for your company<br>
-<strong>【介绍】</strong>：Give every person an agent and workspace built around how your company works, what it knows, and the systems it relies on. Cloudflare OS is the open source AI operating system companies can shape around their own context, tools, and rules.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/VYDPLSA7MSOD7N" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/cloudflare" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：AI,operating,system,your,around,Build<br>
-<strong>票数</strong>： 🔺444<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年08月06日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/301ddb2d-8c92-4e56-b87e-0e4aa3f84c5f.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
