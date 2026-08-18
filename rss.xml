@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 18 Aug 2026 08:28:30 GMT</pubDate>
-    <lastBuildDate>Tue, 18 Aug 2026 08:28:30 GMT</lastBuildDate>
+    <pubDate>Tue, 18 Aug 2026 09:26:10 GMT</pubDate>
+    <lastBuildDate>Tue, 18 Aug 2026 09:26:10 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-08-17</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-08-17.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-08-17.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-08-17</source>
+      <description>TOP1 Meridian Meridian 【标语】：Don&amp;apos;t let your work go unnoticed. Get promoted! 【介绍】：Meridian is an open-source AI work journal that runs entirely on your device. It writes your wor...</description>
+      <category>PH</category>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-meridian"><span></span></a><a href="https://www.producthunt.com/products/meridian-16" target="_blank" rel="noopener noreferrer">TOP1    Meridian</a></h2>
+<p><img src="https://ph-files.imgix.net/321b8078-2b3e-474b-8fa4-ad6d027527c2.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Meridian" loading="lazy"><br><br>
+<strong>【标语】</strong>：Don't let your work go unnoticed. Get promoted!<br>
+<strong>【介绍】</strong>：Meridian is an open-source AI work journal that runs entirely on your device. It writes your work up in plain English as the day goes, so by the end of the day you have a summary of everything you did. Meridian automatically drafts your updates for your project management tools like Jira, ready to post once you approve them. Do the work. Let the remembering take care of itself. No cloud, no account. MIT-licensed, free.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/Q3UR7I2PIWKD7D" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/meridian-16" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：your,work,Meridian,day,Don,let<br>
+<strong>票数</strong>： 🔺402<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年08月17日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/321b8078-2b3e-474b-8fa4-ad6d027527c2.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-08-16</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-08-16.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年08月08日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/9e9d0ad5-6421-4a91-909d-db9567828a79.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-08-07</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-08-07.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-08-07.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-08-07</source>
-      <description>TOP1 Coldtea.ai Coldtea.ai 【标语】：Make your software self-driving 【介绍】：The faster your team ships with AI, the harder it becomes to keep production stable. Not anymore. Coldtea is...</description>
-      <category>PH</category>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-coldtea-ai"><span></span></a><a href="https://www.producthunt.com/products/coldtea" target="_blank" rel="noopener noreferrer">TOP1    Coldtea.ai</a></h2>
-<p><img src="https://ph-files.imgix.net/f7841527-de48-4834-a8bd-34f7b688d409.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Coldtea.ai" loading="lazy"><br><br>
-<strong>【标语】</strong>：Make your software self-driving<br>
-<strong>【介绍】</strong>：The faster your team ships with AI, the harder it becomes to keep production stable. Not anymore. Coldtea is an agentic IDE where your coding agents build, visual QA agents catch regressions, and AI monitoring watches production, so your team can keep moving at agent speed without breaking anything<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/WB4IUOEMBNYG5V" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/coldtea" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：your,team,AI,keep,production,agents<br>
-<strong>票数</strong>： 🔺472<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年08月07日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/f7841527-de48-4834-a8bd-34f7b688d409.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
