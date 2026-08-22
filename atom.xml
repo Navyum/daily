@@ -4,16 +4,41 @@
   <title>DAYHACK</title>
   <subtitle>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</subtitle>
   <icon>https://github.camscanner.top/daily/favicon.ico</icon>
-  <updated>2026-08-22T08:21:14.150Z</updated>
+  <updated>2026-08-22T09:21:10.980Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/"/>
   <category term="PH"/>
   <entry>
+    <title type="text">PH今日热榜 | 2026-08-21</title>
+    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-21.html</id>
+    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-21.html"/>
+    <updated>2026-08-22T09:21:10.982Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-wizstar"><span></span></a><a href="https://www.producthunt.com/products/wizstar" target="_blank" rel="noopener noreferrer">TOP1    Wizstar</a></h2>
+<p><img src="https://ph-files.imgix.net/3923a9fc-4923-4ae3-b501-a4a3d049c9e1.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Wizstar" loading="lazy"><br><br>
+<strong>【标语】</strong>：Digital avatars that move and act like professional actors<br>
+<strong>【介绍】</strong>：Wizstar helps founders, creators, and makers build an expressive, accurate digital ambassador that looks and moves like you. It gestures naturally, interacts with objects, and maintains precise lip sync—even during head turns or things in front of your face. Create product updates, training, localized videos, and branded content without being on camera every time. Bring your digital presence to life and scale it across markets, languages, and channels.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/66CCQDPHMOWPG6" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/wizstar" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-wizstar"><span></span></a><a href="https://www.producthunt.com/products/wizstar" target="_blank" rel="noopener noreferrer">TOP1    Wizstar</a></h2>
+<p><img src="https://ph-files.imgix.net/3923a9fc-4923-4ae3-b501-a4a3d049c9e1.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Wizstar" loading="lazy"><br><br>
+<strong>【标语】</strong>：Digital avatars that move and act like professional actors<br>
+<strong>【介绍】</strong>：Wizstar helps founders, creators, and makers build an expressive, accurate digital ambassador that looks and moves like you. It gestures naturally, interacts with objects, and maintains precise lip sync—even during head turns or things in front of your face. Create product updates, training, localized videos, and branded content without being on camera every time. Bring your digital presence to life and scale it across markets, languages, and channels.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/66CCQDPHMOWPG6" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/wizstar" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：like,digital,your,Digital,avatars,move<br>
+<strong>票数</strong>： 🔺319<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年08月21日 PM03:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2026-08-21T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">PH今日热榜 | 2026-08-20</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-20.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-20.html"/>
-    <updated>2026-08-22T08:21:14.151Z</updated>
+    <updated>2026-08-22T09:21:10.999Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-hynote-for-mac"><span></span></a><a href="https://www.producthunt.com/products/hynote-ai" target="_blank" rel="noopener noreferrer">TOP1    HyNote for Mac</a></h2>
 <p><img src="https://ph-files.imgix.net/4f5d34fe-e31c-4744-a968-e0f3ab562514.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="HyNote for Mac" loading="lazy"><br><br>
 <strong>【标语】</strong>：Free local transcription that is 100% Private<br>
@@ -38,7 +63,7 @@
     <title type="text">PH今日热榜 | 2026-08-19</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-19.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-19.html"/>
-    <updated>2026-08-22T08:21:14.168Z</updated>
+    <updated>2026-08-22T09:21:11.016Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-astute"><span></span></a><a href="https://www.producthunt.com/products/astute-2" target="_blank" rel="noopener noreferrer">TOP1    Astute</a></h2>
 <p><img src="https://ph-files.imgix.net/ffb8da08-6306-448d-b87b-eacff30e80ec.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Astute" loading="lazy"><br><br>
 <strong>【标语】</strong>：Automate your B2B brand going viral, with new media creators<br>
@@ -63,7 +88,7 @@
     <title type="text">PH今日热榜 | 2026-08-18</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-18.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-18.html"/>
-    <updated>2026-08-22T08:21:14.180Z</updated>
+    <updated>2026-08-22T09:21:11.024Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-clara-ai-sdr"><span></span></a><a href="https://www.producthunt.com/products/clara-ai-sdr" target="_blank" rel="noopener noreferrer">TOP1    Clara AI SDR</a></h2>
 <p><img src="https://ph-files.imgix.net/245b5448-ea2d-4cc7-b363-6e795e8bd5ee.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Clara AI SDR" loading="lazy"><br><br>
 <strong>【标语】</strong>：Turn website visitors into qualified pipeline<br>
@@ -88,7 +113,7 @@
     <title type="text">PH今日热榜 | 2026-08-17</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-17.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-17.html"/>
-    <updated>2026-08-22T08:21:14.188Z</updated>
+    <updated>2026-08-22T09:21:11.041Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-meridian"><span></span></a><a href="https://www.producthunt.com/products/meridian-16" target="_blank" rel="noopener noreferrer">TOP1    Meridian</a></h2>
 <p><img src="https://ph-files.imgix.net/321b8078-2b3e-474b-8fa4-ad6d027527c2.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Meridian" loading="lazy"><br><br>
 <strong>【标语】</strong>：Don't let your work go unnoticed. Get promoted!<br>
@@ -113,7 +138,7 @@
     <title type="text">PH今日热榜 | 2026-08-16</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-16.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-16.html"/>
-    <updated>2026-08-22T08:21:14.205Z</updated>
+    <updated>2026-08-22T09:21:11.049Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-harnessrouter-community-edition"><span></span></a><a href="https://www.producthunt.com/products/epsilla" target="_blank" rel="noopener noreferrer">TOP1    HarnessRouter Community Edition</a></h2>
 <p><img src="https://ph-files.imgix.net/ab44ed35-a270-4ba3-87c2-7a1139a640d1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="HarnessRouter Community Edition" loading="lazy"><br><br>
 <strong>【标语】</strong>：Open-source unified interface for agent harnesses<br>
@@ -138,7 +163,7 @@
     <title type="text">PH今日热榜 | 2026-08-15</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-15.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-15.html"/>
-    <updated>2026-08-22T08:21:14.212Z</updated>
+    <updated>2026-08-22T09:21:11.063Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-inferock-bench"><span></span></a><a href="https://www.producthunt.com/products/inferock-bench" target="_blank" rel="noopener noreferrer">TOP1    Inferock Bench</a></h2>
 <p><img src="https://ph-files.imgix.net/42a255e5-2317-4539-ae0a-db2551b450bd.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Inferock Bench" loading="lazy"><br><br>
 <strong>【标语】</strong>：An independent receipt for every LLM API call<br>
@@ -163,7 +188,7 @@
     <title type="text">PH今日热榜 | 2026-08-14</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-14.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-14.html"/>
-    <updated>2026-08-22T08:21:14.226Z</updated>
+    <updated>2026-08-22T09:21:11.071Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-outcome"><span></span></a><a href="https://www.producthunt.com/products/contentblocks" target="_blank" rel="noopener noreferrer">TOP1    Outcome </a></h2>
 <p><img src="https://ph-files.imgix.net/15e0dd12-567b-4504-876e-86f6e795b79c.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Outcome " loading="lazy"><br><br>
 <strong>【标语】</strong>：Turn your content into a personal outcome for every lead<br>
@@ -188,7 +213,7 @@
     <title type="text">PH今日热榜 | 2026-08-13</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-13.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-13.html"/>
-    <updated>2026-08-22T08:21:14.235Z</updated>
+    <updated>2026-08-22T09:21:11.089Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-kane-cli"><span></span></a><a href="https://www.producthunt.com/products/lambdatest" target="_blank" rel="noopener noreferrer">TOP1    Kane CLI</a></h2>
 <p><img src="https://ph-files.imgix.net/e5c5b6bb-38a2-4eb3-898d-9b3c4958dc77.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Kane CLI" loading="lazy"><br><br>
 <strong>【标语】</strong>：Natural language browser &amp; mobile app tests from terminal<br>
@@ -213,7 +238,7 @@
     <title type="text">PH今日热榜 | 2026-08-12</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-12.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-12.html"/>
-    <updated>2026-08-22T08:21:14.250Z</updated>
+    <updated>2026-08-22T09:21:11.103Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-dograh"><span></span></a><a href="https://www.producthunt.com/products/dograh" target="_blank" rel="noopener noreferrer">TOP1    Dograh</a></h2>
 <p><img src="https://ph-files.imgix.net/3e786432-ae63-4c7f-8096-185d60bbfd2b.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Dograh" loading="lazy"><br><br>
 <strong>【标语】</strong>：The open source VAPI alternative<br>
@@ -233,30 +258,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2026-08-12T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2026-08-11</title>
-    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-11.html</id>
-    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-11.html"/>
-    <updated>2026-08-22T08:21:14.263Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-tines-3b"><span></span></a><a href="https://www.producthunt.com/products/tines" target="_blank" rel="noopener noreferrer">TOP1    Tines 3B</a></h2>
-<p><img src="https://ph-files.imgix.net/5f314c84-bfa5-4d6e-b1ab-82e0c1e0530e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Tines 3B" loading="lazy"><br><br>
-<strong>【标语】</strong>：The secure environment for agents, apps, and automations<br>
-<strong>【介绍】</strong>：Tines 3B is the single, secure environment for your most important agents, apps, and automation. Build with AI, from anywhere. Code runs isolated and credentials stay protected. Everything you ship is fully auditable and monitored from one place. Tines 3B is code-first and AI-native, built to help you move fast without compromising on security. Explore Edition is available today and gives you access to 3 live workflows with unlimited users, spaces, and connectors.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/YIH4E6DK7N5RLY" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/tines" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-tines-3b"><span></span></a><a href="https://www.producthunt.com/products/tines" target="_blank" rel="noopener noreferrer">TOP1    Tines 3B</a></h2>
-<p><img src="https://ph-files.imgix.net/5f314c84-bfa5-4d6e-b1ab-82e0c1e0530e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Tines 3B" loading="lazy"><br><br>
-<strong>【标语】</strong>：The secure environment for agents, apps, and automations<br>
-<strong>【介绍】</strong>：Tines 3B is the single, secure environment for your most important agents, apps, and automation. Build with AI, from anywhere. Code runs isolated and credentials stay protected. Everything you ship is fully auditable and monitored from one place. Tines 3B is code-first and AI-native, built to help you move fast without compromising on security. Explore Edition is available today and gives you access to 3 live workflows with unlimited users, spaces, and connectors.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/YIH4E6DK7N5RLY" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/tines" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：secure,environment,agents,apps,3B,AI<br>
-<strong>票数</strong>： 🔺405<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年08月11日 PM03:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2026-08-11T00:00:00.000Z</published>
   </entry>
 </feed>
