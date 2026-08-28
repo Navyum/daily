@@ -4,16 +4,41 @@
   <title>DAYHACK</title>
   <subtitle>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</subtitle>
   <icon>https://github.camscanner.top/daily/favicon.ico</icon>
-  <updated>2026-08-27T18:43:58.245Z</updated>
+  <updated>2026-08-28T19:50:51.237Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/"/>
   <category term="PH"/>
   <entry>
+    <title type="text">PH今日热榜 | 2026-08-26</title>
+    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-26.html</id>
+    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-26.html"/>
+    <updated>2026-08-28T19:50:51.239Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-x1"><span></span></a><a href="https://www.producthunt.com/products/x1-2" target="_blank" rel="noopener noreferrer">TOP1    x1</a></h2>
+<p><img src="https://ph-files.imgix.net/b97cff53-6cd1-4c26-b8e2-14fbb42c8411.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="x1" loading="lazy"><br><br>
+<strong>【标语】</strong>：Lovable for iPhone apps go from idea to App Store<br>
+<strong>【介绍】</strong>：X1 is an AI app builder that takes you from an idea to an iPhone app you can publish on the App Store. Instead of trying to generate the entire app from one prompt, X1 guides you step by step. It asks focused questions, designs each screen for you to review and edit, then builds the app in stages. Preview and test it on your iPhone as you go. When it’s ready, X1 prepares your App Store listing, screenshots, and submission. No coding required.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/HRIWQ6DBNJOZ7W" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/x1-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-x1"><span></span></a><a href="https://www.producthunt.com/products/x1-2" target="_blank" rel="noopener noreferrer">TOP1    x1</a></h2>
+<p><img src="https://ph-files.imgix.net/b97cff53-6cd1-4c26-b8e2-14fbb42c8411.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="x1" loading="lazy"><br><br>
+<strong>【标语】</strong>：Lovable for iPhone apps go from idea to App Store<br>
+<strong>【介绍】</strong>：X1 is an AI app builder that takes you from an idea to an iPhone app you can publish on the App Store. Instead of trying to generate the entire app from one prompt, X1 guides you step by step. It asks focused questions, designs each screen for you to review and edit, then builds the app in stages. Preview and test it on your iPhone as you go. When it’s ready, X1 prepares your App Store listing, screenshots, and submission. No coding required.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/HRIWQ6DBNJOZ7W" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/x1-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：app,iPhone,App,go,idea,Store<br>
+<strong>票数</strong>： 🔺492<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年08月26日 PM03:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2026-08-26T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">PH今日热榜 | 2026-08-25</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-25.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-25.html"/>
-    <updated>2026-08-27T18:43:58.247Z</updated>
+    <updated>2026-08-28T19:50:51.255Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-akta-pro"><span></span></a><a href="https://www.producthunt.com/products/akta-pro" target="_blank" rel="noopener noreferrer">TOP1    akta.pro</a></h2>
 <p><img src="https://ph-files.imgix.net/37968db6-2d1b-4496-b860-f96d27b11af9.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="akta.pro" loading="lazy"><br><br>
 <strong>【标语】</strong>：Private company data and signals API for the agent economy<br>
@@ -38,7 +63,7 @@
     <title type="text">PH今日热榜 | 2026-08-24</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-24.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-24.html"/>
-    <updated>2026-08-27T18:43:58.274Z</updated>
+    <updated>2026-08-28T19:50:51.270Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-paymentkit"><span></span></a><a href="https://www.producthunt.com/products/paymentkit" target="_blank" rel="noopener noreferrer">TOP1    PaymentKit</a></h2>
 <p><img src="https://ph-files.imgix.net/36334bde-50fb-4b8d-860b-5bb280836ff9.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="PaymentKit" loading="lazy"><br><br>
 <strong>【标语】</strong>：Billing that survives a processor shutdown<br>
@@ -63,7 +88,7 @@
     <title type="text">PH今日热榜 | 2026-08-23</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-23.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-23.html"/>
-    <updated>2026-08-27T18:43:58.282Z</updated>
+    <updated>2026-08-28T19:50:51.284Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-construct-computer"><span></span></a><a href="https://www.producthunt.com/products/construct-computer" target="_blank" rel="noopener noreferrer">TOP1    Construct Computer</a></h2>
 <p><img src="https://ph-files.imgix.net/b8c9dd11-9d4a-41f2-8f07-fb23477cf542.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Construct Computer" loading="lazy"><br><br>
 <strong>【标语】</strong>：Your AI coworker gets a computer. You get your day back.<br>
@@ -88,7 +113,7 @@
     <title type="text">PH今日热榜 | 2026-08-22</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-22.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-22.html"/>
-    <updated>2026-08-27T18:43:58.297Z</updated>
+    <updated>2026-08-28T19:50:51.292Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-toplify"><span></span></a><a href="https://www.producthunt.com/products/toplify" target="_blank" rel="noopener noreferrer">TOP1    Toplify</a></h2>
 <p><img src="https://ph-files.imgix.net/8d3a4f25-f804-4c70-81b4-35474b5123bd.webp?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Toplify" loading="lazy"><br><br>
 <strong>【标语】</strong>：Track your App Store ranking worldwide<br>
@@ -113,7 +138,7 @@
     <title type="text">PH今日热榜 | 2026-08-21</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-21.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-21.html"/>
-    <updated>2026-08-27T18:43:58.304Z</updated>
+    <updated>2026-08-28T19:50:51.305Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-wizstar"><span></span></a><a href="https://www.producthunt.com/products/wizstar" target="_blank" rel="noopener noreferrer">TOP1    Wizstar</a></h2>
 <p><img src="https://ph-files.imgix.net/3923a9fc-4923-4ae3-b501-a4a3d049c9e1.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Wizstar" loading="lazy"><br><br>
 <strong>【标语】</strong>：Digital avatars that move and act like professional actors<br>
@@ -138,7 +163,7 @@
     <title type="text">PH今日热榜 | 2026-08-20</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-20.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-20.html"/>
-    <updated>2026-08-27T18:43:58.316Z</updated>
+    <updated>2026-08-28T19:50:51.314Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-hynote-for-mac"><span></span></a><a href="https://www.producthunt.com/products/hynote-ai" target="_blank" rel="noopener noreferrer">TOP1    HyNote for Mac</a></h2>
 <p><img src="https://ph-files.imgix.net/4f5d34fe-e31c-4744-a968-e0f3ab562514.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="HyNote for Mac" loading="lazy"><br><br>
 <strong>【标语】</strong>：Free local transcription that is 100% Private<br>
@@ -163,7 +188,7 @@
     <title type="text">PH今日热榜 | 2026-08-19</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-19.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-19.html"/>
-    <updated>2026-08-27T18:43:58.329Z</updated>
+    <updated>2026-08-28T19:50:51.327Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-astute"><span></span></a><a href="https://www.producthunt.com/products/astute-2" target="_blank" rel="noopener noreferrer">TOP1    Astute</a></h2>
 <p><img src="https://ph-files.imgix.net/ffb8da08-6306-448d-b87b-eacff30e80ec.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Astute" loading="lazy"><br><br>
 <strong>【标语】</strong>：Automate your B2B brand going viral, with new media creators<br>
@@ -188,7 +213,7 @@
     <title type="text">PH今日热榜 | 2026-08-18</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-18.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-18.html"/>
-    <updated>2026-08-27T18:43:58.336Z</updated>
+    <updated>2026-08-28T19:50:51.340Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-clara-ai-sdr"><span></span></a><a href="https://www.producthunt.com/products/clara-ai-sdr" target="_blank" rel="noopener noreferrer">TOP1    Clara AI SDR</a></h2>
 <p><img src="https://ph-files.imgix.net/245b5448-ea2d-4cc7-b363-6e795e8bd5ee.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Clara AI SDR" loading="lazy"><br><br>
 <strong>【标语】</strong>：Turn website visitors into qualified pipeline<br>
@@ -213,7 +238,7 @@
     <title type="text">PH今日热榜 | 2026-08-17</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-17.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-17.html"/>
-    <updated>2026-08-27T18:43:58.349Z</updated>
+    <updated>2026-08-28T19:50:51.358Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-meridian"><span></span></a><a href="https://www.producthunt.com/products/meridian-16" target="_blank" rel="noopener noreferrer">TOP1    Meridian</a></h2>
 <p><img src="https://ph-files.imgix.net/321b8078-2b3e-474b-8fa4-ad6d027527c2.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Meridian" loading="lazy"><br><br>
 <strong>【标语】</strong>：Don't let your work go unnoticed. Get promoted!<br>
@@ -233,30 +258,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2026-08-17T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2026-08-16</title>
-    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-16.html</id>
-    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-16.html"/>
-    <updated>2026-08-27T18:43:58.356Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-harnessrouter-community-edition"><span></span></a><a href="https://www.producthunt.com/products/epsilla" target="_blank" rel="noopener noreferrer">TOP1    HarnessRouter Community Edition</a></h2>
-<p><img src="https://ph-files.imgix.net/ab44ed35-a270-4ba3-87c2-7a1139a640d1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="HarnessRouter Community Edition" loading="lazy"><br><br>
-<strong>【标语】</strong>：Open-source unified interface for agent harnesses<br>
-<strong>【介绍】</strong>：Plug-and-play managed agent harnesses in your product: Codex, Claude Code and Hermes through one API on your infrastructure, now open sourced under Apache 2.0. Switch harnesses without rebuilding your backend. Sessions, streaming, files, artifacts, cancellation, failure recovery, all handled. Model provider keys, state, and deliveries under your control. Gateway, Runner, Console in one Docker container. Ready-to-use starter kit apps as inspiration of possibilities.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/C247JURJJIF5WQ" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/epsilla" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-harnessrouter-community-edition"><span></span></a><a href="https://www.producthunt.com/products/epsilla" target="_blank" rel="noopener noreferrer">TOP1    HarnessRouter Community Edition</a></h2>
-<p><img src="https://ph-files.imgix.net/ab44ed35-a270-4ba3-87c2-7a1139a640d1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="HarnessRouter Community Edition" loading="lazy"><br><br>
-<strong>【标语】</strong>：Open-source unified interface for agent harnesses<br>
-<strong>【介绍】</strong>：Plug-and-play managed agent harnesses in your product: Codex, Claude Code and Hermes through one API on your infrastructure, now open sourced under Apache 2.0. Switch harnesses without rebuilding your backend. Sessions, streaming, files, artifacts, cancellation, failure recovery, all handled. Model provider keys, state, and deliveries under your control. Gateway, Runner, Console in one Docker container. Ready-to-use starter kit apps as inspiration of possibilities.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/C247JURJJIF5WQ" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/epsilla" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：your,agent,harnesses,under,Open,source<br>
-<strong>票数</strong>： 🔺332<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年08月16日 PM03:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2026-08-16T00:00:00.000Z</published>
   </entry>
 </feed>

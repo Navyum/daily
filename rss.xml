@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 27 Aug 2026 18:43:58 GMT</pubDate>
-    <lastBuildDate>Thu, 27 Aug 2026 18:43:58 GMT</lastBuildDate>
+    <pubDate>Fri, 28 Aug 2026 19:50:51 GMT</pubDate>
+    <lastBuildDate>Fri, 28 Aug 2026 19:50:51 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-08-26</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-08-26.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-08-26.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-08-26</source>
+      <description>TOP1 x1 x1 【标语】：Lovable for iPhone apps go from idea to App Store 【介绍】：X1 is an AI app builder that takes you from an idea to an iPhone app you can publish on the App Store. Ins...</description>
+      <category>PH</category>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-x1"><span></span></a><a href="https://www.producthunt.com/products/x1-2" target="_blank" rel="noopener noreferrer">TOP1    x1</a></h2>
+<p><img src="https://ph-files.imgix.net/b97cff53-6cd1-4c26-b8e2-14fbb42c8411.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="x1" loading="lazy"><br><br>
+<strong>【标语】</strong>：Lovable for iPhone apps go from idea to App Store<br>
+<strong>【介绍】</strong>：X1 is an AI app builder that takes you from an idea to an iPhone app you can publish on the App Store. Instead of trying to generate the entire app from one prompt, X1 guides you step by step. It asks focused questions, designs each screen for you to review and edit, then builds the app in stages. Preview and test it on your iPhone as you go. When it’s ready, X1 prepares your App Store listing, screenshots, and submission. No coding required.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/HRIWQ6DBNJOZ7W" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/x1-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：app,iPhone,App,go,idea,Store<br>
+<strong>票数</strong>： 🔺492<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年08月26日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/b97cff53-6cd1-4c26-b8e2-14fbb42c8411.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-08-25</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-08-25.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年08月17日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/321b8078-2b3e-474b-8fa4-ad6d027527c2.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-08-16</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-08-16.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-08-16.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-08-16</source>
-      <description>TOP1 HarnessRouter Community Edition HarnessRouter Community Edition 【标语】：Open-source unified interface for agent harnesses 【介绍】：Plug-and-play managed agent harnesses in your pr...</description>
-      <category>PH</category>
-      <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-harnessrouter-community-edition"><span></span></a><a href="https://www.producthunt.com/products/epsilla" target="_blank" rel="noopener noreferrer">TOP1    HarnessRouter Community Edition</a></h2>
-<p><img src="https://ph-files.imgix.net/ab44ed35-a270-4ba3-87c2-7a1139a640d1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="HarnessRouter Community Edition" loading="lazy"><br><br>
-<strong>【标语】</strong>：Open-source unified interface for agent harnesses<br>
-<strong>【介绍】</strong>：Plug-and-play managed agent harnesses in your product: Codex, Claude Code and Hermes through one API on your infrastructure, now open sourced under Apache 2.0. Switch harnesses without rebuilding your backend. Sessions, streaming, files, artifacts, cancellation, failure recovery, all handled. Model provider keys, state, and deliveries under your control. Gateway, Runner, Console in one Docker container. Ready-to-use starter kit apps as inspiration of possibilities.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/C247JURJJIF5WQ" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/epsilla" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：your,agent,harnesses,under,Open,source<br>
-<strong>票数</strong>： 🔺332<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年08月16日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/ab44ed35-a270-4ba3-87c2-7a1139a640d1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
