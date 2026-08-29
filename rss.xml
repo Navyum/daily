@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 28 Aug 2026 19:50:51 GMT</pubDate>
-    <lastBuildDate>Fri, 28 Aug 2026 19:50:51 GMT</lastBuildDate>
+    <pubDate>Sat, 29 Aug 2026 13:32:41 GMT</pubDate>
+    <lastBuildDate>Sat, 29 Aug 2026 13:32:41 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-08-27</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-08-27.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-08-27.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-08-27</source>
+      <description>TOP1 Skydive Skydive 【标语】：Build cloud agents that work across your tools 【介绍】：Build cloud agent coworkers that take on real, multi-step work across the tools you already use. De...</description>
+      <category>PH</category>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-skydive"><span></span></a><a href="https://www.producthunt.com/products/skydive" target="_blank" rel="noopener noreferrer">TOP1    Skydive</a></h2>
+<p><img src="https://ph-files.imgix.net/aa941090-e357-44a8-a87f-7d446573efc5.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Skydive" loading="lazy"><br><br>
+<strong>【标语】</strong>：Build cloud agents that work across your tools<br>
+<strong>【介绍】</strong>：Build cloud agent coworkers that take on real, multi-step work across the tools you already use. Describe the outcome you want, and Skydive creates a working agent in minutes. No code, no prompt engineering, no workflow wiring required. Skydive agents live in your stack, execute repeatable work, and get sharper over time.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/YLZ2MF3E6WGU67" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/skydive" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：work,cloud,agents,across,your,agent<br>
+<strong>票数</strong>： 🔺407<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年08月27日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/aa941090-e357-44a8-a87f-7d446573efc5.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-08-26</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-08-26.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年08月18日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/245b5448-ea2d-4cc7-b363-6e795e8bd5ee.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-08-17</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-08-17.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-08-17.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-08-17</source>
-      <description>TOP1 Meridian Meridian 【标语】：Don&amp;apos;t let your work go unnoticed. Get promoted! 【介绍】：Meridian is an open-source AI work journal that runs entirely on your device. It writes your wor...</description>
-      <category>PH</category>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-meridian"><span></span></a><a href="https://www.producthunt.com/products/meridian-16" target="_blank" rel="noopener noreferrer">TOP1    Meridian</a></h2>
-<p><img src="https://ph-files.imgix.net/321b8078-2b3e-474b-8fa4-ad6d027527c2.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Meridian" loading="lazy"><br><br>
-<strong>【标语】</strong>：Don't let your work go unnoticed. Get promoted!<br>
-<strong>【介绍】</strong>：Meridian is an open-source AI work journal that runs entirely on your device. It writes your work up in plain English as the day goes, so by the end of the day you have a summary of everything you did. Meridian automatically drafts your updates for your project management tools like Jira, ready to post once you approve them. Do the work. Let the remembering take care of itself. No cloud, no account. MIT-licensed, free.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/Q3UR7I2PIWKD7D" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/meridian-16" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：your,work,Meridian,day,Don,let<br>
-<strong>票数</strong>： 🔺408<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年08月17日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/321b8078-2b3e-474b-8fa4-ad6d027527c2.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
