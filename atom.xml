@@ -4,16 +4,41 @@
   <title>DAYHACK</title>
   <subtitle>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</subtitle>
   <icon>https://github.camscanner.top/daily/favicon.ico</icon>
-  <updated>2026-08-29T13:32:41.343Z</updated>
+  <updated>2026-08-30T13:28:48.001Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/"/>
   <category term="PH"/>
   <entry>
+    <title type="text">PH今日热榜 | 2026-08-28</title>
+    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-28.html</id>
+    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-28.html"/>
+    <updated>2026-08-30T13:28:48.002Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-pageindex"><span></span></a><a href="https://www.producthunt.com/products/pageindexai" target="_blank" rel="noopener noreferrer">TOP1    PageIndex</a></h2>
+<p><img src="https://ph-files.imgix.net/d99a7df0-89aa-43de-b41f-a67881fd1f3d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="PageIndex" loading="lazy"><br><br>
+<strong>【标语】</strong>：Accurate, trustworthy answers across professional documents<br>
+<strong>【介绍】</strong>：PageIndex gives you accurate, trustworthy answers across long, professional documents your work depends on. Bring in your entire document set, ask your hardest question, and click any citation to jump to the exact highlighted source line, so you can verify it in seconds.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/XN6ZYWE35L5YMT" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/pageindexai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-pageindex"><span></span></a><a href="https://www.producthunt.com/products/pageindexai" target="_blank" rel="noopener noreferrer">TOP1    PageIndex</a></h2>
+<p><img src="https://ph-files.imgix.net/d99a7df0-89aa-43de-b41f-a67881fd1f3d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="PageIndex" loading="lazy"><br><br>
+<strong>【标语】</strong>：Accurate, trustworthy answers across professional documents<br>
+<strong>【介绍】</strong>：PageIndex gives you accurate, trustworthy answers across long, professional documents your work depends on. Bring in your entire document set, ask your hardest question, and click any citation to jump to the exact highlighted source line, so you can verify it in seconds.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/XN6ZYWE35L5YMT" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/pageindexai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：your,trustworthy,answers,across,professional,Accurate<br>
+<strong>票数</strong>： 🔺344<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年08月28日 PM03:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2026-08-28T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">PH今日热榜 | 2026-08-27</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-27.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-27.html"/>
-    <updated>2026-08-29T13:32:41.344Z</updated>
+    <updated>2026-08-30T13:28:48.027Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-skydive"><span></span></a><a href="https://www.producthunt.com/products/skydive" target="_blank" rel="noopener noreferrer">TOP1    Skydive</a></h2>
 <p><img src="https://ph-files.imgix.net/aa941090-e357-44a8-a87f-7d446573efc5.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Skydive" loading="lazy"><br><br>
 <strong>【标语】</strong>：Build cloud agents that work across your tools<br>
@@ -38,7 +63,7 @@
     <title type="text">PH今日热榜 | 2026-08-26</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-26.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-26.html"/>
-    <updated>2026-08-29T13:32:41.361Z</updated>
+    <updated>2026-08-30T13:28:48.037Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-x1"><span></span></a><a href="https://www.producthunt.com/products/x1-2" target="_blank" rel="noopener noreferrer">TOP1    x1</a></h2>
 <p><img src="https://ph-files.imgix.net/b97cff53-6cd1-4c26-b8e2-14fbb42c8411.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="x1" loading="lazy"><br><br>
 <strong>【标语】</strong>：Lovable for iPhone apps go from idea to App Store<br>
@@ -63,7 +88,7 @@
     <title type="text">PH今日热榜 | 2026-08-25</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-25.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-25.html"/>
-    <updated>2026-08-29T13:32:41.375Z</updated>
+    <updated>2026-08-30T13:28:48.051Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-akta-pro"><span></span></a><a href="https://www.producthunt.com/products/akta-pro" target="_blank" rel="noopener noreferrer">TOP1    akta.pro</a></h2>
 <p><img src="https://ph-files.imgix.net/37968db6-2d1b-4496-b860-f96d27b11af9.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="akta.pro" loading="lazy"><br><br>
 <strong>【标语】</strong>：Private company data and signals API for the agent economy<br>
@@ -88,7 +113,7 @@
     <title type="text">PH今日热榜 | 2026-08-24</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-24.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-24.html"/>
-    <updated>2026-08-29T13:32:41.383Z</updated>
+    <updated>2026-08-30T13:28:48.060Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-paymentkit"><span></span></a><a href="https://www.producthunt.com/products/paymentkit" target="_blank" rel="noopener noreferrer">TOP1    PaymentKit</a></h2>
 <p><img src="https://ph-files.imgix.net/36334bde-50fb-4b8d-860b-5bb280836ff9.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="PaymentKit" loading="lazy"><br><br>
 <strong>【标语】</strong>：Billing that survives a processor shutdown<br>
@@ -113,7 +138,7 @@
     <title type="text">PH今日热榜 | 2026-08-23</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-23.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-23.html"/>
-    <updated>2026-08-29T13:32:41.402Z</updated>
+    <updated>2026-08-30T13:28:48.074Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-construct-computer"><span></span></a><a href="https://www.producthunt.com/products/construct-computer" target="_blank" rel="noopener noreferrer">TOP1    Construct Computer</a></h2>
 <p><img src="https://ph-files.imgix.net/b8c9dd11-9d4a-41f2-8f07-fb23477cf542.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Construct Computer" loading="lazy"><br><br>
 <strong>【标语】</strong>：Your AI coworker gets a computer. You get your day back.<br>
@@ -138,7 +163,7 @@
     <title type="text">PH今日热榜 | 2026-08-22</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-22.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-22.html"/>
-    <updated>2026-08-29T13:32:41.415Z</updated>
+    <updated>2026-08-30T13:28:48.088Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-toplify"><span></span></a><a href="https://www.producthunt.com/products/toplify" target="_blank" rel="noopener noreferrer">TOP1    Toplify</a></h2>
 <p><img src="https://ph-files.imgix.net/8d3a4f25-f804-4c70-81b4-35474b5123bd.webp?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Toplify" loading="lazy"><br><br>
 <strong>【标语】</strong>：Track your App Store ranking worldwide<br>
@@ -163,7 +188,7 @@
     <title type="text">PH今日热榜 | 2026-08-21</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-21.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-21.html"/>
-    <updated>2026-08-29T13:32:41.423Z</updated>
+    <updated>2026-08-30T13:28:48.096Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-wizstar"><span></span></a><a href="https://www.producthunt.com/products/wizstar" target="_blank" rel="noopener noreferrer">TOP1    Wizstar</a></h2>
 <p><img src="https://ph-files.imgix.net/3923a9fc-4923-4ae3-b501-a4a3d049c9e1.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Wizstar" loading="lazy"><br><br>
 <strong>【标语】</strong>：Digital avatars that move and act like professional actors<br>
@@ -188,7 +213,7 @@
     <title type="text">PH今日热榜 | 2026-08-20</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-20.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-20.html"/>
-    <updated>2026-08-29T13:32:41.439Z</updated>
+    <updated>2026-08-30T13:28:48.112Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-hynote-for-mac"><span></span></a><a href="https://www.producthunt.com/products/hynote-ai" target="_blank" rel="noopener noreferrer">TOP1    HyNote for Mac</a></h2>
 <p><img src="https://ph-files.imgix.net/4f5d34fe-e31c-4744-a968-e0f3ab562514.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="HyNote for Mac" loading="lazy"><br><br>
 <strong>【标语】</strong>：Free local transcription that is 100% Private<br>
@@ -213,7 +238,7 @@
     <title type="text">PH今日热榜 | 2026-08-19</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-19.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-19.html"/>
-    <updated>2026-08-29T13:32:41.453Z</updated>
+    <updated>2026-08-30T13:28:48.119Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-astute"><span></span></a><a href="https://www.producthunt.com/products/astute-2" target="_blank" rel="noopener noreferrer">TOP1    Astute</a></h2>
 <p><img src="https://ph-files.imgix.net/ffb8da08-6306-448d-b87b-eacff30e80ec.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Astute" loading="lazy"><br><br>
 <strong>【标语】</strong>：Automate your B2B brand going viral, with new media creators<br>
@@ -233,30 +258,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2026-08-19T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2026-08-18</title>
-    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-18.html</id>
-    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-18.html"/>
-    <updated>2026-08-29T13:32:41.466Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-clara-ai-sdr"><span></span></a><a href="https://www.producthunt.com/products/clara-ai-sdr" target="_blank" rel="noopener noreferrer">TOP1    Clara AI SDR</a></h2>
-<p><img src="https://ph-files.imgix.net/245b5448-ea2d-4cc7-b363-6e795e8bd5ee.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Clara AI SDR" loading="lazy"><br><br>
-<strong>【标语】</strong>：Turn website visitors into qualified pipeline<br>
-<strong>【介绍】</strong>：Clara is an AI SDR that converts inbound website traffic into pipeline - engaging, qualifying, demoing, handling objections, and booking meetings in real time. No forms. No waiting. No extra headcount. 24/7 selling with seamless CRM integration.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/GUZOAGUD6W6XFS" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/clara-ai-sdr" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-clara-ai-sdr"><span></span></a><a href="https://www.producthunt.com/products/clara-ai-sdr" target="_blank" rel="noopener noreferrer">TOP1    Clara AI SDR</a></h2>
-<p><img src="https://ph-files.imgix.net/245b5448-ea2d-4cc7-b363-6e795e8bd5ee.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Clara AI SDR" loading="lazy"><br><br>
-<strong>【标语】</strong>：Turn website visitors into qualified pipeline<br>
-<strong>【介绍】</strong>：Clara is an AI SDR that converts inbound website traffic into pipeline - engaging, qualifying, demoing, handling objections, and booking meetings in real time. No forms. No waiting. No extra headcount. 24/7 selling with seamless CRM integration.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/GUZOAGUD6W6XFS" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/clara-ai-sdr" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：No,website,into,Turn,visitors,qualified<br>
-<strong>票数</strong>： 🔺416<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年08月18日 PM03:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2026-08-18T00:00:00.000Z</published>
   </entry>
 </feed>
