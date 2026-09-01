@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 31 Aug 2026 15:45:37 GMT</pubDate>
-    <lastBuildDate>Mon, 31 Aug 2026 15:45:37 GMT</lastBuildDate>
+    <pubDate>Tue, 01 Sep 2026 12:57:52 GMT</pubDate>
+    <lastBuildDate>Tue, 01 Sep 2026 12:57:52 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-08-30</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-08-30.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-08-30.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-08-30</source>
+      <description>TOP1 Topview Motion Studio Topview Motion Studio 【标语】：Create launch videos without touching After Effects 【介绍】：Motion Studio helps teams create polished launch videos for apps, ...</description>
+      <category>PH</category>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-topview-motion-studio"><span></span></a><a href="https://www.producthunt.com/products/topview-ai" target="_blank" rel="noopener noreferrer">TOP1    Topview Motion Studio</a></h2>
+<p><img src="https://ph-files.imgix.net/3d37b9e0-e01f-43c5-9ec4-482ff3fbabfd.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Topview Motion Studio" loading="lazy"><br><br>
+<strong>【标语】</strong>：Create launch videos without touching After Effects<br>
+<strong>【介绍】</strong>：Motion Studio helps teams create polished launch videos for apps, hardware, and new products without learning After Effects or hiring a motion design studio. Describe what you want to communicate, upload reference images, and choose a visual style, duration, and aspect ratio. Motion Studio combines AI video models with purpose-built motion design skills to turn your brief into high-quality product storytelling—faster, simpler, and at a fraction of the traditional cost.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/25TEFO4TYMRPSG" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/topview-ai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：launch,videos,without,After,Studio,motion<br>
+<strong>票数</strong>： 🔺319<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年08月30日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/3d37b9e0-e01f-43c5-9ec4-482ff3fbabfd.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-08-29</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-08-29.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年08月21日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/3923a9fc-4923-4ae3-b501-a4a3d049c9e1.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-08-20</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-08-20.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-08-20.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-08-20</source>
-      <description>TOP1 HyNote for Mac HyNote for Mac 【标语】：Free local transcription that is 100% Private 【介绍】：Solving the three biggest pain points in meeting software: privacy, friction, and cost...</description>
-      <category>PH</category>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-hynote-for-mac"><span></span></a><a href="https://www.producthunt.com/products/hynote-ai" target="_blank" rel="noopener noreferrer">TOP1    HyNote for Mac</a></h2>
-<p><img src="https://ph-files.imgix.net/4f5d34fe-e31c-4744-a968-e0f3ab562514.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="HyNote for Mac" loading="lazy"><br><br>
-<strong>【标语】</strong>：Free local transcription that is 100% Private<br>
-<strong>【介绍】</strong>：Solving the three biggest pain points in meeting software: privacy, friction, and cost. By running speech-to-text entirely on-device, your confidential discussions never leave your hardware, ensuring total data privacy. It operates invisibly without sending an awkward bot into your attendee list, capturing system audio directly across Zoom, Google Meet, and Microsoft Teams.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/TFVUEICJCPZ3GD" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/hynote-ai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：your,privacy,Free,local,transcription,100%<br>
-<strong>票数</strong>： 🔺360<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年08月20日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/4f5d34fe-e31c-4744-a968-e0f3ab562514.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
