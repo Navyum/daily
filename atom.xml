@@ -4,16 +4,41 @@
   <title>DAYHACK</title>
   <subtitle>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</subtitle>
   <icon>https://github.camscanner.top/daily/favicon.ico</icon>
-  <updated>2026-09-04T12:26:22.893Z</updated>
+  <updated>2026-09-05T11:32:54.068Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/"/>
   <category term="PH"/>
   <entry>
+    <title type="text">PH今日热榜 | 2026-09-03</title>
+    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-03.html</id>
+    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-03.html"/>
+    <updated>2026-09-05T11:32:54.069Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-nex"><span></span></a><a href="https://www.producthunt.com/products/nex-4" target="_blank" rel="noopener noreferrer">TOP1    Nex</a></h2>
+<p><img src="https://ph-files.imgix.net/17b5d314-12f2-4052-b45c-d551b00cc7a2.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Nex" loading="lazy"><br><br>
+<strong>【标语】</strong>：Claude Cowork for high-volume GTM workflows<br>
+<strong>【介绍】</strong>：Nex automates workflows like CRM clean up, large list qualification, revenue recovery, at large volumes, that break general purpose agents. Built by ex-HubSpotters who ran its three largest customer platforms and backed by HubSpot founder Dharmesh Shah.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/XMDJ7VCVJ2VC3D" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/nex-4" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-nex"><span></span></a><a href="https://www.producthunt.com/products/nex-4" target="_blank" rel="noopener noreferrer">TOP1    Nex</a></h2>
+<p><img src="https://ph-files.imgix.net/17b5d314-12f2-4052-b45c-d551b00cc7a2.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Nex" loading="lazy"><br><br>
+<strong>【标语】</strong>：Claude Cowork for high-volume GTM workflows<br>
+<strong>【介绍】</strong>：Nex automates workflows like CRM clean up, large list qualification, revenue recovery, at large volumes, that break general purpose agents. Built by ex-HubSpotters who ran its three largest customer platforms and backed by HubSpot founder Dharmesh Shah.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/XMDJ7VCVJ2VC3D" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/nex-4" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：large,Claude,Cowork,high,volume,GTM<br>
+<strong>票数</strong>： 🔺335<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年09月03日 PM03:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2026-09-03T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">PH今日热榜 | 2026-09-02</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-02.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-02.html"/>
-    <updated>2026-09-04T12:26:22.894Z</updated>
+    <updated>2026-09-05T11:32:54.084Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-monid"><span></span></a><a href="https://www.producthunt.com/products/monid" target="_blank" rel="noopener noreferrer">TOP1    Monid</a></h2>
 <p><img src="https://ph-files.imgix.net/c4b9b2dd-f271-4505-ae43-b40d2f7ff055.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Monid" loading="lazy"><br><br>
 <strong>【标语】</strong>：OpenRouter for agent tools<br>
@@ -38,7 +63,7 @@
     <title type="text">PH今日热榜 | 2026-09-01</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-01.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-01.html"/>
-    <updated>2026-09-04T12:26:22.908Z</updated>
+    <updated>2026-09-05T11:32:54.099Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-kilo-code-for-jetbrains"><span></span></a><a href="https://www.producthunt.com/products/kilocode" target="_blank" rel="noopener noreferrer">TOP1    Kilo Code for JetBrains</a></h2>
 <p><img src="https://ph-files.imgix.net/92963747-1185-42ae-b116-961fe5f616f9.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Kilo Code for JetBrains" loading="lazy"><br><br>
 <strong>【标语】</strong>：Fully native, open-source coding agent built for JetBrains<br>
@@ -63,7 +88,7 @@
     <title type="text">PH今日热榜 | 2026-08-31</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-31.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-31.html"/>
-    <updated>2026-09-04T12:26:22.921Z</updated>
+    <updated>2026-09-05T11:32:54.106Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-video-agent-by-fotor"><span></span></a><a href="https://www.producthunt.com/products/fotor" target="_blank" rel="noopener noreferrer">TOP1    Video Agent by Fotor</a></h2>
 <p><img src="https://ph-files.imgix.net/a1138670-14b9-46ce-94d2-a0fa252b3edc.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Video Agent by Fotor" loading="lazy"><br><br>
 <strong>【标语】</strong>：Create and edit precision motion graphics &amp; video with chat<br>
@@ -88,7 +113,7 @@
     <title type="text">PH今日热榜 | 2026-08-30</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-30.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-30.html"/>
-    <updated>2026-09-04T12:26:22.927Z</updated>
+    <updated>2026-09-05T11:32:54.124Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-topview-motion-studio"><span></span></a><a href="https://www.producthunt.com/products/topview-ai" target="_blank" rel="noopener noreferrer">TOP1    Topview Motion Studio</a></h2>
 <p><img src="https://ph-files.imgix.net/3d37b9e0-e01f-43c5-9ec4-482ff3fbabfd.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Topview Motion Studio" loading="lazy"><br><br>
 <strong>【标语】</strong>：Create launch videos without touching After Effects<br>
@@ -113,7 +138,7 @@
     <title type="text">PH今日热榜 | 2026-08-29</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-29.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-29.html"/>
-    <updated>2026-09-04T12:26:22.942Z</updated>
+    <updated>2026-09-05T11:32:54.136Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-1752vc-pitch-deck-analyzer"><span></span></a><a href="https://www.producthunt.com/products/1752vc-pitch-deck-analysis" target="_blank" rel="noopener noreferrer">TOP1    1752vc Pitch Deck Analyzer</a></h2>
 <p><img src="https://ph-files.imgix.net/781f3295-14ef-4e6c-8928-f2dd1122ba77.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="1752vc Pitch Deck Analyzer" loading="lazy"><br><br>
 <strong>【标语】</strong>：Know what investors will say before you ever hit send.<br>
@@ -138,7 +163,7 @@
     <title type="text">PH今日热榜 | 2026-08-28</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-28.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-28.html"/>
-    <updated>2026-09-04T12:26:22.954Z</updated>
+    <updated>2026-09-05T11:32:54.145Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-pageindex"><span></span></a><a href="https://www.producthunt.com/products/pageindexai" target="_blank" rel="noopener noreferrer">TOP1    PageIndex</a></h2>
 <p><img src="https://ph-files.imgix.net/d99a7df0-89aa-43de-b41f-a67881fd1f3d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="PageIndex" loading="lazy"><br><br>
 <strong>【标语】</strong>：Accurate, trustworthy answers across professional documents<br>
@@ -163,7 +188,7 @@
     <title type="text">PH今日热榜 | 2026-08-27</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-27.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-27.html"/>
-    <updated>2026-09-04T12:26:22.961Z</updated>
+    <updated>2026-09-05T11:32:54.157Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-skydive"><span></span></a><a href="https://www.producthunt.com/products/skydive" target="_blank" rel="noopener noreferrer">TOP1    Skydive</a></h2>
 <p><img src="https://ph-files.imgix.net/aa941090-e357-44a8-a87f-7d446573efc5.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Skydive" loading="lazy"><br><br>
 <strong>【标语】</strong>：Build cloud agents that work across your tools<br>
@@ -188,7 +213,7 @@
     <title type="text">PH今日热榜 | 2026-08-26</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-26.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-26.html"/>
-    <updated>2026-09-04T12:26:22.973Z</updated>
+    <updated>2026-09-05T11:32:54.168Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-x1"><span></span></a><a href="https://www.producthunt.com/products/x1-2" target="_blank" rel="noopener noreferrer">TOP1    x1</a></h2>
 <p><img src="https://ph-files.imgix.net/b97cff53-6cd1-4c26-b8e2-14fbb42c8411.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="x1" loading="lazy"><br><br>
 <strong>【标语】</strong>：Lovable for iPhone apps go from idea to App Store<br>
@@ -213,7 +238,7 @@
     <title type="text">PH今日热榜 | 2026-08-25</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-25.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-25.html"/>
-    <updated>2026-09-04T12:26:22.981Z</updated>
+    <updated>2026-09-05T11:32:54.179Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-akta-pro"><span></span></a><a href="https://www.producthunt.com/products/akta-pro" target="_blank" rel="noopener noreferrer">TOP1    akta.pro</a></h2>
 <p><img src="https://ph-files.imgix.net/37968db6-2d1b-4496-b860-f96d27b11af9.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="akta.pro" loading="lazy"><br><br>
 <strong>【标语】</strong>：Private company data and signals API for the agent economy<br>
@@ -233,30 +258,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2026-08-25T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2026-08-24</title>
-    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-24.html</id>
-    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-24.html"/>
-    <updated>2026-09-04T12:26:22.992Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-paymentkit"><span></span></a><a href="https://www.producthunt.com/products/paymentkit" target="_blank" rel="noopener noreferrer">TOP1    PaymentKit</a></h2>
-<p><img src="https://ph-files.imgix.net/36334bde-50fb-4b8d-860b-5bb280836ff9.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="PaymentKit" loading="lazy"><br><br>
-<strong>【标语】</strong>：Billing that survives a processor shutdown<br>
-<strong>【介绍】</strong>：PaymentKit is a multi-processor billing platform for SaaS and e-commerce. It routes payments across processors, vaults tokens independently, and keeps subscriptions billing even if a MID gets shut down. No code to launch, full API when you need it.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/VBME2QKKZVBULI" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/paymentkit" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-paymentkit"><span></span></a><a href="https://www.producthunt.com/products/paymentkit" target="_blank" rel="noopener noreferrer">TOP1    PaymentKit</a></h2>
-<p><img src="https://ph-files.imgix.net/36334bde-50fb-4b8d-860b-5bb280836ff9.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="PaymentKit" loading="lazy"><br><br>
-<strong>【标语】</strong>：Billing that survives a processor shutdown<br>
-<strong>【介绍】</strong>：PaymentKit is a multi-processor billing platform for SaaS and e-commerce. It routes payments across processors, vaults tokens independently, and keeps subscriptions billing even if a MID gets shut down. No code to launch, full API when you need it.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/VBME2QKKZVBULI" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/paymentkit" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：processor,billing,Billing,survives,shutdownPaymentKit,multi<br>
-<strong>票数</strong>： 🔺432<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年08月24日 PM03:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2026-08-24T00:00:00.000Z</published>
   </entry>
 </feed>
