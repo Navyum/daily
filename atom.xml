@@ -4,16 +4,41 @@
   <title>DAYHACK</title>
   <subtitle>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</subtitle>
   <icon>https://github.camscanner.top/daily/favicon.ico</icon>
-  <updated>2026-09-06T11:53:26.611Z</updated>
+  <updated>2026-09-07T13:52:58.245Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/"/>
   <category term="PH"/>
   <entry>
+    <title type="text">PH今日热榜 | 2026-09-05</title>
+    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-05.html</id>
+    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-05.html"/>
+    <updated>2026-09-07T13:52:58.247Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-dif-sh"><span></span></a><a href="https://www.producthunt.com/products/dif-sh" target="_blank" rel="noopener noreferrer">TOP1    dif.sh</a></h2>
+<p><img src="https://ph-files.imgix.net/af76189c-f704-4feb-a8bb-031116ca0882.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="dif.sh" loading="lazy"><br><br>
+<strong>【标语】</strong>：Markdown feature flags your coding agent installs for you<br>
+<strong>【介绍】</strong>：Open source feature flags. Every flag is a markdown file that lives with the code it controls: what it does, why it exists, and what you decided, reviewed in a PR like any other change. Your coding agent installs Dif in one command, no account, and reads the context file so it knows what's live and what was already tried. A/B tests wait in the same files until you have traffic. Send events to your own analytics, or let Dif Cloud read the results and write the decision into the file.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/ZYY34UR2OF3VDX" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/dif-sh" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-dif-sh"><span></span></a><a href="https://www.producthunt.com/products/dif-sh" target="_blank" rel="noopener noreferrer">TOP1    dif.sh</a></h2>
+<p><img src="https://ph-files.imgix.net/af76189c-f704-4feb-a8bb-031116ca0882.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="dif.sh" loading="lazy"><br><br>
+<strong>【标语】</strong>：Markdown feature flags your coding agent installs for you<br>
+<strong>【介绍】</strong>：Open source feature flags. Every flag is a markdown file that lives with the code it controls: what it does, why it exists, and what you decided, reviewed in a PR like any other change. Your coding agent installs Dif in one command, no account, and reads the context file so it knows what's live and what was already tried. A/B tests wait in the same files until you have traffic. Send events to your own analytics, or let Dif Cloud read the results and write the decision into the file.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/ZYY34UR2OF3VDX" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/dif-sh" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：what,file,feature,flags,your,coding<br>
+<strong>票数</strong>： 🔺353<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年09月05日 PM03:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2026-09-05T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">PH今日热榜 | 2026-09-04</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-04.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-04.html"/>
-    <updated>2026-09-06T11:53:26.612Z</updated>
+    <updated>2026-09-07T13:52:58.267Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-gpt-6-astra"><span></span></a><a href="https://www.producthunt.com/products/openai" target="_blank" rel="noopener noreferrer">TOP1    GPT-6 Astra</a></h2>
 <p><img src="https://ph-files.imgix.net/c97f8e47-c04f-4eee-80c9-c804a86ddd4b.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="GPT-6 Astra" loading="lazy"><br><br>
 <strong>【标语】</strong>：OpenAI's most capable model for end-to-end work<br>
@@ -38,7 +63,7 @@
     <title type="text">PH今日热榜 | 2026-09-03</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-03.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-03.html"/>
-    <updated>2026-09-06T11:53:26.630Z</updated>
+    <updated>2026-09-07T13:52:58.284Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-nex"><span></span></a><a href="https://www.producthunt.com/products/nex-4" target="_blank" rel="noopener noreferrer">TOP1    Nex</a></h2>
 <p><img src="https://ph-files.imgix.net/17b5d314-12f2-4052-b45c-d551b00cc7a2.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Nex" loading="lazy"><br><br>
 <strong>【标语】</strong>：Claude Cowork for high-volume GTM workflows<br>
@@ -63,7 +88,7 @@
     <title type="text">PH今日热榜 | 2026-09-02</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-02.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-02.html"/>
-    <updated>2026-09-06T11:53:26.644Z</updated>
+    <updated>2026-09-07T13:52:58.294Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-monid"><span></span></a><a href="https://www.producthunt.com/products/monid" target="_blank" rel="noopener noreferrer">TOP1    Monid</a></h2>
 <p><img src="https://ph-files.imgix.net/c4b9b2dd-f271-4505-ae43-b40d2f7ff055.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Monid" loading="lazy"><br><br>
 <strong>【标语】</strong>：OpenRouter for agent tools<br>
@@ -88,7 +113,7 @@
     <title type="text">PH今日热榜 | 2026-09-01</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-01.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-01.html"/>
-    <updated>2026-09-06T11:53:26.655Z</updated>
+    <updated>2026-09-07T13:52:58.312Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-kilo-code-for-jetbrains"><span></span></a><a href="https://www.producthunt.com/products/kilocode" target="_blank" rel="noopener noreferrer">TOP1    Kilo Code for JetBrains</a></h2>
 <p><img src="https://ph-files.imgix.net/92963747-1185-42ae-b116-961fe5f616f9.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Kilo Code for JetBrains" loading="lazy"><br><br>
 <strong>【标语】</strong>：Fully native, open-source coding agent built for JetBrains<br>
@@ -113,7 +138,7 @@
     <title type="text">PH今日热榜 | 2026-08-31</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-31.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-31.html"/>
-    <updated>2026-09-06T11:53:26.670Z</updated>
+    <updated>2026-09-07T13:52:58.320Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-video-agent-by-fotor"><span></span></a><a href="https://www.producthunt.com/products/fotor" target="_blank" rel="noopener noreferrer">TOP1    Video Agent by Fotor</a></h2>
 <p><img src="https://ph-files.imgix.net/a1138670-14b9-46ce-94d2-a0fa252b3edc.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Video Agent by Fotor" loading="lazy"><br><br>
 <strong>【标语】</strong>：Create and edit precision motion graphics &amp; video with chat<br>
@@ -138,7 +163,7 @@
     <title type="text">PH今日热榜 | 2026-08-30</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-30.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-30.html"/>
-    <updated>2026-09-06T11:53:26.680Z</updated>
+    <updated>2026-09-07T13:52:58.336Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-topview-motion-studio"><span></span></a><a href="https://www.producthunt.com/products/topview-ai" target="_blank" rel="noopener noreferrer">TOP1    Topview Motion Studio</a></h2>
 <p><img src="https://ph-files.imgix.net/3d37b9e0-e01f-43c5-9ec4-482ff3fbabfd.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Topview Motion Studio" loading="lazy"><br><br>
 <strong>【标语】</strong>：Create launch videos without touching After Effects<br>
@@ -163,7 +188,7 @@
     <title type="text">PH今日热榜 | 2026-08-29</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-29.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-29.html"/>
-    <updated>2026-09-06T11:53:26.693Z</updated>
+    <updated>2026-09-07T13:52:58.350Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-1752vc-pitch-deck-analyzer"><span></span></a><a href="https://www.producthunt.com/products/1752vc-pitch-deck-analysis" target="_blank" rel="noopener noreferrer">TOP1    1752vc Pitch Deck Analyzer</a></h2>
 <p><img src="https://ph-files.imgix.net/781f3295-14ef-4e6c-8928-f2dd1122ba77.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="1752vc Pitch Deck Analyzer" loading="lazy"><br><br>
 <strong>【标语】</strong>：Know what investors will say before you ever hit send.<br>
@@ -188,7 +213,7 @@
     <title type="text">PH今日热榜 | 2026-08-28</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-28.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-28.html"/>
-    <updated>2026-09-06T11:53:26.703Z</updated>
+    <updated>2026-09-07T13:52:58.364Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-pageindex"><span></span></a><a href="https://www.producthunt.com/products/pageindexai" target="_blank" rel="noopener noreferrer">TOP1    PageIndex</a></h2>
 <p><img src="https://ph-files.imgix.net/d99a7df0-89aa-43de-b41f-a67881fd1f3d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="PageIndex" loading="lazy"><br><br>
 <strong>【标语】</strong>：Accurate, trustworthy answers across professional documents<br>
@@ -213,7 +238,7 @@
     <title type="text">PH今日热榜 | 2026-08-27</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-27.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-27.html"/>
-    <updated>2026-09-06T11:53:26.722Z</updated>
+    <updated>2026-09-07T13:52:58.380Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-skydive"><span></span></a><a href="https://www.producthunt.com/products/skydive" target="_blank" rel="noopener noreferrer">TOP1    Skydive</a></h2>
 <p><img src="https://ph-files.imgix.net/aa941090-e357-44a8-a87f-7d446573efc5.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Skydive" loading="lazy"><br><br>
 <strong>【标语】</strong>：Build cloud agents that work across your tools<br>
@@ -233,30 +258,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2026-08-27T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2026-08-26</title>
-    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-26.html</id>
-    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-26.html"/>
-    <updated>2026-09-06T11:53:26.738Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-x1"><span></span></a><a href="https://www.producthunt.com/products/x1-2" target="_blank" rel="noopener noreferrer">TOP1    x1</a></h2>
-<p><img src="https://ph-files.imgix.net/b97cff53-6cd1-4c26-b8e2-14fbb42c8411.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="x1" loading="lazy"><br><br>
-<strong>【标语】</strong>：Lovable for iPhone apps go from idea to App Store<br>
-<strong>【介绍】</strong>：X1 is an AI app builder that takes you from an idea to an iPhone app you can publish on the App Store. Instead of trying to generate the entire app from one prompt, X1 guides you step by step. It asks focused questions, designs each screen for you to review and edit, then builds the app in stages. Preview and test it on your iPhone as you go. When it’s ready, X1 prepares your App Store listing, screenshots, and submission. No coding required.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/HRIWQ6DBNJOZ7W" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/x1-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-x1"><span></span></a><a href="https://www.producthunt.com/products/x1-2" target="_blank" rel="noopener noreferrer">TOP1    x1</a></h2>
-<p><img src="https://ph-files.imgix.net/b97cff53-6cd1-4c26-b8e2-14fbb42c8411.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="x1" loading="lazy"><br><br>
-<strong>【标语】</strong>：Lovable for iPhone apps go from idea to App Store<br>
-<strong>【介绍】</strong>：X1 is an AI app builder that takes you from an idea to an iPhone app you can publish on the App Store. Instead of trying to generate the entire app from one prompt, X1 guides you step by step. It asks focused questions, designs each screen for you to review and edit, then builds the app in stages. Preview and test it on your iPhone as you go. When it’s ready, X1 prepares your App Store listing, screenshots, and submission. No coding required.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/HRIWQ6DBNJOZ7W" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/x1-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：app,iPhone,App,go,idea,Store<br>
-<strong>票数</strong>： 🔺492<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年08月26日 PM03:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2026-08-26T00:00:00.000Z</published>
   </entry>
 </feed>
