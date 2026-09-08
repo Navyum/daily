@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 07 Sep 2026 13:52:58 GMT</pubDate>
-    <lastBuildDate>Mon, 07 Sep 2026 13:52:58 GMT</lastBuildDate>
+    <pubDate>Tue, 08 Sep 2026 12:30:52 GMT</pubDate>
+    <lastBuildDate>Tue, 08 Sep 2026 12:30:52 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-09-06</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-09-06.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-09-06.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-09-06</source>
+      <description>TOP1 AI Toolbox 3.0 AI Toolbox 3.0 【标语】：Search, organize and export every AI chat in one place 【介绍】：AI Toolbox is the missing layer on top of ChatGPT, Claude, Gemini and Grok: f...</description>
+      <category>PH</category>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-ai-toolbox-3-0"><span></span></a><a href="https://www.producthunt.com/products/chatgpt-toolbox" target="_blank" rel="noopener noreferrer">TOP1    AI Toolbox 3.0</a></h2>
+<p><img src="https://ph-files.imgix.net/fda028fe-5227-46c5-a7c8-74bd8c84f50a.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="AI Toolbox 3.0" loading="lazy"><br><br>
+<strong>【标语】</strong>：Search, organize and export every AI chat in one place<br>
+<strong>【介绍】</strong>：AI Toolbox is the missing layer on top of ChatGPT, Claude, Gemini and Grok: folders and subfolders, full-text search across every conversation (even all four platforms at once), a prompt library with // insert and multi-step chains, bulk export to Markdown/PDF/JSON, bookmarks, and a live context meter. One install covers all four AIs. Local-first: your chats stay in your browser. Trusted by 40,000+ users in 150+ countries, rated 4.5 stars on the Chrome Web Store.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/FBV7SHB3HECJ55" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/chatgpt-toolbox" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：export,every,four,your,Search,organize<br>
+<strong>票数</strong>： 🔺414<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年09月06日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/fda028fe-5227-46c5-a7c8-74bd8c84f50a.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-09-05</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-09-05.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年08月28日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/d99a7df0-89aa-43de-b41f-a67881fd1f3d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-08-27</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-08-27.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-08-27.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-08-27</source>
-      <description>TOP1 Skydive Skydive 【标语】：Build cloud agents that work across your tools 【介绍】：Build cloud agent coworkers that take on real, multi-step work across the tools you already use. De...</description>
-      <category>PH</category>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-skydive"><span></span></a><a href="https://www.producthunt.com/products/skydive" target="_blank" rel="noopener noreferrer">TOP1    Skydive</a></h2>
-<p><img src="https://ph-files.imgix.net/aa941090-e357-44a8-a87f-7d446573efc5.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Skydive" loading="lazy"><br><br>
-<strong>【标语】</strong>：Build cloud agents that work across your tools<br>
-<strong>【介绍】</strong>：Build cloud agent coworkers that take on real, multi-step work across the tools you already use. Describe the outcome you want, and Skydive creates a working agent in minutes. No code, no prompt engineering, no workflow wiring required. Skydive agents live in your stack, execute repeatable work, and get sharper over time.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/YLZ2MF3E6WGU67" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/skydive" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：work,cloud,agents,across,your,agent<br>
-<strong>票数</strong>： 🔺407<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年08月27日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/aa941090-e357-44a8-a87f-7d446573efc5.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
