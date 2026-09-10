@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 09 Sep 2026 12:38:41 GMT</pubDate>
-    <lastBuildDate>Wed, 09 Sep 2026 12:38:41 GMT</lastBuildDate>
+    <pubDate>Thu, 10 Sep 2026 12:36:28 GMT</pubDate>
+    <lastBuildDate>Thu, 10 Sep 2026 12:36:28 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-09-08</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-09-08.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-09-08.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-09-08</source>
+      <description>TOP1 Switch Switch 【标语】：Bring any AI agent into Slack, Teams &amp; Discord 【介绍】：Switch brings AI agents into the collaboration tools your team already uses. Agents join as named par...</description>
+      <category>PH</category>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-switch"><span></span></a><a href="https://www.producthunt.com/products/switch-11" target="_blank" rel="noopener noreferrer">TOP1    Switch</a></h2>
+<p><img src="https://ph-files.imgix.net/122425e6-0677-42f1-be28-f2bc3bb9c2a6.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Switch" loading="lazy"><br><br>
+<strong>【标语】</strong>：Bring any AI agent into Slack, Teams &amp; Discord<br>
+<strong>【介绍】</strong>：Switch brings AI agents into the collaboration tools your team already uses. Agents join as named participants in your Slack, Teams, Discord, or Telegram channels, sharing the same context and history as your team. Connect an agent once and use it across projects. Each room carries its own context, participants, and rules. Works with Claude Code, OpenAI, Google ADK, LangChain, and more. Open source, self-hostable, running in minutes.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/EAQYN6B2W3MDVB" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/switch-11" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：your,AI,agent,into,Slack,Teams<br>
+<strong>票数</strong>： 🔺506<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年09月08日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/122425e6-0677-42f1-be28-f2bc3bb9c2a6.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-09-07</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-09-07.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年08月30日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/3d37b9e0-e01f-43c5-9ec4-482ff3fbabfd.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-08-29</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-08-29.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-08-29.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-08-29</source>
-      <description>TOP1 1752vc Pitch Deck Analyzer 1752vc Pitch Deck Analyzer 【标语】：Know what investors will say before you ever hit send. 【介绍】：The Pitch Deck Analyzer gives you investor-grade feed...</description>
-      <category>PH</category>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-1752vc-pitch-deck-analyzer"><span></span></a><a href="https://www.producthunt.com/products/1752vc-pitch-deck-analysis" target="_blank" rel="noopener noreferrer">TOP1    1752vc Pitch Deck Analyzer</a></h2>
-<p><img src="https://ph-files.imgix.net/781f3295-14ef-4e6c-8928-f2dd1122ba77.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="1752vc Pitch Deck Analyzer" loading="lazy"><br><br>
-<strong>【标语】</strong>：Know what investors will say before you ever hit send.<br>
-<strong>【介绍】</strong>：The Pitch Deck Analyzer gives you investor-grade feedback in minutes — trained on 25,000+ real decks and the investor decisions that followed. Upload yours and get slide-by-slide fundability feedback — stage-calibrated, checking narrative cohesion and cross-checking your claims for contradictions investors will catch. Know exactly where you lose conviction before you ever hit send. Built by 1752vc, a VC firm evaluating 4,000+ startups a year.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/DU4BZJ5GYQ4Z44" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/1752vc-pitch-deck-analysis" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：Know,investors,will,before,ever,hit<br>
-<strong>票数</strong>： 🔺314<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年08月29日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/781f3295-14ef-4e6c-8928-f2dd1122ba77.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
