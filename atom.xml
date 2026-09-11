@@ -4,16 +4,41 @@
   <title>DAYHACK</title>
   <subtitle>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</subtitle>
   <icon>https://github.camscanner.top/daily/favicon.ico</icon>
-  <updated>2026-09-10T12:36:28.595Z</updated>
+  <updated>2026-09-11T12:30:41.587Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/"/>
   <category term="PH"/>
   <entry>
+    <title type="text">PH今日热榜 | 2026-09-09</title>
+    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-09.html</id>
+    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-09.html"/>
+    <updated>2026-09-11T12:30:41.589Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-mastra-factory"><span></span></a><a href="https://www.producthunt.com/products/mastra" target="_blank" rel="noopener noreferrer">TOP1    Mastra Factory</a></h2>
+<p><img src="https://ph-files.imgix.net/5a1c1e32-a1b7-4754-874e-cef6df465577.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Mastra Factory" loading="lazy"><br><br>
+<strong>【标语】</strong>：From issue to production, run by agents.<br>
+<strong>【介绍】</strong>：Mastra Factory is an open source, agent-powered software delivery environment. It combines persistent coding agents, repository workspaces, issue intake, planning, implementation, and pull request review in a web application you control.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/52CAOAGHS62ZQY" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/mastra" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-mastra-factory"><span></span></a><a href="https://www.producthunt.com/products/mastra" target="_blank" rel="noopener noreferrer">TOP1    Mastra Factory</a></h2>
+<p><img src="https://ph-files.imgix.net/5a1c1e32-a1b7-4754-874e-cef6df465577.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Mastra Factory" loading="lazy"><br><br>
+<strong>【标语】</strong>：From issue to production, run by agents.<br>
+<strong>【介绍】</strong>：Mastra Factory is an open source, agent-powered software delivery environment. It combines persistent coding agents, repository workspaces, issue intake, planning, implementation, and pull request review in a web application you control.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/52CAOAGHS62ZQY" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/mastra" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：issue,agents,production,run,Mastra,Factory<br>
+<strong>票数</strong>： 🔺468<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年09月09日 PM03:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2026-09-09T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">PH今日热榜 | 2026-09-08</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-08.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-08.html"/>
-    <updated>2026-09-10T12:36:28.596Z</updated>
+    <updated>2026-09-11T12:30:41.606Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-switch"><span></span></a><a href="https://www.producthunt.com/products/switch-11" target="_blank" rel="noopener noreferrer">TOP1    Switch</a></h2>
 <p><img src="https://ph-files.imgix.net/122425e6-0677-42f1-be28-f2bc3bb9c2a6.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Switch" loading="lazy"><br><br>
 <strong>【标语】</strong>：Bring any AI agent into Slack, Teams &amp; Discord<br>
@@ -38,7 +63,7 @@
     <title type="text">PH今日热榜 | 2026-09-07</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-07.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-07.html"/>
-    <updated>2026-09-10T12:36:28.607Z</updated>
+    <updated>2026-09-11T12:30:41.622Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-pr-lens-by-coldtea-ai"><span></span></a><a href="https://www.producthunt.com/products/coldtea" target="_blank" rel="noopener noreferrer">TOP1    PR Lens by Coldtea.ai</a></h2>
 <p><img src="https://ph-files.imgix.net/fd968e40-a228-4bff-a978-184be5c35b60.gif?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="PR Lens by Coldtea.ai" loading="lazy"><br><br>
 <strong>【标语】</strong>：See code through a new lens<br>
@@ -63,7 +88,7 @@
     <title type="text">PH今日热榜 | 2026-09-06</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-06.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-06.html"/>
-    <updated>2026-09-10T12:36:28.617Z</updated>
+    <updated>2026-09-11T12:30:41.632Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-ai-toolbox-3-0"><span></span></a><a href="https://www.producthunt.com/products/chatgpt-toolbox" target="_blank" rel="noopener noreferrer">TOP1    AI Toolbox 3.0</a></h2>
 <p><img src="https://ph-files.imgix.net/fda028fe-5227-46c5-a7c8-74bd8c84f50a.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="AI Toolbox 3.0" loading="lazy"><br><br>
 <strong>【标语】</strong>：Search, organize and export every AI chat in one place<br>
@@ -88,7 +113,7 @@
     <title type="text">PH今日热榜 | 2026-09-05</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-05.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-05.html"/>
-    <updated>2026-09-10T12:36:28.628Z</updated>
+    <updated>2026-09-11T12:30:41.651Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-dif-sh"><span></span></a><a href="https://www.producthunt.com/products/dif-sh" target="_blank" rel="noopener noreferrer">TOP1    dif.sh</a></h2>
 <p><img src="https://ph-files.imgix.net/af76189c-f704-4feb-a8bb-031116ca0882.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="dif.sh" loading="lazy"><br><br>
 <strong>【标语】</strong>：Markdown feature flags your coding agent installs for you<br>
@@ -113,7 +138,7 @@
     <title type="text">PH今日热榜 | 2026-09-04</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-04.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-04.html"/>
-    <updated>2026-09-10T12:36:28.633Z</updated>
+    <updated>2026-09-11T12:30:41.666Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-gpt-6-astra"><span></span></a><a href="https://www.producthunt.com/products/openai" target="_blank" rel="noopener noreferrer">TOP1    GPT-6 Astra</a></h2>
 <p><img src="https://ph-files.imgix.net/c97f8e47-c04f-4eee-80c9-c804a86ddd4b.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="GPT-6 Astra" loading="lazy"><br><br>
 <strong>【标语】</strong>：OpenAI's most capable model for end-to-end work<br>
@@ -138,7 +163,7 @@
     <title type="text">PH今日热榜 | 2026-09-03</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-03.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-03.html"/>
-    <updated>2026-09-10T12:36:28.643Z</updated>
+    <updated>2026-09-11T12:30:41.676Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-nex"><span></span></a><a href="https://www.producthunt.com/products/nex-4" target="_blank" rel="noopener noreferrer">TOP1    Nex</a></h2>
 <p><img src="https://ph-files.imgix.net/17b5d314-12f2-4052-b45c-d551b00cc7a2.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Nex" loading="lazy"><br><br>
 <strong>【标语】</strong>：Claude Cowork for high-volume GTM workflows<br>
@@ -163,7 +188,7 @@
     <title type="text">PH今日热榜 | 2026-09-02</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-02.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-02.html"/>
-    <updated>2026-09-10T12:36:28.647Z</updated>
+    <updated>2026-09-11T12:30:41.694Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-monid"><span></span></a><a href="https://www.producthunt.com/products/monid" target="_blank" rel="noopener noreferrer">TOP1    Monid</a></h2>
 <p><img src="https://ph-files.imgix.net/c4b9b2dd-f271-4505-ae43-b40d2f7ff055.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Monid" loading="lazy"><br><br>
 <strong>【标语】</strong>：OpenRouter for agent tools<br>
@@ -188,7 +213,7 @@
     <title type="text">PH今日热榜 | 2026-09-01</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-01.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-01.html"/>
-    <updated>2026-09-10T12:36:28.657Z</updated>
+    <updated>2026-09-11T12:30:41.705Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-kilo-code-for-jetbrains"><span></span></a><a href="https://www.producthunt.com/products/kilocode" target="_blank" rel="noopener noreferrer">TOP1    Kilo Code for JetBrains</a></h2>
 <p><img src="https://ph-files.imgix.net/92963747-1185-42ae-b116-961fe5f616f9.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Kilo Code for JetBrains" loading="lazy"><br><br>
 <strong>【标语】</strong>：Fully native, open-source coding agent built for JetBrains<br>
@@ -213,7 +238,7 @@
     <title type="text">PH今日热榜 | 2026-08-31</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-31.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-31.html"/>
-    <updated>2026-09-10T12:36:28.664Z</updated>
+    <updated>2026-09-11T12:30:41.720Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-video-agent-by-fotor"><span></span></a><a href="https://www.producthunt.com/products/fotor" target="_blank" rel="noopener noreferrer">TOP1    Video Agent by Fotor</a></h2>
 <p><img src="https://ph-files.imgix.net/a1138670-14b9-46ce-94d2-a0fa252b3edc.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Video Agent by Fotor" loading="lazy"><br><br>
 <strong>【标语】</strong>：Create and edit precision motion graphics &amp; video with chat<br>
@@ -233,30 +258,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2026-08-31T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2026-08-30</title>
-    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-08-30.html</id>
-    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-08-30.html"/>
-    <updated>2026-09-10T12:36:28.674Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-topview-motion-studio"><span></span></a><a href="https://www.producthunt.com/products/topview-ai" target="_blank" rel="noopener noreferrer">TOP1    Topview Motion Studio</a></h2>
-<p><img src="https://ph-files.imgix.net/3d37b9e0-e01f-43c5-9ec4-482ff3fbabfd.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Topview Motion Studio" loading="lazy"><br><br>
-<strong>【标语】</strong>：Create launch videos without touching After Effects<br>
-<strong>【介绍】</strong>：Motion Studio helps teams create polished launch videos for apps, hardware, and new products without learning After Effects or hiring a motion design studio. Describe what you want to communicate, upload reference images, and choose a visual style, duration, and aspect ratio. Motion Studio combines AI video models with purpose-built motion design skills to turn your brief into high-quality product storytelling—faster, simpler, and at a fraction of the traditional cost.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/25TEFO4TYMRPSG" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/topview-ai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-topview-motion-studio"><span></span></a><a href="https://www.producthunt.com/products/topview-ai" target="_blank" rel="noopener noreferrer">TOP1    Topview Motion Studio</a></h2>
-<p><img src="https://ph-files.imgix.net/3d37b9e0-e01f-43c5-9ec4-482ff3fbabfd.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Topview Motion Studio" loading="lazy"><br><br>
-<strong>【标语】</strong>：Create launch videos without touching After Effects<br>
-<strong>【介绍】</strong>：Motion Studio helps teams create polished launch videos for apps, hardware, and new products without learning After Effects or hiring a motion design studio. Describe what you want to communicate, upload reference images, and choose a visual style, duration, and aspect ratio. Motion Studio combines AI video models with purpose-built motion design skills to turn your brief into high-quality product storytelling—faster, simpler, and at a fraction of the traditional cost.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/25TEFO4TYMRPSG" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/topview-ai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：launch,videos,without,After,Studio,motion<br>
-<strong>票数</strong>： 🔺319<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年08月30日 PM03:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2026-08-30T00:00:00.000Z</published>
   </entry>
 </feed>
