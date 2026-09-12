@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 11 Sep 2026 12:30:41 GMT</pubDate>
-    <lastBuildDate>Fri, 11 Sep 2026 12:30:41 GMT</lastBuildDate>
+    <pubDate>Sat, 12 Sep 2026 11:53:31 GMT</pubDate>
+    <lastBuildDate>Sat, 12 Sep 2026 11:53:31 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-09-10</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-09-10.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-09-10.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-09-10</source>
+      <description>TOP1 Typewise Nova Typewise Nova 【标语】：AI customer experience that builds and improves itself 【介绍】：Nova is the AI Operator that builds and improves your AI customer experience te...</description>
+      <category>PH</category>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-typewise-nova"><span></span></a><a href="https://www.producthunt.com/products/typewise" target="_blank" rel="noopener noreferrer">TOP1    Typewise Nova</a></h2>
+<p><img src="https://ph-files.imgix.net/95c08562-e2d8-4982-9ffb-fb6525a25753.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Typewise Nova" loading="lazy"><br><br>
+<strong>【标语】</strong>：AI customer experience that builds and improves itself<br>
+<strong>【介绍】</strong>：Nova is the AI Operator that builds and improves your AI customer experience team, no developer required. Describe in plain language how customers should be handled and connect your tools. Nova builds the agents, tests them on past tickets and shows you what failed before anything goes live. Once running, it monitors quality and proposes fixes 24/7 for approval. Agents resolve whole requests, from orders and refunds to plan changes, across email, chat and WhatsApp. Unresolved requests are free.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/TCXETJND5MA53Q" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/typewise" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：AI,builds,customer,experience,improves,your<br>
+<strong>票数</strong>： 🔺335<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年09月10日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/95c08562-e2d8-4982-9ffb-fb6525a25753.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-09-09</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-09-09.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年09月01日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/92963747-1185-42ae-b116-961fe5f616f9.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-08-31</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-08-31.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-08-31.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-08-31</source>
-      <description>TOP1 Video Agent by Fotor Video Agent by Fotor 【标语】：Create and edit precision motion graphics &amp; video with chat 【介绍】：Fotor Video Agent helps founders, marketers, and creators tu...</description>
-      <category>PH</category>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-video-agent-by-fotor"><span></span></a><a href="https://www.producthunt.com/products/fotor" target="_blank" rel="noopener noreferrer">TOP1    Video Agent by Fotor</a></h2>
-<p><img src="https://ph-files.imgix.net/a1138670-14b9-46ce-94d2-a0fa252b3edc.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Video Agent by Fotor" loading="lazy"><br><br>
-<strong>【标语】</strong>：Create and edit precision motion graphics &amp; video with chat<br>
-<strong>【介绍】</strong>：Fotor Video Agent helps founders, marketers, and creators turn ideas, scripts, or raw assets into precision videos &amp; motion graphics. It auto-orchestrates scenes, timing, visual FX, and kinetic typography—while keeping text, numbers, logos, and charts editable on a multi-track timeline before you render. Update stats at the last minute or refine timing without regenerating the whole video. Ship promos and explainers faster with zero black-box outputs and no tedious keyframes.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/KMJ6C2OCHCE4UL" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/fotor" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：precision,motion,graphics,video,timing,Create<br>
-<strong>票数</strong>： 🔺372<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年08月31日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/a1138670-14b9-46ce-94d2-a0fa252b3edc.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
