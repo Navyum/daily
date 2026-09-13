@@ -4,16 +4,41 @@
   <title>DAYHACK</title>
   <subtitle>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</subtitle>
   <icon>https://github.camscanner.top/daily/favicon.ico</icon>
-  <updated>2026-09-12T11:53:31.328Z</updated>
+  <updated>2026-09-13T13:03:18.729Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/"/>
   <category term="PH"/>
   <entry>
+    <title type="text">PH今日热榜 | 2026-09-11</title>
+    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-11.html</id>
+    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-11.html"/>
+    <updated>2026-09-13T13:03:18.730Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-anysite-io"><span></span></a><a href="https://www.producthunt.com/products/anysite" target="_blank" rel="noopener noreferrer">TOP1    Anysite.io</a></h2>
+<p><img src="https://ph-files.imgix.net/53b773ab-33de-4cf5-b4f2-bd64832263a4.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Anysite.io" loading="lazy"><br><br>
+<strong>【标语】</strong>：Build and enrich B2B lists by chatting to your agent<br>
+<strong>【介绍】</strong>：Anysite.io is a B2B data layer living in your favorite AI agent. Ask your agent for the list you need — companies by geo, industry, and size; the people inside them; their current job titles and emails — and Anysite.io returns it. No queries to write, no scrapers to maintain. Works over MCP or REST API inside Claude, Codex, Cursor, OpenCode, and other agents. Plug in and launch your outbound data collection the same day.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/LWEA45Q3YRJ7ZK" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/anysite" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-anysite-io"><span></span></a><a href="https://www.producthunt.com/products/anysite" target="_blank" rel="noopener noreferrer">TOP1    Anysite.io</a></h2>
+<p><img src="https://ph-files.imgix.net/53b773ab-33de-4cf5-b4f2-bd64832263a4.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Anysite.io" loading="lazy"><br><br>
+<strong>【标语】</strong>：Build and enrich B2B lists by chatting to your agent<br>
+<strong>【介绍】</strong>：Anysite.io is a B2B data layer living in your favorite AI agent. Ask your agent for the list you need — companies by geo, industry, and size; the people inside them; their current job titles and emails — and Anysite.io returns it. No queries to write, no scrapers to maintain. Works over MCP or REST API inside Claude, Codex, Cursor, OpenCode, and other agents. Plug in and launch your outbound data collection the same day.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/LWEA45Q3YRJ7ZK" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/anysite" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：your,B2B,io,data,agent,inside<br>
+<strong>票数</strong>： 🔺450<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年09月11日 PM03:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2026-09-11T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">PH今日热榜 | 2026-09-10</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-10.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-10.html"/>
-    <updated>2026-09-12T11:53:31.329Z</updated>
+    <updated>2026-09-13T13:03:18.742Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-typewise-nova"><span></span></a><a href="https://www.producthunt.com/products/typewise" target="_blank" rel="noopener noreferrer">TOP1    Typewise Nova</a></h2>
 <p><img src="https://ph-files.imgix.net/95c08562-e2d8-4982-9ffb-fb6525a25753.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Typewise Nova" loading="lazy"><br><br>
 <strong>【标语】</strong>：AI customer experience that builds and improves itself<br>
@@ -38,7 +63,7 @@
     <title type="text">PH今日热榜 | 2026-09-09</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-09.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-09.html"/>
-    <updated>2026-09-12T11:53:31.341Z</updated>
+    <updated>2026-09-13T13:03:18.757Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-mastra-factory"><span></span></a><a href="https://www.producthunt.com/products/mastra" target="_blank" rel="noopener noreferrer">TOP1    Mastra Factory</a></h2>
 <p><img src="https://ph-files.imgix.net/5a1c1e32-a1b7-4754-874e-cef6df465577.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Mastra Factory" loading="lazy"><br><br>
 <strong>【标语】</strong>：From issue to production, run by agents.<br>
@@ -63,7 +88,7 @@
     <title type="text">PH今日热榜 | 2026-09-08</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-08.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-08.html"/>
-    <updated>2026-09-12T11:53:31.351Z</updated>
+    <updated>2026-09-13T13:03:18.763Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-switch"><span></span></a><a href="https://www.producthunt.com/products/switch-11" target="_blank" rel="noopener noreferrer">TOP1    Switch</a></h2>
 <p><img src="https://ph-files.imgix.net/122425e6-0677-42f1-be28-f2bc3bb9c2a6.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Switch" loading="lazy"><br><br>
 <strong>【标语】</strong>：Bring any AI agent into Slack, Teams &amp; Discord<br>
@@ -88,7 +113,7 @@
     <title type="text">PH今日热榜 | 2026-09-07</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-07.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-07.html"/>
-    <updated>2026-09-12T11:53:31.357Z</updated>
+    <updated>2026-09-13T13:03:18.777Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-pr-lens-by-coldtea-ai"><span></span></a><a href="https://www.producthunt.com/products/coldtea" target="_blank" rel="noopener noreferrer">TOP1    PR Lens by Coldtea.ai</a></h2>
 <p><img src="https://ph-files.imgix.net/fd968e40-a228-4bff-a978-184be5c35b60.gif?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="PR Lens by Coldtea.ai" loading="lazy"><br><br>
 <strong>【标语】</strong>：See code through a new lens<br>
@@ -113,7 +138,7 @@
     <title type="text">PH今日热榜 | 2026-09-06</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-06.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-06.html"/>
-    <updated>2026-09-12T11:53:31.367Z</updated>
+    <updated>2026-09-13T13:03:18.785Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-ai-toolbox-3-0"><span></span></a><a href="https://www.producthunt.com/products/chatgpt-toolbox" target="_blank" rel="noopener noreferrer">TOP1    AI Toolbox 3.0</a></h2>
 <p><img src="https://ph-files.imgix.net/fda028fe-5227-46c5-a7c8-74bd8c84f50a.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="AI Toolbox 3.0" loading="lazy"><br><br>
 <strong>【标语】</strong>：Search, organize and export every AI chat in one place<br>
@@ -138,7 +163,7 @@
     <title type="text">PH今日热榜 | 2026-09-05</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-05.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-05.html"/>
-    <updated>2026-09-12T11:53:31.375Z</updated>
+    <updated>2026-09-13T13:03:18.797Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-dif-sh"><span></span></a><a href="https://www.producthunt.com/products/dif-sh" target="_blank" rel="noopener noreferrer">TOP1    dif.sh</a></h2>
 <p><img src="https://ph-files.imgix.net/af76189c-f704-4feb-a8bb-031116ca0882.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="dif.sh" loading="lazy"><br><br>
 <strong>【标语】</strong>：Markdown feature flags your coding agent installs for you<br>
@@ -163,7 +188,7 @@
     <title type="text">PH今日热榜 | 2026-09-04</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-04.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-04.html"/>
-    <updated>2026-09-12T11:53:31.381Z</updated>
+    <updated>2026-09-13T13:03:18.808Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-gpt-6-astra"><span></span></a><a href="https://www.producthunt.com/products/openai" target="_blank" rel="noopener noreferrer">TOP1    GPT-6 Astra</a></h2>
 <p><img src="https://ph-files.imgix.net/c97f8e47-c04f-4eee-80c9-c804a86ddd4b.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="GPT-6 Astra" loading="lazy"><br><br>
 <strong>【标语】</strong>：OpenAI's most capable model for end-to-end work<br>
@@ -188,7 +213,7 @@
     <title type="text">PH今日热榜 | 2026-09-03</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-03.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-03.html"/>
-    <updated>2026-09-12T11:53:31.390Z</updated>
+    <updated>2026-09-13T13:03:18.818Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-nex"><span></span></a><a href="https://www.producthunt.com/products/nex-4" target="_blank" rel="noopener noreferrer">TOP1    Nex</a></h2>
 <p><img src="https://ph-files.imgix.net/17b5d314-12f2-4052-b45c-d551b00cc7a2.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Nex" loading="lazy"><br><br>
 <strong>【标语】</strong>：Claude Cowork for high-volume GTM workflows<br>
@@ -213,7 +238,7 @@
     <title type="text">PH今日热榜 | 2026-09-02</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-02.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-02.html"/>
-    <updated>2026-09-12T11:53:31.396Z</updated>
+    <updated>2026-09-13T13:03:18.831Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-monid"><span></span></a><a href="https://www.producthunt.com/products/monid" target="_blank" rel="noopener noreferrer">TOP1    Monid</a></h2>
 <p><img src="https://ph-files.imgix.net/c4b9b2dd-f271-4505-ae43-b40d2f7ff055.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Monid" loading="lazy"><br><br>
 <strong>【标语】</strong>：OpenRouter for agent tools<br>
@@ -233,30 +258,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2026-09-02T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2026-09-01</title>
-    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-01.html</id>
-    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-01.html"/>
-    <updated>2026-09-12T11:53:31.404Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-kilo-code-for-jetbrains"><span></span></a><a href="https://www.producthunt.com/products/kilocode" target="_blank" rel="noopener noreferrer">TOP1    Kilo Code for JetBrains</a></h2>
-<p><img src="https://ph-files.imgix.net/92963747-1185-42ae-b116-961fe5f616f9.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Kilo Code for JetBrains" loading="lazy"><br><br>
-<strong>【标语】</strong>：Fully native, open-source coding agent built for JetBrains<br>
-<strong>【介绍】</strong>：Kilo Code for JetBrains is a fully native, open-source coding agent for IntelliJ IDEA, WebStorm, PyCharm, GoLand, Rider, PhpStorm, CLion, RubyMine — any JetBrains IDE. Designed for both local and remote dev, with parallel agents in isolated worktrees, GitHub PRs and diffs inline, and 500+ models.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/Q57PO7OWZUJAZ5" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/kilocode" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-kilo-code-for-jetbrains"><span></span></a><a href="https://www.producthunt.com/products/kilocode" target="_blank" rel="noopener noreferrer">TOP1    Kilo Code for JetBrains</a></h2>
-<p><img src="https://ph-files.imgix.net/92963747-1185-42ae-b116-961fe5f616f9.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Kilo Code for JetBrains" loading="lazy"><br><br>
-<strong>【标语】</strong>：Fully native, open-source coding agent built for JetBrains<br>
-<strong>【介绍】</strong>：Kilo Code for JetBrains is a fully native, open-source coding agent for IntelliJ IDEA, WebStorm, PyCharm, GoLand, Rider, PhpStorm, CLion, RubyMine — any JetBrains IDE. Designed for both local and remote dev, with parallel agents in isolated worktrees, GitHub PRs and diffs inline, and 500+ models.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/Q57PO7OWZUJAZ5" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/kilocode" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：native,open,source,coding,agent,JetBrains<br>
-<strong>票数</strong>： 🔺493<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年09月01日 PM03:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2026-09-01T00:00:00.000Z</published>
   </entry>
 </feed>
