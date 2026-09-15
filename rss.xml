@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 14 Sep 2026 14:39:10 GMT</pubDate>
-    <lastBuildDate>Mon, 14 Sep 2026 14:39:10 GMT</lastBuildDate>
+    <pubDate>Tue, 15 Sep 2026 13:03:59 GMT</pubDate>
+    <lastBuildDate>Tue, 15 Sep 2026 13:03:59 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-09-13</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-09-13.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-09-13.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-09-13</source>
+      <description>TOP1 Resurf Resurf 【标语】：A Personal Context Library for Mac 【介绍】：Resurf is a personal context app for things you like, care about, and work on. Save notes, links, images, PDFs, a...</description>
+      <category>PH</category>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-resurf"><span></span></a><a href="https://www.producthunt.com/products/resurf-2" target="_blank" rel="noopener noreferrer">TOP1    Resurf</a></h2>
+<p><img src="https://ph-files.imgix.net/98d8b3dc-45ba-4dc0-8e5e-fcb214124038.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Resurf" loading="lazy"><br><br>
+<strong>【标语】</strong>：A Personal Context Library for Mac<br>
+<strong>【介绍】</strong>：Resurf is a personal context app for things you like, care about, and work on. Save notes, links, images, PDFs, and ideas. Find them later or hand that context to AI through MCP and CLI. Native on Mac, iPhone, and iPad, with local storage and private iCloud sync.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/64OVTILJFOSXX3" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/resurf-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：context,Personal,Context,Library,MacResurf,personal<br>
+<strong>票数</strong>： 🔺281<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年09月13日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/98d8b3dc-45ba-4dc0-8e5e-fcb214124038.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-09-12</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-09-12.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年09月04日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/c97f8e47-c04f-4eee-80c9-c804a86ddd4b.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-09-03</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-09-03.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-09-03.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-09-03</source>
-      <description>TOP1 Nex Nex 【标语】：Claude Cowork for high-volume GTM workflows 【介绍】：Nex automates workflows like CRM clean up, large list qualification, revenue recovery, at large volumes, that ...</description>
-      <category>PH</category>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-nex"><span></span></a><a href="https://www.producthunt.com/products/nex-4" target="_blank" rel="noopener noreferrer">TOP1    Nex</a></h2>
-<p><img src="https://ph-files.imgix.net/17b5d314-12f2-4052-b45c-d551b00cc7a2.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Nex" loading="lazy"><br><br>
-<strong>【标语】</strong>：Claude Cowork for high-volume GTM workflows<br>
-<strong>【介绍】</strong>：Nex automates workflows like CRM clean up, large list qualification, revenue recovery, at large volumes, that break general purpose agents. Built by ex-HubSpotters who ran its three largest customer platforms and backed by HubSpot founder Dharmesh Shah.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/XMDJ7VCVJ2VC3D" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/nex-4" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：large,Claude,Cowork,high,volume,GTM<br>
-<strong>票数</strong>： 🔺335<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年09月03日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/17b5d314-12f2-4052-b45c-d551b00cc7a2.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
