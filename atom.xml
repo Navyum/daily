@@ -4,16 +4,41 @@
   <title>DAYHACK</title>
   <subtitle>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</subtitle>
   <icon>https://github.camscanner.top/daily/favicon.ico</icon>
-  <updated>2026-09-15T13:03:59.235Z</updated>
+  <updated>2026-09-16T13:01:56.567Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/"/>
   <category term="PH"/>
   <entry>
+    <title type="text">PH今日热榜 | 2026-09-14</title>
+    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-14.html</id>
+    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-14.html"/>
+    <updated>2026-09-16T13:01:56.568Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-naoma-ai-demo-agent-v2"><span></span></a><a href="https://www.producthunt.com/products/naoma" target="_blank" rel="noopener noreferrer">TOP1    Naoma AI Demo Agent V2</a></h2>
+<p><img src="https://ph-files.imgix.net/78740130-29e9-449f-ace4-864df3ba24b1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Naoma AI Demo Agent V2" loading="lazy"><br><br>
+<strong>【标语】</strong>：Turns website traffic into booked, qualified meetings<br>
+<strong>【介绍】</strong>：Your book-a-demo button converts 1-2% of visitors. The rest leave. Naoma replaces the form with an AI account executive that runs the demo right then: it walks the prospect through your live product, answers questions, qualifies them and books the meeting. It remembers returning visitors, picks up where they left off, and writes every session back to your CRM. 50,000+ demos run for B2B SaaS teams. Now self-serve: upload your product and knowledge base test the agent today.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/NPQUFAO3PMOWSZ" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/naoma" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-naoma-ai-demo-agent-v2"><span></span></a><a href="https://www.producthunt.com/products/naoma" target="_blank" rel="noopener noreferrer">TOP1    Naoma AI Demo Agent V2</a></h2>
+<p><img src="https://ph-files.imgix.net/78740130-29e9-449f-ace4-864df3ba24b1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Naoma AI Demo Agent V2" loading="lazy"><br><br>
+<strong>【标语】</strong>：Turns website traffic into booked, qualified meetings<br>
+<strong>【介绍】</strong>：Your book-a-demo button converts 1-2% of visitors. The rest leave. Naoma replaces the form with an AI account executive that runs the demo right then: it walks the prospect through your live product, answers questions, qualifies them and books the meeting. It remembers returning visitors, picks up where they left off, and writes every session back to your CRM. 50,000+ demos run for B2B SaaS teams. Now self-serve: upload your product and knowledge base test the agent today.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/NPQUFAO3PMOWSZ" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/naoma" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：your,demo,visitors,product,Turns,website<br>
+<strong>票数</strong>： 🔺477<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年09月14日 PM03:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2026-09-14T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">PH今日热榜 | 2026-09-13</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-13.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-13.html"/>
-    <updated>2026-09-15T13:03:59.237Z</updated>
+    <updated>2026-09-16T13:01:56.586Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-resurf"><span></span></a><a href="https://www.producthunt.com/products/resurf-2" target="_blank" rel="noopener noreferrer">TOP1    Resurf</a></h2>
 <p><img src="https://ph-files.imgix.net/98d8b3dc-45ba-4dc0-8e5e-fcb214124038.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Resurf" loading="lazy"><br><br>
 <strong>【标语】</strong>：A Personal Context Library for Mac<br>
@@ -38,7 +63,7 @@
     <title type="text">PH今日热榜 | 2026-09-12</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-12.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-12.html"/>
-    <updated>2026-09-15T13:03:59.255Z</updated>
+    <updated>2026-09-16T13:01:56.603Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-youkti"><span></span></a><a href="https://www.producthunt.com/products/youkti" target="_blank" rel="noopener noreferrer">TOP1    Youkti </a></h2>
 <p><img src="https://ph-files.imgix.net/78a280bd-cc06-4531-8546-e148f16eaf8a.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Youkti " loading="lazy"><br><br>
 <strong>【标语】</strong>：Finds who's ready to buy, then tells you what to do next <br>
@@ -63,7 +88,7 @@
     <title type="text">PH今日热榜 | 2026-09-11</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-11.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-11.html"/>
-    <updated>2026-09-15T13:03:59.270Z</updated>
+    <updated>2026-09-16T13:01:56.620Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-anysite-io"><span></span></a><a href="https://www.producthunt.com/products/anysite" target="_blank" rel="noopener noreferrer">TOP1    Anysite.io</a></h2>
 <p><img src="https://ph-files.imgix.net/53b773ab-33de-4cf5-b4f2-bd64832263a4.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Anysite.io" loading="lazy"><br><br>
 <strong>【标语】</strong>：Build and enrich B2B lists by chatting to your agent<br>
@@ -88,7 +113,7 @@
     <title type="text">PH今日热榜 | 2026-09-10</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-10.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-10.html"/>
-    <updated>2026-09-15T13:03:59.285Z</updated>
+    <updated>2026-09-16T13:01:56.630Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-typewise-nova"><span></span></a><a href="https://www.producthunt.com/products/typewise" target="_blank" rel="noopener noreferrer">TOP1    Typewise Nova</a></h2>
 <p><img src="https://ph-files.imgix.net/95c08562-e2d8-4982-9ffb-fb6525a25753.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Typewise Nova" loading="lazy"><br><br>
 <strong>【标语】</strong>：AI customer experience that builds and improves itself<br>
@@ -113,7 +138,7 @@
     <title type="text">PH今日热榜 | 2026-09-09</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-09.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-09.html"/>
-    <updated>2026-09-15T13:03:59.298Z</updated>
+    <updated>2026-09-16T13:01:56.647Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-mastra-factory"><span></span></a><a href="https://www.producthunt.com/products/mastra" target="_blank" rel="noopener noreferrer">TOP1    Mastra Factory</a></h2>
 <p><img src="https://ph-files.imgix.net/5a1c1e32-a1b7-4754-874e-cef6df465577.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Mastra Factory" loading="lazy"><br><br>
 <strong>【标语】</strong>：From issue to production, run by agents.<br>
@@ -138,7 +163,7 @@
     <title type="text">PH今日热榜 | 2026-09-08</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-08.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-08.html"/>
-    <updated>2026-09-15T13:03:59.312Z</updated>
+    <updated>2026-09-16T13:01:56.655Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-switch"><span></span></a><a href="https://www.producthunt.com/products/switch-11" target="_blank" rel="noopener noreferrer">TOP1    Switch</a></h2>
 <p><img src="https://ph-files.imgix.net/122425e6-0677-42f1-be28-f2bc3bb9c2a6.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Switch" loading="lazy"><br><br>
 <strong>【标语】</strong>：Bring any AI agent into Slack, Teams &amp; Discord<br>
@@ -163,7 +188,7 @@
     <title type="text">PH今日热榜 | 2026-09-07</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-07.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-07.html"/>
-    <updated>2026-09-15T13:03:59.320Z</updated>
+    <updated>2026-09-16T13:01:56.672Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-pr-lens-by-coldtea-ai"><span></span></a><a href="https://www.producthunt.com/products/coldtea" target="_blank" rel="noopener noreferrer">TOP1    PR Lens by Coldtea.ai</a></h2>
 <p><img src="https://ph-files.imgix.net/fd968e40-a228-4bff-a978-184be5c35b60.gif?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="PR Lens by Coldtea.ai" loading="lazy"><br><br>
 <strong>【标语】</strong>：See code through a new lens<br>
@@ -188,7 +213,7 @@
     <title type="text">PH今日热榜 | 2026-09-06</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-06.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-06.html"/>
-    <updated>2026-09-15T13:03:59.335Z</updated>
+    <updated>2026-09-16T13:01:56.682Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-ai-toolbox-3-0"><span></span></a><a href="https://www.producthunt.com/products/chatgpt-toolbox" target="_blank" rel="noopener noreferrer">TOP1    AI Toolbox 3.0</a></h2>
 <p><img src="https://ph-files.imgix.net/fda028fe-5227-46c5-a7c8-74bd8c84f50a.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="AI Toolbox 3.0" loading="lazy"><br><br>
 <strong>【标语】</strong>：Search, organize and export every AI chat in one place<br>
@@ -213,7 +238,7 @@
     <title type="text">PH今日热榜 | 2026-09-05</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-05.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-05.html"/>
-    <updated>2026-09-15T13:03:59.345Z</updated>
+    <updated>2026-09-16T13:01:56.698Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-dif-sh"><span></span></a><a href="https://www.producthunt.com/products/dif-sh" target="_blank" rel="noopener noreferrer">TOP1    dif.sh</a></h2>
 <p><img src="https://ph-files.imgix.net/af76189c-f704-4feb-a8bb-031116ca0882.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="dif.sh" loading="lazy"><br><br>
 <strong>【标语】</strong>：Markdown feature flags your coding agent installs for you<br>
@@ -233,30 +258,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2026-09-05T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2026-09-04</title>
-    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-04.html</id>
-    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-04.html"/>
-    <updated>2026-09-15T13:03:59.360Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-gpt-6-astra"><span></span></a><a href="https://www.producthunt.com/products/openai" target="_blank" rel="noopener noreferrer">TOP1    GPT-6 Astra</a></h2>
-<p><img src="https://ph-files.imgix.net/c97f8e47-c04f-4eee-80c9-c804a86ddd4b.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="GPT-6 Astra" loading="lazy"><br><br>
-<strong>【标语】</strong>：OpenAI's most capable model for end-to-end work<br>
-<strong>【介绍】</strong>：GPT-6 Astra is OpenAI's most capable model for complex reasoning, software engineering, computer use, science, and professional work. Async tool calling and mid-turn steering help it run multistep agent workflows. API: model id gpt-6-astra, $10/$50 per 1M tokens (short context). Rolling out first via Trusted Access/Daybreak, then Plus, Pro, Business, Enterprise, and the API in the coming days. First OpenAI model at the Critical cybersecurity capability threshold (advanced cyber access limited).<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/JZWSD2RN4SUNT2" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/openai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-gpt-6-astra"><span></span></a><a href="https://www.producthunt.com/products/openai" target="_blank" rel="noopener noreferrer">TOP1    GPT-6 Astra</a></h2>
-<p><img src="https://ph-files.imgix.net/c97f8e47-c04f-4eee-80c9-c804a86ddd4b.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="GPT-6 Astra" loading="lazy"><br><br>
-<strong>【标语】</strong>：OpenAI's most capable model for end-to-end work<br>
-<strong>【介绍】</strong>：GPT-6 Astra is OpenAI's most capable model for complex reasoning, software engineering, computer use, science, and professional work. Async tool calling and mid-turn steering help it run multistep agent workflows. API: model id gpt-6-astra, $10/$50 per 1M tokens (short context). Rolling out first via Trusted Access/Daybreak, then Plus, Pro, Business, Enterprise, and the API in the coming days. First OpenAI model at the Critical cybersecurity capability threshold (advanced cyber access limited).<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/JZWSD2RN4SUNT2" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/openai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：model,OpenAI,most,capable,end,API<br>
-<strong>票数</strong>： 🔺406<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年09月04日 PM03:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2026-09-04T00:00:00.000Z</published>
   </entry>
 </feed>
