@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 16 Sep 2026 13:01:56 GMT</pubDate>
-    <lastBuildDate>Wed, 16 Sep 2026 13:01:56 GMT</lastBuildDate>
+    <pubDate>Thu, 17 Sep 2026 12:57:23 GMT</pubDate>
+    <lastBuildDate>Thu, 17 Sep 2026 12:57:23 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-09-15</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-09-15.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-09-15.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-09-15</source>
+      <description>TOP1 tiun. tiun. 【标语】：Auth, billing, and payments for AI builders 【介绍】：One system for auth, payments, customer data, and analytics. One command to install. Launch a paid product...</description>
+      <category>PH</category>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-tiun"><span></span></a><a href="https://www.producthunt.com/products/tiun-2" target="_blank" rel="noopener noreferrer">TOP1    tiun.</a></h2>
+<p><img src="https://ph-files.imgix.net/d3f13ed1-c39b-4519-b391-4381f3807dc9.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="tiun." loading="lazy"><br><br>
+<strong>【标语】</strong>：Auth, billing, and payments for AI builders<br>
+<strong>【介绍】</strong>：One system for auth, payments, customer data, and analytics. One command to install. Launch a paid product the same day you start building.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/TDDTPREQN2HR4H" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/tiun-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：payments,Auth,billing,AI,buildersOne,system<br>
+<strong>票数</strong>： 🔺534<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年09月15日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/d3f13ed1-c39b-4519-b391-4381f3807dc9.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-09-14</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-09-14.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年09月06日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/fda028fe-5227-46c5-a7c8-74bd8c84f50a.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-09-05</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-09-05.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-09-05.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-09-05</source>
-      <description>TOP1 dif.sh dif.sh 【标语】：Markdown feature flags your coding agent installs for you 【介绍】：Open source feature flags. Every flag is a markdown file that lives with the code it contr...</description>
-      <category>PH</category>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-dif-sh"><span></span></a><a href="https://www.producthunt.com/products/dif-sh" target="_blank" rel="noopener noreferrer">TOP1    dif.sh</a></h2>
-<p><img src="https://ph-files.imgix.net/af76189c-f704-4feb-a8bb-031116ca0882.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="dif.sh" loading="lazy"><br><br>
-<strong>【标语】</strong>：Markdown feature flags your coding agent installs for you<br>
-<strong>【介绍】</strong>：Open source feature flags. Every flag is a markdown file that lives with the code it controls: what it does, why it exists, and what you decided, reviewed in a PR like any other change. Your coding agent installs Dif in one command, no account, and reads the context file so it knows what's live and what was already tried. A/B tests wait in the same files until you have traffic. Send events to your own analytics, or let Dif Cloud read the results and write the decision into the file.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/ZYY34UR2OF3VDX" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/dif-sh" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：what,file,feature,flags,your,coding<br>
-<strong>票数</strong>： 🔺353<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年09月05日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/af76189c-f704-4feb-a8bb-031116ca0882.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
