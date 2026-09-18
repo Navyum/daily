@@ -4,16 +4,41 @@
   <title>DAYHACK</title>
   <subtitle>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</subtitle>
   <icon>https://github.camscanner.top/daily/favicon.ico</icon>
-  <updated>2026-09-17T12:57:23.602Z</updated>
+  <updated>2026-09-18T12:35:42.202Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/"/>
   <category term="PH"/>
   <entry>
+    <title type="text">PH今日热榜 | 2026-09-16</title>
+    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-16.html</id>
+    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-16.html"/>
+    <updated>2026-09-18T12:35:42.203Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-weave-router-2-0"><span></span></a><a href="https://www.producthunt.com/products/weave" target="_blank" rel="noopener noreferrer">TOP1    Weave Router 2.0</a></h2>
+<p><img src="https://ph-files.imgix.net/3a29938b-291b-4563-83e0-d7a8541c0262.gif?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Weave Router 2.0" loading="lazy"><br><br>
+<strong>【标语】</strong>：Subscription aware coding agent router<br>
+<strong>【介绍】</strong>：Use Claude models in Codex and GPT models in Claude Code on your existing plans, routed to whichever has quota left. Weave Router 2.0 routes each coding agent request to the cheapest model that can get it right. On Terminal-Bench 4.0 and SWE-Atlas it matches GPT-6 Astra at half the cost, 2x faster. Powered by a new classifier that scores task complexity and cache-aware switching that only moves when savings beat the rebuild cost.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/NDICOBJFOF2ARK" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/weave" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-weave-router-2-0"><span></span></a><a href="https://www.producthunt.com/products/weave" target="_blank" rel="noopener noreferrer">TOP1    Weave Router 2.0</a></h2>
+<p><img src="https://ph-files.imgix.net/3a29938b-291b-4563-83e0-d7a8541c0262.gif?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Weave Router 2.0" loading="lazy"><br><br>
+<strong>【标语】</strong>：Subscription aware coding agent router<br>
+<strong>【介绍】</strong>：Use Claude models in Codex and GPT models in Claude Code on your existing plans, routed to whichever has quota left. Weave Router 2.0 routes each coding agent request to the cheapest model that can get it right. On Terminal-Bench 4.0 and SWE-Atlas it matches GPT-6 Astra at half the cost, 2x faster. Powered by a new classifier that scores task complexity and cache-aware switching that only moves when savings beat the rebuild cost.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/NDICOBJFOF2ARK" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/weave" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：aware,coding,agent,Claude,models,GPT<br>
+<strong>票数</strong>： 🔺331<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年09月16日 PM03:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2026-09-16T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">PH今日热榜 | 2026-09-15</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-15.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-15.html"/>
-    <updated>2026-09-17T12:57:23.603Z</updated>
+    <updated>2026-09-18T12:35:42.215Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-tiun"><span></span></a><a href="https://www.producthunt.com/products/tiun-2" target="_blank" rel="noopener noreferrer">TOP1    tiun.</a></h2>
 <p><img src="https://ph-files.imgix.net/d3f13ed1-c39b-4519-b391-4381f3807dc9.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="tiun." loading="lazy"><br><br>
 <strong>【标语】</strong>：Auth, billing, and payments for AI builders<br>
@@ -38,7 +63,7 @@
     <title type="text">PH今日热榜 | 2026-09-14</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-14.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-14.html"/>
-    <updated>2026-09-17T12:57:23.619Z</updated>
+    <updated>2026-09-18T12:35:42.225Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-naoma-ai-demo-agent-v2"><span></span></a><a href="https://www.producthunt.com/products/naoma" target="_blank" rel="noopener noreferrer">TOP1    Naoma AI Demo Agent V2</a></h2>
 <p><img src="https://ph-files.imgix.net/78740130-29e9-449f-ace4-864df3ba24b1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Naoma AI Demo Agent V2" loading="lazy"><br><br>
 <strong>【标语】</strong>：Turns website traffic into booked, qualified meetings<br>
@@ -63,7 +88,7 @@
     <title type="text">PH今日热榜 | 2026-09-13</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-13.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-13.html"/>
-    <updated>2026-09-17T12:57:23.634Z</updated>
+    <updated>2026-09-18T12:35:42.237Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-resurf"><span></span></a><a href="https://www.producthunt.com/products/resurf-2" target="_blank" rel="noopener noreferrer">TOP1    Resurf</a></h2>
 <p><img src="https://ph-files.imgix.net/98d8b3dc-45ba-4dc0-8e5e-fcb214124038.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Resurf" loading="lazy"><br><br>
 <strong>【标语】</strong>：A Personal Context Library for Mac<br>
@@ -88,7 +113,7 @@
     <title type="text">PH今日热榜 | 2026-09-12</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-12.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-12.html"/>
-    <updated>2026-09-17T12:57:23.643Z</updated>
+    <updated>2026-09-18T12:35:42.244Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-youkti"><span></span></a><a href="https://www.producthunt.com/products/youkti" target="_blank" rel="noopener noreferrer">TOP1    Youkti </a></h2>
 <p><img src="https://ph-files.imgix.net/78a280bd-cc06-4531-8546-e148f16eaf8a.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Youkti " loading="lazy"><br><br>
 <strong>【标语】</strong>：Finds who's ready to buy, then tells you what to do next <br>
@@ -113,7 +138,7 @@
     <title type="text">PH今日热榜 | 2026-09-11</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-11.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-11.html"/>
-    <updated>2026-09-17T12:57:23.657Z</updated>
+    <updated>2026-09-18T12:35:42.254Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-anysite-io"><span></span></a><a href="https://www.producthunt.com/products/anysite" target="_blank" rel="noopener noreferrer">TOP1    Anysite.io</a></h2>
 <p><img src="https://ph-files.imgix.net/53b773ab-33de-4cf5-b4f2-bd64832263a4.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Anysite.io" loading="lazy"><br><br>
 <strong>【标语】</strong>：Build and enrich B2B lists by chatting to your agent<br>
@@ -138,7 +163,7 @@
     <title type="text">PH今日热榜 | 2026-09-10</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-10.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-10.html"/>
-    <updated>2026-09-17T12:57:23.670Z</updated>
+    <updated>2026-09-18T12:35:42.259Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-typewise-nova"><span></span></a><a href="https://www.producthunt.com/products/typewise" target="_blank" rel="noopener noreferrer">TOP1    Typewise Nova</a></h2>
 <p><img src="https://ph-files.imgix.net/95c08562-e2d8-4982-9ffb-fb6525a25753.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Typewise Nova" loading="lazy"><br><br>
 <strong>【标语】</strong>：AI customer experience that builds and improves itself<br>
@@ -163,7 +188,7 @@
     <title type="text">PH今日热榜 | 2026-09-09</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-09.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-09.html"/>
-    <updated>2026-09-17T12:57:23.678Z</updated>
+    <updated>2026-09-18T12:35:42.270Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-mastra-factory"><span></span></a><a href="https://www.producthunt.com/products/mastra" target="_blank" rel="noopener noreferrer">TOP1    Mastra Factory</a></h2>
 <p><img src="https://ph-files.imgix.net/5a1c1e32-a1b7-4754-874e-cef6df465577.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Mastra Factory" loading="lazy"><br><br>
 <strong>【标语】</strong>：From issue to production, run by agents.<br>
@@ -188,7 +213,7 @@
     <title type="text">PH今日热榜 | 2026-09-08</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-08.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-08.html"/>
-    <updated>2026-09-17T12:57:23.694Z</updated>
+    <updated>2026-09-18T12:35:42.278Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-switch"><span></span></a><a href="https://www.producthunt.com/products/switch-11" target="_blank" rel="noopener noreferrer">TOP1    Switch</a></h2>
 <p><img src="https://ph-files.imgix.net/122425e6-0677-42f1-be28-f2bc3bb9c2a6.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Switch" loading="lazy"><br><br>
 <strong>【标语】</strong>：Bring any AI agent into Slack, Teams &amp; Discord<br>
@@ -213,7 +238,7 @@
     <title type="text">PH今日热榜 | 2026-09-07</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-07.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-07.html"/>
-    <updated>2026-09-17T12:57:23.708Z</updated>
+    <updated>2026-09-18T12:35:42.288Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-pr-lens-by-coldtea-ai"><span></span></a><a href="https://www.producthunt.com/products/coldtea" target="_blank" rel="noopener noreferrer">TOP1    PR Lens by Coldtea.ai</a></h2>
 <p><img src="https://ph-files.imgix.net/fd968e40-a228-4bff-a978-184be5c35b60.gif?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="PR Lens by Coldtea.ai" loading="lazy"><br><br>
 <strong>【标语】</strong>：See code through a new lens<br>
@@ -233,30 +258,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2026-09-07T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2026-09-06</title>
-    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-06.html</id>
-    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-06.html"/>
-    <updated>2026-09-17T12:57:23.721Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-ai-toolbox-3-0"><span></span></a><a href="https://www.producthunt.com/products/chatgpt-toolbox" target="_blank" rel="noopener noreferrer">TOP1    AI Toolbox 3.0</a></h2>
-<p><img src="https://ph-files.imgix.net/fda028fe-5227-46c5-a7c8-74bd8c84f50a.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="AI Toolbox 3.0" loading="lazy"><br><br>
-<strong>【标语】</strong>：Search, organize and export every AI chat in one place<br>
-<strong>【介绍】</strong>：AI Toolbox is the missing layer on top of ChatGPT, Claude, Gemini and Grok: folders and subfolders, full-text search across every conversation (even all four platforms at once), a prompt library with // insert and multi-step chains, bulk export to Markdown/PDF/JSON, bookmarks, and a live context meter. One install covers all four AIs. Local-first: your chats stay in your browser. Trusted by 40,000+ users in 150+ countries, rated 4.5 stars on the Chrome Web Store.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/FBV7SHB3HECJ55" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/chatgpt-toolbox" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-ai-toolbox-3-0"><span></span></a><a href="https://www.producthunt.com/products/chatgpt-toolbox" target="_blank" rel="noopener noreferrer">TOP1    AI Toolbox 3.0</a></h2>
-<p><img src="https://ph-files.imgix.net/fda028fe-5227-46c5-a7c8-74bd8c84f50a.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="AI Toolbox 3.0" loading="lazy"><br><br>
-<strong>【标语】</strong>：Search, organize and export every AI chat in one place<br>
-<strong>【介绍】</strong>：AI Toolbox is the missing layer on top of ChatGPT, Claude, Gemini and Grok: folders and subfolders, full-text search across every conversation (even all four platforms at once), a prompt library with // insert and multi-step chains, bulk export to Markdown/PDF/JSON, bookmarks, and a live context meter. One install covers all four AIs. Local-first: your chats stay in your browser. Trusted by 40,000+ users in 150+ countries, rated 4.5 stars on the Chrome Web Store.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/FBV7SHB3HECJ55" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/chatgpt-toolbox" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：export,every,four,your,Search,organize<br>
-<strong>票数</strong>： 🔺414<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年09月06日 PM03:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2026-09-06T00:00:00.000Z</published>
   </entry>
 </feed>
