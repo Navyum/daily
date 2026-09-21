@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 20 Sep 2026 12:49:02 GMT</pubDate>
-    <lastBuildDate>Sun, 20 Sep 2026 12:49:02 GMT</lastBuildDate>
+    <pubDate>Mon, 21 Sep 2026 14:46:20 GMT</pubDate>
+    <lastBuildDate>Mon, 21 Sep 2026 14:46:20 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-09-19</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-09-19.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-09-19.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-09-19</source>
+      <description>TOP1 Bolt Forge Bolt Forge 【标语】：Bolt&amp;apos;s new agent with open-source models and 50X usage 【介绍】：Bolt Forge is a new agent inside Bolt.new that runs on open-source models. Every Pro ...</description>
+      <category>PH</category>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-bolt-forge"><span></span></a><a href="https://www.producthunt.com/products/bolt-new" target="_blank" rel="noopener noreferrer">TOP1    Bolt Forge</a></h2>
+<p><img src="https://ph-files.imgix.net/db512423-8abc-4b5e-95a4-e4e9d763bced.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Bolt Forge" loading="lazy"><br><br>
+<strong>【标语】</strong>：Bolt's new agent with open-source models and 50X usage<br>
+<strong>【介绍】</strong>：Bolt Forge is a new agent inside Bolt.new that runs on open-source models. Every Pro plan gets up to 50X more usage with no daily caps. Scores 91% of Bolt's top paid model on their internal benchmark.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/4A3VQBDVIUMA2D" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/bolt-new" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：Bolt,new,agent,open,source,models<br>
+<strong>票数</strong>： 🔺230<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年09月19日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/db512423-8abc-4b5e-95a4-e4e9d763bced.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-09-18</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-09-18.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年09月10日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/95c08562-e2d8-4982-9ffb-fb6525a25753.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-09-09</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-09-09.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-09-09.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-09-09</source>
-      <description>TOP1 Mastra Factory Mastra Factory 【标语】：From issue to production, run by agents. 【介绍】：Mastra Factory is an open source, agent-powered software delivery environment. It combines ...</description>
-      <category>PH</category>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-mastra-factory"><span></span></a><a href="https://www.producthunt.com/products/mastra" target="_blank" rel="noopener noreferrer">TOP1    Mastra Factory</a></h2>
-<p><img src="https://ph-files.imgix.net/5a1c1e32-a1b7-4754-874e-cef6df465577.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Mastra Factory" loading="lazy"><br><br>
-<strong>【标语】</strong>：From issue to production, run by agents.<br>
-<strong>【介绍】</strong>：Mastra Factory is an open source, agent-powered software delivery environment. It combines persistent coding agents, repository workspaces, issue intake, planning, implementation, and pull request review in a web application you control.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/52CAOAGHS62ZQY" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/mastra" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：issue,agents,production,run,Mastra,Factory<br>
-<strong>票数</strong>： 🔺468<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年09月09日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/5a1c1e32-a1b7-4754-874e-cef6df465577.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
