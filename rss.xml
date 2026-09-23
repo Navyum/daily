@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 22 Sep 2026 13:01:13 GMT</pubDate>
-    <lastBuildDate>Tue, 22 Sep 2026 13:01:13 GMT</lastBuildDate>
+    <pubDate>Wed, 23 Sep 2026 13:13:47 GMT</pubDate>
+    <lastBuildDate>Wed, 23 Sep 2026 13:13:47 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-09-21</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-09-21.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-09-21.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-09-21</source>
+      <description>TOP1 Jev Jev 【标语】：Fast, structured AI decisions for software automation 【介绍】：Jev is TypeSafe AI&amp;apos;s System One frontier model: unstructured state in, typed probabilistic decisions...</description>
+      <category>PH</category>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-jev"><span></span></a><a href="https://www.producthunt.com/products/jev-2" target="_blank" rel="noopener noreferrer">TOP1    Jev</a></h2>
+<p><img src="https://ph-files.imgix.net/d1cc0cb7-6ff3-4524-a253-9b44002769c1.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Jev" loading="lazy"><br><br>
+<strong>【标语】</strong>：Fast, structured AI decisions for software automation<br>
+<strong>【介绍】</strong>：Jev is TypeSafe AI's System One frontier model: unstructured state in, typed probabilistic decisions out. Instead of generating text, Jev returns Choice, Score, and Noul answers with calibrated probabilities your code can act on. Parallel sampling delivers ~70-500ms responses, about 20-200x faster and 40-400x cheaper than comparable LLM workflows, with output tokens free. Now available to everyone at console.typesafe.ai with no waitlist.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/XJ7UD64LPY5QDA" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/jev-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：AI,decisions,Fast,structured,software,automationJev<br>
+<strong>票数</strong>： 🔺488<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年09月21日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/d1cc0cb7-6ff3-4524-a253-9b44002769c1.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-09-20</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-09-20.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年09月12日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/78a280bd-cc06-4531-8546-e148f16eaf8a.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-09-11</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-09-11.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-09-11.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-09-11</source>
-      <description>TOP1 Anysite.io Anysite.io 【标语】：Build and enrich B2B lists by chatting to your agent 【介绍】：Anysite.io is a B2B data layer living in your favorite AI agent. Ask your agent for the...</description>
-      <category>PH</category>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-anysite-io"><span></span></a><a href="https://www.producthunt.com/products/anysite" target="_blank" rel="noopener noreferrer">TOP1    Anysite.io</a></h2>
-<p><img src="https://ph-files.imgix.net/53b773ab-33de-4cf5-b4f2-bd64832263a4.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Anysite.io" loading="lazy"><br><br>
-<strong>【标语】</strong>：Build and enrich B2B lists by chatting to your agent<br>
-<strong>【介绍】</strong>：Anysite.io is a B2B data layer living in your favorite AI agent. Ask your agent for the list you need — companies by geo, industry, and size; the people inside them; their current job titles and emails — and Anysite.io returns it. No queries to write, no scrapers to maintain. Works over MCP or REST API inside Claude, Codex, Cursor, OpenCode, and other agents. Plug in and launch your outbound data collection the same day.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/LWEA45Q3YRJ7ZK" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/anysite" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：your,B2B,io,data,agent,inside<br>
-<strong>票数</strong>： 🔺450<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年09月11日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/53b773ab-33de-4cf5-b4f2-bd64832263a4.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
