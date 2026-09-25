@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 24 Sep 2026 13:06:09 GMT</pubDate>
-    <lastBuildDate>Thu, 24 Sep 2026 13:06:09 GMT</lastBuildDate>
+    <pubDate>Fri, 25 Sep 2026 13:10:33 GMT</pubDate>
+    <lastBuildDate>Fri, 25 Sep 2026 13:10:33 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-09-23</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-09-23.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-09-23.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-09-23</source>
+      <description>TOP1 Solid Solid 【标语】：Agents with their own computers, accounts, and budgets. 【介绍】：Solid’s AI agents build apps, automate workflows and tackle work you lack the time or expertis...</description>
+      <category>PH</category>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-solid"><span></span></a><a href="https://www.producthunt.com/products/solid-3" target="_blank" rel="noopener noreferrer">TOP1    Solid</a></h2>
+<p><img src="https://ph-files.imgix.net/c40c6125-59a7-4669-807c-9f510a1b82eb.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Solid" loading="lazy"><br><br>
+<strong>【标语】</strong>：Agents with their own computers, accounts, and budgets.<br>
+<strong>【介绍】</strong>：Solid’s AI agents build apps, automate workflows and tackle work you lack the time or expertise for. They pick and set up their own real machines, create accounts and pay for services. They use your apps through APIs or log in like a person. They build what’s missing and fix problems along the way. Think beyond personal agents like Grok Bot and Muse: Solid is built for complex, long-running work for you and your team. Close your laptop. Solid owns the job from start to finish.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/IGFJIPCFXEAE6A" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/solid-3" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：Solid,They,your,their,own,accounts<br>
+<strong>票数</strong>： 🔺449<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年09月23日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/c40c6125-59a7-4669-807c-9f510a1b82eb.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-09-22</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-09-22.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年09月14日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/78740130-29e9-449f-ace4-864df3ba24b1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-09-13</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-09-13.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-09-13.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-09-13</source>
-      <description>TOP1 Resurf Resurf 【标语】：A Personal Context Library for Mac 【介绍】：Resurf is a personal context app for things you like, care about, and work on. Save notes, links, images, PDFs, a...</description>
-      <category>PH</category>
-      <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-resurf"><span></span></a><a href="https://www.producthunt.com/products/resurf-2" target="_blank" rel="noopener noreferrer">TOP1    Resurf</a></h2>
-<p><img src="https://ph-files.imgix.net/98d8b3dc-45ba-4dc0-8e5e-fcb214124038.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Resurf" loading="lazy"><br><br>
-<strong>【标语】</strong>：A Personal Context Library for Mac<br>
-<strong>【介绍】</strong>：Resurf is a personal context app for things you like, care about, and work on. Save notes, links, images, PDFs, and ideas. Find them later or hand that context to AI through MCP and CLI. Native on Mac, iPhone, and iPad, with local storage and private iCloud sync.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/64OVTILJFOSXX3" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/resurf-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：context,Personal,Context,Library,MacResurf,personal<br>
-<strong>票数</strong>： 🔺281<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年09月13日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/98d8b3dc-45ba-4dc0-8e5e-fcb214124038.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>

@@ -4,16 +4,41 @@
   <title>DAYHACK</title>
   <subtitle>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</subtitle>
   <icon>https://github.camscanner.top/daily/favicon.ico</icon>
-  <updated>2026-09-24T13:06:09.023Z</updated>
+  <updated>2026-09-25T13:10:33.453Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/"/>
   <category term="PH"/>
   <entry>
+    <title type="text">PH今日热榜 | 2026-09-23</title>
+    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-23.html</id>
+    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-23.html"/>
+    <updated>2026-09-25T13:10:33.454Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-solid"><span></span></a><a href="https://www.producthunt.com/products/solid-3" target="_blank" rel="noopener noreferrer">TOP1    Solid</a></h2>
+<p><img src="https://ph-files.imgix.net/c40c6125-59a7-4669-807c-9f510a1b82eb.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Solid" loading="lazy"><br><br>
+<strong>【标语】</strong>：Agents with their own computers, accounts, and budgets.<br>
+<strong>【介绍】</strong>：Solid’s AI agents build apps, automate workflows and tackle work you lack the time or expertise for. They pick and set up their own real machines, create accounts and pay for services. They use your apps through APIs or log in like a person. They build what’s missing and fix problems along the way. Think beyond personal agents like Grok Bot and Muse: Solid is built for complex, long-running work for you and your team. Close your laptop. Solid owns the job from start to finish.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/IGFJIPCFXEAE6A" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/solid-3" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-solid"><span></span></a><a href="https://www.producthunt.com/products/solid-3" target="_blank" rel="noopener noreferrer">TOP1    Solid</a></h2>
+<p><img src="https://ph-files.imgix.net/c40c6125-59a7-4669-807c-9f510a1b82eb.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Solid" loading="lazy"><br><br>
+<strong>【标语】</strong>：Agents with their own computers, accounts, and budgets.<br>
+<strong>【介绍】</strong>：Solid’s AI agents build apps, automate workflows and tackle work you lack the time or expertise for. They pick and set up their own real machines, create accounts and pay for services. They use your apps through APIs or log in like a person. They build what’s missing and fix problems along the way. Think beyond personal agents like Grok Bot and Muse: Solid is built for complex, long-running work for you and your team. Close your laptop. Solid owns the job from start to finish.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/IGFJIPCFXEAE6A" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/solid-3" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：Solid,They,your,their,own,accounts<br>
+<strong>票数</strong>： 🔺449<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年09月23日 PM03:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2026-09-23T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">PH今日热榜 | 2026-09-22</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-22.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-22.html"/>
-    <updated>2026-09-24T13:06:09.025Z</updated>
+    <updated>2026-09-25T13:10:33.477Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-clueso-mcp"><span></span></a><a href="https://www.producthunt.com/products/clueso" target="_blank" rel="noopener noreferrer">TOP1    Clueso MCP</a></h2>
 <p><img src="https://ph-files.imgix.net/7d52afc1-9d27-45c5-b258-6b557bf0e7d4.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Clueso MCP" loading="lazy"><br><br>
 <strong>【标语】</strong>：Create and edit videos by chatting<br>
@@ -38,7 +63,7 @@
     <title type="text">PH今日热榜 | 2026-09-21</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-21.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-21.html"/>
-    <updated>2026-09-24T13:06:09.044Z</updated>
+    <updated>2026-09-25T13:10:33.489Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-jev"><span></span></a><a href="https://www.producthunt.com/products/jev-2" target="_blank" rel="noopener noreferrer">TOP1    Jev</a></h2>
 <p><img src="https://ph-files.imgix.net/d1cc0cb7-6ff3-4524-a253-9b44002769c1.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Jev" loading="lazy"><br><br>
 <strong>【标语】</strong>：Fast, structured AI decisions for software automation<br>
@@ -63,7 +88,7 @@
     <title type="text">PH今日热榜 | 2026-09-20</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-20.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-20.html"/>
-    <updated>2026-09-24T13:06:09.059Z</updated>
+    <updated>2026-09-25T13:10:33.504Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-mycel"><span></span></a><a href="https://www.producthunt.com/products/mycel" target="_blank" rel="noopener noreferrer">TOP1    Mycel</a></h2>
 <p><img src="https://ph-files.imgix.net/df013a82-90db-4103-9bcb-5b7a9e40be78.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Mycel" loading="lazy"><br><br>
 <strong>【标语】</strong>：Bring one past deliverable. Mycel drafts every future one.<br>
@@ -88,7 +113,7 @@
     <title type="text">PH今日热榜 | 2026-09-19</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-19.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-19.html"/>
-    <updated>2026-09-24T13:06:09.068Z</updated>
+    <updated>2026-09-25T13:10:33.518Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-bolt-forge"><span></span></a><a href="https://www.producthunt.com/products/bolt-new" target="_blank" rel="noopener noreferrer">TOP1    Bolt Forge</a></h2>
 <p><img src="https://ph-files.imgix.net/db512423-8abc-4b5e-95a4-e4e9d763bced.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Bolt Forge" loading="lazy"><br><br>
 <strong>【标语】</strong>：Bolt's new agent with open-source models and 50X usage<br>
@@ -113,7 +138,7 @@
     <title type="text">PH今日热榜 | 2026-09-18</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-18.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-18.html"/>
-    <updated>2026-09-24T13:06:09.084Z</updated>
+    <updated>2026-09-25T13:10:33.528Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-ami-ai"><span></span></a><a href="https://www.producthunt.com/products/ami-ai" target="_blank" rel="noopener noreferrer">TOP1    Ami AI</a></h2>
 <p><img src="https://ph-files.imgix.net/8bdae202-3311-492a-a57f-67d5c79d8277.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Ami AI" loading="lazy"><br><br>
 <strong>【标语】</strong>：Lovable for getting customers<br>
@@ -138,7 +163,7 @@
     <title type="text">PH今日热榜 | 2026-09-17</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-17.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-17.html"/>
-    <updated>2026-09-24T13:06:09.093Z</updated>
+    <updated>2026-09-25T13:10:33.542Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-creem-2-0"><span></span></a><a href="https://www.producthunt.com/products/creem" target="_blank" rel="noopener noreferrer">TOP1    CREEM 2.0</a></h2>
 <p><img src="https://ph-files.imgix.net/88fc1155-d720-497f-a5cc-89a8b39a0783.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="CREEM 2.0" loading="lazy"><br><br>
 <strong>【标语】</strong>：Sell and grow your AI built products<br>
@@ -163,7 +188,7 @@
     <title type="text">PH今日热榜 | 2026-09-16</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-16.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-16.html"/>
-    <updated>2026-09-24T13:06:09.109Z</updated>
+    <updated>2026-09-25T13:10:33.552Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-weave-router-2-0"><span></span></a><a href="https://www.producthunt.com/products/weave" target="_blank" rel="noopener noreferrer">TOP1    Weave Router 2.0</a></h2>
 <p><img src="https://ph-files.imgix.net/3a29938b-291b-4563-83e0-d7a8541c0262.gif?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Weave Router 2.0" loading="lazy"><br><br>
 <strong>【标语】</strong>：Subscription aware coding agent router<br>
@@ -188,7 +213,7 @@
     <title type="text">PH今日热榜 | 2026-09-15</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-15.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-15.html"/>
-    <updated>2026-09-24T13:06:09.118Z</updated>
+    <updated>2026-09-25T13:10:33.568Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-tiun"><span></span></a><a href="https://www.producthunt.com/products/tiun-2" target="_blank" rel="noopener noreferrer">TOP1    tiun.</a></h2>
 <p><img src="https://ph-files.imgix.net/d3f13ed1-c39b-4519-b391-4381f3807dc9.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="tiun." loading="lazy"><br><br>
 <strong>【标语】</strong>：Auth, billing, and payments for AI builders<br>
@@ -213,7 +238,7 @@
     <title type="text">PH今日热榜 | 2026-09-14</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-14.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-14.html"/>
-    <updated>2026-09-24T13:06:09.135Z</updated>
+    <updated>2026-09-25T13:10:33.575Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-naoma-ai-demo-agent-v2"><span></span></a><a href="https://www.producthunt.com/products/naoma" target="_blank" rel="noopener noreferrer">TOP1    Naoma AI Demo Agent V2</a></h2>
 <p><img src="https://ph-files.imgix.net/78740130-29e9-449f-ace4-864df3ba24b1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Naoma AI Demo Agent V2" loading="lazy"><br><br>
 <strong>【标语】</strong>：Turns website traffic into booked, qualified meetings<br>
@@ -233,30 +258,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2026-09-14T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2026-09-13</title>
-    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-13.html</id>
-    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-13.html"/>
-    <updated>2026-09-24T13:06:09.150Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-resurf"><span></span></a><a href="https://www.producthunt.com/products/resurf-2" target="_blank" rel="noopener noreferrer">TOP1    Resurf</a></h2>
-<p><img src="https://ph-files.imgix.net/98d8b3dc-45ba-4dc0-8e5e-fcb214124038.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Resurf" loading="lazy"><br><br>
-<strong>【标语】</strong>：A Personal Context Library for Mac<br>
-<strong>【介绍】</strong>：Resurf is a personal context app for things you like, care about, and work on. Save notes, links, images, PDFs, and ideas. Find them later or hand that context to AI through MCP and CLI. Native on Mac, iPhone, and iPad, with local storage and private iCloud sync.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/64OVTILJFOSXX3" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/resurf-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-resurf"><span></span></a><a href="https://www.producthunt.com/products/resurf-2" target="_blank" rel="noopener noreferrer">TOP1    Resurf</a></h2>
-<p><img src="https://ph-files.imgix.net/98d8b3dc-45ba-4dc0-8e5e-fcb214124038.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Resurf" loading="lazy"><br><br>
-<strong>【标语】</strong>：A Personal Context Library for Mac<br>
-<strong>【介绍】</strong>：Resurf is a personal context app for things you like, care about, and work on. Save notes, links, images, PDFs, and ideas. Find them later or hand that context to AI through MCP and CLI. Native on Mac, iPhone, and iPad, with local storage and private iCloud sync.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/64OVTILJFOSXX3" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/resurf-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：context,Personal,Context,Library,MacResurf,personal<br>
-<strong>票数</strong>： 🔺281<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年09月13日 PM03:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2026-09-13T00:00:00.000Z</published>
   </entry>
 </feed>
