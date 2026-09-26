@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 25 Sep 2026 13:10:33 GMT</pubDate>
-    <lastBuildDate>Fri, 25 Sep 2026 13:10:33 GMT</lastBuildDate>
+    <pubDate>Sat, 26 Sep 2026 12:37:23 GMT</pubDate>
+    <lastBuildDate>Sat, 26 Sep 2026 12:37:23 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-09-24</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-09-24.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-09-24.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-09-24</source>
+      <description>TOP1 Scholé Learn by Building Scholé Learn by Building 【标语】：Learning should be more than &amp;quot;click next&amp;quot; 【介绍】：Learn by building, on any website, with Scholé by your side. You can r...</description>
+      <category>PH</category>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-schole-learn-by-building"><span></span></a><a href="https://www.producthunt.com/products/schole-2" target="_blank" rel="noopener noreferrer">TOP1    Scholé Learn by Building</a></h2>
+<p><img src="https://ph-files.imgix.net/c3b766b0-d975-4950-aac6-9da4d78f7244.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Scholé Learn by Building" loading="lazy"><br><br>
+<strong>【标语】</strong>：Learning should be more than "click next"<br>
+<strong>【介绍】</strong>：Learn by building, on any website, with Scholé by your side. You can read about a tool, watch someone walk through it on YouTube, or ask ChatGPT to explain it. But you won’t properly learn until you build with it yourself. Learn Anywhere mode guides you through using any real tool directly on your screen, adapting tasks and giving visual hints. Everything you learn updates your Scholé knowledge graph and counts towards your lessons. Our thesis? Learn it well enough to use it.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/F22BXESSBPZXG7" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/schole-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：your,Learn,any,Schol,tool,through<br>
+<strong>票数</strong>： 🔺399<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年09月24日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/c3b766b0-d975-4950-aac6-9da4d78f7244.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-09-23</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-09-23.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年09月15日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/d3f13ed1-c39b-4519-b391-4381f3807dc9.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-09-14</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-09-14.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-09-14.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-09-14</source>
-      <description>TOP1 Naoma AI Demo Agent V2 Naoma AI Demo Agent V2 【标语】：Turns website traffic into booked, qualified meetings 【介绍】：Your book-a-demo button converts 1-2% of visitors. The rest le...</description>
-      <category>PH</category>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-naoma-ai-demo-agent-v2"><span></span></a><a href="https://www.producthunt.com/products/naoma" target="_blank" rel="noopener noreferrer">TOP1    Naoma AI Demo Agent V2</a></h2>
-<p><img src="https://ph-files.imgix.net/78740130-29e9-449f-ace4-864df3ba24b1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Naoma AI Demo Agent V2" loading="lazy"><br><br>
-<strong>【标语】</strong>：Turns website traffic into booked, qualified meetings<br>
-<strong>【介绍】</strong>：Your book-a-demo button converts 1-2% of visitors. The rest leave. Naoma replaces the form with an AI account executive that runs the demo right then: it walks the prospect through your live product, answers questions, qualifies them and books the meeting. It remembers returning visitors, picks up where they left off, and writes every session back to your CRM. 50,000+ demos run for B2B SaaS teams. Now self-serve: upload your product and knowledge base test the agent today.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/NPQUFAO3PMOWSZ" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/naoma" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：your,demo,visitors,product,Turns,website<br>
-<strong>票数</strong>： 🔺477<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年09月14日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/78740130-29e9-449f-ace4-864df3ba24b1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
