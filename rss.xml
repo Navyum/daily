@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 27 Sep 2026 13:28:47 GMT</pubDate>
-    <lastBuildDate>Sun, 27 Sep 2026 13:28:47 GMT</lastBuildDate>
+    <pubDate>Mon, 28 Sep 2026 16:21:34 GMT</pubDate>
+    <lastBuildDate>Mon, 28 Sep 2026 16:21:34 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-09-26</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-09-26.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-09-26.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-09-26</source>
+      <description>TOP1 Hemory Hemory 【标语】：Keep listening. Searchable memory for your AI agents. 【介绍】：Hemory comes from Hear + Memory. It&amp;apos;s not meeting transcription: Hemory listens on the phone o...</description>
+      <category>PH</category>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-hemory"><span></span></a><a href="https://www.producthunt.com/products/hemory" target="_blank" rel="noopener noreferrer">TOP1    Hemory</a></h2>
+<p><img src="https://ph-files.imgix.net/1c5cdafb-3ec1-4699-9459-e955bb067126.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Hemory" loading="lazy"><br><br>
+<strong>【标语】</strong>：Keep listening. Searchable memory for your AI agents.<br>
+<strong>【介绍】</strong>：Hemory comes from Hear + Memory. It's not meeting transcription: Hemory listens on the phone or Apple Watch you already own, and keeps every conversation as memory. Your day is auto-split into moments with speaker labels, then settles into a private, searchable memory. Connect it to Claude, Codex, Cursor, or any agent over MCP, and your AI finally has real context to revisit what you heard and build on it.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/DESVXS45MENTRI" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/hemory" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：memory,your,AI,Hemory,into,Keep<br>
+<strong>票数</strong>： 🔺359<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年09月26日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/1c5cdafb-3ec1-4699-9459-e955bb067126.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-09-25</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-09-25.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年09月17日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/88fc1155-d720-497f-a5cc-89a8b39a0783.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-09-16</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-09-16.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-09-16.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-09-16</source>
-      <description>TOP1 Weave Router 2.0 Weave Router 2.0 【标语】：Subscription aware coding agent router 【介绍】：Use Claude models in Codex and GPT models in Claude Code on your existing plans, routed t...</description>
-      <category>PH</category>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-weave-router-2-0"><span></span></a><a href="https://www.producthunt.com/products/weave" target="_blank" rel="noopener noreferrer">TOP1    Weave Router 2.0</a></h2>
-<p><img src="https://ph-files.imgix.net/3a29938b-291b-4563-83e0-d7a8541c0262.gif?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Weave Router 2.0" loading="lazy"><br><br>
-<strong>【标语】</strong>：Subscription aware coding agent router<br>
-<strong>【介绍】</strong>：Use Claude models in Codex and GPT models in Claude Code on your existing plans, routed to whichever has quota left. Weave Router 2.0 routes each coding agent request to the cheapest model that can get it right. On Terminal-Bench 4.0 and SWE-Atlas it matches GPT-6 Astra at half the cost, 2x faster. Powered by a new classifier that scores task complexity and cache-aware switching that only moves when savings beat the rebuild cost.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/NDICOBJFOF2ARK" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/weave" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：aware,coding,agent,Claude,models,GPT<br>
-<strong>票数</strong>： 🔺331<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年09月16日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/3a29938b-291b-4563-83e0-d7a8541c0262.gif?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
