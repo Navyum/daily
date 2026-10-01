@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 30 Sep 2026 14:30:45 GMT</pubDate>
-    <lastBuildDate>Wed, 30 Sep 2026 14:30:45 GMT</lastBuildDate>
+    <pubDate>Thu, 01 Oct 2026 15:00:28 GMT</pubDate>
+    <lastBuildDate>Thu, 01 Oct 2026 15:00:28 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-09-29</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-09-29.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-09-29.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-09-29</source>
+      <description>TOP1 iFixAi iFixAi 【标语】：Independent auditing of AI agents to uncover misalignment 【介绍】：iFixAi is an independent auditor helping companies assess whether they can trust their AI ...</description>
+      <category>PH</category>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-ifixai"><span></span></a><a href="https://www.producthunt.com/products/ifixai" target="_blank" rel="noopener noreferrer">TOP1    iFixAi</a></h2>
+<p><img src="https://ph-files.imgix.net/26de944b-fb8c-4ec9-a670-c9b709fa1b9e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="iFixAi" loading="lazy"><br><br>
+<strong>【标语】</strong>：Independent auditing of AI agents to uncover misalignment<br>
+<strong>【介绍】</strong>：iFixAi is an independent auditor helping companies assess whether they can trust their AI agents. Unlike relying solely on evals and observability tools, its multifaceted audit includes 250 inspections across 69 categories of AI misalignment, combining AI red teaming, operational assurance, and philosophical, ethical, and sociological perspectives. It identifies failures under testing, explains their business implications, and provides evidence engineers can use to investigate and fix them.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/GH7ZXAZXZF36UQ" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/ifixai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：AI,agents,their,Independent,auditing,uncover<br>
+<strong>票数</strong>： 🔺406<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年09月29日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/26de944b-fb8c-4ec9-a670-c9b709fa1b9e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-09-28</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-09-28.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年09月20日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/df013a82-90db-4103-9bcb-5b7a9e40be78.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-09-19</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-09-19.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-09-19.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-09-19</source>
-      <description>TOP1 Bolt Forge Bolt Forge 【标语】：Bolt&amp;apos;s new agent with open-source models and 50X usage 【介绍】：Bolt Forge is a new agent inside Bolt.new that runs on open-source models. Every Pro ...</description>
-      <category>PH</category>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-bolt-forge"><span></span></a><a href="https://www.producthunt.com/products/bolt-new" target="_blank" rel="noopener noreferrer">TOP1    Bolt Forge</a></h2>
-<p><img src="https://ph-files.imgix.net/db512423-8abc-4b5e-95a4-e4e9d763bced.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Bolt Forge" loading="lazy"><br><br>
-<strong>【标语】</strong>：Bolt's new agent with open-source models and 50X usage<br>
-<strong>【介绍】</strong>：Bolt Forge is a new agent inside Bolt.new that runs on open-source models. Every Pro plan gets up to 50X more usage with no daily caps. Scores 91% of Bolt's top paid model on their internal benchmark.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/4A3VQBDVIUMA2D" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/bolt-new" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：Bolt,new,agent,open,source,models<br>
-<strong>票数</strong>： 🔺230<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年09月19日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/db512423-8abc-4b5e-95a4-e4e9d763bced.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
