@@ -4,16 +4,41 @@
   <title>DAYHACK</title>
   <subtitle>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</subtitle>
   <icon>https://github.camscanner.top/daily/favicon.ico</icon>
-  <updated>2026-10-02T14:23:13.937Z</updated>
+  <updated>2026-10-03T12:56:56.498Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/"/>
   <category term="PH"/>
   <entry>
+    <title type="text">PH今日热榜 | 2026-10-01</title>
+    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-01.html</id>
+    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-01.html"/>
+    <updated>2026-10-03T12:56:56.499Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-monospace-from-directus"><span></span></a><a href="https://www.producthunt.com/products/directus" target="_blank" rel="noopener noreferrer">TOP1    Monospace from Directus</a></h2>
+<p><img src="https://ph-files.imgix.net/8c068d38-2ed9-42d4-9025-0dfe0c155a1c.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Monospace from Directus" loading="lazy"><br><br>
+<strong>【标语】</strong>：The governed API layer for every app, person, and agent<br>
+<strong>【介绍】</strong>：Monospace sits between enterprise data and everyone who builds on it. Connect any data source, and your developers, business teams, and AI agents get live, read-write access to it. All under the same granular permissions model, with no data copied or moved. Your oldest databases weren't built with AI or modern apps in mind. Monospace generates interfaces directly from them, as they are, introspecting the schema and queries in real time, so they don’t need to be rebuilt.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/OROVPQZ3Y6HPUR" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/directus" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-monospace-from-directus"><span></span></a><a href="https://www.producthunt.com/products/directus" target="_blank" rel="noopener noreferrer">TOP1    Monospace from Directus</a></h2>
+<p><img src="https://ph-files.imgix.net/8c068d38-2ed9-42d4-9025-0dfe0c155a1c.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Monospace from Directus" loading="lazy"><br><br>
+<strong>【标语】</strong>：The governed API layer for every app, person, and agent<br>
+<strong>【介绍】</strong>：Monospace sits between enterprise data and everyone who builds on it. Connect any data source, and your developers, business teams, and AI agents get live, read-write access to it. All under the same granular permissions model, with no data copied or moved. Your oldest databases weren't built with AI or modern apps in mind. Monospace generates interfaces directly from them, as they are, introspecting the schema and queries in real time, so they don’t need to be rebuilt.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/OROVPQZ3Y6HPUR" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/directus" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：data,AI,they,governed,API,layer<br>
+<strong>票数</strong>： 🔺442<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年10月01日 PM03:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2026-10-01T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">PH今日热榜 | 2026-09-30</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-30.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-30.html"/>
-    <updated>2026-10-02T14:23:13.939Z</updated>
+    <updated>2026-10-03T12:56:56.515Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-pexo"><span></span></a><a href="https://www.producthunt.com/products/pexo-2" target="_blank" rel="noopener noreferrer">TOP1    Pexo</a></h2>
 <p><img src="https://ph-files.imgix.net/f2e2ecea-a5cc-412e-adac-ffbfee93de28.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Pexo" loading="lazy"><br><br>
 <strong>【标语】</strong>：Produce pitch perfect launch videos with precise control<br>
@@ -38,7 +63,7 @@
     <title type="text">PH今日热榜 | 2026-09-29</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-29.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-29.html"/>
-    <updated>2026-10-02T14:23:13.961Z</updated>
+    <updated>2026-10-03T12:56:56.531Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-ifixai"><span></span></a><a href="https://www.producthunt.com/products/ifixai" target="_blank" rel="noopener noreferrer">TOP1    iFixAi</a></h2>
 <p><img src="https://ph-files.imgix.net/26de944b-fb8c-4ec9-a670-c9b709fa1b9e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="iFixAi" loading="lazy"><br><br>
 <strong>【标语】</strong>：Independent auditing of AI agents to uncover misalignment<br>
@@ -63,7 +88,7 @@
     <title type="text">PH今日热榜 | 2026-09-28</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-28.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-28.html"/>
-    <updated>2026-10-02T14:23:13.971Z</updated>
+    <updated>2026-10-03T12:56:56.539Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-mcp-connectors-by-databox"><span></span></a><a href="https://www.producthunt.com/products/databox" target="_blank" rel="noopener noreferrer">TOP1    MCP Connectors by Databox</a></h2>
 <p><img src="https://ph-files.imgix.net/7cea0b2a-3749-4456-8ddf-ffb7b6deacbb.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="MCP Connectors by Databox" loading="lazy"><br><br>
 <strong>【标语】</strong>：Give your AI Analyst context to explain performance and act<br>
@@ -88,7 +113,7 @@
     <title type="text">PH今日热榜 | 2026-09-27</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-27.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-27.html"/>
-    <updated>2026-10-02T14:23:13.986Z</updated>
+    <updated>2026-10-03T12:56:56.557Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-humalike-x-gta-rp"><span></span></a><a href="https://www.producthunt.com/products/humalike-2" target="_blank" rel="noopener noreferrer">TOP1    Humalike x GTA RP</a></h2>
 <p><img src="https://ph-files.imgix.net/a81e2367-4dfc-45b4-a1a3-781f43173b99.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Humalike x GTA RP" loading="lazy"><br><br>
 <strong>【标语】</strong>：AI NPCs that talk, remember &amp; act on their own<br>
@@ -113,7 +138,7 @@
     <title type="text">PH今日热榜 | 2026-09-26</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-26.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-26.html"/>
-    <updated>2026-10-02T14:23:14.000Z</updated>
+    <updated>2026-10-03T12:56:56.569Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-hemory"><span></span></a><a href="https://www.producthunt.com/products/hemory" target="_blank" rel="noopener noreferrer">TOP1    Hemory</a></h2>
 <p><img src="https://ph-files.imgix.net/1c5cdafb-3ec1-4699-9459-e955bb067126.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Hemory" loading="lazy"><br><br>
 <strong>【标语】</strong>：Keep listening. Searchable memory for your AI agents.<br>
@@ -138,7 +163,7 @@
     <title type="text">PH今日热榜 | 2026-09-25</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-25.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-25.html"/>
-    <updated>2026-10-02T14:23:14.008Z</updated>
+    <updated>2026-10-03T12:56:56.577Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-pixverse-r2"><span></span></a><a href="https://www.producthunt.com/products/pixverse-r2" target="_blank" rel="noopener noreferrer">TOP1    PixVerse R2</a></h2>
 <p><img src="https://ph-files.imgix.net/9768c154-2f5d-4a4c-8433-f5820ddadf8b.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="PixVerse R2" loading="lazy"><br><br>
 <strong>【标语】</strong>：A real-time world model you can explore and change<br>
@@ -163,7 +188,7 @@
     <title type="text">PH今日热榜 | 2026-09-24</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-24.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-24.html"/>
-    <updated>2026-10-02T14:23:14.022Z</updated>
+    <updated>2026-10-03T12:56:56.590Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-schole-learn-by-building"><span></span></a><a href="https://www.producthunt.com/products/schole-2" target="_blank" rel="noopener noreferrer">TOP1    Scholé Learn by Building</a></h2>
 <p><img src="https://ph-files.imgix.net/c3b766b0-d975-4950-aac6-9da4d78f7244.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Scholé Learn by Building" loading="lazy"><br><br>
 <strong>【标语】</strong>：Learning should be more than "click next"<br>
@@ -188,7 +213,7 @@
     <title type="text">PH今日热榜 | 2026-09-23</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-23.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-23.html"/>
-    <updated>2026-10-02T14:23:14.030Z</updated>
+    <updated>2026-10-03T12:56:56.600Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-solid"><span></span></a><a href="https://www.producthunt.com/products/solid-3" target="_blank" rel="noopener noreferrer">TOP1    Solid</a></h2>
 <p><img src="https://ph-files.imgix.net/c40c6125-59a7-4669-807c-9f510a1b82eb.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Solid" loading="lazy"><br><br>
 <strong>【标语】</strong>：Agents with their own computers, accounts, and budgets.<br>
@@ -213,7 +238,7 @@
     <title type="text">PH今日热榜 | 2026-09-22</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-22.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-22.html"/>
-    <updated>2026-10-02T14:23:14.046Z</updated>
+    <updated>2026-10-03T12:56:56.612Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-clueso-mcp"><span></span></a><a href="https://www.producthunt.com/products/clueso" target="_blank" rel="noopener noreferrer">TOP1    Clueso MCP</a></h2>
 <p><img src="https://ph-files.imgix.net/7d52afc1-9d27-45c5-b258-6b557bf0e7d4.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Clueso MCP" loading="lazy"><br><br>
 <strong>【标语】</strong>：Create and edit videos by chatting<br>
@@ -233,30 +258,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2026-09-22T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2026-09-21</title>
-    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-21.html</id>
-    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-21.html"/>
-    <updated>2026-10-02T14:23:14.055Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-jev"><span></span></a><a href="https://www.producthunt.com/products/jev-2" target="_blank" rel="noopener noreferrer">TOP1    Jev</a></h2>
-<p><img src="https://ph-files.imgix.net/d1cc0cb7-6ff3-4524-a253-9b44002769c1.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Jev" loading="lazy"><br><br>
-<strong>【标语】</strong>：Fast, structured AI decisions for software automation<br>
-<strong>【介绍】</strong>：Jev is TypeSafe AI's System One frontier model: unstructured state in, typed probabilistic decisions out. Instead of generating text, Jev returns Choice, Score, and Noul answers with calibrated probabilities your code can act on. Parallel sampling delivers ~70-500ms responses, about 20-200x faster and 40-400x cheaper than comparable LLM workflows, with output tokens free. Now available to everyone at console.typesafe.ai with no waitlist.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/XJ7UD64LPY5QDA" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/jev-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-jev"><span></span></a><a href="https://www.producthunt.com/products/jev-2" target="_blank" rel="noopener noreferrer">TOP1    Jev</a></h2>
-<p><img src="https://ph-files.imgix.net/d1cc0cb7-6ff3-4524-a253-9b44002769c1.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Jev" loading="lazy"><br><br>
-<strong>【标语】</strong>：Fast, structured AI decisions for software automation<br>
-<strong>【介绍】</strong>：Jev is TypeSafe AI's System One frontier model: unstructured state in, typed probabilistic decisions out. Instead of generating text, Jev returns Choice, Score, and Noul answers with calibrated probabilities your code can act on. Parallel sampling delivers ~70-500ms responses, about 20-200x faster and 40-400x cheaper than comparable LLM workflows, with output tokens free. Now available to everyone at console.typesafe.ai with no waitlist.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/XJ7UD64LPY5QDA" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/jev-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：AI,decisions,Fast,structured,software,automationJev<br>
-<strong>票数</strong>： 🔺488<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年09月21日 PM03:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2026-09-21T00:00:00.000Z</published>
   </entry>
 </feed>

@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 02 Oct 2026 14:23:13 GMT</pubDate>
-    <lastBuildDate>Fri, 02 Oct 2026 14:23:13 GMT</lastBuildDate>
+    <pubDate>Sat, 03 Oct 2026 12:56:56 GMT</pubDate>
+    <lastBuildDate>Sat, 03 Oct 2026 12:56:56 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-10-01</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-01.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-10-01.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-10-01</source>
+      <description>TOP1 Monospace from Directus Monospace from Directus 【标语】：The governed API layer for every app, person, and agent 【介绍】：Monospace sits between enterprise data and everyone who bu...</description>
+      <category>PH</category>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-monospace-from-directus"><span></span></a><a href="https://www.producthunt.com/products/directus" target="_blank" rel="noopener noreferrer">TOP1    Monospace from Directus</a></h2>
+<p><img src="https://ph-files.imgix.net/8c068d38-2ed9-42d4-9025-0dfe0c155a1c.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Monospace from Directus" loading="lazy"><br><br>
+<strong>【标语】</strong>：The governed API layer for every app, person, and agent<br>
+<strong>【介绍】</strong>：Monospace sits between enterprise data and everyone who builds on it. Connect any data source, and your developers, business teams, and AI agents get live, read-write access to it. All under the same granular permissions model, with no data copied or moved. Your oldest databases weren't built with AI or modern apps in mind. Monospace generates interfaces directly from them, as they are, introspecting the schema and queries in real time, so they don’t need to be rebuilt.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/OROVPQZ3Y6HPUR" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/directus" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：data,AI,they,governed,API,layer<br>
+<strong>票数</strong>： 🔺442<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年10月01日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/8c068d38-2ed9-42d4-9025-0dfe0c155a1c.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-09-30</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-09-30.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年09月22日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/7d52afc1-9d27-45c5-b258-6b557bf0e7d4.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-09-21</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-09-21.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-09-21.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-09-21</source>
-      <description>TOP1 Jev Jev 【标语】：Fast, structured AI decisions for software automation 【介绍】：Jev is TypeSafe AI&amp;apos;s System One frontier model: unstructured state in, typed probabilistic decisions...</description>
-      <category>PH</category>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-jev"><span></span></a><a href="https://www.producthunt.com/products/jev-2" target="_blank" rel="noopener noreferrer">TOP1    Jev</a></h2>
-<p><img src="https://ph-files.imgix.net/d1cc0cb7-6ff3-4524-a253-9b44002769c1.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Jev" loading="lazy"><br><br>
-<strong>【标语】</strong>：Fast, structured AI decisions for software automation<br>
-<strong>【介绍】</strong>：Jev is TypeSafe AI's System One frontier model: unstructured state in, typed probabilistic decisions out. Instead of generating text, Jev returns Choice, Score, and Noul answers with calibrated probabilities your code can act on. Parallel sampling delivers ~70-500ms responses, about 20-200x faster and 40-400x cheaper than comparable LLM workflows, with output tokens free. Now available to everyone at console.typesafe.ai with no waitlist.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/XJ7UD64LPY5QDA" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/jev-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：AI,decisions,Fast,structured,software,automationJev<br>
-<strong>票数</strong>： 🔺488<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年09月21日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/d1cc0cb7-6ff3-4524-a253-9b44002769c1.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
