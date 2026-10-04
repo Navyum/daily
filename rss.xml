@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 03 Oct 2026 12:56:56 GMT</pubDate>
-    <lastBuildDate>Sat, 03 Oct 2026 12:56:56 GMT</lastBuildDate>
+    <pubDate>Sun, 04 Oct 2026 13:37:45 GMT</pubDate>
+    <lastBuildDate>Sun, 04 Oct 2026 13:37:45 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-10-02</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-02.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-10-02.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-10-02</source>
+      <description>TOP1 Gauth Unlimited Digital Canvas Gauth Unlimited Digital Canvas 【标语】：An AI tutor on an infinite whiteboard, not a chat thread 【介绍】：Gauth AI Course now runs on an Unlimited Di...</description>
+      <category>PH</category>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-gauth-unlimited-digital-canvas"><span></span></a><a href="https://www.producthunt.com/products/gauth-ai-course" target="_blank" rel="noopener noreferrer">TOP1    Gauth Unlimited Digital Canvas </a></h2>
+<p><img src="https://ph-files.imgix.net/bd5e7f68-cc51-46b3-a072-a44513edfd36.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Gauth Unlimited Digital Canvas " loading="lazy"><br><br>
+<strong>【标语】</strong>：An AI tutor on an infinite whiteboard, not a chat thread<br>
+<strong>【介绍】</strong>：Gauth AI Course now runs on an Unlimited Digital Canvas: one continuous whiteboard where lessons unfold spatially instead of in a chat thread or slide deck. Chapters expand side by side as narration plays, board notes write out in sync with the AI voice, and you can zoom from the full concept map down to a single formula. Pause anytime to ask the AI Tutor, and it answers right on the board beneath your step. Generate a canvas lesson on any topic, then export it as a PDF or share a link.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/TCMAWBRPUPSDRM" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/gauth-ai-course" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：AI,whiteboard,chat,side,board,tutor<br>
+<strong>票数</strong>： 🔺482<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年10月02日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/bd5e7f68-cc51-46b3-a072-a44513edfd36.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-10-01</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-01.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年09月23日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/c40c6125-59a7-4669-807c-9f510a1b82eb.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-09-22</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-09-22.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-09-22.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-09-22</source>
-      <description>TOP1 Clueso MCP Clueso MCP 【标语】：Create and edit videos by chatting 【介绍】：Make videos with Claude, ChatGPT, or any AI agent. Give Clueso an idea, deck, reference video, or recordi...</description>
-      <category>PH</category>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-clueso-mcp"><span></span></a><a href="https://www.producthunt.com/products/clueso" target="_blank" rel="noopener noreferrer">TOP1    Clueso MCP</a></h2>
-<p><img src="https://ph-files.imgix.net/7d52afc1-9d27-45c5-b258-6b557bf0e7d4.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Clueso MCP" loading="lazy"><br><br>
-<strong>【标语】</strong>：Create and edit videos by chatting<br>
-<strong>【介绍】</strong>：Make videos with Claude, ChatGPT, or any AI agent. Give Clueso an idea, deck, reference video, or recording, and it handles the whole video production: storyboard, scenes, voiceover, music, and editing, on-brand. Everything stays editable, by hand or by chat.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/CFUV35KT4ZLPZO" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/clueso" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：videos,video,Create,edit,chattingMake,Claude<br>
-<strong>票数</strong>： 🔺504<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年09月22日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/7d52afc1-9d27-45c5-b258-6b557bf0e7d4.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
