@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 05 Oct 2026 16:42:14 GMT</pubDate>
-    <lastBuildDate>Mon, 05 Oct 2026 16:42:14 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Oct 2026 14:39:06 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Oct 2026 14:39:06 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-10-04</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-04.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-10-04.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-10-04</source>
+      <description>TOP1 CoreSpeed CoreSpeed 【标语】：One MCP for everything your agents need: apps, memory, tools 【介绍】：CoreSpeed is an operating system for agents. Connect apps once and bring your acc...</description>
+      <category>PH</category>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-corespeed"><span></span></a><a href="https://www.producthunt.com/products/corespeed" target="_blank" rel="noopener noreferrer">TOP1    CoreSpeed</a></h2>
+<p><img src="https://ph-files.imgix.net/2f7b81ca-21fc-4d62-be16-4ee674d75927.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="CoreSpeed" loading="lazy"><br><br>
+<strong>【标语】</strong>：One MCP for everything your agents need: apps, memory, tools<br>
+<strong>【介绍】</strong>：CoreSpeed is an operating system for agents. Connect apps once and bring your accounts and shared or private memory to Claude Code, Codex, Cursor and other MCP agents. Use multiple accounts per app, including X, with web search, social research and media generation built in. CoreSpeed holds app credentials. Budgets, activity logs and Smart Approval (beta) keep agents in check. Planned: Agent Drive, Mail, Pay, sandboxes, and more. Everything your agents need, through one MCP endpoint.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/ZNJTNNHC4VT6ET" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/corespeed" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：agents,MCP,your,need,apps,memory<br>
+<strong>票数</strong>： 🔺327<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年10月04日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/2f7b81ca-21fc-4d62-be16-4ee674d75927.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-10-03</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-03.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年09月25日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/9768c154-2f5d-4a4c-8433-f5820ddadf8b.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-09-24</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-09-24.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-09-24.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-09-24</source>
-      <description>TOP1 Scholé Learn by Building Scholé Learn by Building 【标语】：Learning should be more than &amp;quot;click next&amp;quot; 【介绍】：Learn by building, on any website, with Scholé by your side. You can r...</description>
-      <category>PH</category>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-schole-learn-by-building"><span></span></a><a href="https://www.producthunt.com/products/schole-2" target="_blank" rel="noopener noreferrer">TOP1    Scholé Learn by Building</a></h2>
-<p><img src="https://ph-files.imgix.net/c3b766b0-d975-4950-aac6-9da4d78f7244.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Scholé Learn by Building" loading="lazy"><br><br>
-<strong>【标语】</strong>：Learning should be more than "click next"<br>
-<strong>【介绍】</strong>：Learn by building, on any website, with Scholé by your side. You can read about a tool, watch someone walk through it on YouTube, or ask ChatGPT to explain it. But you won’t properly learn until you build with it yourself. Learn Anywhere mode guides you through using any real tool directly on your screen, adapting tasks and giving visual hints. Everything you learn updates your Scholé knowledge graph and counts towards your lessons. Our thesis? Learn it well enough to use it.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/F22BXESSBPZXG7" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/schole-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：your,Learn,any,Schol,tool,through<br>
-<strong>票数</strong>： 🔺399<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年09月24日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/c3b766b0-d975-4950-aac6-9da4d78f7244.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
