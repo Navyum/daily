@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 06 Oct 2026 14:39:06 GMT</pubDate>
-    <lastBuildDate>Tue, 06 Oct 2026 14:39:06 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Oct 2026 14:59:55 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Oct 2026 14:59:55 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-10-05</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-05.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-10-05.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-10-05</source>
+      <description>TOP1 Spira Maxima Spira Maxima 【标语】：Video model that turns script into viral social media videos 【介绍】：Spira Maxima turns plain text into a finished social video: presenter, on-t...</description>
+      <category>PH</category>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-spira-maxima"><span></span></a><a href="https://www.producthunt.com/products/spira-ai" target="_blank" rel="noopener noreferrer">TOP1    Spira Maxima</a></h2>
+<p><img src="https://ph-files.imgix.net/3d93cd45-3d08-45db-b704-9e3ccfec9201.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Spira Maxima" loading="lazy"><br><br>
+<strong>【标语】</strong>：Video model that turns script into viral social media videos<br>
+<strong>【介绍】</strong>：Spira Maxima turns plain text into a finished social video: presenter, on-trend B-roll, captions and music in one pass, ready to post with nothing to re-edit. Bring a photo and voice for your AI clone, product shots, or a recording, and it builds the edit around you. Post-trained on social trend and performance data, so every video follows what is working to maximize your social impact.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/IAN7QVRIFKVUDA" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/spira-ai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：social,turns,into,video,trend,edit<br>
+<strong>票数</strong>： 🔺435<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年10月05日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/3d93cd45-3d08-45db-b704-9e3ccfec9201.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-10-04</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-04.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年09月26日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/1c5cdafb-3ec1-4699-9459-e955bb067126.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-09-25</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-09-25.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-09-25.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-09-25</source>
-      <description>TOP1 PixVerse R2 PixVerse R2 【标语】：A real-time world model you can explore and change 【介绍】：PixVerse R2 is a real-time world model that generates continuously evolving audiovisual...</description>
-      <category>PH</category>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-pixverse-r2"><span></span></a><a href="https://www.producthunt.com/products/pixverse-r2" target="_blank" rel="noopener noreferrer">TOP1    PixVerse R2</a></h2>
-<p><img src="https://ph-files.imgix.net/9768c154-2f5d-4a4c-8433-f5820ddadf8b.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="PixVerse R2" loading="lazy"><br><br>
-<strong>【标语】</strong>：A real-time world model you can explore and change<br>
-<strong>【介绍】</strong>：PixVerse R2 is a real-time world model that generates continuously evolving audiovisual worlds instead of fixed video clips. It accepts text, images, audio and actions while generating, remembers what happened earlier in the session, and carries those changes forward in real time. R2 scales to longer, more coherent and controllable experiences — powering everything from interactive stories and characters to playable generative worlds.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/VQZLAZ7ZJU56G3" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/pixverse-r2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：real,time,world,model,R2,worlds<br>
-<strong>票数</strong>： 🔺368<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年09月25日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/9768c154-2f5d-4a4c-8433-f5820ddadf8b.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>

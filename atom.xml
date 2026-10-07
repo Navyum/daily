@@ -4,16 +4,41 @@
   <title>DAYHACK</title>
   <subtitle>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</subtitle>
   <icon>https://github.camscanner.top/daily/favicon.ico</icon>
-  <updated>2026-10-06T14:39:06.292Z</updated>
+  <updated>2026-10-07T14:59:55.985Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/"/>
   <category term="PH"/>
   <entry>
+    <title type="text">PH今日热榜 | 2026-10-05</title>
+    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-05.html</id>
+    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-05.html"/>
+    <updated>2026-10-07T14:59:55.986Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-spira-maxima"><span></span></a><a href="https://www.producthunt.com/products/spira-ai" target="_blank" rel="noopener noreferrer">TOP1    Spira Maxima</a></h2>
+<p><img src="https://ph-files.imgix.net/3d93cd45-3d08-45db-b704-9e3ccfec9201.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Spira Maxima" loading="lazy"><br><br>
+<strong>【标语】</strong>：Video model that turns script into viral social media videos<br>
+<strong>【介绍】</strong>：Spira Maxima turns plain text into a finished social video: presenter, on-trend B-roll, captions and music in one pass, ready to post with nothing to re-edit. Bring a photo and voice for your AI clone, product shots, or a recording, and it builds the edit around you. Post-trained on social trend and performance data, so every video follows what is working to maximize your social impact.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/IAN7QVRIFKVUDA" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/spira-ai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-spira-maxima"><span></span></a><a href="https://www.producthunt.com/products/spira-ai" target="_blank" rel="noopener noreferrer">TOP1    Spira Maxima</a></h2>
+<p><img src="https://ph-files.imgix.net/3d93cd45-3d08-45db-b704-9e3ccfec9201.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Spira Maxima" loading="lazy"><br><br>
+<strong>【标语】</strong>：Video model that turns script into viral social media videos<br>
+<strong>【介绍】</strong>：Spira Maxima turns plain text into a finished social video: presenter, on-trend B-roll, captions and music in one pass, ready to post with nothing to re-edit. Bring a photo and voice for your AI clone, product shots, or a recording, and it builds the edit around you. Post-trained on social trend and performance data, so every video follows what is working to maximize your social impact.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/IAN7QVRIFKVUDA" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/spira-ai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：social,turns,into,video,trend,edit<br>
+<strong>票数</strong>： 🔺435<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年10月05日 PM03:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2026-10-05T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">PH今日热榜 | 2026-10-04</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-04.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-04.html"/>
-    <updated>2026-10-06T14:39:06.293Z</updated>
+    <updated>2026-10-07T14:59:56.000Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-corespeed"><span></span></a><a href="https://www.producthunt.com/products/corespeed" target="_blank" rel="noopener noreferrer">TOP1    CoreSpeed</a></h2>
 <p><img src="https://ph-files.imgix.net/2f7b81ca-21fc-4d62-be16-4ee674d75927.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="CoreSpeed" loading="lazy"><br><br>
 <strong>【标语】</strong>：One MCP for everything your agents need: apps, memory, tools<br>
@@ -38,7 +63,7 @@
     <title type="text">PH今日热榜 | 2026-10-03</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-03.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-03.html"/>
-    <updated>2026-10-06T14:39:06.303Z</updated>
+    <updated>2026-10-07T14:59:56.015Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-zoowork"><span></span></a><a href="https://www.producthunt.com/products/zoowork" target="_blank" rel="noopener noreferrer">TOP1    ZooWork</a></h2>
 <p><img src="https://ph-files.imgix.net/04bae135-5c2e-468b-9d9f-cb2e321786f8.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ZooWork" loading="lazy"><br><br>
 <strong>【标语】</strong>：The AI agent delivery platform for FDEs and domain experts<br>
@@ -63,7 +88,7 @@
     <title type="text">PH今日热榜 | 2026-10-02</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-02.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-02.html"/>
-    <updated>2026-10-06T14:39:06.313Z</updated>
+    <updated>2026-10-07T14:59:56.023Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-gauth-unlimited-digital-canvas"><span></span></a><a href="https://www.producthunt.com/products/gauth-ai-course" target="_blank" rel="noopener noreferrer">TOP1    Gauth Unlimited Digital Canvas </a></h2>
 <p><img src="https://ph-files.imgix.net/bd5e7f68-cc51-46b3-a072-a44513edfd36.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Gauth Unlimited Digital Canvas " loading="lazy"><br><br>
 <strong>【标语】</strong>：An AI tutor on an infinite whiteboard, not a chat thread<br>
@@ -88,7 +113,7 @@
     <title type="text">PH今日热榜 | 2026-10-01</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-01.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-01.html"/>
-    <updated>2026-10-06T14:39:06.318Z</updated>
+    <updated>2026-10-07T14:59:56.040Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-monospace-from-directus"><span></span></a><a href="https://www.producthunt.com/products/directus" target="_blank" rel="noopener noreferrer">TOP1    Monospace from Directus</a></h2>
 <p><img src="https://ph-files.imgix.net/8c068d38-2ed9-42d4-9025-0dfe0c155a1c.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Monospace from Directus" loading="lazy"><br><br>
 <strong>【标语】</strong>：The governed API layer for every app, person, and agent<br>
@@ -113,7 +138,7 @@
     <title type="text">PH今日热榜 | 2026-09-30</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-30.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-30.html"/>
-    <updated>2026-10-06T14:39:06.330Z</updated>
+    <updated>2026-10-07T14:59:56.053Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-pexo"><span></span></a><a href="https://www.producthunt.com/products/pexo-2" target="_blank" rel="noopener noreferrer">TOP1    Pexo</a></h2>
 <p><img src="https://ph-files.imgix.net/f2e2ecea-a5cc-412e-adac-ffbfee93de28.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Pexo" loading="lazy"><br><br>
 <strong>【标语】</strong>：Produce pitch perfect launch videos with precise control<br>
@@ -138,7 +163,7 @@
     <title type="text">PH今日热榜 | 2026-09-29</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-29.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-29.html"/>
-    <updated>2026-10-06T14:39:06.339Z</updated>
+    <updated>2026-10-07T14:59:56.060Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-ifixai"><span></span></a><a href="https://www.producthunt.com/products/ifixai" target="_blank" rel="noopener noreferrer">TOP1    iFixAi</a></h2>
 <p><img src="https://ph-files.imgix.net/26de944b-fb8c-4ec9-a670-c9b709fa1b9e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="iFixAi" loading="lazy"><br><br>
 <strong>【标语】</strong>：Independent auditing of AI agents to uncover misalignment<br>
@@ -163,7 +188,7 @@
     <title type="text">PH今日热榜 | 2026-09-28</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-28.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-28.html"/>
-    <updated>2026-10-06T14:39:06.344Z</updated>
+    <updated>2026-10-07T14:59:56.072Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-mcp-connectors-by-databox"><span></span></a><a href="https://www.producthunt.com/products/databox" target="_blank" rel="noopener noreferrer">TOP1    MCP Connectors by Databox</a></h2>
 <p><img src="https://ph-files.imgix.net/7cea0b2a-3749-4456-8ddf-ffb7b6deacbb.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="MCP Connectors by Databox" loading="lazy"><br><br>
 <strong>【标语】</strong>：Give your AI Analyst context to explain performance and act<br>
@@ -188,7 +213,7 @@
     <title type="text">PH今日热榜 | 2026-09-27</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-27.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-27.html"/>
-    <updated>2026-10-06T14:39:06.353Z</updated>
+    <updated>2026-10-07T14:59:56.083Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-humalike-x-gta-rp"><span></span></a><a href="https://www.producthunt.com/products/humalike-2" target="_blank" rel="noopener noreferrer">TOP1    Humalike x GTA RP</a></h2>
 <p><img src="https://ph-files.imgix.net/a81e2367-4dfc-45b4-a1a3-781f43173b99.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Humalike x GTA RP" loading="lazy"><br><br>
 <strong>【标语】</strong>：AI NPCs that talk, remember &amp; act on their own<br>
@@ -213,7 +238,7 @@
     <title type="text">PH今日热榜 | 2026-09-26</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-26.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-26.html"/>
-    <updated>2026-10-06T14:39:06.361Z</updated>
+    <updated>2026-10-07T14:59:56.096Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-hemory"><span></span></a><a href="https://www.producthunt.com/products/hemory" target="_blank" rel="noopener noreferrer">TOP1    Hemory</a></h2>
 <p><img src="https://ph-files.imgix.net/1c5cdafb-3ec1-4699-9459-e955bb067126.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Hemory" loading="lazy"><br><br>
 <strong>【标语】</strong>：Keep listening. Searchable memory for your AI agents.<br>
@@ -233,30 +258,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2026-09-26T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2026-09-25</title>
-    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-25.html</id>
-    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-25.html"/>
-    <updated>2026-10-06T14:39:06.369Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-pixverse-r2"><span></span></a><a href="https://www.producthunt.com/products/pixverse-r2" target="_blank" rel="noopener noreferrer">TOP1    PixVerse R2</a></h2>
-<p><img src="https://ph-files.imgix.net/9768c154-2f5d-4a4c-8433-f5820ddadf8b.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="PixVerse R2" loading="lazy"><br><br>
-<strong>【标语】</strong>：A real-time world model you can explore and change<br>
-<strong>【介绍】</strong>：PixVerse R2 is a real-time world model that generates continuously evolving audiovisual worlds instead of fixed video clips. It accepts text, images, audio and actions while generating, remembers what happened earlier in the session, and carries those changes forward in real time. R2 scales to longer, more coherent and controllable experiences — powering everything from interactive stories and characters to playable generative worlds.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/VQZLAZ7ZJU56G3" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/pixverse-r2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-pixverse-r2"><span></span></a><a href="https://www.producthunt.com/products/pixverse-r2" target="_blank" rel="noopener noreferrer">TOP1    PixVerse R2</a></h2>
-<p><img src="https://ph-files.imgix.net/9768c154-2f5d-4a4c-8433-f5820ddadf8b.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="PixVerse R2" loading="lazy"><br><br>
-<strong>【标语】</strong>：A real-time world model you can explore and change<br>
-<strong>【介绍】</strong>：PixVerse R2 is a real-time world model that generates continuously evolving audiovisual worlds instead of fixed video clips. It accepts text, images, audio and actions while generating, remembers what happened earlier in the session, and carries those changes forward in real time. R2 scales to longer, more coherent and controllable experiences — powering everything from interactive stories and characters to playable generative worlds.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/VQZLAZ7ZJU56G3" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/pixverse-r2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：real,time,world,model,R2,worlds<br>
-<strong>票数</strong>： 🔺368<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年09月25日 PM03:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2026-09-25T00:00:00.000Z</published>
   </entry>
 </feed>
