@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 07 Oct 2026 14:59:55 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Oct 2026 14:59:55 GMT</lastBuildDate>
+    <pubDate>Thu, 08 Oct 2026 15:08:26 GMT</pubDate>
+    <lastBuildDate>Thu, 08 Oct 2026 15:08:26 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-10-06</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-06.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-10-06.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-10-06</source>
+      <description>TOP1 Rill Browser Rill Browser 【标语】：The browser where Claude Code and Codex work beside you 【介绍】：Rill is an AI-native browser built around the Claude Code and Codex you already ...</description>
+      <category>PH</category>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-rill-browser"><span></span></a><a href="https://www.producthunt.com/products/rill-3" target="_blank" rel="noopener noreferrer">TOP1    Rill Browser</a></h2>
+<p><img src="https://ph-files.imgix.net/68a2e13a-55a4-4e98-b581-281ead67bd56.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Rill Browser" loading="lazy"><br><br>
+<strong>【标语】</strong>：The browser where Claude Code and Codex work beside you<br>
+<strong>【介绍】</strong>：Rill is an AI-native browser built around the Claude Code and Codex you already use. Browse normally, then press ⌘E on any page to turn what you're looking at into a task for your agent. Rill finds the right project, passes along the context, and the agent works while you keep browsing. It also sorts your tabs into themes, turns your history into days you can search, and brings every project your agents are working on into one place. Free, on the plan you already have.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/YZHJNNU36WBO6Q" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/rill-3" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：into,your,browser,Claude,Code,Codex<br>
+<strong>票数</strong>： 🔺417<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年10月06日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/68a2e13a-55a4-4e98-b581-281ead67bd56.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-10-05</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-05.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年09月27日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/a81e2367-4dfc-45b4-a1a3-781f43173b99.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-09-26</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-09-26.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-09-26.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-09-26</source>
-      <description>TOP1 Hemory Hemory 【标语】：Keep listening. Searchable memory for your AI agents. 【介绍】：Hemory comes from Hear + Memory. It&amp;apos;s not meeting transcription: Hemory listens on the phone o...</description>
-      <category>PH</category>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-hemory"><span></span></a><a href="https://www.producthunt.com/products/hemory" target="_blank" rel="noopener noreferrer">TOP1    Hemory</a></h2>
-<p><img src="https://ph-files.imgix.net/1c5cdafb-3ec1-4699-9459-e955bb067126.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Hemory" loading="lazy"><br><br>
-<strong>【标语】</strong>：Keep listening. Searchable memory for your AI agents.<br>
-<strong>【介绍】</strong>：Hemory comes from Hear + Memory. It's not meeting transcription: Hemory listens on the phone or Apple Watch you already own, and keeps every conversation as memory. Your day is auto-split into moments with speaker labels, then settles into a private, searchable memory. Connect it to Claude, Codex, Cursor, or any agent over MCP, and your AI finally has real context to revisit what you heard and build on it.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/DESVXS45MENTRI" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/hemory" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：memory,your,AI,Hemory,into,Keep<br>
-<strong>票数</strong>： 🔺359<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年09月26日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/1c5cdafb-3ec1-4699-9459-e955bb067126.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
