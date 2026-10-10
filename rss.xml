@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 09 Oct 2026 14:53:14 GMT</pubDate>
-    <lastBuildDate>Fri, 09 Oct 2026 14:53:14 GMT</lastBuildDate>
+    <pubDate>Sat, 10 Oct 2026 14:09:59 GMT</pubDate>
+    <lastBuildDate>Sat, 10 Oct 2026 14:09:59 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-10-08</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-08.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-10-08.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-10-08</source>
+      <description>TOP1 OpenSwarm OpenSwarm 【标语】：A swarm of agents, in the same place you work 【介绍】：Stop bolting AI onto your computer. OpenSwarm is an AI-first operating system where agents run t...</description>
+      <category>PH</category>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-openswarm"><span></span></a><a href="https://www.producthunt.com/products/openswarm-3" target="_blank" rel="noopener noreferrer">TOP1    OpenSwarm</a></h2>
+<p><img src="https://ph-files.imgix.net/11f053b0-1939-408e-b385-1a0f3d478482.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="OpenSwarm" loading="lazy"><br><br>
+<strong>【标语】</strong>：A swarm of agents, in the same place you work<br>
+<strong>【介绍】</strong>：Stop bolting AI onto your computer. OpenSwarm is an AI-first operating system where agents run the whole machine: apps create themselves, browsers control themselves, and swarms of agents work together. Your OS just became an infinite canvas, and your work just transformed from you doing one task at a time, to orchestrating dozens in parallel. Tell it what you want and a swarm of agents does the work with you at the helm.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/Y54VBVRLNCMW2B" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/openswarm-3" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：agents,work,swarm,AI,your,themselves<br>
+<strong>票数</strong>： 🔺376<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年10月08日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/11f053b0-1939-408e-b385-1a0f3d478482.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-10-07</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-07.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年09月29日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/26de944b-fb8c-4ec9-a670-c9b709fa1b9e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-09-28</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-09-28.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-09-28.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-09-28</source>
-      <description>TOP1 MCP Connectors by Databox MCP Connectors by Databox 【标语】：Give your AI Analyst context to explain performance and act 【介绍】：Connect your AI Analyst to the tools your business...</description>
-      <category>PH</category>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-mcp-connectors-by-databox"><span></span></a><a href="https://www.producthunt.com/products/databox" target="_blank" rel="noopener noreferrer">TOP1    MCP Connectors by Databox</a></h2>
-<p><img src="https://ph-files.imgix.net/7cea0b2a-3749-4456-8ddf-ffb7b6deacbb.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="MCP Connectors by Databox" loading="lazy"><br><br>
-<strong>【标语】</strong>：Give your AI Analyst context to explain performance and act<br>
-<strong>【介绍】</strong>：Connect your AI Analyst to the tools your business runs on. It pulls context from your CRM or support desk, so every answer reflects what's happening in your business, and it can act on what it finds. Choose from 10+ connectors or add any MCP server.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/G6WOTY7G4NBGJP" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/databox" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：your,AI,Analyst,context,business,what<br>
-<strong>票数</strong>： 🔺450<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年09月28日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/7cea0b2a-3749-4456-8ddf-ffb7b6deacbb.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>

@@ -4,16 +4,41 @@
   <title>DAYHACK</title>
   <subtitle>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</subtitle>
   <icon>https://github.camscanner.top/daily/favicon.ico</icon>
-  <updated>2026-10-09T14:53:14.549Z</updated>
+  <updated>2026-10-10T14:09:59.316Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/"/>
   <category term="PH"/>
   <entry>
+    <title type="text">PH今日热榜 | 2026-10-08</title>
+    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-08.html</id>
+    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-08.html"/>
+    <updated>2026-10-10T14:09:59.318Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-openswarm"><span></span></a><a href="https://www.producthunt.com/products/openswarm-3" target="_blank" rel="noopener noreferrer">TOP1    OpenSwarm</a></h2>
+<p><img src="https://ph-files.imgix.net/11f053b0-1939-408e-b385-1a0f3d478482.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="OpenSwarm" loading="lazy"><br><br>
+<strong>【标语】</strong>：A swarm of agents, in the same place you work<br>
+<strong>【介绍】</strong>：Stop bolting AI onto your computer. OpenSwarm is an AI-first operating system where agents run the whole machine: apps create themselves, browsers control themselves, and swarms of agents work together. Your OS just became an infinite canvas, and your work just transformed from you doing one task at a time, to orchestrating dozens in parallel. Tell it what you want and a swarm of agents does the work with you at the helm.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/Y54VBVRLNCMW2B" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/openswarm-3" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-openswarm"><span></span></a><a href="https://www.producthunt.com/products/openswarm-3" target="_blank" rel="noopener noreferrer">TOP1    OpenSwarm</a></h2>
+<p><img src="https://ph-files.imgix.net/11f053b0-1939-408e-b385-1a0f3d478482.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="OpenSwarm" loading="lazy"><br><br>
+<strong>【标语】</strong>：A swarm of agents, in the same place you work<br>
+<strong>【介绍】</strong>：Stop bolting AI onto your computer. OpenSwarm is an AI-first operating system where agents run the whole machine: apps create themselves, browsers control themselves, and swarms of agents work together. Your OS just became an infinite canvas, and your work just transformed from you doing one task at a time, to orchestrating dozens in parallel. Tell it what you want and a swarm of agents does the work with you at the helm.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/Y54VBVRLNCMW2B" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/openswarm-3" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：agents,work,swarm,AI,your,themselves<br>
+<strong>票数</strong>： 🔺376<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年10月08日 PM03:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2026-10-08T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">PH今日热榜 | 2026-10-07</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-07.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-07.html"/>
-    <updated>2026-10-09T14:53:14.550Z</updated>
+    <updated>2026-10-10T14:09:59.337Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-irisgo-for-solopreneurs"><span></span></a><a href="https://www.producthunt.com/products/irisgo-public-beta" target="_blank" rel="noopener noreferrer">TOP1    IrisGo for Solopreneurs</a></h2>
 <p><img src="https://ph-files.imgix.net/11044e05-2084-4f65-a840-99bd5c31d04d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="IrisGo for Solopreneurs" loading="lazy"><br><br>
 <strong>【标语】</strong>：AI workflow automation: show it once, let it run<br>
@@ -38,7 +63,7 @@
     <title type="text">PH今日热榜 | 2026-10-06</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-06.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-06.html"/>
-    <updated>2026-10-09T14:53:14.564Z</updated>
+    <updated>2026-10-10T14:09:59.352Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-rill-browser"><span></span></a><a href="https://www.producthunt.com/products/rill-3" target="_blank" rel="noopener noreferrer">TOP1    Rill Browser</a></h2>
 <p><img src="https://ph-files.imgix.net/68a2e13a-55a4-4e98-b581-281ead67bd56.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Rill Browser" loading="lazy"><br><br>
 <strong>【标语】</strong>：The browser where Claude Code and Codex work beside you<br>
@@ -63,7 +88,7 @@
     <title type="text">PH今日热榜 | 2026-10-05</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-05.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-05.html"/>
-    <updated>2026-10-09T14:53:14.578Z</updated>
+    <updated>2026-10-10T14:09:59.361Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-spira-maxima"><span></span></a><a href="https://www.producthunt.com/products/spira-ai" target="_blank" rel="noopener noreferrer">TOP1    Spira Maxima</a></h2>
 <p><img src="https://ph-files.imgix.net/3d93cd45-3d08-45db-b704-9e3ccfec9201.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Spira Maxima" loading="lazy"><br><br>
 <strong>【标语】</strong>：Video model that turns script into viral social media videos<br>
@@ -88,7 +113,7 @@
     <title type="text">PH今日热榜 | 2026-10-04</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-04.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-04.html"/>
-    <updated>2026-10-09T14:53:14.587Z</updated>
+    <updated>2026-10-10T14:09:59.380Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-corespeed"><span></span></a><a href="https://www.producthunt.com/products/corespeed" target="_blank" rel="noopener noreferrer">TOP1    CoreSpeed</a></h2>
 <p><img src="https://ph-files.imgix.net/2f7b81ca-21fc-4d62-be16-4ee674d75927.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="CoreSpeed" loading="lazy"><br><br>
 <strong>【标语】</strong>：One MCP for everything your agents need: apps, memory, tools<br>
@@ -113,7 +138,7 @@
     <title type="text">PH今日热榜 | 2026-10-03</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-03.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-03.html"/>
-    <updated>2026-10-09T14:53:14.600Z</updated>
+    <updated>2026-10-10T14:09:59.394Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-zoowork"><span></span></a><a href="https://www.producthunt.com/products/zoowork" target="_blank" rel="noopener noreferrer">TOP1    ZooWork</a></h2>
 <p><img src="https://ph-files.imgix.net/04bae135-5c2e-468b-9d9f-cb2e321786f8.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ZooWork" loading="lazy"><br><br>
 <strong>【标语】</strong>：The AI agent delivery platform for FDEs and domain experts<br>
@@ -138,7 +163,7 @@
     <title type="text">PH今日热榜 | 2026-10-02</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-02.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-02.html"/>
-    <updated>2026-10-09T14:53:14.611Z</updated>
+    <updated>2026-10-10T14:09:59.404Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-gauth-unlimited-digital-canvas"><span></span></a><a href="https://www.producthunt.com/products/gauth-ai-course" target="_blank" rel="noopener noreferrer">TOP1    Gauth Unlimited Digital Canvas </a></h2>
 <p><img src="https://ph-files.imgix.net/bd5e7f68-cc51-46b3-a072-a44513edfd36.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Gauth Unlimited Digital Canvas " loading="lazy"><br><br>
 <strong>【标语】</strong>：An AI tutor on an infinite whiteboard, not a chat thread<br>
@@ -163,7 +188,7 @@
     <title type="text">PH今日热榜 | 2026-10-01</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-01.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-01.html"/>
-    <updated>2026-10-09T14:53:14.618Z</updated>
+    <updated>2026-10-10T14:09:59.418Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-monospace-from-directus"><span></span></a><a href="https://www.producthunt.com/products/directus" target="_blank" rel="noopener noreferrer">TOP1    Monospace from Directus</a></h2>
 <p><img src="https://ph-files.imgix.net/8c068d38-2ed9-42d4-9025-0dfe0c155a1c.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Monospace from Directus" loading="lazy"><br><br>
 <strong>【标语】</strong>：The governed API layer for every app, person, and agent<br>
@@ -188,7 +213,7 @@
     <title type="text">PH今日热榜 | 2026-09-30</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-30.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-30.html"/>
-    <updated>2026-10-09T14:53:14.629Z</updated>
+    <updated>2026-10-10T14:09:59.429Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-pexo"><span></span></a><a href="https://www.producthunt.com/products/pexo-2" target="_blank" rel="noopener noreferrer">TOP1    Pexo</a></h2>
 <p><img src="https://ph-files.imgix.net/f2e2ecea-a5cc-412e-adac-ffbfee93de28.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Pexo" loading="lazy"><br><br>
 <strong>【标语】</strong>：Produce pitch perfect launch videos with precise control<br>
@@ -213,7 +238,7 @@
     <title type="text">PH今日热榜 | 2026-09-29</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-29.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-29.html"/>
-    <updated>2026-10-09T14:53:14.639Z</updated>
+    <updated>2026-10-10T14:09:59.445Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-ifixai"><span></span></a><a href="https://www.producthunt.com/products/ifixai" target="_blank" rel="noopener noreferrer">TOP1    iFixAi</a></h2>
 <p><img src="https://ph-files.imgix.net/26de944b-fb8c-4ec9-a670-c9b709fa1b9e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="iFixAi" loading="lazy"><br><br>
 <strong>【标语】</strong>：Independent auditing of AI agents to uncover misalignment<br>
@@ -233,30 +258,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2026-09-29T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2026-09-28</title>
-    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-09-28.html</id>
-    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-09-28.html"/>
-    <updated>2026-10-09T14:53:14.650Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-mcp-connectors-by-databox"><span></span></a><a href="https://www.producthunt.com/products/databox" target="_blank" rel="noopener noreferrer">TOP1    MCP Connectors by Databox</a></h2>
-<p><img src="https://ph-files.imgix.net/7cea0b2a-3749-4456-8ddf-ffb7b6deacbb.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="MCP Connectors by Databox" loading="lazy"><br><br>
-<strong>【标语】</strong>：Give your AI Analyst context to explain performance and act<br>
-<strong>【介绍】</strong>：Connect your AI Analyst to the tools your business runs on. It pulls context from your CRM or support desk, so every answer reflects what's happening in your business, and it can act on what it finds. Choose from 10+ connectors or add any MCP server.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/G6WOTY7G4NBGJP" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/databox" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-mcp-connectors-by-databox"><span></span></a><a href="https://www.producthunt.com/products/databox" target="_blank" rel="noopener noreferrer">TOP1    MCP Connectors by Databox</a></h2>
-<p><img src="https://ph-files.imgix.net/7cea0b2a-3749-4456-8ddf-ffb7b6deacbb.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="MCP Connectors by Databox" loading="lazy"><br><br>
-<strong>【标语】</strong>：Give your AI Analyst context to explain performance and act<br>
-<strong>【介绍】</strong>：Connect your AI Analyst to the tools your business runs on. It pulls context from your CRM or support desk, so every answer reflects what's happening in your business, and it can act on what it finds. Choose from 10+ connectors or add any MCP server.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/G6WOTY7G4NBGJP" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/databox" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：your,AI,Analyst,context,business,what<br>
-<strong>票数</strong>： 🔺450<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年09月28日 PM03:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2026-09-28T00:00:00.000Z</published>
   </entry>
 </feed>
