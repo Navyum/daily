@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 10 Oct 2026 14:09:59 GMT</pubDate>
-    <lastBuildDate>Sat, 10 Oct 2026 14:09:59 GMT</lastBuildDate>
+    <pubDate>Sun, 11 Oct 2026 14:34:08 GMT</pubDate>
+    <lastBuildDate>Sun, 11 Oct 2026 14:34:08 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-10-09</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-09.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-10-09.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-10-09</source>
+      <description>TOP1 Busabase Busabase 【标语】：The general system of record for AI agents 【介绍】：Different agents. One shared base. Busabase is a general-purpose database and workspace for people an...</description>
+      <category>PH</category>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-busabase"><span></span></a><a href="https://www.producthunt.com/products/busabase" target="_blank" rel="noopener noreferrer">TOP1    Busabase</a></h2>
+<p><img src="https://ph-files.imgix.net/eb748a8f-c19d-4da5-b287-1db67973800d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Busabase" loading="lazy"><br><br>
+<strong>【标语】</strong>：The general system of record for AI agents<br>
+<strong>【介绍】</strong>：Different agents. One shared base. Busabase is a general-purpose database and workspace for people and AI agents. Keep business records, docs, skills, and apps in one place so the next task can build on them. Connect Claude Code, Codex, and more. Set access, review changes when needed, and see what changed. Busabase is open source, with Cloud, Personal Desktop, and self-hosting options.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/NCFRPHEHNAHLX7" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/busabase" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：general,AI,agents,Busabase,system,record<br>
+<strong>票数</strong>： 🔺348<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年10月09日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/eb748a8f-c19d-4da5-b287-1db67973800d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-10-08</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-08.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年09月30日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/f2e2ecea-a5cc-412e-adac-ffbfee93de28.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-09-29</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-09-29.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-09-29.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-09-29</source>
-      <description>TOP1 iFixAi iFixAi 【标语】：Independent auditing of AI agents to uncover misalignment 【介绍】：iFixAi is an independent auditor helping companies assess whether they can trust their AI ...</description>
-      <category>PH</category>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-ifixai"><span></span></a><a href="https://www.producthunt.com/products/ifixai" target="_blank" rel="noopener noreferrer">TOP1    iFixAi</a></h2>
-<p><img src="https://ph-files.imgix.net/26de944b-fb8c-4ec9-a670-c9b709fa1b9e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="iFixAi" loading="lazy"><br><br>
-<strong>【标语】</strong>：Independent auditing of AI agents to uncover misalignment<br>
-<strong>【介绍】</strong>：iFixAi is an independent auditor helping companies assess whether they can trust their AI agents. Unlike relying solely on evals and observability tools, its multifaceted audit includes 250 inspections across 69 categories of AI misalignment, combining AI red teaming, operational assurance, and philosophical, ethical, and sociological perspectives. It identifies failures under testing, explains their business implications, and provides evidence engineers can use to investigate and fix them.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/GH7ZXAZXZF36UQ" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/ifixai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：AI,agents,their,Independent,auditing,uncover<br>
-<strong>票数</strong>： 🔺406<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年09月29日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/26de944b-fb8c-4ec9-a670-c9b709fa1b9e.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
