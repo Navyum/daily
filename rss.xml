@@ -6,11 +6,53 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 11 Oct 2026 14:34:08 GMT</pubDate>
-    <lastBuildDate>Sun, 11 Oct 2026 14:34:08 GMT</lastBuildDate>
+    <pubDate>Tue, 13 Oct 2026 15:29:50 GMT</pubDate>
+    <lastBuildDate>Tue, 13 Oct 2026 15:29:50 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-10-11</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-11.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-10-11.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-10-11</source>
+      <description>TOP1 HireKey HireKey 【标语】：Your recruiter-informed AI copilot for tech job search 【介绍】：HireKey is a recruiter-informed AI job-search co-pilot for tech job seekers who want to app...</description>
+      <category>PH</category>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-hirekey"><span></span></a><a href="https://www.producthunt.com/products/hirekey" target="_blank" rel="noopener noreferrer">TOP1    HireKey</a></h2>
+<p><img src="https://ph-files.imgix.net/586457d1-e416-4f5c-8f53-6b8bd91db72a.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="HireKey" loading="lazy"><br><br>
+<strong>【标语】</strong>：Your recruiter-informed AI copilot for tech job search<br>
+<strong>【介绍】</strong>：HireKey is a recruiter-informed AI job-search co-pilot for tech job seekers who want to apply strategically &amp; interview with confidence. It helps you assess your role fit, tailor resumes, communicate experience &amp; track applications. Unlike basic ATS tools, HireKey combines AI with 10 years of recruiting experience at Microsoft, Amazon &amp; Stripe, plus practice out loud with an interactive AI voice coach that responds to your answers &amp; provides real-time interview feedback.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/VMWKGHD733ZQGV" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/hirekey" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：AI,job,recruiter,informed,tech,interview<br>
+<strong>票数</strong>： 🔺268<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年10月11日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/586457d1-e416-4f5c-8f53-6b8bd91db72a.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
+    <item>
+      <title>PH今日热榜 | 2026-10-10</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-10.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-10-10.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-10-10</source>
+      <description>TOP1 ReSO AI ReSO AI 【标语】：Get discovered &amp; recommended when customers ask AI 【介绍】：ReSO is a generative engine optimization platform that helps brands show up in AI search result...</description>
+      <category>PH</category>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-reso-ai"><span></span></a><a href="https://www.producthunt.com/products/reso" target="_blank" rel="noopener noreferrer">TOP1    ReSO AI</a></h2>
+<p><img src="https://ph-files.imgix.net/f21aab5c-70fc-4a05-bd79-103326182d68.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ReSO AI" loading="lazy"><br><br>
+<strong>【标语】</strong>：Get discovered &amp; recommended when customers ask AI<br>
+<strong>【介绍】</strong>：ReSO is a generative engine optimization platform that helps brands show up in AI search results. It’s built for founders, CMOs, and growth teams who want to turn buyer intent in ChatGPT, Perplexity, and Google AIO into visibility, citations, and traffic. What makes it different is that it doesn’t just track rankings, it analyzes intent, competitors, content gaps, and technical issues, then turns them into priority actions to improve AI recommendations.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/E6PNMMFOZ76WY4" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/reso" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：AI,intent,into,Get,discovered,recommended<br>
+<strong>票数</strong>： 🔺458<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年10月10日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/f21aab5c-70fc-4a05-bd79-103326182d68.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-10-09</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-09.html</link>
@@ -178,48 +220,6 @@
 <strong>发布时间</strong>：2026年10月02日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/bd5e7f68-cc51-46b3-a072-a44513edfd36.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-10-01</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-01.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-10-01.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-10-01</source>
-      <description>TOP1 Monospace from Directus Monospace from Directus 【标语】：The governed API layer for every app, person, and agent 【介绍】：Monospace sits between enterprise data and everyone who bu...</description>
-      <category>PH</category>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-monospace-from-directus"><span></span></a><a href="https://www.producthunt.com/products/directus" target="_blank" rel="noopener noreferrer">TOP1    Monospace from Directus</a></h2>
-<p><img src="https://ph-files.imgix.net/8c068d38-2ed9-42d4-9025-0dfe0c155a1c.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Monospace from Directus" loading="lazy"><br><br>
-<strong>【标语】</strong>：The governed API layer for every app, person, and agent<br>
-<strong>【介绍】</strong>：Monospace sits between enterprise data and everyone who builds on it. Connect any data source, and your developers, business teams, and AI agents get live, read-write access to it. All under the same granular permissions model, with no data copied or moved. Your oldest databases weren't built with AI or modern apps in mind. Monospace generates interfaces directly from them, as they are, introspecting the schema and queries in real time, so they don’t need to be rebuilt.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/OROVPQZ3Y6HPUR" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/directus" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：data,AI,they,governed,API,layer<br>
-<strong>票数</strong>： 🔺442<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年10月01日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/8c068d38-2ed9-42d4-9025-0dfe0c155a1c.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-09-30</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-09-30.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-09-30.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-09-30</source>
-      <description>TOP1 Pexo Pexo 【标语】：Produce pitch perfect launch videos with precise control 【介绍】：Pexo makes creating your launch video as simple as having a conversation. Share your product, w...</description>
-      <category>PH</category>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-pexo"><span></span></a><a href="https://www.producthunt.com/products/pexo-2" target="_blank" rel="noopener noreferrer">TOP1    Pexo</a></h2>
-<p><img src="https://ph-files.imgix.net/f2e2ecea-a5cc-412e-adac-ffbfee93de28.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Pexo" loading="lazy"><br><br>
-<strong>【标语】</strong>：Produce pitch perfect launch videos with precise control<br>
-<strong>【介绍】</strong>：Pexo makes creating your launch video as simple as having a conversation. Share your product, website, or assets. It plans the story, chooses the right AI model for each task, generates and assembles the scenes, and handles voiceover, music, captions, motion graphics, and editing. Leave a comment or circle what you want changed, and Pexo makes the edit. You direct one agent from idea to a finished, on-brand launch video.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/O3T2IT5O2KIEFF" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/pexo-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：launch,makes,your,video,Produce,pitch<br>
-<strong>票数</strong>： 🔺417<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年09月30日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/f2e2ecea-a5cc-412e-adac-ffbfee93de28.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
