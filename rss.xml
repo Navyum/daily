@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 13 Oct 2026 15:29:50 GMT</pubDate>
-    <lastBuildDate>Tue, 13 Oct 2026 15:29:50 GMT</lastBuildDate>
+    <pubDate>Wed, 14 Oct 2026 13:15:10 GMT</pubDate>
+    <lastBuildDate>Wed, 14 Oct 2026 13:15:10 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-10-12</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-12.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-10-12.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-10-12</source>
+      <description>TOP1 Google EmbeddingGemma 2 Google EmbeddingGemma 2 【标语】：An open, lightweight multimodal embedding model 【介绍】：EmbeddingGemma 2 is Google DeepMind&amp;apos;s open embedding model that ma...</description>
+      <category>PH</category>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-google-embeddinggemma-2"><span></span></a><a href="https://www.producthunt.com/products/embeddinggemma-2" target="_blank" rel="noopener noreferrer">TOP1    Google EmbeddingGemma 2</a></h2>
+<p><img src="https://ph-files.imgix.net/377e5470-e67b-4400-ab00-7563bc2105e8.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Google EmbeddingGemma 2" loading="lazy"><br><br>
+<strong>【标语】</strong>：An open, lightweight multimodal embedding model<br>
+<strong>【介绍】</strong>：EmbeddingGemma 2 is Google DeepMind's open embedding model that maps text, code, images, video and audio into one shared space, so you can search across them from a single query. At 740M parameters it runs on-device, needing about 567MB of RAM on a Pixel 11 Pro for the full multimodal model (191MB for text only). Apache 2.0 licensed, with weights on Hugging Face and Kaggle. MTEB Code score rises from 68.76 to 78.68.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/223DSPCXFFRIJF" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/embeddinggemma-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：open,multimodal,embedding,model,text,lightweight<br>
+<strong>票数</strong>： 🔺296<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年10月12日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/377e5470-e67b-4400-ab00-7563bc2105e8.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-10-11</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-11.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年10月03日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/04bae135-5c2e-468b-9d9f-cb2e321786f8.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-10-02</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-02.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-10-02.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-10-02</source>
-      <description>TOP1 Gauth Unlimited Digital Canvas Gauth Unlimited Digital Canvas 【标语】：An AI tutor on an infinite whiteboard, not a chat thread 【介绍】：Gauth AI Course now runs on an Unlimited Di...</description>
-      <category>PH</category>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-gauth-unlimited-digital-canvas"><span></span></a><a href="https://www.producthunt.com/products/gauth-ai-course" target="_blank" rel="noopener noreferrer">TOP1    Gauth Unlimited Digital Canvas </a></h2>
-<p><img src="https://ph-files.imgix.net/bd5e7f68-cc51-46b3-a072-a44513edfd36.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Gauth Unlimited Digital Canvas " loading="lazy"><br><br>
-<strong>【标语】</strong>：An AI tutor on an infinite whiteboard, not a chat thread<br>
-<strong>【介绍】</strong>：Gauth AI Course now runs on an Unlimited Digital Canvas: one continuous whiteboard where lessons unfold spatially instead of in a chat thread or slide deck. Chapters expand side by side as narration plays, board notes write out in sync with the AI voice, and you can zoom from the full concept map down to a single formula. Pause anytime to ask the AI Tutor, and it answers right on the board beneath your step. Generate a canvas lesson on any topic, then export it as a PDF or share a link.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/TCMAWBRPUPSDRM" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/gauth-ai-course" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：AI,whiteboard,chat,side,board,tutor<br>
-<strong>票数</strong>： 🔺482<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年10月02日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/bd5e7f68-cc51-46b3-a072-a44513edfd36.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
