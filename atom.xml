@@ -4,16 +4,41 @@
   <title>DAYHACK</title>
   <subtitle>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</subtitle>
   <icon>https://github.camscanner.top/daily/favicon.ico</icon>
-  <updated>2026-10-15T13:02:12.864Z</updated>
+  <updated>2026-10-16T12:57:14.114Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/"/>
   <category term="PH"/>
   <entry>
+    <title type="text">PH今日热榜 | 2026-10-14</title>
+    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-14.html</id>
+    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-14.html"/>
+    <updated>2026-10-16T12:57:14.115Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-pancake"><span></span></a><a href="https://www.producthunt.com/products/pancake-6" target="_blank" rel="noopener noreferrer">TOP1    Pancake</a></h2>
+<p><img src="https://ph-files.imgix.net/d77de011-9237-4f78-bedc-3e03372e2824.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Pancake" loading="lazy"><br><br>
+<strong>【标语】</strong>：The Vercel for GTM<br>
+<strong>【介绍】</strong>：Pancake is the Vercel for GTM. It gives you the building blocks to deploy any go-to-market idea from your favorite AI agent, such as Claude or Codex: a GTM Brain, sending infrastructure, and 40+ data providers and enrichment, all accessible through one MCP connection.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/TK5WOCVR7ZG7IU" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/pancake-6" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-pancake"><span></span></a><a href="https://www.producthunt.com/products/pancake-6" target="_blank" rel="noopener noreferrer">TOP1    Pancake</a></h2>
+<p><img src="https://ph-files.imgix.net/d77de011-9237-4f78-bedc-3e03372e2824.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Pancake" loading="lazy"><br><br>
+<strong>【标语】</strong>：The Vercel for GTM<br>
+<strong>【介绍】</strong>：Pancake is the Vercel for GTM. It gives you the building blocks to deploy any go-to-market idea from your favorite AI agent, such as Claude or Codex: a GTM Brain, sending infrastructure, and 40+ data providers and enrichment, all accessible through one MCP connection.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/TK5WOCVR7ZG7IU" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/pancake-6" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：Vercel,GTM,GTMPancake,gives,building,blocks<br>
+<strong>票数</strong>： 🔺559<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年10月14日 PM03:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2026-10-14T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">PH今日热榜 | 2026-10-13</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-13.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-13.html"/>
-    <updated>2026-10-15T13:02:12.866Z</updated>
+    <updated>2026-10-16T12:57:14.132Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-articos-mcp"><span></span></a><a href="https://www.producthunt.com/products/articos" target="_blank" rel="noopener noreferrer">TOP1    Articos MCP</a></h2>
 <p><img src="https://ph-files.imgix.net/bf8a4aba-000b-4cce-86ca-fb88380bb028.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Articos MCP" loading="lazy"><br><br>
 <strong>【标语】</strong>：See how simulated buyers react, right in your agent<br>
@@ -38,7 +63,7 @@
     <title type="text">PH今日热榜 | 2026-10-12</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-12.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-12.html"/>
-    <updated>2026-10-15T13:02:12.882Z</updated>
+    <updated>2026-10-16T12:57:14.145Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-google-embeddinggemma-2"><span></span></a><a href="https://www.producthunt.com/products/embeddinggemma-2" target="_blank" rel="noopener noreferrer">TOP1    Google EmbeddingGemma 2</a></h2>
 <p><img src="https://ph-files.imgix.net/377e5470-e67b-4400-ab00-7563bc2105e8.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Google EmbeddingGemma 2" loading="lazy"><br><br>
 <strong>【标语】</strong>：An open, lightweight multimodal embedding model<br>
@@ -63,7 +88,7 @@
     <title type="text">PH今日热榜 | 2026-10-11</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-11.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-11.html"/>
-    <updated>2026-10-15T13:02:12.898Z</updated>
+    <updated>2026-10-16T12:57:14.159Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-hirekey"><span></span></a><a href="https://www.producthunt.com/products/hirekey" target="_blank" rel="noopener noreferrer">TOP1    HireKey</a></h2>
 <p><img src="https://ph-files.imgix.net/586457d1-e416-4f5c-8f53-6b8bd91db72a.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="HireKey" loading="lazy"><br><br>
 <strong>【标语】</strong>：Your recruiter-informed AI copilot for tech job search<br>
@@ -88,7 +113,7 @@
     <title type="text">PH今日热榜 | 2026-10-10</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-10.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-10.html"/>
-    <updated>2026-10-15T13:02:12.913Z</updated>
+    <updated>2026-10-16T12:57:14.171Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-reso-ai"><span></span></a><a href="https://www.producthunt.com/products/reso" target="_blank" rel="noopener noreferrer">TOP1    ReSO AI</a></h2>
 <p><img src="https://ph-files.imgix.net/f21aab5c-70fc-4a05-bd79-103326182d68.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ReSO AI" loading="lazy"><br><br>
 <strong>【标语】</strong>：Get discovered &amp; recommended when customers ask AI<br>
@@ -113,7 +138,7 @@
     <title type="text">PH今日热榜 | 2026-10-09</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-09.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-09.html"/>
-    <updated>2026-10-15T13:02:12.926Z</updated>
+    <updated>2026-10-16T12:57:14.183Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-busabase"><span></span></a><a href="https://www.producthunt.com/products/busabase" target="_blank" rel="noopener noreferrer">TOP1    Busabase</a></h2>
 <p><img src="https://ph-files.imgix.net/eb748a8f-c19d-4da5-b287-1db67973800d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Busabase" loading="lazy"><br><br>
 <strong>【标语】</strong>：The general system of record for AI agents<br>
@@ -138,7 +163,7 @@
     <title type="text">PH今日热榜 | 2026-10-08</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-08.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-08.html"/>
-    <updated>2026-10-15T13:02:12.939Z</updated>
+    <updated>2026-10-16T12:57:14.191Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-openswarm"><span></span></a><a href="https://www.producthunt.com/products/openswarm-3" target="_blank" rel="noopener noreferrer">TOP1    OpenSwarm</a></h2>
 <p><img src="https://ph-files.imgix.net/11f053b0-1939-408e-b385-1a0f3d478482.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="OpenSwarm" loading="lazy"><br><br>
 <strong>【标语】</strong>：A swarm of agents, in the same place you work<br>
@@ -163,7 +188,7 @@
     <title type="text">PH今日热榜 | 2026-10-07</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-07.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-07.html"/>
-    <updated>2026-10-15T13:02:12.948Z</updated>
+    <updated>2026-10-16T12:57:14.204Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-irisgo-for-solopreneurs"><span></span></a><a href="https://www.producthunt.com/products/irisgo-public-beta" target="_blank" rel="noopener noreferrer">TOP1    IrisGo for Solopreneurs</a></h2>
 <p><img src="https://ph-files.imgix.net/11044e05-2084-4f65-a840-99bd5c31d04d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="IrisGo for Solopreneurs" loading="lazy"><br><br>
 <strong>【标语】</strong>：AI workflow automation: show it once, let it run<br>
@@ -188,7 +213,7 @@
     <title type="text">PH今日热榜 | 2026-10-06</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-06.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-06.html"/>
-    <updated>2026-10-15T13:02:12.961Z</updated>
+    <updated>2026-10-16T12:57:14.214Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-rill-browser"><span></span></a><a href="https://www.producthunt.com/products/rill-3" target="_blank" rel="noopener noreferrer">TOP1    Rill Browser</a></h2>
 <p><img src="https://ph-files.imgix.net/68a2e13a-55a4-4e98-b581-281ead67bd56.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Rill Browser" loading="lazy"><br><br>
 <strong>【标语】</strong>：The browser where Claude Code and Codex work beside you<br>
@@ -213,7 +238,7 @@
     <title type="text">PH今日热榜 | 2026-10-05</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-05.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-05.html"/>
-    <updated>2026-10-15T13:02:12.975Z</updated>
+    <updated>2026-10-16T12:57:14.227Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-spira-maxima"><span></span></a><a href="https://www.producthunt.com/products/spira-ai" target="_blank" rel="noopener noreferrer">TOP1    Spira Maxima</a></h2>
 <p><img src="https://ph-files.imgix.net/3d93cd45-3d08-45db-b704-9e3ccfec9201.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Spira Maxima" loading="lazy"><br><br>
 <strong>【标语】</strong>：Video model that turns script into viral social media videos<br>
@@ -233,30 +258,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2026-10-05T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2026-10-04</title>
-    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-04.html</id>
-    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-04.html"/>
-    <updated>2026-10-15T13:02:12.991Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-corespeed"><span></span></a><a href="https://www.producthunt.com/products/corespeed" target="_blank" rel="noopener noreferrer">TOP1    CoreSpeed</a></h2>
-<p><img src="https://ph-files.imgix.net/2f7b81ca-21fc-4d62-be16-4ee674d75927.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="CoreSpeed" loading="lazy"><br><br>
-<strong>【标语】</strong>：One MCP for everything your agents need: apps, memory, tools<br>
-<strong>【介绍】</strong>：CoreSpeed is an operating system for agents. Connect apps once and bring your accounts and shared or private memory to Claude Code, Codex, Cursor and other MCP agents. Use multiple accounts per app, including X, with web search, social research and media generation built in. CoreSpeed holds app credentials. Budgets, activity logs and Smart Approval (beta) keep agents in check. Planned: Agent Drive, Mail, Pay, sandboxes, and more. Everything your agents need, through one MCP endpoint.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/ZNJTNNHC4VT6ET" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/corespeed" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-corespeed"><span></span></a><a href="https://www.producthunt.com/products/corespeed" target="_blank" rel="noopener noreferrer">TOP1    CoreSpeed</a></h2>
-<p><img src="https://ph-files.imgix.net/2f7b81ca-21fc-4d62-be16-4ee674d75927.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="CoreSpeed" loading="lazy"><br><br>
-<strong>【标语】</strong>：One MCP for everything your agents need: apps, memory, tools<br>
-<strong>【介绍】</strong>：CoreSpeed is an operating system for agents. Connect apps once and bring your accounts and shared or private memory to Claude Code, Codex, Cursor and other MCP agents. Use multiple accounts per app, including X, with web search, social research and media generation built in. CoreSpeed holds app credentials. Budgets, activity logs and Smart Approval (beta) keep agents in check. Planned: Agent Drive, Mail, Pay, sandboxes, and more. Everything your agents need, through one MCP endpoint.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/ZNJTNNHC4VT6ET" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/corespeed" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：agents,MCP,your,need,apps,memory<br>
-<strong>票数</strong>： 🔺327<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年10月04日 PM03:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2026-10-04T00:00:00.000Z</published>
   </entry>
 </feed>
