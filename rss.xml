@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 16 Oct 2026 12:57:14 GMT</pubDate>
-    <lastBuildDate>Fri, 16 Oct 2026 12:57:14 GMT</lastBuildDate>
+    <pubDate>Sat, 17 Oct 2026 11:55:49 GMT</pubDate>
+    <lastBuildDate>Sat, 17 Oct 2026 11:55:49 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-10-15</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-15.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-10-15.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-10-15</source>
+      <description>TOP1 Talanoa Talanoa 【标语】：Email that feels like chat 【介绍】：Talanoa is your first email messenger. It turns messy email threads into clean, chat-like conversations, removing quote...</description>
+      <category>PH</category>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-talanoa"><span></span></a><a href="https://www.producthunt.com/products/talanoa-2" target="_blank" rel="noopener noreferrer">TOP1    Talanoa</a></h2>
+<p><img src="https://ph-files.imgix.net/d306f955-72db-4d6a-b699-146ee83a87b6.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Talanoa" loading="lazy"><br><br>
+<strong>【标语】</strong>：Email that feels like chat<br>
+<strong>【介绍】</strong>：Talanoa is your first email messenger. It turns messy email threads into clean, chat-like conversations, removing quotes, signatures and clutter along the way. Turn emails into actionable todos, manage your calendar without leaving your inbox, and use private, on-device AI to search, summarize and write. Connect Gmail, Outlook, iCloud or any IMAP account in one unified inbox. Everything stays on your computer: no cloud sync, no tracking, no one reading your emails.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/LOUVBI5K3ZIRPE" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/talanoa-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：your,no,like,email,into,emails<br>
+<strong>票数</strong>： 🔺314<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年10月15日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/d306f955-72db-4d6a-b699-146ee83a87b6.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-10-14</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-14.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年10月06日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/68a2e13a-55a4-4e98-b581-281ead67bd56.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-10-05</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-05.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-10-05.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-10-05</source>
-      <description>TOP1 Spira Maxima Spira Maxima 【标语】：Video model that turns script into viral social media videos 【介绍】：Spira Maxima turns plain text into a finished social video: presenter, on-t...</description>
-      <category>PH</category>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-spira-maxima"><span></span></a><a href="https://www.producthunt.com/products/spira-ai" target="_blank" rel="noopener noreferrer">TOP1    Spira Maxima</a></h2>
-<p><img src="https://ph-files.imgix.net/3d93cd45-3d08-45db-b704-9e3ccfec9201.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Spira Maxima" loading="lazy"><br><br>
-<strong>【标语】</strong>：Video model that turns script into viral social media videos<br>
-<strong>【介绍】</strong>：Spira Maxima turns plain text into a finished social video: presenter, on-trend B-roll, captions and music in one pass, ready to post with nothing to re-edit. Bring a photo and voice for your AI clone, product shots, or a recording, and it builds the edit around you. Post-trained on social trend and performance data, so every video follows what is working to maximize your social impact.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/IAN7QVRIFKVUDA" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/spira-ai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：social,turns,into,video,trend,edit<br>
-<strong>票数</strong>： 🔺435<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年10月05日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/3d93cd45-3d08-45db-b704-9e3ccfec9201.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
