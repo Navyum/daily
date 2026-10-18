@@ -4,16 +4,41 @@
   <title>DAYHACK</title>
   <subtitle>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</subtitle>
   <icon>https://github.camscanner.top/daily/favicon.ico</icon>
-  <updated>2026-10-17T11:55:49.698Z</updated>
+  <updated>2026-10-18T12:22:55.329Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/"/>
   <category term="PH"/>
   <entry>
+    <title type="text">PH今日热榜 | 2026-10-16</title>
+    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-16.html</id>
+    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-16.html"/>
+    <updated>2026-10-18T12:22:55.330Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-jockey-by-twelvelabs"><span></span></a><a href="https://www.producthunt.com/products/twelvelabs" target="_blank" rel="noopener noreferrer">TOP1    Jockey by TwelveLabs</a></h2>
+<p><img src="https://ph-files.imgix.net/18985122-061d-4872-8db4-3b819ca49b15.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Jockey by TwelveLabs" loading="lazy"><br><br>
+<strong>【标语】</strong>：Your entire video library: organized, searchable, understood<br>
+<strong>【介绍】</strong>：Jockey is the first AI that understands your entire media library across photos and video. It analyzes thousands of hours of footage so you can find and connect people, moments and context across videos. Use it in Claude or ChatGPT, or build with the API/SDK. Ingest YouTube, TikTok and Instagram Reels links; assemble content into MP4s; and create and share video-driven artifacts with playable clips. Every TwelveLabs model upgrade makes Jockey better, without re-integration.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/H3AVDIX7A2JROL" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/twelvelabs" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-jockey-by-twelvelabs"><span></span></a><a href="https://www.producthunt.com/products/twelvelabs" target="_blank" rel="noopener noreferrer">TOP1    Jockey by TwelveLabs</a></h2>
+<p><img src="https://ph-files.imgix.net/18985122-061d-4872-8db4-3b819ca49b15.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Jockey by TwelveLabs" loading="lazy"><br><br>
+<strong>【标语】</strong>：Your entire video library: organized, searchable, understood<br>
+<strong>【介绍】</strong>：Jockey is the first AI that understands your entire media library across photos and video. It analyzes thousands of hours of footage so you can find and connect people, moments and context across videos. Use it in Claude or ChatGPT, or build with the API/SDK. Ingest YouTube, TikTok and Instagram Reels links; assemble content into MP4s; and create and share video-driven artifacts with playable clips. Every TwelveLabs model upgrade makes Jockey better, without re-integration.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/H3AVDIX7A2JROL" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/twelvelabs" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：video,entire,library,across,Your,organized<br>
+<strong>票数</strong>： 🔺412<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年10月16日 PM03:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2026-10-16T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">PH今日热榜 | 2026-10-15</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-15.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-15.html"/>
-    <updated>2026-10-17T11:55:49.699Z</updated>
+    <updated>2026-10-18T12:22:55.341Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-talanoa"><span></span></a><a href="https://www.producthunt.com/products/talanoa-2" target="_blank" rel="noopener noreferrer">TOP1    Talanoa</a></h2>
 <p><img src="https://ph-files.imgix.net/d306f955-72db-4d6a-b699-146ee83a87b6.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Talanoa" loading="lazy"><br><br>
 <strong>【标语】</strong>：Email that feels like chat<br>
@@ -38,7 +63,7 @@
     <title type="text">PH今日热榜 | 2026-10-14</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-14.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-14.html"/>
-    <updated>2026-10-17T11:55:49.714Z</updated>
+    <updated>2026-10-18T12:22:55.351Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-pancake"><span></span></a><a href="https://www.producthunt.com/products/pancake-6" target="_blank" rel="noopener noreferrer">TOP1    Pancake</a></h2>
 <p><img src="https://ph-files.imgix.net/d77de011-9237-4f78-bedc-3e03372e2824.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Pancake" loading="lazy"><br><br>
 <strong>【标语】</strong>：The Vercel for GTM<br>
@@ -63,7 +88,7 @@
     <title type="text">PH今日热榜 | 2026-10-13</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-13.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-13.html"/>
-    <updated>2026-10-17T11:55:49.726Z</updated>
+    <updated>2026-10-18T12:22:55.361Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-articos-mcp"><span></span></a><a href="https://www.producthunt.com/products/articos" target="_blank" rel="noopener noreferrer">TOP1    Articos MCP</a></h2>
 <p><img src="https://ph-files.imgix.net/bf8a4aba-000b-4cce-86ca-fb88380bb028.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Articos MCP" loading="lazy"><br><br>
 <strong>【标语】</strong>：See how simulated buyers react, right in your agent<br>
@@ -88,7 +113,7 @@
     <title type="text">PH今日热榜 | 2026-10-12</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-12.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-12.html"/>
-    <updated>2026-10-17T11:55:49.733Z</updated>
+    <updated>2026-10-18T12:22:55.367Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-google-embeddinggemma-2"><span></span></a><a href="https://www.producthunt.com/products/embeddinggemma-2" target="_blank" rel="noopener noreferrer">TOP1    Google EmbeddingGemma 2</a></h2>
 <p><img src="https://ph-files.imgix.net/377e5470-e67b-4400-ab00-7563bc2105e8.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Google EmbeddingGemma 2" loading="lazy"><br><br>
 <strong>【标语】</strong>：An open, lightweight multimodal embedding model<br>
@@ -113,7 +138,7 @@
     <title type="text">PH今日热榜 | 2026-10-11</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-11.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-11.html"/>
-    <updated>2026-10-17T11:55:49.746Z</updated>
+    <updated>2026-10-18T12:22:55.376Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-hirekey"><span></span></a><a href="https://www.producthunt.com/products/hirekey" target="_blank" rel="noopener noreferrer">TOP1    HireKey</a></h2>
 <p><img src="https://ph-files.imgix.net/586457d1-e416-4f5c-8f53-6b8bd91db72a.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="HireKey" loading="lazy"><br><br>
 <strong>【标语】</strong>：Your recruiter-informed AI copilot for tech job search<br>
@@ -138,7 +163,7 @@
     <title type="text">PH今日热榜 | 2026-10-10</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-10.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-10.html"/>
-    <updated>2026-10-17T11:55:49.758Z</updated>
+    <updated>2026-10-18T12:22:55.381Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-reso-ai"><span></span></a><a href="https://www.producthunt.com/products/reso" target="_blank" rel="noopener noreferrer">TOP1    ReSO AI</a></h2>
 <p><img src="https://ph-files.imgix.net/f21aab5c-70fc-4a05-bd79-103326182d68.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ReSO AI" loading="lazy"><br><br>
 <strong>【标语】</strong>：Get discovered &amp; recommended when customers ask AI<br>
@@ -163,7 +188,7 @@
     <title type="text">PH今日热榜 | 2026-10-09</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-09.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-09.html"/>
-    <updated>2026-10-17T11:55:49.765Z</updated>
+    <updated>2026-10-18T12:22:55.391Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-busabase"><span></span></a><a href="https://www.producthunt.com/products/busabase" target="_blank" rel="noopener noreferrer">TOP1    Busabase</a></h2>
 <p><img src="https://ph-files.imgix.net/eb748a8f-c19d-4da5-b287-1db67973800d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Busabase" loading="lazy"><br><br>
 <strong>【标语】</strong>：The general system of record for AI agents<br>
@@ -188,7 +213,7 @@
     <title type="text">PH今日热榜 | 2026-10-08</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-08.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-08.html"/>
-    <updated>2026-10-17T11:55:49.777Z</updated>
+    <updated>2026-10-18T12:22:55.397Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-openswarm"><span></span></a><a href="https://www.producthunt.com/products/openswarm-3" target="_blank" rel="noopener noreferrer">TOP1    OpenSwarm</a></h2>
 <p><img src="https://ph-files.imgix.net/11f053b0-1939-408e-b385-1a0f3d478482.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="OpenSwarm" loading="lazy"><br><br>
 <strong>【标语】</strong>：A swarm of agents, in the same place you work<br>
@@ -213,7 +238,7 @@
     <title type="text">PH今日热榜 | 2026-10-07</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-07.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-07.html"/>
-    <updated>2026-10-17T11:55:49.786Z</updated>
+    <updated>2026-10-18T12:22:55.407Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-irisgo-for-solopreneurs"><span></span></a><a href="https://www.producthunt.com/products/irisgo-public-beta" target="_blank" rel="noopener noreferrer">TOP1    IrisGo for Solopreneurs</a></h2>
 <p><img src="https://ph-files.imgix.net/11044e05-2084-4f65-a840-99bd5c31d04d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="IrisGo for Solopreneurs" loading="lazy"><br><br>
 <strong>【标语】</strong>：AI workflow automation: show it once, let it run<br>
@@ -233,30 +258,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2026-10-07T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2026-10-06</title>
-    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-06.html</id>
-    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-06.html"/>
-    <updated>2026-10-17T11:55:49.797Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-rill-browser"><span></span></a><a href="https://www.producthunt.com/products/rill-3" target="_blank" rel="noopener noreferrer">TOP1    Rill Browser</a></h2>
-<p><img src="https://ph-files.imgix.net/68a2e13a-55a4-4e98-b581-281ead67bd56.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Rill Browser" loading="lazy"><br><br>
-<strong>【标语】</strong>：The browser where Claude Code and Codex work beside you<br>
-<strong>【介绍】</strong>：Rill is an AI-native browser built around the Claude Code and Codex you already use. Browse normally, then press ⌘E on any page to turn what you're looking at into a task for your agent. Rill finds the right project, passes along the context, and the agent works while you keep browsing. It also sorts your tabs into themes, turns your history into days you can search, and brings every project your agents are working on into one place. Free, on the plan you already have.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/YZHJNNU36WBO6Q" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/rill-3" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-rill-browser"><span></span></a><a href="https://www.producthunt.com/products/rill-3" target="_blank" rel="noopener noreferrer">TOP1    Rill Browser</a></h2>
-<p><img src="https://ph-files.imgix.net/68a2e13a-55a4-4e98-b581-281ead67bd56.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Rill Browser" loading="lazy"><br><br>
-<strong>【标语】</strong>：The browser where Claude Code and Codex work beside you<br>
-<strong>【介绍】</strong>：Rill is an AI-native browser built around the Claude Code and Codex you already use. Browse normally, then press ⌘E on any page to turn what you're looking at into a task for your agent. Rill finds the right project, passes along the context, and the agent works while you keep browsing. It also sorts your tabs into themes, turns your history into days you can search, and brings every project your agents are working on into one place. Free, on the plan you already have.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/YZHJNNU36WBO6Q" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/rill-3" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：into,your,browser,Claude,Code,Codex<br>
-<strong>票数</strong>： 🔺417<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年10月06日 PM03:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2026-10-06T00:00:00.000Z</published>
   </entry>
 </feed>

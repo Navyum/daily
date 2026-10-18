@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 17 Oct 2026 11:55:49 GMT</pubDate>
-    <lastBuildDate>Sat, 17 Oct 2026 11:55:49 GMT</lastBuildDate>
+    <pubDate>Sun, 18 Oct 2026 12:22:55 GMT</pubDate>
+    <lastBuildDate>Sun, 18 Oct 2026 12:22:55 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-10-16</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-16.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-10-16.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-10-16</source>
+      <description>TOP1 Jockey by TwelveLabs Jockey by TwelveLabs 【标语】：Your entire video library: organized, searchable, understood 【介绍】：Jockey is the first AI that understands your entire media l...</description>
+      <category>PH</category>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-jockey-by-twelvelabs"><span></span></a><a href="https://www.producthunt.com/products/twelvelabs" target="_blank" rel="noopener noreferrer">TOP1    Jockey by TwelveLabs</a></h2>
+<p><img src="https://ph-files.imgix.net/18985122-061d-4872-8db4-3b819ca49b15.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Jockey by TwelveLabs" loading="lazy"><br><br>
+<strong>【标语】</strong>：Your entire video library: organized, searchable, understood<br>
+<strong>【介绍】</strong>：Jockey is the first AI that understands your entire media library across photos and video. It analyzes thousands of hours of footage so you can find and connect people, moments and context across videos. Use it in Claude or ChatGPT, or build with the API/SDK. Ingest YouTube, TikTok and Instagram Reels links; assemble content into MP4s; and create and share video-driven artifacts with playable clips. Every TwelveLabs model upgrade makes Jockey better, without re-integration.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/H3AVDIX7A2JROL" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/twelvelabs" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：video,entire,library,across,Your,organized<br>
+<strong>票数</strong>： 🔺412<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年10月16日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/18985122-061d-4872-8db4-3b819ca49b15.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-10-15</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-15.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年10月07日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/11044e05-2084-4f65-a840-99bd5c31d04d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-10-06</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-06.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-10-06.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-10-06</source>
-      <description>TOP1 Rill Browser Rill Browser 【标语】：The browser where Claude Code and Codex work beside you 【介绍】：Rill is an AI-native browser built around the Claude Code and Codex you already ...</description>
-      <category>PH</category>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-rill-browser"><span></span></a><a href="https://www.producthunt.com/products/rill-3" target="_blank" rel="noopener noreferrer">TOP1    Rill Browser</a></h2>
-<p><img src="https://ph-files.imgix.net/68a2e13a-55a4-4e98-b581-281ead67bd56.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Rill Browser" loading="lazy"><br><br>
-<strong>【标语】</strong>：The browser where Claude Code and Codex work beside you<br>
-<strong>【介绍】</strong>：Rill is an AI-native browser built around the Claude Code and Codex you already use. Browse normally, then press ⌘E on any page to turn what you're looking at into a task for your agent. Rill finds the right project, passes along the context, and the agent works while you keep browsing. It also sorts your tabs into themes, turns your history into days you can search, and brings every project your agents are working on into one place. Free, on the plan you already have.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/YZHJNNU36WBO6Q" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/rill-3" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：into,your,browser,Claude,Code,Codex<br>
-<strong>票数</strong>： 🔺417<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年10月06日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/68a2e13a-55a4-4e98-b581-281ead67bd56.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
