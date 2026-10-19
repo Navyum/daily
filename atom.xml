@@ -4,16 +4,41 @@
   <title>DAYHACK</title>
   <subtitle>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</subtitle>
   <icon>https://github.camscanner.top/daily/favicon.ico</icon>
-  <updated>2026-10-18T12:22:55.329Z</updated>
+  <updated>2026-10-19T15:12:35.817Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/"/>
   <category term="PH"/>
   <entry>
+    <title type="text">PH今日热榜 | 2026-10-17</title>
+    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-17.html</id>
+    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-17.html"/>
+    <updated>2026-10-19T15:12:35.818Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-nitrostack"><span></span></a><a href="https://www.producthunt.com/products/nitrostack" target="_blank" rel="noopener noreferrer">TOP1    NitroStack</a></h2>
+<p><img src="https://ph-files.imgix.net/5e19b60e-627e-4cba-a56b-afe217d6e2c1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="NitroStack" loading="lazy"><br><br>
+<strong>【标语】</strong>：Build, test, and deploy MCP servers in one place<br>
+<strong>【介绍】</strong>：NitroStack is the full-stack platform for building production-ready MCP servers and AI apps. Build with open-source TypeScript &amp; Python SDKs, test and debug visually in NitroStack Studio, orchestrate agent workflows with NitroStack Workflow, deploy on NitroStack Cloud, and ship branded experiences with NitroStack Chat. Auth, testing, deployment and frontend stay in one workflow. Connect to ChatGPT, Claude and other AI clients. Powering 80,000+ MCP servers.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/NFV7LZ6PHSL5AT" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/nitrostack" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-nitrostack"><span></span></a><a href="https://www.producthunt.com/products/nitrostack" target="_blank" rel="noopener noreferrer">TOP1    NitroStack</a></h2>
+<p><img src="https://ph-files.imgix.net/5e19b60e-627e-4cba-a56b-afe217d6e2c1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="NitroStack" loading="lazy"><br><br>
+<strong>【标语】</strong>：Build, test, and deploy MCP servers in one place<br>
+<strong>【介绍】</strong>：NitroStack is the full-stack platform for building production-ready MCP servers and AI apps. Build with open-source TypeScript &amp; Python SDKs, test and debug visually in NitroStack Studio, orchestrate agent workflows with NitroStack Workflow, deploy on NitroStack Cloud, and ship branded experiences with NitroStack Chat. Auth, testing, deployment and frontend stay in one workflow. Connect to ChatGPT, Claude and other AI clients. Powering 80,000+ MCP servers.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/NFV7LZ6PHSL5AT" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/nitrostack" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：NitroStack,MCP,servers,Build,test,deploy<br>
+<strong>票数</strong>： 🔺295<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年10月17日 PM03:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2026-10-17T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">PH今日热榜 | 2026-10-16</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-16.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-16.html"/>
-    <updated>2026-10-18T12:22:55.330Z</updated>
+    <updated>2026-10-19T15:12:35.837Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-jockey-by-twelvelabs"><span></span></a><a href="https://www.producthunt.com/products/twelvelabs" target="_blank" rel="noopener noreferrer">TOP1    Jockey by TwelveLabs</a></h2>
 <p><img src="https://ph-files.imgix.net/18985122-061d-4872-8db4-3b819ca49b15.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Jockey by TwelveLabs" loading="lazy"><br><br>
 <strong>【标语】</strong>：Your entire video library: organized, searchable, understood<br>
@@ -38,7 +63,7 @@
     <title type="text">PH今日热榜 | 2026-10-15</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-15.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-15.html"/>
-    <updated>2026-10-18T12:22:55.341Z</updated>
+    <updated>2026-10-19T15:12:35.854Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-talanoa"><span></span></a><a href="https://www.producthunt.com/products/talanoa-2" target="_blank" rel="noopener noreferrer">TOP1    Talanoa</a></h2>
 <p><img src="https://ph-files.imgix.net/d306f955-72db-4d6a-b699-146ee83a87b6.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Talanoa" loading="lazy"><br><br>
 <strong>【标语】</strong>：Email that feels like chat<br>
@@ -63,7 +88,7 @@
     <title type="text">PH今日热榜 | 2026-10-14</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-14.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-14.html"/>
-    <updated>2026-10-18T12:22:55.351Z</updated>
+    <updated>2026-10-19T15:12:35.865Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-pancake"><span></span></a><a href="https://www.producthunt.com/products/pancake-6" target="_blank" rel="noopener noreferrer">TOP1    Pancake</a></h2>
 <p><img src="https://ph-files.imgix.net/d77de011-9237-4f78-bedc-3e03372e2824.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Pancake" loading="lazy"><br><br>
 <strong>【标语】</strong>：The Vercel for GTM<br>
@@ -88,7 +113,7 @@
     <title type="text">PH今日热榜 | 2026-10-13</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-13.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-13.html"/>
-    <updated>2026-10-18T12:22:55.361Z</updated>
+    <updated>2026-10-19T15:12:35.880Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-articos-mcp"><span></span></a><a href="https://www.producthunt.com/products/articos" target="_blank" rel="noopener noreferrer">TOP1    Articos MCP</a></h2>
 <p><img src="https://ph-files.imgix.net/bf8a4aba-000b-4cce-86ca-fb88380bb028.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Articos MCP" loading="lazy"><br><br>
 <strong>【标语】</strong>：See how simulated buyers react, right in your agent<br>
@@ -113,7 +138,7 @@
     <title type="text">PH今日热榜 | 2026-10-12</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-12.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-12.html"/>
-    <updated>2026-10-18T12:22:55.367Z</updated>
+    <updated>2026-10-19T15:12:35.893Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-google-embeddinggemma-2"><span></span></a><a href="https://www.producthunt.com/products/embeddinggemma-2" target="_blank" rel="noopener noreferrer">TOP1    Google EmbeddingGemma 2</a></h2>
 <p><img src="https://ph-files.imgix.net/377e5470-e67b-4400-ab00-7563bc2105e8.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Google EmbeddingGemma 2" loading="lazy"><br><br>
 <strong>【标语】</strong>：An open, lightweight multimodal embedding model<br>
@@ -138,7 +163,7 @@
     <title type="text">PH今日热榜 | 2026-10-11</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-11.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-11.html"/>
-    <updated>2026-10-18T12:22:55.376Z</updated>
+    <updated>2026-10-19T15:12:35.903Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-hirekey"><span></span></a><a href="https://www.producthunt.com/products/hirekey" target="_blank" rel="noopener noreferrer">TOP1    HireKey</a></h2>
 <p><img src="https://ph-files.imgix.net/586457d1-e416-4f5c-8f53-6b8bd91db72a.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="HireKey" loading="lazy"><br><br>
 <strong>【标语】</strong>：Your recruiter-informed AI copilot for tech job search<br>
@@ -163,7 +188,7 @@
     <title type="text">PH今日热榜 | 2026-10-10</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-10.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-10.html"/>
-    <updated>2026-10-18T12:22:55.381Z</updated>
+    <updated>2026-10-19T15:12:35.918Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-reso-ai"><span></span></a><a href="https://www.producthunt.com/products/reso" target="_blank" rel="noopener noreferrer">TOP1    ReSO AI</a></h2>
 <p><img src="https://ph-files.imgix.net/f21aab5c-70fc-4a05-bd79-103326182d68.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ReSO AI" loading="lazy"><br><br>
 <strong>【标语】</strong>：Get discovered &amp; recommended when customers ask AI<br>
@@ -188,7 +213,7 @@
     <title type="text">PH今日热榜 | 2026-10-09</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-09.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-09.html"/>
-    <updated>2026-10-18T12:22:55.391Z</updated>
+    <updated>2026-10-19T15:12:35.928Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-busabase"><span></span></a><a href="https://www.producthunt.com/products/busabase" target="_blank" rel="noopener noreferrer">TOP1    Busabase</a></h2>
 <p><img src="https://ph-files.imgix.net/eb748a8f-c19d-4da5-b287-1db67973800d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Busabase" loading="lazy"><br><br>
 <strong>【标语】</strong>：The general system of record for AI agents<br>
@@ -213,7 +238,7 @@
     <title type="text">PH今日热榜 | 2026-10-08</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-08.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-08.html"/>
-    <updated>2026-10-18T12:22:55.397Z</updated>
+    <updated>2026-10-19T15:12:35.942Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-openswarm"><span></span></a><a href="https://www.producthunt.com/products/openswarm-3" target="_blank" rel="noopener noreferrer">TOP1    OpenSwarm</a></h2>
 <p><img src="https://ph-files.imgix.net/11f053b0-1939-408e-b385-1a0f3d478482.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="OpenSwarm" loading="lazy"><br><br>
 <strong>【标语】</strong>：A swarm of agents, in the same place you work<br>
@@ -233,30 +258,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2026-10-08T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2026-10-07</title>
-    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-07.html</id>
-    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-07.html"/>
-    <updated>2026-10-18T12:22:55.407Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-irisgo-for-solopreneurs"><span></span></a><a href="https://www.producthunt.com/products/irisgo-public-beta" target="_blank" rel="noopener noreferrer">TOP1    IrisGo for Solopreneurs</a></h2>
-<p><img src="https://ph-files.imgix.net/11044e05-2084-4f65-a840-99bd5c31d04d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="IrisGo for Solopreneurs" loading="lazy"><br><br>
-<strong>【标语】</strong>：AI workflow automation: show it once, let it run<br>
-<strong>【介绍】</strong>：IrisGo helps solopreneurs automate recurring work. Get daily briefs, triage email, track to-dos, and turn demonstrated tasks into reusable workflows with Watch &amp; Learn. Spend less time on admin and more time building your business. Free during beta.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/I2U7KF4RUGEZSO" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/irisgo-public-beta" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-irisgo-for-solopreneurs"><span></span></a><a href="https://www.producthunt.com/products/irisgo-public-beta" target="_blank" rel="noopener noreferrer">TOP1    IrisGo for Solopreneurs</a></h2>
-<p><img src="https://ph-files.imgix.net/11044e05-2084-4f65-a840-99bd5c31d04d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="IrisGo for Solopreneurs" loading="lazy"><br><br>
-<strong>【标语】</strong>：AI workflow automation: show it once, let it run<br>
-<strong>【介绍】</strong>：IrisGo helps solopreneurs automate recurring work. Get daily briefs, triage email, track to-dos, and turn demonstrated tasks into reusable workflows with Watch &amp; Learn. Spend less time on admin and more time building your business. Free during beta.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/I2U7KF4RUGEZSO" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/irisgo-public-beta" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：time,AI,workflow,automation,show,once<br>
-<strong>票数</strong>： 🔺511<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年10月07日 PM03:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2026-10-07T00:00:00.000Z</published>
   </entry>
 </feed>

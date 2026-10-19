@@ -7,6 +7,20 @@
   "favicon": "https://github.camscanner.top/daily/favicon.ico",
   "items": [
     {
+      "title": "PH今日热榜 | 2026-10-17",
+      "url": "https://github.camscanner.top/daily/posts/PH-daily-2026-10-17.html",
+      "id": "https://github.camscanner.top/daily/posts/PH-daily-2026-10-17.html",
+      "summary": "TOP1 NitroStack NitroStack 【标语】：Build, test, and deploy MCP servers in one place 【介绍】：NitroStack is the full-stack platform for building production-ready MCP servers and AI apps...",
+      "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-nitrostack\"><span></span></a><a href=\"https://www.producthunt.com/products/nitrostack\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1    NitroStack</a></h2>\n<p><img src=\"https://ph-files.imgix.net/5e19b60e-627e-4cba-a56b-afe217d6e2c1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"NitroStack\" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>：Build, test, and deploy MCP servers in one place<br>\n<strong>【介绍】</strong>：NitroStack is the full-stack platform for building production-ready MCP servers and AI apps. Build with open-source TypeScript &amp; Python SDKs, test and debug visually in NitroStack Studio, orchestrate agent workflows with NitroStack Workflow, deploy on NitroStack Cloud, and ship branded experiences with NitroStack Chat. Auth, testing, deployment and frontend stay in one workflow. Connect to ChatGPT, Claude and other AI clients. Powering 80,000+ MCP servers.<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/NFV7LZ6PHSL5AT\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/products/nitrostack\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：NitroStack,MCP,servers,Build,test,deploy<br>\n<strong>票数</strong>： 🔺295<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2026年10月17日 PM03:01 (北京时间)<br><br></p>\n",
+      "image": "https://ph-files.imgix.net/5e19b60e-627e-4cba-a56b-afe217d6e2c1.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+      "date_published": "2026-10-17T00:00:00.000Z",
+      "date_modified": "2026-10-19T15:12:35.960Z",
+      "authors": [],
+      "tags": [
+        "PH"
+      ]
+    },
+    {
       "title": "PH今日热榜 | 2026-10-16",
       "url": "https://github.camscanner.top/daily/posts/PH-daily-2026-10-16.html",
       "id": "https://github.camscanner.top/daily/posts/PH-daily-2026-10-16.html",
@@ -14,7 +28,7 @@
       "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-jockey-by-twelvelabs\"><span></span></a><a href=\"https://www.producthunt.com/products/twelvelabs\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1    Jockey by TwelveLabs</a></h2>\n<p><img src=\"https://ph-files.imgix.net/18985122-061d-4872-8db4-3b819ca49b15.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"Jockey by TwelveLabs\" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>：Your entire video library: organized, searchable, understood<br>\n<strong>【介绍】</strong>：Jockey is the first AI that understands your entire media library across photos and video. It analyzes thousands of hours of footage so you can find and connect people, moments and context across videos. Use it in Claude or ChatGPT, or build with the API/SDK. Ingest YouTube, TikTok and Instagram Reels links; assemble content into MP4s; and create and share video-driven artifacts with playable clips. Every TwelveLabs model upgrade makes Jockey better, without re-integration.<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/H3AVDIX7A2JROL\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/products/twelvelabs\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：video,entire,library,across,Your,organized<br>\n<strong>票数</strong>： 🔺412<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2026年10月16日 PM03:01 (北京时间)<br><br></p>\n",
       "image": "https://ph-files.imgix.net/18985122-061d-4872-8db4-3b819ca49b15.png?auto=format&fit=crop&frame=1&h=512&w=1024",
       "date_published": "2026-10-16T00:00:00.000Z",
-      "date_modified": "2026-10-18T12:22:55.421Z",
+      "date_modified": "2026-10-19T15:12:35.961Z",
       "authors": [],
       "tags": [
         "PH"
@@ -28,7 +42,7 @@
       "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-talanoa\"><span></span></a><a href=\"https://www.producthunt.com/products/talanoa-2\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1    Talanoa</a></h2>\n<p><img src=\"https://ph-files.imgix.net/d306f955-72db-4d6a-b699-146ee83a87b6.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"Talanoa\" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>：Email that feels like chat<br>\n<strong>【介绍】</strong>：Talanoa is your first email messenger. It turns messy email threads into clean, chat-like conversations, removing quotes, signatures and clutter along the way. Turn emails into actionable todos, manage your calendar without leaving your inbox, and use private, on-device AI to search, summarize and write. Connect Gmail, Outlook, iCloud or any IMAP account in one unified inbox. Everything stays on your computer: no cloud sync, no tracking, no one reading your emails.<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/LOUVBI5K3ZIRPE\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/products/talanoa-2\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：your,no,like,email,into,emails<br>\n<strong>票数</strong>： 🔺314<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2026年10月15日 PM03:01 (北京时间)<br><br></p>\n",
       "image": "https://ph-files.imgix.net/d306f955-72db-4d6a-b699-146ee83a87b6.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024",
       "date_published": "2026-10-15T00:00:00.000Z",
-      "date_modified": "2026-10-18T12:22:55.421Z",
+      "date_modified": "2026-10-19T15:12:35.961Z",
       "authors": [],
       "tags": [
         "PH"
@@ -42,7 +56,7 @@
       "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-pancake\"><span></span></a><a href=\"https://www.producthunt.com/products/pancake-6\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1    Pancake</a></h2>\n<p><img src=\"https://ph-files.imgix.net/d77de011-9237-4f78-bedc-3e03372e2824.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"Pancake\" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>：The Vercel for GTM<br>\n<strong>【介绍】</strong>：Pancake is the Vercel for GTM. It gives you the building blocks to deploy any go-to-market idea from your favorite AI agent, such as Claude or Codex: a GTM Brain, sending infrastructure, and 40+ data providers and enrichment, all accessible through one MCP connection.<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/TK5WOCVR7ZG7IU\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/products/pancake-6\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：Vercel,GTM,GTMPancake,gives,building,blocks<br>\n<strong>票数</strong>： 🔺559<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2026年10月14日 PM03:01 (北京时间)<br><br></p>\n",
       "image": "https://ph-files.imgix.net/d77de011-9237-4f78-bedc-3e03372e2824.png?auto=format&fit=crop&frame=1&h=512&w=1024",
       "date_published": "2026-10-14T00:00:00.000Z",
-      "date_modified": "2026-10-18T12:22:55.422Z",
+      "date_modified": "2026-10-19T15:12:35.962Z",
       "authors": [],
       "tags": [
         "PH"
@@ -56,7 +70,7 @@
       "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-articos-mcp\"><span></span></a><a href=\"https://www.producthunt.com/products/articos\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1    Articos MCP</a></h2>\n<p><img src=\"https://ph-files.imgix.net/bf8a4aba-000b-4cce-86ca-fb88380bb028.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"Articos MCP\" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>：See how simulated buyers react, right in your agent<br>\n<strong>【介绍】</strong>：Most teams ship, then hope it lands. Articos MCP lets you check first. Right inside Claude or ChatGPT, run your headlines, positioning, or pages past simulated buyers based on your actual customers, and see how they respond before it goes out. Validated against human research from Baymard and Nielsen Norman, it agrees 86% of the time.<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/KE4OQDDO5PVYVA\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/products/articos\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：your,how,simulated,buyers,See,react<br>\n<strong>票数</strong>： 🔺329<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2026年10月13日 PM03:01 (北京时间)<br><br></p>\n",
       "image": "https://ph-files.imgix.net/bf8a4aba-000b-4cce-86ca-fb88380bb028.png?auto=format&fit=crop&frame=1&h=512&w=1024",
       "date_published": "2026-10-13T00:00:00.000Z",
-      "date_modified": "2026-10-18T12:22:55.422Z",
+      "date_modified": "2026-10-19T15:12:35.963Z",
       "authors": [],
       "tags": [
         "PH"
@@ -70,7 +84,7 @@
       "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-google-embeddinggemma-2\"><span></span></a><a href=\"https://www.producthunt.com/products/embeddinggemma-2\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1    Google EmbeddingGemma 2</a></h2>\n<p><img src=\"https://ph-files.imgix.net/377e5470-e67b-4400-ab00-7563bc2105e8.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"Google EmbeddingGemma 2\" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>：An open, lightweight multimodal embedding model<br>\n<strong>【介绍】</strong>：EmbeddingGemma 2 is Google DeepMind's open embedding model that maps text, code, images, video and audio into one shared space, so you can search across them from a single query. At 740M parameters it runs on-device, needing about 567MB of RAM on a Pixel 11 Pro for the full multimodal model (191MB for text only). Apache 2.0 licensed, with weights on Hugging Face and Kaggle. MTEB Code score rises from 68.76 to 78.68.<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/223DSPCXFFRIJF\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/products/embeddinggemma-2\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：open,multimodal,embedding,model,text,lightweight<br>\n<strong>票数</strong>： 🔺296<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2026年10月12日 PM03:01 (北京时间)<br><br></p>\n",
       "image": "https://ph-files.imgix.net/377e5470-e67b-4400-ab00-7563bc2105e8.png?auto=format&fit=crop&frame=1&h=512&w=1024",
       "date_published": "2026-10-12T00:00:00.000Z",
-      "date_modified": "2026-10-18T12:22:55.423Z",
+      "date_modified": "2026-10-19T15:12:35.964Z",
       "authors": [],
       "tags": [
         "PH"
@@ -84,7 +98,7 @@
       "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-hirekey\"><span></span></a><a href=\"https://www.producthunt.com/products/hirekey\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1    HireKey</a></h2>\n<p><img src=\"https://ph-files.imgix.net/586457d1-e416-4f5c-8f53-6b8bd91db72a.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"HireKey\" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>：Your recruiter-informed AI copilot for tech job search<br>\n<strong>【介绍】</strong>：HireKey is a recruiter-informed AI job-search co-pilot for tech job seekers who want to apply strategically &amp; interview with confidence. It helps you assess your role fit, tailor resumes, communicate experience &amp; track applications. Unlike basic ATS tools, HireKey combines AI with 10 years of recruiting experience at Microsoft, Amazon &amp; Stripe, plus practice out loud with an interactive AI voice coach that responds to your answers &amp; provides real-time interview feedback.<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/VMWKGHD733ZQGV\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/products/hirekey\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：AI,job,recruiter,informed,tech,interview<br>\n<strong>票数</strong>： 🔺268<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2026年10月11日 PM03:01 (北京时间)<br><br></p>\n",
       "image": "https://ph-files.imgix.net/586457d1-e416-4f5c-8f53-6b8bd91db72a.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024",
       "date_published": "2026-10-11T00:00:00.000Z",
-      "date_modified": "2026-10-18T12:22:55.424Z",
+      "date_modified": "2026-10-19T15:12:35.965Z",
       "authors": [],
       "tags": [
         "PH"
@@ -98,7 +112,7 @@
       "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-reso-ai\"><span></span></a><a href=\"https://www.producthunt.com/products/reso\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1    ReSO AI</a></h2>\n<p><img src=\"https://ph-files.imgix.net/f21aab5c-70fc-4a05-bd79-103326182d68.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"ReSO AI\" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>：Get discovered &amp; recommended when customers ask AI<br>\n<strong>【介绍】</strong>：ReSO is a generative engine optimization platform that helps brands show up in AI search results. It’s built for founders, CMOs, and growth teams who want to turn buyer intent in ChatGPT, Perplexity, and Google AIO into visibility, citations, and traffic. What makes it different is that it doesn’t just track rankings, it analyzes intent, competitors, content gaps, and technical issues, then turns them into priority actions to improve AI recommendations.<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/E6PNMMFOZ76WY4\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/products/reso\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：AI,intent,into,Get,discovered,recommended<br>\n<strong>票数</strong>： 🔺458<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2026年10月10日 PM03:01 (北京时间)<br><br></p>\n",
       "image": "https://ph-files.imgix.net/f21aab5c-70fc-4a05-bd79-103326182d68.png?auto=format&fit=crop&frame=1&h=512&w=1024",
       "date_published": "2026-10-10T00:00:00.000Z",
-      "date_modified": "2026-10-18T12:22:55.425Z",
+      "date_modified": "2026-10-19T15:12:35.965Z",
       "authors": [],
       "tags": [
         "PH"
@@ -112,7 +126,7 @@
       "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-busabase\"><span></span></a><a href=\"https://www.producthunt.com/products/busabase\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1    Busabase</a></h2>\n<p><img src=\"https://ph-files.imgix.net/eb748a8f-c19d-4da5-b287-1db67973800d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"Busabase\" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>：The general system of record for AI agents<br>\n<strong>【介绍】</strong>：Different agents. One shared base. Busabase is a general-purpose database and workspace for people and AI agents. Keep business records, docs, skills, and apps in one place so the next task can build on them. Connect Claude Code, Codex, and more. Set access, review changes when needed, and see what changed. Busabase is open source, with Cloud, Personal Desktop, and self-hosting options.<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/NCFRPHEHNAHLX7\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/products/busabase\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：general,AI,agents,Busabase,system,record<br>\n<strong>票数</strong>： 🔺348<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2026年10月09日 PM03:01 (北京时间)<br><br></p>\n",
       "image": "https://ph-files.imgix.net/eb748a8f-c19d-4da5-b287-1db67973800d.png?auto=format&fit=crop&frame=1&h=512&w=1024",
       "date_published": "2026-10-09T00:00:00.000Z",
-      "date_modified": "2026-10-18T12:22:55.425Z",
+      "date_modified": "2026-10-19T15:12:35.966Z",
       "authors": [],
       "tags": [
         "PH"
@@ -126,21 +140,7 @@
       "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-openswarm\"><span></span></a><a href=\"https://www.producthunt.com/products/openswarm-3\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1    OpenSwarm</a></h2>\n<p><img src=\"https://ph-files.imgix.net/11f053b0-1939-408e-b385-1a0f3d478482.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"OpenSwarm\" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>：A swarm of agents, in the same place you work<br>\n<strong>【介绍】</strong>：Stop bolting AI onto your computer. OpenSwarm is an AI-first operating system where agents run the whole machine: apps create themselves, browsers control themselves, and swarms of agents work together. Your OS just became an infinite canvas, and your work just transformed from you doing one task at a time, to orchestrating dozens in parallel. Tell it what you want and a swarm of agents does the work with you at the helm.<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/Y54VBVRLNCMW2B\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/products/openswarm-3\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：agents,work,swarm,AI,your,themselves<br>\n<strong>票数</strong>： 🔺376<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2026年10月08日 PM03:01 (北京时间)<br><br></p>\n",
       "image": "https://ph-files.imgix.net/11f053b0-1939-408e-b385-1a0f3d478482.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024",
       "date_published": "2026-10-08T00:00:00.000Z",
-      "date_modified": "2026-10-18T12:22:55.426Z",
-      "authors": [],
-      "tags": [
-        "PH"
-      ]
-    },
-    {
-      "title": "PH今日热榜 | 2026-10-07",
-      "url": "https://github.camscanner.top/daily/posts/PH-daily-2026-10-07.html",
-      "id": "https://github.camscanner.top/daily/posts/PH-daily-2026-10-07.html",
-      "summary": "TOP1 IrisGo for Solopreneurs IrisGo for Solopreneurs 【标语】：AI workflow automation: show it once, let it run 【介绍】：IrisGo helps solopreneurs automate recurring work. Get daily brie...",
-      "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-irisgo-for-solopreneurs\"><span></span></a><a href=\"https://www.producthunt.com/products/irisgo-public-beta\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1    IrisGo for Solopreneurs</a></h2>\n<p><img src=\"https://ph-files.imgix.net/11044e05-2084-4f65-a840-99bd5c31d04d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"IrisGo for Solopreneurs\" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>：AI workflow automation: show it once, let it run<br>\n<strong>【介绍】</strong>：IrisGo helps solopreneurs automate recurring work. Get daily briefs, triage email, track to-dos, and turn demonstrated tasks into reusable workflows with Watch &amp; Learn. Spend less time on admin and more time building your business. Free during beta.<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/I2U7KF4RUGEZSO\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/products/irisgo-public-beta\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：time,AI,workflow,automation,show,once<br>\n<strong>票数</strong>： 🔺511<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2026年10月07日 PM03:01 (北京时间)<br><br></p>\n",
-      "image": "https://ph-files.imgix.net/11044e05-2084-4f65-a840-99bd5c31d04d.png?auto=format&fit=crop&frame=1&h=512&w=1024",
-      "date_published": "2026-10-07T00:00:00.000Z",
-      "date_modified": "2026-10-18T12:22:55.426Z",
+      "date_modified": "2026-10-19T15:12:35.967Z",
       "authors": [],
       "tags": [
         "PH"
