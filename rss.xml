@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 19 Oct 2026 15:12:35 GMT</pubDate>
-    <lastBuildDate>Mon, 19 Oct 2026 15:12:35 GMT</lastBuildDate>
+    <pubDate>Tue, 20 Oct 2026 13:12:43 GMT</pubDate>
+    <lastBuildDate>Tue, 20 Oct 2026 13:12:43 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-10-18</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-18.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-10-18.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-10-18</source>
+      <description>TOP1 Inbox Zero Inbox Zero 【标语】：Open-source Superhuman alternative 【介绍】：Inbox Zero Mail is an open-source email client for Gmail and Outlook. Fast, keyboard-first, and free to u...</description>
+      <category>PH</category>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-inbox-zero"><span></span></a><a href="https://www.producthunt.com/products/inbox-zero-2" target="_blank" rel="noopener noreferrer">TOP1    Inbox Zero</a></h2>
+<p><img src="https://ph-files.imgix.net/2f067ad5-1e46-4ce9-9c74-5e4ff1d128bd.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Inbox Zero" loading="lazy"><br><br>
+<strong>【标语】</strong>：Open-source Superhuman alternative<br>
+<strong>【介绍】</strong>：Inbox Zero Mail is an open-source email client for Gmail and Outlook. Fast, keyboard-first, and free to use, on web, Mac, Windows and iPhone, with all your accounts in one inbox. Add AI for $20/mo: every email is sorted, and replies are drafted in your voice before you open them. Comment privately with your team, get Slack alerts, and give the AI context from your tools.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/FK6F3KNVDZW35Y" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/inbox-zero-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：your,source,open,email,AI,Open<br>
+<strong>票数</strong>： 🔺343<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年10月18日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/2f067ad5-1e46-4ce9-9c74-5e4ff1d128bd.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-10-17</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-17.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年10月09日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/eb748a8f-c19d-4da5-b287-1db67973800d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-10-08</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-08.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-10-08.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-10-08</source>
-      <description>TOP1 OpenSwarm OpenSwarm 【标语】：A swarm of agents, in the same place you work 【介绍】：Stop bolting AI onto your computer. OpenSwarm is an AI-first operating system where agents run t...</description>
-      <category>PH</category>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-openswarm"><span></span></a><a href="https://www.producthunt.com/products/openswarm-3" target="_blank" rel="noopener noreferrer">TOP1    OpenSwarm</a></h2>
-<p><img src="https://ph-files.imgix.net/11f053b0-1939-408e-b385-1a0f3d478482.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="OpenSwarm" loading="lazy"><br><br>
-<strong>【标语】</strong>：A swarm of agents, in the same place you work<br>
-<strong>【介绍】</strong>：Stop bolting AI onto your computer. OpenSwarm is an AI-first operating system where agents run the whole machine: apps create themselves, browsers control themselves, and swarms of agents work together. Your OS just became an infinite canvas, and your work just transformed from you doing one task at a time, to orchestrating dozens in parallel. Tell it what you want and a swarm of agents does the work with you at the helm.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/Y54VBVRLNCMW2B" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/openswarm-3" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：agents,work,swarm,AI,your,themselves<br>
-<strong>票数</strong>： 🔺376<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年10月08日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/11f053b0-1939-408e-b385-1a0f3d478482.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
