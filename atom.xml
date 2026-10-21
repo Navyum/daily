@@ -4,16 +4,41 @@
   <title>DAYHACK</title>
   <subtitle>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</subtitle>
   <icon>https://github.camscanner.top/daily/favicon.ico</icon>
-  <updated>2026-10-20T13:12:43.843Z</updated>
+  <updated>2026-10-21T13:22:29.801Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/"/>
   <category term="PH"/>
   <entry>
+    <title type="text">PH今日热榜 | 2026-10-19</title>
+    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-19.html</id>
+    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-19.html"/>
+    <updated>2026-10-21T13:22:29.802Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-beam-win"><span></span></a><a href="https://www.producthunt.com/products/beam-win" target="_blank" rel="noopener noreferrer">TOP1    Beam.win</a></h2>
+<p><img src="https://ph-files.imgix.net/30edef9e-850e-451a-86d4-81f7cf48e1d0.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Beam.win" loading="lazy"><br><br>
+<strong>【标语】</strong>：Run AI agents on one Mac and use its windows on another<br>
+<strong>【介绍】</strong>：Keep your agents and builds running on a Mac mini or Studio. Beam brings their Terminal, browser and other app windows onto the Mac in front of you, each as its own window with a Dock icon and ⌘Tab presence. Encrypted between your Macs. Free to try.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/XR2QV6TXWMZHHX" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/beam-win" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-beam-win"><span></span></a><a href="https://www.producthunt.com/products/beam-win" target="_blank" rel="noopener noreferrer">TOP1    Beam.win</a></h2>
+<p><img src="https://ph-files.imgix.net/30edef9e-850e-451a-86d4-81f7cf48e1d0.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Beam.win" loading="lazy"><br><br>
+<strong>【标语】</strong>：Run AI agents on one Mac and use its windows on another<br>
+<strong>【介绍】</strong>：Keep your agents and builds running on a Mac mini or Studio. Beam brings their Terminal, browser and other app windows onto the Mac in front of you, each as its own window with a Dock icon and ⌘Tab presence. Encrypted between your Macs. Free to try.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/XR2QV6TXWMZHHX" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/beam-win" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：Mac,agents,its,windows,your,Run<br>
+<strong>票数</strong>： 🔺352<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年10月19日 PM03:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2026-10-19T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">PH今日热榜 | 2026-10-18</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-18.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-18.html"/>
-    <updated>2026-10-20T13:12:43.845Z</updated>
+    <updated>2026-10-21T13:22:29.820Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-inbox-zero"><span></span></a><a href="https://www.producthunt.com/products/inbox-zero-2" target="_blank" rel="noopener noreferrer">TOP1    Inbox Zero</a></h2>
 <p><img src="https://ph-files.imgix.net/2f067ad5-1e46-4ce9-9c74-5e4ff1d128bd.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Inbox Zero" loading="lazy"><br><br>
 <strong>【标语】</strong>：Open-source Superhuman alternative<br>
@@ -38,7 +63,7 @@
     <title type="text">PH今日热榜 | 2026-10-17</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-17.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-17.html"/>
-    <updated>2026-10-20T13:12:43.862Z</updated>
+    <updated>2026-10-21T13:22:29.836Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-nitrostack"><span></span></a><a href="https://www.producthunt.com/products/nitrostack" target="_blank" rel="noopener noreferrer">TOP1    NitroStack</a></h2>
 <p><img src="https://ph-files.imgix.net/5e19b60e-627e-4cba-a56b-afe217d6e2c1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="NitroStack" loading="lazy"><br><br>
 <strong>【标语】</strong>：Build, test, and deploy MCP servers in one place<br>
@@ -63,7 +88,7 @@
     <title type="text">PH今日热榜 | 2026-10-16</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-16.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-16.html"/>
-    <updated>2026-10-20T13:12:43.877Z</updated>
+    <updated>2026-10-21T13:22:29.846Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-jockey-by-twelvelabs"><span></span></a><a href="https://www.producthunt.com/products/twelvelabs" target="_blank" rel="noopener noreferrer">TOP1    Jockey by TwelveLabs</a></h2>
 <p><img src="https://ph-files.imgix.net/18985122-061d-4872-8db4-3b819ca49b15.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Jockey by TwelveLabs" loading="lazy"><br><br>
 <strong>【标语】</strong>：Your entire video library: organized, searchable, understood<br>
@@ -88,7 +113,7 @@
     <title type="text">PH今日热榜 | 2026-10-15</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-15.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-15.html"/>
-    <updated>2026-10-20T13:12:43.887Z</updated>
+    <updated>2026-10-21T13:22:29.866Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-talanoa"><span></span></a><a href="https://www.producthunt.com/products/talanoa-2" target="_blank" rel="noopener noreferrer">TOP1    Talanoa</a></h2>
 <p><img src="https://ph-files.imgix.net/d306f955-72db-4d6a-b699-146ee83a87b6.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Talanoa" loading="lazy"><br><br>
 <strong>【标语】</strong>：Email that feels like chat<br>
@@ -113,7 +138,7 @@
     <title type="text">PH今日热榜 | 2026-10-14</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-14.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-14.html"/>
-    <updated>2026-10-20T13:12:43.904Z</updated>
+    <updated>2026-10-21T13:22:29.879Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-pancake"><span></span></a><a href="https://www.producthunt.com/products/pancake-6" target="_blank" rel="noopener noreferrer">TOP1    Pancake</a></h2>
 <p><img src="https://ph-files.imgix.net/d77de011-9237-4f78-bedc-3e03372e2824.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Pancake" loading="lazy"><br><br>
 <strong>【标语】</strong>：The Vercel for GTM<br>
@@ -138,7 +163,7 @@
     <title type="text">PH今日热榜 | 2026-10-13</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-13.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-13.html"/>
-    <updated>2026-10-20T13:12:43.918Z</updated>
+    <updated>2026-10-21T13:22:29.894Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-articos-mcp"><span></span></a><a href="https://www.producthunt.com/products/articos" target="_blank" rel="noopener noreferrer">TOP1    Articos MCP</a></h2>
 <p><img src="https://ph-files.imgix.net/bf8a4aba-000b-4cce-86ca-fb88380bb028.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Articos MCP" loading="lazy"><br><br>
 <strong>【标语】</strong>：See how simulated buyers react, right in your agent<br>
@@ -163,7 +188,7 @@
     <title type="text">PH今日热榜 | 2026-10-12</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-12.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-12.html"/>
-    <updated>2026-10-20T13:12:43.927Z</updated>
+    <updated>2026-10-21T13:22:29.909Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-google-embeddinggemma-2"><span></span></a><a href="https://www.producthunt.com/products/embeddinggemma-2" target="_blank" rel="noopener noreferrer">TOP1    Google EmbeddingGemma 2</a></h2>
 <p><img src="https://ph-files.imgix.net/377e5470-e67b-4400-ab00-7563bc2105e8.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Google EmbeddingGemma 2" loading="lazy"><br><br>
 <strong>【标语】</strong>：An open, lightweight multimodal embedding model<br>
@@ -188,7 +213,7 @@
     <title type="text">PH今日热榜 | 2026-10-11</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-11.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-11.html"/>
-    <updated>2026-10-20T13:12:43.942Z</updated>
+    <updated>2026-10-21T13:22:29.920Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-hirekey"><span></span></a><a href="https://www.producthunt.com/products/hirekey" target="_blank" rel="noopener noreferrer">TOP1    HireKey</a></h2>
 <p><img src="https://ph-files.imgix.net/586457d1-e416-4f5c-8f53-6b8bd91db72a.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="HireKey" loading="lazy"><br><br>
 <strong>【标语】</strong>：Your recruiter-informed AI copilot for tech job search<br>
@@ -213,7 +238,7 @@
     <title type="text">PH今日热榜 | 2026-10-10</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-10.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-10.html"/>
-    <updated>2026-10-20T13:12:43.952Z</updated>
+    <updated>2026-10-21T13:22:29.939Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-reso-ai"><span></span></a><a href="https://www.producthunt.com/products/reso" target="_blank" rel="noopener noreferrer">TOP1    ReSO AI</a></h2>
 <p><img src="https://ph-files.imgix.net/f21aab5c-70fc-4a05-bd79-103326182d68.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ReSO AI" loading="lazy"><br><br>
 <strong>【标语】</strong>：Get discovered &amp; recommended when customers ask AI<br>
@@ -233,30 +258,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2026-10-10T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2026-10-09</title>
-    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-09.html</id>
-    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-09.html"/>
-    <updated>2026-10-20T13:12:43.966Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-busabase"><span></span></a><a href="https://www.producthunt.com/products/busabase" target="_blank" rel="noopener noreferrer">TOP1    Busabase</a></h2>
-<p><img src="https://ph-files.imgix.net/eb748a8f-c19d-4da5-b287-1db67973800d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Busabase" loading="lazy"><br><br>
-<strong>【标语】</strong>：The general system of record for AI agents<br>
-<strong>【介绍】</strong>：Different agents. One shared base. Busabase is a general-purpose database and workspace for people and AI agents. Keep business records, docs, skills, and apps in one place so the next task can build on them. Connect Claude Code, Codex, and more. Set access, review changes when needed, and see what changed. Busabase is open source, with Cloud, Personal Desktop, and self-hosting options.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/NCFRPHEHNAHLX7" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/busabase" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-busabase"><span></span></a><a href="https://www.producthunt.com/products/busabase" target="_blank" rel="noopener noreferrer">TOP1    Busabase</a></h2>
-<p><img src="https://ph-files.imgix.net/eb748a8f-c19d-4da5-b287-1db67973800d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Busabase" loading="lazy"><br><br>
-<strong>【标语】</strong>：The general system of record for AI agents<br>
-<strong>【介绍】</strong>：Different agents. One shared base. Busabase is a general-purpose database and workspace for people and AI agents. Keep business records, docs, skills, and apps in one place so the next task can build on them. Connect Claude Code, Codex, and more. Set access, review changes when needed, and see what changed. Busabase is open source, with Cloud, Personal Desktop, and self-hosting options.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/NCFRPHEHNAHLX7" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/busabase" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：general,AI,agents,Busabase,system,record<br>
-<strong>票数</strong>： 🔺348<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年10月09日 PM03:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2026-10-09T00:00:00.000Z</published>
   </entry>
 </feed>
