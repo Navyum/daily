@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 21 Oct 2026 13:22:29 GMT</pubDate>
-    <lastBuildDate>Wed, 21 Oct 2026 13:22:29 GMT</lastBuildDate>
+    <pubDate>Thu, 22 Oct 2026 13:22:45 GMT</pubDate>
+    <lastBuildDate>Thu, 22 Oct 2026 13:22:45 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-10-20</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-20.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-10-20.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-10-20</source>
+      <description>TOP1 /dev/null /dev/null 【标语】：a social network for devs 【介绍】：/dev/null started as a live stream from the JetBrains office. On Oct 15, 2026, Nuno Maduro, Brent Roose, Matthieu Na...</description>
+      <category>PH</category>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-dev-null"><span></span></a><a href="https://www.producthunt.com/products/dev-null" target="_blank" rel="noopener noreferrer">TOP1    /dev/null</a></h2>
+<p><img src="https://ph-files.imgix.net/3d0c2d66-ad99-4f2e-b9e4-cd1fa9ec0b05.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="/dev/null" loading="lazy"><br><br>
+<strong>【标语】</strong>：a social network for devs<br>
+<strong>【介绍】</strong>：/dev/null started as a live stream from the JetBrains office. On Oct 15, 2026, Nuno Maduro, Brent Roose, Matthieu Napoli, and Pauline Vos built a social network for web developers from scratch in 48 hours, in the open. Sign in with GitHub, share code snippets, like, reply, etc, etc! Hundreds of you sent PRs. Laravel’s Taylor Otwell stopped by mid-stream (“Laravel forever”), and Vercel’s Guillermo Rauch called it “really well done.” Thank you for watching, sharing, and roasting us.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/CQPWN4LKI7SB2C" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/dev-null" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：social,network,stream,etc,Laravel,devs<br>
+<strong>票数</strong>： 🔺468<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年10月20日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/3d0c2d66-ad99-4f2e-b9e4-cd1fa9ec0b05.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-10-19</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-19.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年10月11日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/586457d1-e416-4f5c-8f53-6b8bd91db72a.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-10-10</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-10.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-10-10.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-10-10</source>
-      <description>TOP1 ReSO AI ReSO AI 【标语】：Get discovered &amp; recommended when customers ask AI 【介绍】：ReSO is a generative engine optimization platform that helps brands show up in AI search result...</description>
-      <category>PH</category>
-      <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-reso-ai"><span></span></a><a href="https://www.producthunt.com/products/reso" target="_blank" rel="noopener noreferrer">TOP1    ReSO AI</a></h2>
-<p><img src="https://ph-files.imgix.net/f21aab5c-70fc-4a05-bd79-103326182d68.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ReSO AI" loading="lazy"><br><br>
-<strong>【标语】</strong>：Get discovered &amp; recommended when customers ask AI<br>
-<strong>【介绍】</strong>：ReSO is a generative engine optimization platform that helps brands show up in AI search results. It’s built for founders, CMOs, and growth teams who want to turn buyer intent in ChatGPT, Perplexity, and Google AIO into visibility, citations, and traffic. What makes it different is that it doesn’t just track rankings, it analyzes intent, competitors, content gaps, and technical issues, then turns them into priority actions to improve AI recommendations.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/E6PNMMFOZ76WY4" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/reso" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：AI,intent,into,Get,discovered,recommended<br>
-<strong>票数</strong>： 🔺458<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年10月10日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/f21aab5c-70fc-4a05-bd79-103326182d68.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
