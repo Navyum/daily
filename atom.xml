@@ -4,16 +4,41 @@
   <title>DAYHACK</title>
   <subtitle>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</subtitle>
   <icon>https://github.camscanner.top/daily/favicon.ico</icon>
-  <updated>2026-10-22T13:22:45.893Z</updated>
+  <updated>2026-10-23T13:01:13.517Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/"/>
   <category term="PH"/>
   <entry>
+    <title type="text">PH今日热榜 | 2026-10-21</title>
+    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-21.html</id>
+    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-21.html"/>
+    <updated>2026-10-23T13:01:13.518Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-useit-studio"><span></span></a><a href="https://www.producthunt.com/products/useit-studio-from-idea-to-delivery" target="_blank" rel="noopener noreferrer">TOP1    UseIt Studio</a></h2>
+<p><img src="https://ph-files.imgix.net/7d59c7ca-92b9-417d-bd34-b4dd52d16ba0.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="UseIt Studio" loading="lazy"><br><br>
+<strong>【标语】</strong>：Your AI design agent for real, editable project files.<br>
+<strong>【介绍】</strong>：UseIt is an AI design studio for things you can hold. Describe what you want in one sentence. UseIt asks what a designer would ask, designs it with you, and lets you refine any detail by pointing at it. You get a real, editable design file, not a flat image, ready to print, cut and fold, with real dimensions, bleed and dielines. Make pins, stickers, gift boxes, pop-up cards, brand kits and more. Use it in your browser, or call it up anywhere on your Windows desktop.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/YLLDQZV3DAU3ZO" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/useit-studio-from-idea-to-delivery" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-useit-studio"><span></span></a><a href="https://www.producthunt.com/products/useit-studio-from-idea-to-delivery" target="_blank" rel="noopener noreferrer">TOP1    UseIt Studio</a></h2>
+<p><img src="https://ph-files.imgix.net/7d59c7ca-92b9-417d-bd34-b4dd52d16ba0.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="UseIt Studio" loading="lazy"><br><br>
+<strong>【标语】</strong>：Your AI design agent for real, editable project files.<br>
+<strong>【介绍】</strong>：UseIt is an AI design studio for things you can hold. Describe what you want in one sentence. UseIt asks what a designer would ask, designs it with you, and lets you refine any detail by pointing at it. You get a real, editable design file, not a flat image, ready to print, cut and fold, with real dimensions, bleed and dielines. Make pins, stickers, gift boxes, pop-up cards, brand kits and more. Use it in your browser, or call it up anywhere on your Windows desktop.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/YLLDQZV3DAU3ZO" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/useit-studio-from-idea-to-delivery" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：design,real,AI,editable,UseIt,what<br>
+<strong>票数</strong>： 🔺328<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年10月21日 PM03:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2026-10-21T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">PH今日热榜 | 2026-10-20</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-20.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-20.html"/>
-    <updated>2026-10-22T13:22:45.895Z</updated>
+    <updated>2026-10-23T13:01:13.543Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-dev-null"><span></span></a><a href="https://www.producthunt.com/products/dev-null" target="_blank" rel="noopener noreferrer">TOP1    /dev/null</a></h2>
 <p><img src="https://ph-files.imgix.net/3d0c2d66-ad99-4f2e-b9e4-cd1fa9ec0b05.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="/dev/null" loading="lazy"><br><br>
 <strong>【标语】</strong>：a social network for devs<br>
@@ -38,7 +63,7 @@
     <title type="text">PH今日热榜 | 2026-10-19</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-19.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-19.html"/>
-    <updated>2026-10-22T13:22:45.912Z</updated>
+    <updated>2026-10-23T13:01:13.553Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-beam-win"><span></span></a><a href="https://www.producthunt.com/products/beam-win" target="_blank" rel="noopener noreferrer">TOP1    Beam.win</a></h2>
 <p><img src="https://ph-files.imgix.net/30edef9e-850e-451a-86d4-81f7cf48e1d0.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Beam.win" loading="lazy"><br><br>
 <strong>【标语】</strong>：Run AI agents on one Mac and use its windows on another<br>
@@ -63,7 +88,7 @@
     <title type="text">PH今日热榜 | 2026-10-18</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-18.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-18.html"/>
-    <updated>2026-10-22T13:22:45.928Z</updated>
+    <updated>2026-10-23T13:01:13.567Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-inbox-zero"><span></span></a><a href="https://www.producthunt.com/products/inbox-zero-2" target="_blank" rel="noopener noreferrer">TOP1    Inbox Zero</a></h2>
 <p><img src="https://ph-files.imgix.net/2f067ad5-1e46-4ce9-9c74-5e4ff1d128bd.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Inbox Zero" loading="lazy"><br><br>
 <strong>【标语】</strong>：Open-source Superhuman alternative<br>
@@ -88,7 +113,7 @@
     <title type="text">PH今日热榜 | 2026-10-17</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-17.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-17.html"/>
-    <updated>2026-10-22T13:22:45.936Z</updated>
+    <updated>2026-10-23T13:01:13.582Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-nitrostack"><span></span></a><a href="https://www.producthunt.com/products/nitrostack" target="_blank" rel="noopener noreferrer">TOP1    NitroStack</a></h2>
 <p><img src="https://ph-files.imgix.net/5e19b60e-627e-4cba-a56b-afe217d6e2c1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="NitroStack" loading="lazy"><br><br>
 <strong>【标语】</strong>：Build, test, and deploy MCP servers in one place<br>
@@ -113,7 +138,7 @@
     <title type="text">PH今日热榜 | 2026-10-16</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-16.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-16.html"/>
-    <updated>2026-10-22T13:22:45.955Z</updated>
+    <updated>2026-10-23T13:01:13.590Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-jockey-by-twelvelabs"><span></span></a><a href="https://www.producthunt.com/products/twelvelabs" target="_blank" rel="noopener noreferrer">TOP1    Jockey by TwelveLabs</a></h2>
 <p><img src="https://ph-files.imgix.net/18985122-061d-4872-8db4-3b819ca49b15.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Jockey by TwelveLabs" loading="lazy"><br><br>
 <strong>【标语】</strong>：Your entire video library: organized, searchable, understood<br>
@@ -138,7 +163,7 @@
     <title type="text">PH今日热榜 | 2026-10-15</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-15.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-15.html"/>
-    <updated>2026-10-22T13:22:45.970Z</updated>
+    <updated>2026-10-23T13:01:13.605Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-talanoa"><span></span></a><a href="https://www.producthunt.com/products/talanoa-2" target="_blank" rel="noopener noreferrer">TOP1    Talanoa</a></h2>
 <p><img src="https://ph-files.imgix.net/d306f955-72db-4d6a-b699-146ee83a87b6.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Talanoa" loading="lazy"><br><br>
 <strong>【标语】</strong>：Email that feels like chat<br>
@@ -163,7 +188,7 @@
     <title type="text">PH今日热榜 | 2026-10-14</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-14.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-14.html"/>
-    <updated>2026-10-22T13:22:45.980Z</updated>
+    <updated>2026-10-23T13:01:13.615Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-pancake"><span></span></a><a href="https://www.producthunt.com/products/pancake-6" target="_blank" rel="noopener noreferrer">TOP1    Pancake</a></h2>
 <p><img src="https://ph-files.imgix.net/d77de011-9237-4f78-bedc-3e03372e2824.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Pancake" loading="lazy"><br><br>
 <strong>【标语】</strong>：The Vercel for GTM<br>
@@ -188,7 +213,7 @@
     <title type="text">PH今日热榜 | 2026-10-13</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-13.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-13.html"/>
-    <updated>2026-10-22T13:22:45.996Z</updated>
+    <updated>2026-10-23T13:01:13.630Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-articos-mcp"><span></span></a><a href="https://www.producthunt.com/products/articos" target="_blank" rel="noopener noreferrer">TOP1    Articos MCP</a></h2>
 <p><img src="https://ph-files.imgix.net/bf8a4aba-000b-4cce-86ca-fb88380bb028.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Articos MCP" loading="lazy"><br><br>
 <strong>【标语】</strong>：See how simulated buyers react, right in your agent<br>
@@ -213,7 +238,7 @@
     <title type="text">PH今日热榜 | 2026-10-12</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-12.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-12.html"/>
-    <updated>2026-10-22T13:22:46.010Z</updated>
+    <updated>2026-10-23T13:01:13.637Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-google-embeddinggemma-2"><span></span></a><a href="https://www.producthunt.com/products/embeddinggemma-2" target="_blank" rel="noopener noreferrer">TOP1    Google EmbeddingGemma 2</a></h2>
 <p><img src="https://ph-files.imgix.net/377e5470-e67b-4400-ab00-7563bc2105e8.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Google EmbeddingGemma 2" loading="lazy"><br><br>
 <strong>【标语】</strong>：An open, lightweight multimodal embedding model<br>
@@ -233,30 +258,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2026-10-12T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2026-10-11</title>
-    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-11.html</id>
-    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-11.html"/>
-    <updated>2026-10-22T13:22:46.025Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-hirekey"><span></span></a><a href="https://www.producthunt.com/products/hirekey" target="_blank" rel="noopener noreferrer">TOP1    HireKey</a></h2>
-<p><img src="https://ph-files.imgix.net/586457d1-e416-4f5c-8f53-6b8bd91db72a.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="HireKey" loading="lazy"><br><br>
-<strong>【标语】</strong>：Your recruiter-informed AI copilot for tech job search<br>
-<strong>【介绍】</strong>：HireKey is a recruiter-informed AI job-search co-pilot for tech job seekers who want to apply strategically &amp; interview with confidence. It helps you assess your role fit, tailor resumes, communicate experience &amp; track applications. Unlike basic ATS tools, HireKey combines AI with 10 years of recruiting experience at Microsoft, Amazon &amp; Stripe, plus practice out loud with an interactive AI voice coach that responds to your answers &amp; provides real-time interview feedback.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/VMWKGHD733ZQGV" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/hirekey" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-hirekey"><span></span></a><a href="https://www.producthunt.com/products/hirekey" target="_blank" rel="noopener noreferrer">TOP1    HireKey</a></h2>
-<p><img src="https://ph-files.imgix.net/586457d1-e416-4f5c-8f53-6b8bd91db72a.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="HireKey" loading="lazy"><br><br>
-<strong>【标语】</strong>：Your recruiter-informed AI copilot for tech job search<br>
-<strong>【介绍】</strong>：HireKey is a recruiter-informed AI job-search co-pilot for tech job seekers who want to apply strategically &amp; interview with confidence. It helps you assess your role fit, tailor resumes, communicate experience &amp; track applications. Unlike basic ATS tools, HireKey combines AI with 10 years of recruiting experience at Microsoft, Amazon &amp; Stripe, plus practice out loud with an interactive AI voice coach that responds to your answers &amp; provides real-time interview feedback.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/VMWKGHD733ZQGV" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/hirekey" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：AI,job,recruiter,informed,tech,interview<br>
-<strong>票数</strong>： 🔺268<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年10月11日 PM03:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2026-10-11T00:00:00.000Z</published>
   </entry>
 </feed>

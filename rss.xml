@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 22 Oct 2026 13:22:45 GMT</pubDate>
-    <lastBuildDate>Thu, 22 Oct 2026 13:22:45 GMT</lastBuildDate>
+    <pubDate>Fri, 23 Oct 2026 13:01:13 GMT</pubDate>
+    <lastBuildDate>Fri, 23 Oct 2026 13:01:13 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-10-21</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-21.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-10-21.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-10-21</source>
+      <description>TOP1 UseIt Studio UseIt Studio 【标语】：Your AI design agent for real, editable project files. 【介绍】：UseIt is an AI design studio for things you can hold. Describe what you want in o...</description>
+      <category>PH</category>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-useit-studio"><span></span></a><a href="https://www.producthunt.com/products/useit-studio-from-idea-to-delivery" target="_blank" rel="noopener noreferrer">TOP1    UseIt Studio</a></h2>
+<p><img src="https://ph-files.imgix.net/7d59c7ca-92b9-417d-bd34-b4dd52d16ba0.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="UseIt Studio" loading="lazy"><br><br>
+<strong>【标语】</strong>：Your AI design agent for real, editable project files.<br>
+<strong>【介绍】</strong>：UseIt is an AI design studio for things you can hold. Describe what you want in one sentence. UseIt asks what a designer would ask, designs it with you, and lets you refine any detail by pointing at it. You get a real, editable design file, not a flat image, ready to print, cut and fold, with real dimensions, bleed and dielines. Make pins, stickers, gift boxes, pop-up cards, brand kits and more. Use it in your browser, or call it up anywhere on your Windows desktop.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/YLLDQZV3DAU3ZO" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/useit-studio-from-idea-to-delivery" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：design,real,AI,editable,UseIt,what<br>
+<strong>票数</strong>： 🔺328<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年10月21日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/7d59c7ca-92b9-417d-bd34-b4dd52d16ba0.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-10-20</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-20.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年10月12日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/377e5470-e67b-4400-ab00-7563bc2105e8.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-10-11</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-11.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-10-11.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-10-11</source>
-      <description>TOP1 HireKey HireKey 【标语】：Your recruiter-informed AI copilot for tech job search 【介绍】：HireKey is a recruiter-informed AI job-search co-pilot for tech job seekers who want to app...</description>
-      <category>PH</category>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-hirekey"><span></span></a><a href="https://www.producthunt.com/products/hirekey" target="_blank" rel="noopener noreferrer">TOP1    HireKey</a></h2>
-<p><img src="https://ph-files.imgix.net/586457d1-e416-4f5c-8f53-6b8bd91db72a.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="HireKey" loading="lazy"><br><br>
-<strong>【标语】</strong>：Your recruiter-informed AI copilot for tech job search<br>
-<strong>【介绍】</strong>：HireKey is a recruiter-informed AI job-search co-pilot for tech job seekers who want to apply strategically &amp; interview with confidence. It helps you assess your role fit, tailor resumes, communicate experience &amp; track applications. Unlike basic ATS tools, HireKey combines AI with 10 years of recruiting experience at Microsoft, Amazon &amp; Stripe, plus practice out loud with an interactive AI voice coach that responds to your answers &amp; provides real-time interview feedback.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/VMWKGHD733ZQGV" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/hirekey" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：AI,job,recruiter,informed,tech,interview<br>
-<strong>票数</strong>： 🔺268<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年10月11日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/586457d1-e416-4f5c-8f53-6b8bd91db72a.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
