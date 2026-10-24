@@ -4,16 +4,41 @@
   <title>DAYHACK</title>
   <subtitle>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</subtitle>
   <icon>https://github.camscanner.top/daily/favicon.ico</icon>
-  <updated>2026-10-23T13:01:13.517Z</updated>
+  <updated>2026-10-24T12:24:03.039Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/"/>
   <category term="PH"/>
   <entry>
+    <title type="text">PH今日热榜 | 2026-10-22</title>
+    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-22.html</id>
+    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-22.html"/>
+    <updated>2026-10-24T12:24:03.040Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-deepcell"><span></span></a><a href="https://www.producthunt.com/products/deepcell" target="_blank" rel="noopener noreferrer">TOP1    DeepCell</a></h2>
+<p><img src="https://ph-files.imgix.net/4213bd09-4a21-4aa1-9b09-259b899ddfba.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="DeepCell" loading="lazy"><br><br>
+<strong>【标语】</strong>：Your deadline survival kit for office work<br>
+<strong>【介绍】</strong>：Deepcell can help you with deadline tasks that require narrations, calculation and presentation at the same time, such as modeling, sales review, budget forecast and monthly report. DeepCell (both web app and agent plug-in) can create ready-to-use docs, spreadsheets, and slides—with sources and cheat sheets to help you explain. Furthermore, every edit can update related parts. The product is built on a newly designed document format (.deepcell), which is especially designed for system two tasks.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/QQW4YFA2J3HRIM" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/deepcell" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-deepcell"><span></span></a><a href="https://www.producthunt.com/products/deepcell" target="_blank" rel="noopener noreferrer">TOP1    DeepCell</a></h2>
+<p><img src="https://ph-files.imgix.net/4213bd09-4a21-4aa1-9b09-259b899ddfba.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="DeepCell" loading="lazy"><br><br>
+<strong>【标语】</strong>：Your deadline survival kit for office work<br>
+<strong>【介绍】</strong>：Deepcell can help you with deadline tasks that require narrations, calculation and presentation at the same time, such as modeling, sales review, budget forecast and monthly report. DeepCell (both web app and agent plug-in) can create ready-to-use docs, spreadsheets, and slides—with sources and cheat sheets to help you explain. Furthermore, every edit can update related parts. The product is built on a newly designed document format (.deepcell), which is especially designed for system two tasks.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/QQW4YFA2J3HRIM" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/deepcell" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：deadline,help,tasks,designed,Your,survival<br>
+<strong>票数</strong>： 🔺336<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年10月22日 PM03:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2026-10-22T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">PH今日热榜 | 2026-10-21</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-21.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-21.html"/>
-    <updated>2026-10-23T13:01:13.518Z</updated>
+    <updated>2026-10-24T12:24:03.055Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-useit-studio"><span></span></a><a href="https://www.producthunt.com/products/useit-studio-from-idea-to-delivery" target="_blank" rel="noopener noreferrer">TOP1    UseIt Studio</a></h2>
 <p><img src="https://ph-files.imgix.net/7d59c7ca-92b9-417d-bd34-b4dd52d16ba0.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="UseIt Studio" loading="lazy"><br><br>
 <strong>【标语】</strong>：Your AI design agent for real, editable project files.<br>
@@ -38,7 +63,7 @@
     <title type="text">PH今日热榜 | 2026-10-20</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-20.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-20.html"/>
-    <updated>2026-10-23T13:01:13.543Z</updated>
+    <updated>2026-10-24T12:24:03.069Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-dev-null"><span></span></a><a href="https://www.producthunt.com/products/dev-null" target="_blank" rel="noopener noreferrer">TOP1    /dev/null</a></h2>
 <p><img src="https://ph-files.imgix.net/3d0c2d66-ad99-4f2e-b9e4-cd1fa9ec0b05.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="/dev/null" loading="lazy"><br><br>
 <strong>【标语】</strong>：a social network for devs<br>
@@ -63,7 +88,7 @@
     <title type="text">PH今日热榜 | 2026-10-19</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-19.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-19.html"/>
-    <updated>2026-10-23T13:01:13.553Z</updated>
+    <updated>2026-10-24T12:24:03.083Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-beam-win"><span></span></a><a href="https://www.producthunt.com/products/beam-win" target="_blank" rel="noopener noreferrer">TOP1    Beam.win</a></h2>
 <p><img src="https://ph-files.imgix.net/30edef9e-850e-451a-86d4-81f7cf48e1d0.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Beam.win" loading="lazy"><br><br>
 <strong>【标语】</strong>：Run AI agents on one Mac and use its windows on another<br>
@@ -88,7 +113,7 @@
     <title type="text">PH今日热榜 | 2026-10-18</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-18.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-18.html"/>
-    <updated>2026-10-23T13:01:13.567Z</updated>
+    <updated>2026-10-24T12:24:03.090Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-inbox-zero"><span></span></a><a href="https://www.producthunt.com/products/inbox-zero-2" target="_blank" rel="noopener noreferrer">TOP1    Inbox Zero</a></h2>
 <p><img src="https://ph-files.imgix.net/2f067ad5-1e46-4ce9-9c74-5e4ff1d128bd.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Inbox Zero" loading="lazy"><br><br>
 <strong>【标语】</strong>：Open-source Superhuman alternative<br>
@@ -113,7 +138,7 @@
     <title type="text">PH今日热榜 | 2026-10-17</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-17.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-17.html"/>
-    <updated>2026-10-23T13:01:13.582Z</updated>
+    <updated>2026-10-24T12:24:03.102Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-nitrostack"><span></span></a><a href="https://www.producthunt.com/products/nitrostack" target="_blank" rel="noopener noreferrer">TOP1    NitroStack</a></h2>
 <p><img src="https://ph-files.imgix.net/5e19b60e-627e-4cba-a56b-afe217d6e2c1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="NitroStack" loading="lazy"><br><br>
 <strong>【标语】</strong>：Build, test, and deploy MCP servers in one place<br>
@@ -138,7 +163,7 @@
     <title type="text">PH今日热榜 | 2026-10-16</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-16.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-16.html"/>
-    <updated>2026-10-23T13:01:13.590Z</updated>
+    <updated>2026-10-24T12:24:03.109Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-jockey-by-twelvelabs"><span></span></a><a href="https://www.producthunt.com/products/twelvelabs" target="_blank" rel="noopener noreferrer">TOP1    Jockey by TwelveLabs</a></h2>
 <p><img src="https://ph-files.imgix.net/18985122-061d-4872-8db4-3b819ca49b15.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Jockey by TwelveLabs" loading="lazy"><br><br>
 <strong>【标语】</strong>：Your entire video library: organized, searchable, understood<br>
@@ -163,7 +188,7 @@
     <title type="text">PH今日热榜 | 2026-10-15</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-15.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-15.html"/>
-    <updated>2026-10-23T13:01:13.605Z</updated>
+    <updated>2026-10-24T12:24:03.122Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-talanoa"><span></span></a><a href="https://www.producthunt.com/products/talanoa-2" target="_blank" rel="noopener noreferrer">TOP1    Talanoa</a></h2>
 <p><img src="https://ph-files.imgix.net/d306f955-72db-4d6a-b699-146ee83a87b6.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Talanoa" loading="lazy"><br><br>
 <strong>【标语】</strong>：Email that feels like chat<br>
@@ -188,7 +213,7 @@
     <title type="text">PH今日热榜 | 2026-10-14</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-14.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-14.html"/>
-    <updated>2026-10-23T13:01:13.615Z</updated>
+    <updated>2026-10-24T12:24:03.129Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-pancake"><span></span></a><a href="https://www.producthunt.com/products/pancake-6" target="_blank" rel="noopener noreferrer">TOP1    Pancake</a></h2>
 <p><img src="https://ph-files.imgix.net/d77de011-9237-4f78-bedc-3e03372e2824.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Pancake" loading="lazy"><br><br>
 <strong>【标语】</strong>：The Vercel for GTM<br>
@@ -213,7 +238,7 @@
     <title type="text">PH今日热榜 | 2026-10-13</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-13.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-13.html"/>
-    <updated>2026-10-23T13:01:13.630Z</updated>
+    <updated>2026-10-24T12:24:03.141Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-articos-mcp"><span></span></a><a href="https://www.producthunt.com/products/articos" target="_blank" rel="noopener noreferrer">TOP1    Articos MCP</a></h2>
 <p><img src="https://ph-files.imgix.net/bf8a4aba-000b-4cce-86ca-fb88380bb028.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Articos MCP" loading="lazy"><br><br>
 <strong>【标语】</strong>：See how simulated buyers react, right in your agent<br>
@@ -233,30 +258,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2026-10-13T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2026-10-12</title>
-    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-12.html</id>
-    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-12.html"/>
-    <updated>2026-10-23T13:01:13.637Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-google-embeddinggemma-2"><span></span></a><a href="https://www.producthunt.com/products/embeddinggemma-2" target="_blank" rel="noopener noreferrer">TOP1    Google EmbeddingGemma 2</a></h2>
-<p><img src="https://ph-files.imgix.net/377e5470-e67b-4400-ab00-7563bc2105e8.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Google EmbeddingGemma 2" loading="lazy"><br><br>
-<strong>【标语】</strong>：An open, lightweight multimodal embedding model<br>
-<strong>【介绍】</strong>：EmbeddingGemma 2 is Google DeepMind's open embedding model that maps text, code, images, video and audio into one shared space, so you can search across them from a single query. At 740M parameters it runs on-device, needing about 567MB of RAM on a Pixel 11 Pro for the full multimodal model (191MB for text only). Apache 2.0 licensed, with weights on Hugging Face and Kaggle. MTEB Code score rises from 68.76 to 78.68.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/223DSPCXFFRIJF" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/embeddinggemma-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-google-embeddinggemma-2"><span></span></a><a href="https://www.producthunt.com/products/embeddinggemma-2" target="_blank" rel="noopener noreferrer">TOP1    Google EmbeddingGemma 2</a></h2>
-<p><img src="https://ph-files.imgix.net/377e5470-e67b-4400-ab00-7563bc2105e8.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Google EmbeddingGemma 2" loading="lazy"><br><br>
-<strong>【标语】</strong>：An open, lightweight multimodal embedding model<br>
-<strong>【介绍】</strong>：EmbeddingGemma 2 is Google DeepMind's open embedding model that maps text, code, images, video and audio into one shared space, so you can search across them from a single query. At 740M parameters it runs on-device, needing about 567MB of RAM on a Pixel 11 Pro for the full multimodal model (191MB for text only). Apache 2.0 licensed, with weights on Hugging Face and Kaggle. MTEB Code score rises from 68.76 to 78.68.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/223DSPCXFFRIJF" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/embeddinggemma-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：open,multimodal,embedding,model,text,lightweight<br>
-<strong>票数</strong>： 🔺296<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年10月12日 PM03:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2026-10-12T00:00:00.000Z</published>
   </entry>
 </feed>
