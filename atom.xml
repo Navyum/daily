@@ -4,16 +4,41 @@
   <title>DAYHACK</title>
   <subtitle>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</subtitle>
   <icon>https://github.camscanner.top/daily/favicon.ico</icon>
-  <updated>2026-10-25T12:54:27.164Z</updated>
+  <updated>2026-10-26T14:45:12.010Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/"/>
   <category term="PH"/>
   <entry>
+    <title type="text">PH今日热榜 | 2026-10-24</title>
+    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-24.html</id>
+    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-24.html"/>
+    <updated>2026-10-26T14:45:12.011Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-zcad-ai"><span></span></a><a href="https://www.producthunt.com/products/zcad-ai" target="_blank" rel="noopener noreferrer">TOP1    zCAD AI</a></h2>
+<p><img src="https://ph-files.imgix.net/81056b59-8f93-4160-8c7f-50e6cdb5524b.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="zCAD AI" loading="lazy"><br><br>
+<strong>【标语】</strong>：AI 3D that creates real parts, not just shapes<br>
+<strong>【介绍】</strong>：zCAD. AI is an AI-native platform for generating parametric 3D models, built for designers, makers and engineers. Describe a part or assembly in plain language, and zCAD. AI generates an editable, dimension-driven 3D model built on real CAD geometry, not a static mesh. • Complete assemblies from a single prompt, with mates between parts • Refine in plain language, or edit dimensions in a browser-based CAD editor • Export to STEP for use in any CAD tool<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/VPIBBXXNICLFJA" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/zcad-ai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-zcad-ai"><span></span></a><a href="https://www.producthunt.com/products/zcad-ai" target="_blank" rel="noopener noreferrer">TOP1    zCAD AI</a></h2>
+<p><img src="https://ph-files.imgix.net/81056b59-8f93-4160-8c7f-50e6cdb5524b.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="zCAD AI" loading="lazy"><br><br>
+<strong>【标语】</strong>：AI 3D that creates real parts, not just shapes<br>
+<strong>【介绍】</strong>：zCAD. AI is an AI-native platform for generating parametric 3D models, built for designers, makers and engineers. Describe a part or assembly in plain language, and zCAD. AI generates an editable, dimension-driven 3D model built on real CAD geometry, not a static mesh. • Complete assemblies from a single prompt, with mates between parts • Refine in plain language, or edit dimensions in a browser-based CAD editor • Export to STEP for use in any CAD tool<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/VPIBBXXNICLFJA" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/zcad-ai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：AI,3D,CAD,real,parts,built<br>
+<strong>票数</strong>： 🔺296<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年10月24日 PM03:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2026-10-24T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">PH今日热榜 | 2026-10-23</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-23.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-23.html"/>
-    <updated>2026-10-25T12:54:27.165Z</updated>
+    <updated>2026-10-26T14:45:12.023Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-product-hunt-visual-launch-editor"><span></span></a><a href="https://www.producthunt.com/products/producthunt" target="_blank" rel="noopener noreferrer">TOP1    Product Hunt Visual Launch Editor</a></h2>
 <p><img src="https://ph-files.imgix.net/63e7224f-3120-4869-b8c5-6aca2a63c623.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Product Hunt Visual Launch Editor" loading="lazy"><br><br>
 <strong>【标语】</strong>：See your launch as you build it<br>
@@ -38,7 +63,7 @@
     <title type="text">PH今日热榜 | 2026-10-22</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-22.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-22.html"/>
-    <updated>2026-10-25T12:54:27.176Z</updated>
+    <updated>2026-10-26T14:45:12.036Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-deepcell"><span></span></a><a href="https://www.producthunt.com/products/deepcell" target="_blank" rel="noopener noreferrer">TOP1    DeepCell</a></h2>
 <p><img src="https://ph-files.imgix.net/4213bd09-4a21-4aa1-9b09-259b899ddfba.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="DeepCell" loading="lazy"><br><br>
 <strong>【标语】</strong>：Your deadline survival kit for office work<br>
@@ -63,7 +88,7 @@
     <title type="text">PH今日热榜 | 2026-10-21</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-21.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-21.html"/>
-    <updated>2026-10-25T12:54:27.189Z</updated>
+    <updated>2026-10-26T14:45:12.043Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-useit-studio"><span></span></a><a href="https://www.producthunt.com/products/useit-studio-from-idea-to-delivery" target="_blank" rel="noopener noreferrer">TOP1    UseIt Studio</a></h2>
 <p><img src="https://ph-files.imgix.net/7d59c7ca-92b9-417d-bd34-b4dd52d16ba0.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="UseIt Studio" loading="lazy"><br><br>
 <strong>【标语】</strong>：Your AI design agent for real, editable project files.<br>
@@ -88,7 +113,7 @@
     <title type="text">PH今日热榜 | 2026-10-20</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-20.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-20.html"/>
-    <updated>2026-10-25T12:54:27.194Z</updated>
+    <updated>2026-10-26T14:45:12.057Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-dev-null"><span></span></a><a href="https://www.producthunt.com/products/dev-null" target="_blank" rel="noopener noreferrer">TOP1    /dev/null</a></h2>
 <p><img src="https://ph-files.imgix.net/3d0c2d66-ad99-4f2e-b9e4-cd1fa9ec0b05.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="/dev/null" loading="lazy"><br><br>
 <strong>【标语】</strong>：a social network for devs<br>
@@ -113,7 +138,7 @@
     <title type="text">PH今日热榜 | 2026-10-19</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-19.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-19.html"/>
-    <updated>2026-10-25T12:54:27.205Z</updated>
+    <updated>2026-10-26T14:45:12.068Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-beam-win"><span></span></a><a href="https://www.producthunt.com/products/beam-win" target="_blank" rel="noopener noreferrer">TOP1    Beam.win</a></h2>
 <p><img src="https://ph-files.imgix.net/30edef9e-850e-451a-86d4-81f7cf48e1d0.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Beam.win" loading="lazy"><br><br>
 <strong>【标语】</strong>：Run AI agents on one Mac and use its windows on another<br>
@@ -138,7 +163,7 @@
     <title type="text">PH今日热榜 | 2026-10-18</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-18.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-18.html"/>
-    <updated>2026-10-25T12:54:27.215Z</updated>
+    <updated>2026-10-26T14:45:12.073Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-inbox-zero"><span></span></a><a href="https://www.producthunt.com/products/inbox-zero-2" target="_blank" rel="noopener noreferrer">TOP1    Inbox Zero</a></h2>
 <p><img src="https://ph-files.imgix.net/2f067ad5-1e46-4ce9-9c74-5e4ff1d128bd.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Inbox Zero" loading="lazy"><br><br>
 <strong>【标语】</strong>：Open-source Superhuman alternative<br>
@@ -163,7 +188,7 @@
     <title type="text">PH今日热榜 | 2026-10-17</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-17.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-17.html"/>
-    <updated>2026-10-25T12:54:27.220Z</updated>
+    <updated>2026-10-26T14:45:12.084Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-nitrostack"><span></span></a><a href="https://www.producthunt.com/products/nitrostack" target="_blank" rel="noopener noreferrer">TOP1    NitroStack</a></h2>
 <p><img src="https://ph-files.imgix.net/5e19b60e-627e-4cba-a56b-afe217d6e2c1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="NitroStack" loading="lazy"><br><br>
 <strong>【标语】</strong>：Build, test, and deploy MCP servers in one place<br>
@@ -188,7 +213,7 @@
     <title type="text">PH今日热榜 | 2026-10-16</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-16.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-16.html"/>
-    <updated>2026-10-25T12:54:27.230Z</updated>
+    <updated>2026-10-26T14:45:12.092Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-jockey-by-twelvelabs"><span></span></a><a href="https://www.producthunt.com/products/twelvelabs" target="_blank" rel="noopener noreferrer">TOP1    Jockey by TwelveLabs</a></h2>
 <p><img src="https://ph-files.imgix.net/18985122-061d-4872-8db4-3b819ca49b15.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Jockey by TwelveLabs" loading="lazy"><br><br>
 <strong>【标语】</strong>：Your entire video library: organized, searchable, understood<br>
@@ -213,7 +238,7 @@
     <title type="text">PH今日热榜 | 2026-10-15</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-15.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-15.html"/>
-    <updated>2026-10-25T12:54:27.235Z</updated>
+    <updated>2026-10-26T14:45:12.102Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-talanoa"><span></span></a><a href="https://www.producthunt.com/products/talanoa-2" target="_blank" rel="noopener noreferrer">TOP1    Talanoa</a></h2>
 <p><img src="https://ph-files.imgix.net/d306f955-72db-4d6a-b699-146ee83a87b6.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Talanoa" loading="lazy"><br><br>
 <strong>【标语】</strong>：Email that feels like chat<br>
@@ -233,30 +258,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2026-10-15T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2026-10-14</title>
-    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-14.html</id>
-    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-14.html"/>
-    <updated>2026-10-25T12:54:27.246Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-pancake"><span></span></a><a href="https://www.producthunt.com/products/pancake-6" target="_blank" rel="noopener noreferrer">TOP1    Pancake</a></h2>
-<p><img src="https://ph-files.imgix.net/d77de011-9237-4f78-bedc-3e03372e2824.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Pancake" loading="lazy"><br><br>
-<strong>【标语】</strong>：The Vercel for GTM<br>
-<strong>【介绍】</strong>：Pancake is the Vercel for GTM. It gives you the building blocks to deploy any go-to-market idea from your favorite AI agent, such as Claude or Codex: a GTM Brain, sending infrastructure, and 40+ data providers and enrichment, all accessible through one MCP connection.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/TK5WOCVR7ZG7IU" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/pancake-6" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-pancake"><span></span></a><a href="https://www.producthunt.com/products/pancake-6" target="_blank" rel="noopener noreferrer">TOP1    Pancake</a></h2>
-<p><img src="https://ph-files.imgix.net/d77de011-9237-4f78-bedc-3e03372e2824.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Pancake" loading="lazy"><br><br>
-<strong>【标语】</strong>：The Vercel for GTM<br>
-<strong>【介绍】</strong>：Pancake is the Vercel for GTM. It gives you the building blocks to deploy any go-to-market idea from your favorite AI agent, such as Claude or Codex: a GTM Brain, sending infrastructure, and 40+ data providers and enrichment, all accessible through one MCP connection.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/TK5WOCVR7ZG7IU" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/pancake-6" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：Vercel,GTM,GTMPancake,gives,building,blocks<br>
-<strong>票数</strong>： 🔺559<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年10月14日 PM03:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2026-10-14T00:00:00.000Z</published>
   </entry>
 </feed>

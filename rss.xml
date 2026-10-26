@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 25 Oct 2026 12:54:27 GMT</pubDate>
-    <lastBuildDate>Sun, 25 Oct 2026 12:54:27 GMT</lastBuildDate>
+    <pubDate>Mon, 26 Oct 2026 14:45:12 GMT</pubDate>
+    <lastBuildDate>Mon, 26 Oct 2026 14:45:12 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-10-24</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-24.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-10-24.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-10-24</source>
+      <description>TOP1 zCAD AI zCAD AI 【标语】：AI 3D that creates real parts, not just shapes 【介绍】：zCAD. AI is an AI-native platform for generating parametric 3D models, built for designers, makers ...</description>
+      <category>PH</category>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-zcad-ai"><span></span></a><a href="https://www.producthunt.com/products/zcad-ai" target="_blank" rel="noopener noreferrer">TOP1    zCAD AI</a></h2>
+<p><img src="https://ph-files.imgix.net/81056b59-8f93-4160-8c7f-50e6cdb5524b.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="zCAD AI" loading="lazy"><br><br>
+<strong>【标语】</strong>：AI 3D that creates real parts, not just shapes<br>
+<strong>【介绍】</strong>：zCAD. AI is an AI-native platform for generating parametric 3D models, built for designers, makers and engineers. Describe a part or assembly in plain language, and zCAD. AI generates an editable, dimension-driven 3D model built on real CAD geometry, not a static mesh. • Complete assemblies from a single prompt, with mates between parts • Refine in plain language, or edit dimensions in a browser-based CAD editor • Export to STEP for use in any CAD tool<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/VPIBBXXNICLFJA" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/zcad-ai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：AI,3D,CAD,real,parts,built<br>
+<strong>票数</strong>： 🔺296<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年10月24日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/81056b59-8f93-4160-8c7f-50e6cdb5524b.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-10-23</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-23.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年10月15日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/d306f955-72db-4d6a-b699-146ee83a87b6.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-10-14</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-14.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-10-14.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-10-14</source>
-      <description>TOP1 Pancake Pancake 【标语】：The Vercel for GTM 【介绍】：Pancake is the Vercel for GTM. It gives you the building blocks to deploy any go-to-market idea from your favorite AI agent, su...</description>
-      <category>PH</category>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-pancake"><span></span></a><a href="https://www.producthunt.com/products/pancake-6" target="_blank" rel="noopener noreferrer">TOP1    Pancake</a></h2>
-<p><img src="https://ph-files.imgix.net/d77de011-9237-4f78-bedc-3e03372e2824.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Pancake" loading="lazy"><br><br>
-<strong>【标语】</strong>：The Vercel for GTM<br>
-<strong>【介绍】</strong>：Pancake is the Vercel for GTM. It gives you the building blocks to deploy any go-to-market idea from your favorite AI agent, such as Claude or Codex: a GTM Brain, sending infrastructure, and 40+ data providers and enrichment, all accessible through one MCP connection.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/TK5WOCVR7ZG7IU" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/pancake-6" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：Vercel,GTM,GTMPancake,gives,building,blocks<br>
-<strong>票数</strong>： 🔺559<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年10月14日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/d77de011-9237-4f78-bedc-3e03372e2824.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
