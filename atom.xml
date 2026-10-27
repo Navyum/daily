@@ -4,16 +4,41 @@
   <title>DAYHACK</title>
   <subtitle>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</subtitle>
   <icon>https://github.camscanner.top/daily/favicon.ico</icon>
-  <updated>2026-10-26T14:45:12.010Z</updated>
+  <updated>2026-10-27T13:53:40.904Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/"/>
   <category term="PH"/>
   <entry>
+    <title type="text">PH今日热榜 | 2026-10-25</title>
+    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-25.html</id>
+    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-25.html"/>
+    <updated>2026-10-27T13:53:40.905Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-moli-by-lexmount"><span></span></a><a href="https://www.producthunt.com/products/lexmount-browser" target="_blank" rel="noopener noreferrer">TOP1    Moli by Lexmount</a></h2>
+<p><img src="https://ph-files.imgix.net/51d3c656-21a9-4560-acbb-85df36f5c027.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Moli by Lexmount" loading="lazy"><br><br>
+<strong>【标语】</strong>：The fastest headless browser for agents and harnesses<br>
+<strong>【介绍】</strong>：Moli by Lexmount is our browser engine built from scratch for AI agents. It starts faster and uses less memory than Chrome. Use Moli through Lexmount Browser, our cloud browser platform. Run multiple isolated browser sessions with proxy support while we handle the infrastructure. Let your agents browse, fill out forms, and extract data. Try it in our Playground or connect through our SDK.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/RAM2WW7LJWJVNE" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/lexmount-browser" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-moli-by-lexmount"><span></span></a><a href="https://www.producthunt.com/products/lexmount-browser" target="_blank" rel="noopener noreferrer">TOP1    Moli by Lexmount</a></h2>
+<p><img src="https://ph-files.imgix.net/51d3c656-21a9-4560-acbb-85df36f5c027.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Moli by Lexmount" loading="lazy"><br><br>
+<strong>【标语】</strong>：The fastest headless browser for agents and harnesses<br>
+<strong>【介绍】</strong>：Moli by Lexmount is our browser engine built from scratch for AI agents. It starts faster and uses less memory than Chrome. Use Moli through Lexmount Browser, our cloud browser platform. Run multiple isolated browser sessions with proxy support while we handle the infrastructure. Let your agents browse, fill out forms, and extract data. Try it in our Playground or connect through our SDK.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/RAM2WW7LJWJVNE" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/lexmount-browser" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：browser,our,agents,Lexmount,through,fastest<br>
+<strong>票数</strong>： 🔺285<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年10月25日 PM03:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2026-10-25T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">PH今日热榜 | 2026-10-24</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-24.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-24.html"/>
-    <updated>2026-10-26T14:45:12.011Z</updated>
+    <updated>2026-10-27T13:53:40.922Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-zcad-ai"><span></span></a><a href="https://www.producthunt.com/products/zcad-ai" target="_blank" rel="noopener noreferrer">TOP1    zCAD AI</a></h2>
 <p><img src="https://ph-files.imgix.net/81056b59-8f93-4160-8c7f-50e6cdb5524b.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="zCAD AI" loading="lazy"><br><br>
 <strong>【标语】</strong>：AI 3D that creates real parts, not just shapes<br>
@@ -38,7 +63,7 @@
     <title type="text">PH今日热榜 | 2026-10-23</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-23.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-23.html"/>
-    <updated>2026-10-26T14:45:12.023Z</updated>
+    <updated>2026-10-27T13:53:40.934Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-product-hunt-visual-launch-editor"><span></span></a><a href="https://www.producthunt.com/products/producthunt" target="_blank" rel="noopener noreferrer">TOP1    Product Hunt Visual Launch Editor</a></h2>
 <p><img src="https://ph-files.imgix.net/63e7224f-3120-4869-b8c5-6aca2a63c623.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Product Hunt Visual Launch Editor" loading="lazy"><br><br>
 <strong>【标语】</strong>：See your launch as you build it<br>
@@ -63,7 +88,7 @@
     <title type="text">PH今日热榜 | 2026-10-22</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-22.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-22.html"/>
-    <updated>2026-10-26T14:45:12.036Z</updated>
+    <updated>2026-10-27T13:53:40.940Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-deepcell"><span></span></a><a href="https://www.producthunt.com/products/deepcell" target="_blank" rel="noopener noreferrer">TOP1    DeepCell</a></h2>
 <p><img src="https://ph-files.imgix.net/4213bd09-4a21-4aa1-9b09-259b899ddfba.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="DeepCell" loading="lazy"><br><br>
 <strong>【标语】</strong>：Your deadline survival kit for office work<br>
@@ -88,7 +113,7 @@
     <title type="text">PH今日热榜 | 2026-10-21</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-21.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-21.html"/>
-    <updated>2026-10-26T14:45:12.043Z</updated>
+    <updated>2026-10-27T13:53:40.952Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-useit-studio"><span></span></a><a href="https://www.producthunt.com/products/useit-studio-from-idea-to-delivery" target="_blank" rel="noopener noreferrer">TOP1    UseIt Studio</a></h2>
 <p><img src="https://ph-files.imgix.net/7d59c7ca-92b9-417d-bd34-b4dd52d16ba0.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="UseIt Studio" loading="lazy"><br><br>
 <strong>【标语】</strong>：Your AI design agent for real, editable project files.<br>
@@ -113,7 +138,7 @@
     <title type="text">PH今日热榜 | 2026-10-20</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-20.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-20.html"/>
-    <updated>2026-10-26T14:45:12.057Z</updated>
+    <updated>2026-10-27T13:53:40.961Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-dev-null"><span></span></a><a href="https://www.producthunt.com/products/dev-null" target="_blank" rel="noopener noreferrer">TOP1    /dev/null</a></h2>
 <p><img src="https://ph-files.imgix.net/3d0c2d66-ad99-4f2e-b9e4-cd1fa9ec0b05.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="/dev/null" loading="lazy"><br><br>
 <strong>【标语】</strong>：a social network for devs<br>
@@ -138,7 +163,7 @@
     <title type="text">PH今日热榜 | 2026-10-19</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-19.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-19.html"/>
-    <updated>2026-10-26T14:45:12.068Z</updated>
+    <updated>2026-10-27T13:53:40.966Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-beam-win"><span></span></a><a href="https://www.producthunt.com/products/beam-win" target="_blank" rel="noopener noreferrer">TOP1    Beam.win</a></h2>
 <p><img src="https://ph-files.imgix.net/30edef9e-850e-451a-86d4-81f7cf48e1d0.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Beam.win" loading="lazy"><br><br>
 <strong>【标语】</strong>：Run AI agents on one Mac and use its windows on another<br>
@@ -163,7 +188,7 @@
     <title type="text">PH今日热榜 | 2026-10-18</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-18.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-18.html"/>
-    <updated>2026-10-26T14:45:12.073Z</updated>
+    <updated>2026-10-27T13:53:40.976Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-inbox-zero"><span></span></a><a href="https://www.producthunt.com/products/inbox-zero-2" target="_blank" rel="noopener noreferrer">TOP1    Inbox Zero</a></h2>
 <p><img src="https://ph-files.imgix.net/2f067ad5-1e46-4ce9-9c74-5e4ff1d128bd.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Inbox Zero" loading="lazy"><br><br>
 <strong>【标语】</strong>：Open-source Superhuman alternative<br>
@@ -188,7 +213,7 @@
     <title type="text">PH今日热榜 | 2026-10-17</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-17.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-17.html"/>
-    <updated>2026-10-26T14:45:12.084Z</updated>
+    <updated>2026-10-27T13:53:40.982Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-nitrostack"><span></span></a><a href="https://www.producthunt.com/products/nitrostack" target="_blank" rel="noopener noreferrer">TOP1    NitroStack</a></h2>
 <p><img src="https://ph-files.imgix.net/5e19b60e-627e-4cba-a56b-afe217d6e2c1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="NitroStack" loading="lazy"><br><br>
 <strong>【标语】</strong>：Build, test, and deploy MCP servers in one place<br>
@@ -213,7 +238,7 @@
     <title type="text">PH今日热榜 | 2026-10-16</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-16.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-16.html"/>
-    <updated>2026-10-26T14:45:12.092Z</updated>
+    <updated>2026-10-27T13:53:40.991Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-jockey-by-twelvelabs"><span></span></a><a href="https://www.producthunt.com/products/twelvelabs" target="_blank" rel="noopener noreferrer">TOP1    Jockey by TwelveLabs</a></h2>
 <p><img src="https://ph-files.imgix.net/18985122-061d-4872-8db4-3b819ca49b15.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Jockey by TwelveLabs" loading="lazy"><br><br>
 <strong>【标语】</strong>：Your entire video library: organized, searchable, understood<br>
@@ -233,30 +258,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2026-10-16T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2026-10-15</title>
-    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-15.html</id>
-    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-15.html"/>
-    <updated>2026-10-26T14:45:12.102Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-talanoa"><span></span></a><a href="https://www.producthunt.com/products/talanoa-2" target="_blank" rel="noopener noreferrer">TOP1    Talanoa</a></h2>
-<p><img src="https://ph-files.imgix.net/d306f955-72db-4d6a-b699-146ee83a87b6.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Talanoa" loading="lazy"><br><br>
-<strong>【标语】</strong>：Email that feels like chat<br>
-<strong>【介绍】</strong>：Talanoa is your first email messenger. It turns messy email threads into clean, chat-like conversations, removing quotes, signatures and clutter along the way. Turn emails into actionable todos, manage your calendar without leaving your inbox, and use private, on-device AI to search, summarize and write. Connect Gmail, Outlook, iCloud or any IMAP account in one unified inbox. Everything stays on your computer: no cloud sync, no tracking, no one reading your emails.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/LOUVBI5K3ZIRPE" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/talanoa-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-talanoa"><span></span></a><a href="https://www.producthunt.com/products/talanoa-2" target="_blank" rel="noopener noreferrer">TOP1    Talanoa</a></h2>
-<p><img src="https://ph-files.imgix.net/d306f955-72db-4d6a-b699-146ee83a87b6.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Talanoa" loading="lazy"><br><br>
-<strong>【标语】</strong>：Email that feels like chat<br>
-<strong>【介绍】</strong>：Talanoa is your first email messenger. It turns messy email threads into clean, chat-like conversations, removing quotes, signatures and clutter along the way. Turn emails into actionable todos, manage your calendar without leaving your inbox, and use private, on-device AI to search, summarize and write. Connect Gmail, Outlook, iCloud or any IMAP account in one unified inbox. Everything stays on your computer: no cloud sync, no tracking, no one reading your emails.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/LOUVBI5K3ZIRPE" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/talanoa-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：your,no,like,email,into,emails<br>
-<strong>票数</strong>： 🔺314<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年10月15日 PM03:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2026-10-15T00:00:00.000Z</published>
   </entry>
 </feed>

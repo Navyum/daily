@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 26 Oct 2026 14:45:12 GMT</pubDate>
-    <lastBuildDate>Mon, 26 Oct 2026 14:45:12 GMT</lastBuildDate>
+    <pubDate>Tue, 27 Oct 2026 13:53:40 GMT</pubDate>
+    <lastBuildDate>Tue, 27 Oct 2026 13:53:40 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-10-25</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-25.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-10-25.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-10-25</source>
+      <description>TOP1 Moli by Lexmount Moli by Lexmount 【标语】：The fastest headless browser for agents and harnesses 【介绍】：Moli by Lexmount is our browser engine built from scratch for AI agents. I...</description>
+      <category>PH</category>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-moli-by-lexmount"><span></span></a><a href="https://www.producthunt.com/products/lexmount-browser" target="_blank" rel="noopener noreferrer">TOP1    Moli by Lexmount</a></h2>
+<p><img src="https://ph-files.imgix.net/51d3c656-21a9-4560-acbb-85df36f5c027.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Moli by Lexmount" loading="lazy"><br><br>
+<strong>【标语】</strong>：The fastest headless browser for agents and harnesses<br>
+<strong>【介绍】</strong>：Moli by Lexmount is our browser engine built from scratch for AI agents. It starts faster and uses less memory than Chrome. Use Moli through Lexmount Browser, our cloud browser platform. Run multiple isolated browser sessions with proxy support while we handle the infrastructure. Let your agents browse, fill out forms, and extract data. Try it in our Playground or connect through our SDK.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/RAM2WW7LJWJVNE" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/lexmount-browser" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：browser,our,agents,Lexmount,through,fastest<br>
+<strong>票数</strong>： 🔺285<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年10月25日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/51d3c656-21a9-4560-acbb-85df36f5c027.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-10-24</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-24.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年10月16日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/18985122-061d-4872-8db4-3b819ca49b15.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-10-15</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-15.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-10-15.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-10-15</source>
-      <description>TOP1 Talanoa Talanoa 【标语】：Email that feels like chat 【介绍】：Talanoa is your first email messenger. It turns messy email threads into clean, chat-like conversations, removing quote...</description>
-      <category>PH</category>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-talanoa"><span></span></a><a href="https://www.producthunt.com/products/talanoa-2" target="_blank" rel="noopener noreferrer">TOP1    Talanoa</a></h2>
-<p><img src="https://ph-files.imgix.net/d306f955-72db-4d6a-b699-146ee83a87b6.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Talanoa" loading="lazy"><br><br>
-<strong>【标语】</strong>：Email that feels like chat<br>
-<strong>【介绍】</strong>：Talanoa is your first email messenger. It turns messy email threads into clean, chat-like conversations, removing quotes, signatures and clutter along the way. Turn emails into actionable todos, manage your calendar without leaving your inbox, and use private, on-device AI to search, summarize and write. Connect Gmail, Outlook, iCloud or any IMAP account in one unified inbox. Everything stays on your computer: no cloud sync, no tracking, no one reading your emails.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/LOUVBI5K3ZIRPE" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/talanoa-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：your,no,like,email,into,emails<br>
-<strong>票数</strong>： 🔺314<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年10月15日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/d306f955-72db-4d6a-b699-146ee83a87b6.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
