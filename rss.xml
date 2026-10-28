@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 27 Oct 2026 13:53:40 GMT</pubDate>
-    <lastBuildDate>Tue, 27 Oct 2026 13:53:40 GMT</lastBuildDate>
+    <pubDate>Wed, 28 Oct 2026 14:47:15 GMT</pubDate>
+    <lastBuildDate>Wed, 28 Oct 2026 14:47:15 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-10-26</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-26.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-10-26.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-10-26</source>
+      <description>TOP1 Strawberry 1.0 Strawberry 1.0 【标语】：AI Browser that saves your team &amp;gt;100h/week 【介绍】：Strawberry is an AI browser that can do hours of work in minutes. Strawberry&amp;apos;s agents, wh...</description>
+      <category>PH</category>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-strawberry-1-0"><span></span></a><a href="https://www.producthunt.com/products/strawberry" target="_blank" rel="noopener noreferrer">TOP1    Strawberry 1.0</a></h2>
+<p><img src="https://ph-files.imgix.net/231213b0-bf17-454a-9377-89bb7c954260.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Strawberry 1.0" loading="lazy"><br><br>
+<strong>【标语】</strong>：AI Browser that saves your team &gt;100h/week<br>
+<strong>【介绍】</strong>：Strawberry is an AI browser that can do hours of work in minutes. Strawberry's agents, which we call "Companions", can research hundreds of leads in parallel, transcribe your meetings, automate follow-ups, and handle all the repetitive admin your team keeps procrastinating. Create or hire a pre-made companion, teach it your preferences and share it with your whole team. Hundreds of teams, including Lovable, Tandem Health and ElevenLabs, already use Strawberry.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/VLEJBVBONXC6FH" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/strawberry" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：your,team,AI,Strawberry,Browser,saves<br>
+<strong>票数</strong>： 🔺335<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年10月26日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/231213b0-bf17-454a-9377-89bb7c954260.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-10-25</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-25.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年10月17日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/5e19b60e-627e-4cba-a56b-afe217d6e2c1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-10-16</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-16.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-10-16.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-10-16</source>
-      <description>TOP1 Jockey by TwelveLabs Jockey by TwelveLabs 【标语】：Your entire video library: organized, searchable, understood 【介绍】：Jockey is the first AI that understands your entire media l...</description>
-      <category>PH</category>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-jockey-by-twelvelabs"><span></span></a><a href="https://www.producthunt.com/products/twelvelabs" target="_blank" rel="noopener noreferrer">TOP1    Jockey by TwelveLabs</a></h2>
-<p><img src="https://ph-files.imgix.net/18985122-061d-4872-8db4-3b819ca49b15.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Jockey by TwelveLabs" loading="lazy"><br><br>
-<strong>【标语】</strong>：Your entire video library: organized, searchable, understood<br>
-<strong>【介绍】</strong>：Jockey is the first AI that understands your entire media library across photos and video. It analyzes thousands of hours of footage so you can find and connect people, moments and context across videos. Use it in Claude or ChatGPT, or build with the API/SDK. Ingest YouTube, TikTok and Instagram Reels links; assemble content into MP4s; and create and share video-driven artifacts with playable clips. Every TwelveLabs model upgrade makes Jockey better, without re-integration.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/H3AVDIX7A2JROL" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/twelvelabs" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：video,entire,library,across,Your,organized<br>
-<strong>票数</strong>： 🔺412<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年10月16日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/18985122-061d-4872-8db4-3b819ca49b15.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
