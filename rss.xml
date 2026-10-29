@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 28 Oct 2026 14:47:15 GMT</pubDate>
-    <lastBuildDate>Wed, 28 Oct 2026 14:47:15 GMT</lastBuildDate>
+    <pubDate>Thu, 29 Oct 2026 14:53:28 GMT</pubDate>
+    <lastBuildDate>Thu, 29 Oct 2026 14:53:28 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-10-27</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-27.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-10-27.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-10-27</source>
+      <description>TOP1 TheySaid 4.0 TheySaid 4.0 【标语】：See how users will react, right where you build. 【介绍】：Put what you’re building in front of real customers or synthetic users trained on them ...</description>
+      <category>PH</category>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-theysaid-4-0"><span></span></a><a href="https://www.producthunt.com/products/theysaid" target="_blank" rel="noopener noreferrer">TOP1    TheySaid 4.0</a></h2>
+<p><img src="https://ph-files.imgix.net/98da82eb-4125-44b2-86d1-2b2cab867ebb.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="TheySaid 4.0" loading="lazy"><br><br>
+<strong>【标语】</strong>：See how users will react, right where you build.<br>
+<strong>【介绍】</strong>：Put what you’re building in front of real customers or synthetic users trained on them when you need an answer in minutes without leaving Claude, Cursor, or Jira. Nothing ships on a guess.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/FIY7DCKNBRL5M2" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/theysaid" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：users,See,how,will,react,right<br>
+<strong>票数</strong>： 🔺361<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年10月27日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/98da82eb-4125-44b2-86d1-2b2cab867ebb.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-10-26</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-26.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年10月18日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/2f067ad5-1e46-4ce9-9c74-5e4ff1d128bd.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-10-17</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-17.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-10-17.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-10-17</source>
-      <description>TOP1 NitroStack NitroStack 【标语】：Build, test, and deploy MCP servers in one place 【介绍】：NitroStack is the full-stack platform for building production-ready MCP servers and AI apps...</description>
-      <category>PH</category>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-nitrostack"><span></span></a><a href="https://www.producthunt.com/products/nitrostack" target="_blank" rel="noopener noreferrer">TOP1    NitroStack</a></h2>
-<p><img src="https://ph-files.imgix.net/5e19b60e-627e-4cba-a56b-afe217d6e2c1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="NitroStack" loading="lazy"><br><br>
-<strong>【标语】</strong>：Build, test, and deploy MCP servers in one place<br>
-<strong>【介绍】</strong>：NitroStack is the full-stack platform for building production-ready MCP servers and AI apps. Build with open-source TypeScript &amp; Python SDKs, test and debug visually in NitroStack Studio, orchestrate agent workflows with NitroStack Workflow, deploy on NitroStack Cloud, and ship branded experiences with NitroStack Chat. Auth, testing, deployment and frontend stay in one workflow. Connect to ChatGPT, Claude and other AI clients. Powering 80,000+ MCP servers.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/NFV7LZ6PHSL5AT" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/nitrostack" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：NitroStack,MCP,servers,Build,test,deploy<br>
-<strong>票数</strong>： 🔺295<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年10月17日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/5e19b60e-627e-4cba-a56b-afe217d6e2c1.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
