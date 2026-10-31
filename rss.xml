@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 30 Oct 2026 14:46:09 GMT</pubDate>
-    <lastBuildDate>Fri, 30 Oct 2026 14:46:09 GMT</lastBuildDate>
+    <pubDate>Sat, 31 Oct 2026 14:11:11 GMT</pubDate>
+    <lastBuildDate>Sat, 31 Oct 2026 14:11:11 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-10-29</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-29.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-10-29.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-10-29</source>
+      <description>TOP1 Empacer Empacer 【标语】： The voice-first assistant for small business owners 【介绍】：Most small business owners face the same problem when trying to use AI tools: they don&amp;apos;t have...</description>
+      <category>PH</category>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-empacer"><span></span></a><a href="https://www.producthunt.com/products/empacer" target="_blank" rel="noopener noreferrer">TOP1    Empacer</a></h2>
+<p><img src="https://ph-files.imgix.net/6b420584-32d8-4b74-a9eb-920c76438c57.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Empacer" loading="lazy"><br><br>
+<strong>【标语】</strong>： The voice-first assistant for small business owners<br>
+<strong>【介绍】</strong>：Most small business owners face the same problem when trying to use AI tools: they don't have time for re-explaining their business in every chat. Empacer is designed to skip this part. Three questions at setup, then spoken requests become a ready plan and finished work: customer replies, social posts, invoices and more. Nothing is sent without the owner's approval.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/RXY756OTRKZOLG" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/empacer" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：business,small,voice,first,assistant,ownersMost<br>
+<strong>票数</strong>： 🔺431<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年10月29日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/6b420584-32d8-4b74-a9eb-920c76438c57.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-10-28</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-28.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年10月20日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/3d0c2d66-ad99-4f2e-b9e4-cd1fa9ec0b05.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-10-19</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-19.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-10-19.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-10-19</source>
-      <description>TOP1 Beam.win Beam.win 【标语】：Run AI agents on one Mac and use its windows on another 【介绍】：Keep your agents and builds running on a Mac mini or Studio. Beam brings their Terminal,...</description>
-      <category>PH</category>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-beam-win"><span></span></a><a href="https://www.producthunt.com/products/beam-win" target="_blank" rel="noopener noreferrer">TOP1    Beam.win</a></h2>
-<p><img src="https://ph-files.imgix.net/30edef9e-850e-451a-86d4-81f7cf48e1d0.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Beam.win" loading="lazy"><br><br>
-<strong>【标语】</strong>：Run AI agents on one Mac and use its windows on another<br>
-<strong>【介绍】</strong>：Keep your agents and builds running on a Mac mini or Studio. Beam brings their Terminal, browser and other app windows onto the Mac in front of you, each as its own window with a Dock icon and ⌘Tab presence. Encrypted between your Macs. Free to try.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/XR2QV6TXWMZHHX" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/beam-win" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：Mac,agents,its,windows,your,Run<br>
-<strong>票数</strong>： 🔺352<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年10月19日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/30edef9e-850e-451a-86d4-81f7cf48e1d0.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
