@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 02 Nov 2026 17:40:59 GMT</pubDate>
-    <lastBuildDate>Mon, 02 Nov 2026 17:40:59 GMT</lastBuildDate>
+    <pubDate>Tue, 03 Nov 2026 15:43:11 GMT</pubDate>
+    <lastBuildDate>Tue, 03 Nov 2026 15:43:11 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-11-01</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-11-01.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-11-01.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-11-01</source>
+      <description>TOP1 Screen Studio 4.0 Screen Studio 4.0 【标语】：Glass Loupe, Camera Cutout, Edit by Transcript, and more 【介绍】：The screen recorder for Mac that handles the hard parts: zooms, motio...</description>
+      <category>PH</category>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-screen-studio-4-0"><span></span></a><a href="https://www.producthunt.com/products/screen-studio" target="_blank" rel="noopener noreferrer">TOP1    Screen Studio 4.0</a></h2>
+<p><img src="https://ph-files.imgix.net/e34f9fdf-0919-4b01-9bad-76687f286a44.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Screen Studio 4.0" loading="lazy"><br><br>
+<strong>【标语】</strong>：Glass Loupe, Camera Cutout, Edit by Transcript, and more<br>
+<strong>【介绍】</strong>：The screen recorder for Mac that handles the hard parts: zooms, motion, sound, and framing. Every demo and tutorial comes out polished. What's new in 4.0: - Glass Loupe, a zoom that magnifies one detail - Split screen, also for vertical video - Edit your video like you edit text - Camera cutout: you, without your background - Hide sensitive data and faces automatically - Sharper zooms, ProRes, up to 4x faster exports, and more<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/MXBY2KB22GHVHB" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/screen-studio" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：Glass,Loupe,Camera,Edit,screen,zooms<br>
+<strong>票数</strong>： 🔺417<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年11月01日 PM03:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/e34f9fdf-0919-4b01-9bad-76687f286a44.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-10-31</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-31.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年10月23日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/63e7224f-3120-4869-b8c5-6aca2a63c623.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-10-22</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-22.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-10-22.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-10-22</source>
-      <description>TOP1 DeepCell DeepCell 【标语】：Your deadline survival kit for office work 【介绍】：Deepcell can help you with deadline tasks that require narrations, calculation and presentation at th...</description>
-      <category>PH</category>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-deepcell"><span></span></a><a href="https://www.producthunt.com/products/deepcell" target="_blank" rel="noopener noreferrer">TOP1    DeepCell</a></h2>
-<p><img src="https://ph-files.imgix.net/4213bd09-4a21-4aa1-9b09-259b899ddfba.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="DeepCell" loading="lazy"><br><br>
-<strong>【标语】</strong>：Your deadline survival kit for office work<br>
-<strong>【介绍】</strong>：Deepcell can help you with deadline tasks that require narrations, calculation and presentation at the same time, such as modeling, sales review, budget forecast and monthly report. DeepCell (both web app and agent plug-in) can create ready-to-use docs, spreadsheets, and slides—with sources and cheat sheets to help you explain. Furthermore, every edit can update related parts. The product is built on a newly designed document format (.deepcell), which is especially designed for system two tasks.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/QQW4YFA2J3HRIM" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/deepcell" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：deadline,help,tasks,designed,Your,survival<br>
-<strong>票数</strong>： 🔺336<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年10月22日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/4213bd09-4a21-4aa1-9b09-259b899ddfba.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
