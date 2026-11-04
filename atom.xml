@@ -4,16 +4,41 @@
   <title>DAYHACK</title>
   <subtitle>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</subtitle>
   <icon>https://github.camscanner.top/daily/favicon.ico</icon>
-  <updated>2026-11-03T15:43:11.437Z</updated>
+  <updated>2026-11-04T15:55:13.896Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/"/>
   <category term="PH"/>
   <entry>
+    <title type="text">PH今日热榜 | 2026-11-02</title>
+    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-11-02.html</id>
+    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-11-02.html"/>
+    <updated>2026-11-04T15:55:13.897Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-beacon-sh"><span></span></a><a href="https://www.producthunt.com/products/asymptotelabs" target="_blank" rel="noopener noreferrer">TOP1    beacon.sh</a></h2>
+<p><img src="https://ph-files.imgix.net/9fbd8c98-c5aa-4e40-88c2-58905005594a.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="beacon.sh" loading="lazy"><br><br>
+<strong>【标语】</strong>：Open-source self-improving memory for AI coding agents<br>
+<strong>【介绍】</strong>：Beacon turns agent sessions across Claude Code, Cursor, Codex, OpenCode, and 20+ other harnesses into a compounding knowledge layer, so every agent starts smarter than the last. It captures every agent trace across your environment and turns activity into clear operational visibility. Get started for free at beacon.sh<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/WB3BWWZDEG2XEW" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/asymptotelabs" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-beacon-sh"><span></span></a><a href="https://www.producthunt.com/products/asymptotelabs" target="_blank" rel="noopener noreferrer">TOP1    beacon.sh</a></h2>
+<p><img src="https://ph-files.imgix.net/9fbd8c98-c5aa-4e40-88c2-58905005594a.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="beacon.sh" loading="lazy"><br><br>
+<strong>【标语】</strong>：Open-source self-improving memory for AI coding agents<br>
+<strong>【介绍】</strong>：Beacon turns agent sessions across Claude Code, Cursor, Codex, OpenCode, and 20+ other harnesses into a compounding knowledge layer, so every agent starts smarter than the last. It captures every agent trace across your environment and turns activity into clear operational visibility. Get started for free at beacon.sh<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/WB3BWWZDEG2XEW" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/asymptotelabs" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：agent,turns,across,into,every,Open<br>
+<strong>票数</strong>： 🔺419<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年11月02日 PM04:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2026-11-02T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">PH今日热榜 | 2026-11-01</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-11-01.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-11-01.html"/>
-    <updated>2026-11-03T15:43:11.439Z</updated>
+    <updated>2026-11-04T15:55:13.908Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-screen-studio-4-0"><span></span></a><a href="https://www.producthunt.com/products/screen-studio" target="_blank" rel="noopener noreferrer">TOP1    Screen Studio 4.0</a></h2>
 <p><img src="https://ph-files.imgix.net/e34f9fdf-0919-4b01-9bad-76687f286a44.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Screen Studio 4.0" loading="lazy"><br><br>
 <strong>【标语】</strong>：Glass Loupe, Camera Cutout, Edit by Transcript, and more<br>
@@ -38,7 +63,7 @@
     <title type="text">PH今日热榜 | 2026-10-31</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-31.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-31.html"/>
-    <updated>2026-11-03T15:43:11.458Z</updated>
+    <updated>2026-11-04T15:55:13.921Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-specsight"><span></span></a><a href="https://www.producthunt.com/products/specsight" target="_blank" rel="noopener noreferrer">TOP1    Specsight</a></h2>
 <p><img src="https://ph-files.imgix.net/7a1c5725-8db5-43ac-9653-354383b1a3f0.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Specsight" loading="lazy"><br><br>
 <strong>【标语】</strong>：Product observability for teams shipping fast with AI<br>
@@ -63,7 +88,7 @@
     <title type="text">PH今日热榜 | 2026-10-30</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-30.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-30.html"/>
-    <updated>2026-11-03T15:43:11.473Z</updated>
+    <updated>2026-11-04T15:55:13.932Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-vaani-developer-platform"><span></span></a><a href="https://www.producthunt.com/products/vaani-developer-platfrom" target="_blank" rel="noopener noreferrer">TOP1    Vaani Developer Platform</a></h2>
 <p><img src="https://ph-files.imgix.net/68533eef-f593-4ca8-8c88-cda88a0b2896.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Vaani Developer Platform" loading="lazy"><br><br>
 <strong>【标语】</strong>：The only voice AI harness that you'll ever need<br>
@@ -88,7 +113,7 @@
     <title type="text">PH今日热榜 | 2026-10-29</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-29.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-29.html"/>
-    <updated>2026-11-03T15:43:11.489Z</updated>
+    <updated>2026-11-04T15:55:13.938Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-empacer"><span></span></a><a href="https://www.producthunt.com/products/empacer" target="_blank" rel="noopener noreferrer">TOP1    Empacer</a></h2>
 <p><img src="https://ph-files.imgix.net/6b420584-32d8-4b74-a9eb-920c76438c57.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Empacer" loading="lazy"><br><br>
 <strong>【标语】</strong>： The voice-first assistant for small business owners<br>
@@ -113,7 +138,7 @@
     <title type="text">PH今日热榜 | 2026-10-28</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-28.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-28.html"/>
-    <updated>2026-11-03T15:43:11.498Z</updated>
+    <updated>2026-11-04T15:55:13.948Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-dedica"><span></span></a><a href="https://www.producthunt.com/products/dedica" target="_blank" rel="noopener noreferrer">TOP1    Dedica</a></h2>
 <p><img src="https://ph-files.imgix.net/17001014-4632-4629-bfd5-c838f9da73f8.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Dedica" loading="lazy"><br><br>
 <strong>【标语】</strong>：Check if AI agents can use your website<br>
@@ -138,7 +163,7 @@
     <title type="text">PH今日热榜 | 2026-10-27</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-27.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-27.html"/>
-    <updated>2026-11-03T15:43:11.512Z</updated>
+    <updated>2026-11-04T15:55:13.953Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-theysaid-4-0"><span></span></a><a href="https://www.producthunt.com/products/theysaid" target="_blank" rel="noopener noreferrer">TOP1    TheySaid 4.0</a></h2>
 <p><img src="https://ph-files.imgix.net/98da82eb-4125-44b2-86d1-2b2cab867ebb.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="TheySaid 4.0" loading="lazy"><br><br>
 <strong>【标语】</strong>：See how users will react, right where you build.<br>
@@ -163,7 +188,7 @@
     <title type="text">PH今日热榜 | 2026-10-26</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-26.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-26.html"/>
-    <updated>2026-11-03T15:43:11.521Z</updated>
+    <updated>2026-11-04T15:55:13.965Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-strawberry-1-0"><span></span></a><a href="https://www.producthunt.com/products/strawberry" target="_blank" rel="noopener noreferrer">TOP1    Strawberry 1.0</a></h2>
 <p><img src="https://ph-files.imgix.net/231213b0-bf17-454a-9377-89bb7c954260.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Strawberry 1.0" loading="lazy"><br><br>
 <strong>【标语】</strong>：AI Browser that saves your team &gt;100h/week<br>
@@ -188,7 +213,7 @@
     <title type="text">PH今日热榜 | 2026-10-25</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-25.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-25.html"/>
-    <updated>2026-11-03T15:43:11.536Z</updated>
+    <updated>2026-11-04T15:55:13.971Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-moli-by-lexmount"><span></span></a><a href="https://www.producthunt.com/products/lexmount-browser" target="_blank" rel="noopener noreferrer">TOP1    Moli by Lexmount</a></h2>
 <p><img src="https://ph-files.imgix.net/51d3c656-21a9-4560-acbb-85df36f5c027.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Moli by Lexmount" loading="lazy"><br><br>
 <strong>【标语】</strong>：The fastest headless browser for agents and harnesses<br>
@@ -213,7 +238,7 @@
     <title type="text">PH今日热榜 | 2026-10-24</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-24.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-24.html"/>
-    <updated>2026-11-03T15:43:11.550Z</updated>
+    <updated>2026-11-04T15:55:13.981Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-zcad-ai"><span></span></a><a href="https://www.producthunt.com/products/zcad-ai" target="_blank" rel="noopener noreferrer">TOP1    zCAD AI</a></h2>
 <p><img src="https://ph-files.imgix.net/81056b59-8f93-4160-8c7f-50e6cdb5524b.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="zCAD AI" loading="lazy"><br><br>
 <strong>【标语】</strong>：AI 3D that creates real parts, not just shapes<br>
@@ -233,30 +258,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2026-10-24T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2026-10-23</title>
-    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-23.html</id>
-    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-23.html"/>
-    <updated>2026-11-03T15:43:11.564Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-product-hunt-visual-launch-editor"><span></span></a><a href="https://www.producthunt.com/products/producthunt" target="_blank" rel="noopener noreferrer">TOP1    Product Hunt Visual Launch Editor</a></h2>
-<p><img src="https://ph-files.imgix.net/63e7224f-3120-4869-b8c5-6aca2a63c623.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Product Hunt Visual Launch Editor" loading="lazy"><br><br>
-<strong>【标语】</strong>：See your launch as you build it<br>
-<strong>【介绍】</strong>：See your Product Hunt launch come to life as you build it! The new visual editor lets you edit your launch in fewer steps while while automatically saving your draft. You can simply click the name, tagline, gallery or makers to edit them in place. A checklist shows what's required and what will help your launch stand out, and clicking a checklist item will take you straight to the field that needs work. Drafts, scheduled launches and live launches now all use the same editor.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/Y7DEMV6KEGC3FT" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/producthunt" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-product-hunt-visual-launch-editor"><span></span></a><a href="https://www.producthunt.com/products/producthunt" target="_blank" rel="noopener noreferrer">TOP1    Product Hunt Visual Launch Editor</a></h2>
-<p><img src="https://ph-files.imgix.net/63e7224f-3120-4869-b8c5-6aca2a63c623.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Product Hunt Visual Launch Editor" loading="lazy"><br><br>
-<strong>【标语】</strong>：See your launch as you build it<br>
-<strong>【介绍】</strong>：See your Product Hunt launch come to life as you build it! The new visual editor lets you edit your launch in fewer steps while while automatically saving your draft. You can simply click the name, tagline, gallery or makers to edit them in place. A checklist shows what's required and what will help your launch stand out, and clicking a checklist item will take you straight to the field that needs work. Drafts, scheduled launches and live launches now all use the same editor.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/Y7DEMV6KEGC3FT" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/producthunt" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：your,launch,build,editor,edit,while<br>
-<strong>票数</strong>： 🔺404<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年10月23日 PM03:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2026-10-23T00:00:00.000Z</published>
   </entry>
 </feed>
