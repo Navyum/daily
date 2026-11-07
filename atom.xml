@@ -4,16 +4,41 @@
   <title>DAYHACK</title>
   <subtitle>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</subtitle>
   <icon>https://github.camscanner.top/daily/favicon.ico</icon>
-  <updated>2026-11-06T15:32:21.294Z</updated>
+  <updated>2026-11-07T14:36:01.904Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/"/>
   <category term="PH"/>
   <entry>
+    <title type="text">PH今日热榜 | 2026-11-05</title>
+    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-11-05.html</id>
+    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-11-05.html"/>
+    <updated>2026-11-07T14:36:01.905Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-glasshand"><span></span></a><a href="https://www.producthunt.com/products/glasshand" target="_blank" rel="noopener noreferrer">TOP1    Glasshand</a></h2>
+<p><img src="https://ph-files.imgix.net/1bb914f9-fc0f-48dd-97a1-036322f4641d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Glasshand" loading="lazy"><br><br>
+<strong>【标语】</strong>：Give your agent a real iPhone and Mac<br>
+<strong>【介绍】</strong>：Glasshand gives your AI agents real iPhones and Macs to work on. Connect Claude Code, Codex, or any other agent, and it can rent a device with a single prompt. The hardware sits in our data center, and your agent uses it the way you would: posting on TikTok, booking an Uber, or building and testing iOS apps. Each device is yours alone for as long as you rent it. When you’re done, we erase your data and factory-reset it.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/4HPTGSLZ23MFLT" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/glasshand" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-glasshand"><span></span></a><a href="https://www.producthunt.com/products/glasshand" target="_blank" rel="noopener noreferrer">TOP1    Glasshand</a></h2>
+<p><img src="https://ph-files.imgix.net/1bb914f9-fc0f-48dd-97a1-036322f4641d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Glasshand" loading="lazy"><br><br>
+<strong>【标语】</strong>：Give your agent a real iPhone and Mac<br>
+<strong>【介绍】</strong>：Glasshand gives your AI agents real iPhones and Macs to work on. Connect Claude Code, Codex, or any other agent, and it can rent a device with a single prompt. The hardware sits in our data center, and your agent uses it the way you would: posting on TikTok, booking an Uber, or building and testing iOS apps. Each device is yours alone for as long as you rent it. When you’re done, we erase your data and factory-reset it.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/4HPTGSLZ23MFLT" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/glasshand" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：your,agent,real,rent,device,data<br>
+<strong>票数</strong>： 🔺371<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年11月05日 PM04:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2026-11-05T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">PH今日热榜 | 2026-11-04</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-11-04.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-11-04.html"/>
-    <updated>2026-11-06T15:32:21.295Z</updated>
+    <updated>2026-11-07T14:36:01.924Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-wanaka-studio"><span></span></a><a href="https://www.producthunt.com/products/wanaka-studio" target="_blank" rel="noopener noreferrer">TOP1    Wanaka Studio</a></h2>
 <p><img src="https://ph-files.imgix.net/e183366b-c3b1-4ce9-a7d6-24eee37c7943.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Wanaka Studio" loading="lazy"><br><br>
 <strong>【标语】</strong>：Make and publish 3D games with the first AI game engine<br>
@@ -38,7 +63,7 @@
     <title type="text">PH今日热榜 | 2026-11-03</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-11-03.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-11-03.html"/>
-    <updated>2026-11-06T15:32:21.310Z</updated>
+    <updated>2026-11-07T14:36:01.941Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-agentkit-by-scalekit"><span></span></a><a href="https://www.producthunt.com/products/scalekit" target="_blank" rel="noopener noreferrer">TOP1    AgentKit by Scalekit</a></h2>
 <p><img src="https://ph-files.imgix.net/16386268-8e8a-44d8-91e1-579b11640a25.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="AgentKit by Scalekit" loading="lazy"><br><br>
 <strong>【标语】</strong>：MCP gateway for production agents that acts on your behalf<br>
@@ -63,7 +88,7 @@
     <title type="text">PH今日热榜 | 2026-11-02</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-11-02.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-11-02.html"/>
-    <updated>2026-11-06T15:32:21.324Z</updated>
+    <updated>2026-11-07T14:36:01.951Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-beacon-sh"><span></span></a><a href="https://www.producthunt.com/products/asymptotelabs" target="_blank" rel="noopener noreferrer">TOP1    beacon.sh</a></h2>
 <p><img src="https://ph-files.imgix.net/9fbd8c98-c5aa-4e40-88c2-58905005594a.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="beacon.sh" loading="lazy"><br><br>
 <strong>【标语】</strong>：Open-source self-improving memory for AI coding agents<br>
@@ -88,7 +113,7 @@
     <title type="text">PH今日热榜 | 2026-11-01</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-11-01.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-11-01.html"/>
-    <updated>2026-11-06T15:32:21.332Z</updated>
+    <updated>2026-11-07T14:36:01.965Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-screen-studio-4-0"><span></span></a><a href="https://www.producthunt.com/products/screen-studio" target="_blank" rel="noopener noreferrer">TOP1    Screen Studio 4.0</a></h2>
 <p><img src="https://ph-files.imgix.net/e34f9fdf-0919-4b01-9bad-76687f286a44.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Screen Studio 4.0" loading="lazy"><br><br>
 <strong>【标语】</strong>：Glass Loupe, Camera Cutout, Edit by Transcript, and more<br>
@@ -113,7 +138,7 @@
     <title type="text">PH今日热榜 | 2026-10-31</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-31.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-31.html"/>
-    <updated>2026-11-06T15:32:21.345Z</updated>
+    <updated>2026-11-07T14:36:01.978Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-specsight"><span></span></a><a href="https://www.producthunt.com/products/specsight" target="_blank" rel="noopener noreferrer">TOP1    Specsight</a></h2>
 <p><img src="https://ph-files.imgix.net/7a1c5725-8db5-43ac-9653-354383b1a3f0.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Specsight" loading="lazy"><br><br>
 <strong>【标语】</strong>：Product observability for teams shipping fast with AI<br>
@@ -138,7 +163,7 @@
     <title type="text">PH今日热榜 | 2026-10-30</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-30.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-30.html"/>
-    <updated>2026-11-06T15:32:21.357Z</updated>
+    <updated>2026-11-07T14:36:01.986Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-vaani-developer-platform"><span></span></a><a href="https://www.producthunt.com/products/vaani-developer-platfrom" target="_blank" rel="noopener noreferrer">TOP1    Vaani Developer Platform</a></h2>
 <p><img src="https://ph-files.imgix.net/68533eef-f593-4ca8-8c88-cda88a0b2896.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Vaani Developer Platform" loading="lazy"><br><br>
 <strong>【标语】</strong>：The only voice AI harness that you'll ever need<br>
@@ -163,7 +188,7 @@
     <title type="text">PH今日热榜 | 2026-10-29</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-29.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-29.html"/>
-    <updated>2026-11-06T15:32:21.366Z</updated>
+    <updated>2026-11-07T14:36:02.001Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-empacer"><span></span></a><a href="https://www.producthunt.com/products/empacer" target="_blank" rel="noopener noreferrer">TOP1    Empacer</a></h2>
 <p><img src="https://ph-files.imgix.net/6b420584-32d8-4b74-a9eb-920c76438c57.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Empacer" loading="lazy"><br><br>
 <strong>【标语】</strong>： The voice-first assistant for small business owners<br>
@@ -188,7 +213,7 @@
     <title type="text">PH今日热榜 | 2026-10-28</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-28.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-28.html"/>
-    <updated>2026-11-06T15:32:21.378Z</updated>
+    <updated>2026-11-07T14:36:02.011Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-dedica"><span></span></a><a href="https://www.producthunt.com/products/dedica" target="_blank" rel="noopener noreferrer">TOP1    Dedica</a></h2>
 <p><img src="https://ph-files.imgix.net/17001014-4632-4629-bfd5-c838f9da73f8.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Dedica" loading="lazy"><br><br>
 <strong>【标语】</strong>：Check if AI agents can use your website<br>
@@ -213,7 +238,7 @@
     <title type="text">PH今日热榜 | 2026-10-27</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-27.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-27.html"/>
-    <updated>2026-11-06T15:32:21.386Z</updated>
+    <updated>2026-11-07T14:36:02.025Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-theysaid-4-0"><span></span></a><a href="https://www.producthunt.com/products/theysaid" target="_blank" rel="noopener noreferrer">TOP1    TheySaid 4.0</a></h2>
 <p><img src="https://ph-files.imgix.net/98da82eb-4125-44b2-86d1-2b2cab867ebb.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="TheySaid 4.0" loading="lazy"><br><br>
 <strong>【标语】</strong>：See how users will react, right where you build.<br>
@@ -233,30 +258,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2026-10-27T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2026-10-26</title>
-    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-10-26.html</id>
-    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-10-26.html"/>
-    <updated>2026-11-06T15:32:21.398Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-strawberry-1-0"><span></span></a><a href="https://www.producthunt.com/products/strawberry" target="_blank" rel="noopener noreferrer">TOP1    Strawberry 1.0</a></h2>
-<p><img src="https://ph-files.imgix.net/231213b0-bf17-454a-9377-89bb7c954260.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Strawberry 1.0" loading="lazy"><br><br>
-<strong>【标语】</strong>：AI Browser that saves your team &gt;100h/week<br>
-<strong>【介绍】</strong>：Strawberry is an AI browser that can do hours of work in minutes. Strawberry's agents, which we call "Companions", can research hundreds of leads in parallel, transcribe your meetings, automate follow-ups, and handle all the repetitive admin your team keeps procrastinating. Create or hire a pre-made companion, teach it your preferences and share it with your whole team. Hundreds of teams, including Lovable, Tandem Health and ElevenLabs, already use Strawberry.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/VLEJBVBONXC6FH" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/strawberry" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-strawberry-1-0"><span></span></a><a href="https://www.producthunt.com/products/strawberry" target="_blank" rel="noopener noreferrer">TOP1    Strawberry 1.0</a></h2>
-<p><img src="https://ph-files.imgix.net/231213b0-bf17-454a-9377-89bb7c954260.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Strawberry 1.0" loading="lazy"><br><br>
-<strong>【标语】</strong>：AI Browser that saves your team &gt;100h/week<br>
-<strong>【介绍】</strong>：Strawberry is an AI browser that can do hours of work in minutes. Strawberry's agents, which we call "Companions", can research hundreds of leads in parallel, transcribe your meetings, automate follow-ups, and handle all the repetitive admin your team keeps procrastinating. Create or hire a pre-made companion, teach it your preferences and share it with your whole team. Hundreds of teams, including Lovable, Tandem Health and ElevenLabs, already use Strawberry.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/VLEJBVBONXC6FH" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/strawberry" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：your,team,AI,Strawberry,Browser,saves<br>
-<strong>票数</strong>： 🔺335<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年10月26日 PM03:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2026-10-26T00:00:00.000Z</published>
   </entry>
 </feed>

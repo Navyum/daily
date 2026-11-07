@@ -7,6 +7,20 @@
   "favicon": "https://github.camscanner.top/daily/favicon.ico",
   "items": [
     {
+      "title": "PH今日热榜 | 2026-11-05",
+      "url": "https://github.camscanner.top/daily/posts/PH-daily-2026-11-05.html",
+      "id": "https://github.camscanner.top/daily/posts/PH-daily-2026-11-05.html",
+      "summary": "TOP1 Glasshand Glasshand 【标语】：Give your agent a real iPhone and Mac 【介绍】：Glasshand gives your AI agents real iPhones and Macs to work on. Connect Claude Code, Codex, or any othe...",
+      "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-glasshand\"><span></span></a><a href=\"https://www.producthunt.com/products/glasshand\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1    Glasshand</a></h2>\n<p><img src=\"https://ph-files.imgix.net/1bb914f9-fc0f-48dd-97a1-036322f4641d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"Glasshand\" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>：Give your agent a real iPhone and Mac<br>\n<strong>【介绍】</strong>：Glasshand gives your AI agents real iPhones and Macs to work on. Connect Claude Code, Codex, or any other agent, and it can rent a device with a single prompt. The hardware sits in our data center, and your agent uses it the way you would: posting on TikTok, booking an Uber, or building and testing iOS apps. Each device is yours alone for as long as you rent it. When you’re done, we erase your data and factory-reset it.<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/4HPTGSLZ23MFLT\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/products/glasshand\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：your,agent,real,rent,device,data<br>\n<strong>票数</strong>： 🔺371<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2026年11月05日 PM04:01 (北京时间)<br><br></p>\n",
+      "image": "https://ph-files.imgix.net/1bb914f9-fc0f-48dd-97a1-036322f4641d.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+      "date_published": "2026-11-05T00:00:00.000Z",
+      "date_modified": "2026-11-07T14:36:02.037Z",
+      "authors": [],
+      "tags": [
+        "PH"
+      ]
+    },
+    {
       "title": "PH今日热榜 | 2026-11-04",
       "url": "https://github.camscanner.top/daily/posts/PH-daily-2026-11-04.html",
       "id": "https://github.camscanner.top/daily/posts/PH-daily-2026-11-04.html",
@@ -14,7 +28,7 @@
       "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-wanaka-studio\"><span></span></a><a href=\"https://www.producthunt.com/products/wanaka-studio\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1    Wanaka Studio</a></h2>\n<p><img src=\"https://ph-files.imgix.net/e183366b-c3b1-4ce9-a7d6-24eee37c7943.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"Wanaka Studio\" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>：Make and publish 3D games with the first AI game engine<br>\n<strong>【介绍】</strong>：The first all-in-one, AI-native game engine. An AI agent builds your AAA-style 3D game. You can edit it directly in a synced visual editor. No code. Auto-rigging, multiplayer, and 1-click publish built in. Uses ~80% fewer tokens and generates faster than Claude Opus 5.5 + Unity.<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/72C3HN2ZVH7J6Z\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/products/wanaka-studio\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：AI,game,publish,3D,first,Make<br>\n<strong>票数</strong>： 🔺438<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2026年11月04日 PM04:01 (北京时间)<br><br></p>\n",
       "image": "https://ph-files.imgix.net/e183366b-c3b1-4ce9-a7d6-24eee37c7943.png?auto=format&fit=crop&frame=1&h=512&w=1024",
       "date_published": "2026-11-04T00:00:00.000Z",
-      "date_modified": "2026-11-06T15:32:21.408Z",
+      "date_modified": "2026-11-07T14:36:02.043Z",
       "authors": [],
       "tags": [
         "PH"
@@ -28,7 +42,7 @@
       "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-agentkit-by-scalekit\"><span></span></a><a href=\"https://www.producthunt.com/products/scalekit\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1    AgentKit by Scalekit</a></h2>\n<p><img src=\"https://ph-files.imgix.net/16386268-8e8a-44d8-91e1-579b11640a25.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"AgentKit by Scalekit\" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>：MCP gateway for production agents that acts on your behalf<br>\n<strong>【介绍】</strong>：Let your agents use 30,000+ tools across 600+ apps, from Salesforce to GitHub, through one MCP gateway. AgentKit handles auth and integrations, so every action runs as the user who asked, within the scopes they granted. Give each agent only the tools its job needs with Virtual MCP Servers. Add internal APIs as custom connectors. Use Triggers to start an agent the moment an email lands. Built for developers taking agents to production: every call is logged. Free tier: 10,000 tool calls a month.<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/K2KQXD7ILBCL6E\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/products/scalekit\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：MCP,agents,gateway,production,your,000<br>\n<strong>票数</strong>： 🔺409<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2026年11月03日 PM04:01 (北京时间)<br><br></p>\n",
       "image": "https://ph-files.imgix.net/16386268-8e8a-44d8-91e1-579b11640a25.png?auto=format&fit=crop&frame=1&h=512&w=1024",
       "date_published": "2026-11-03T00:00:00.000Z",
-      "date_modified": "2026-11-06T15:32:21.414Z",
+      "date_modified": "2026-11-07T14:36:02.044Z",
       "authors": [],
       "tags": [
         "PH"
@@ -42,7 +56,7 @@
       "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-beacon-sh\"><span></span></a><a href=\"https://www.producthunt.com/products/asymptotelabs\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1    beacon.sh</a></h2>\n<p><img src=\"https://ph-files.imgix.net/9fbd8c98-c5aa-4e40-88c2-58905005594a.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"beacon.sh\" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>：Open-source self-improving memory for AI coding agents<br>\n<strong>【介绍】</strong>：Beacon turns agent sessions across Claude Code, Cursor, Codex, OpenCode, and 20+ other harnesses into a compounding knowledge layer, so every agent starts smarter than the last. It captures every agent trace across your environment and turns activity into clear operational visibility. Get started for free at beacon.sh<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/WB3BWWZDEG2XEW\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/products/asymptotelabs\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：agent,turns,across,into,every,Open<br>\n<strong>票数</strong>： 🔺419<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2026年11月02日 PM04:01 (北京时间)<br><br></p>\n",
       "image": "https://ph-files.imgix.net/9fbd8c98-c5aa-4e40-88c2-58905005594a.png?auto=format&fit=crop&frame=1&h=512&w=1024",
       "date_published": "2026-11-02T00:00:00.000Z",
-      "date_modified": "2026-11-06T15:32:21.414Z",
+      "date_modified": "2026-11-07T14:36:02.045Z",
       "authors": [],
       "tags": [
         "PH"
@@ -56,7 +70,7 @@
       "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-screen-studio-4-0\"><span></span></a><a href=\"https://www.producthunt.com/products/screen-studio\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1    Screen Studio 4.0</a></h2>\n<p><img src=\"https://ph-files.imgix.net/e34f9fdf-0919-4b01-9bad-76687f286a44.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"Screen Studio 4.0\" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>：Glass Loupe, Camera Cutout, Edit by Transcript, and more<br>\n<strong>【介绍】</strong>：The screen recorder for Mac that handles the hard parts: zooms, motion, sound, and framing. Every demo and tutorial comes out polished. What's new in 4.0: - Glass Loupe, a zoom that magnifies one detail - Split screen, also for vertical video - Edit your video like you edit text - Camera cutout: you, without your background - Hide sensitive data and faces automatically - Sharper zooms, ProRes, up to 4x faster exports, and more<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/MXBY2KB22GHVHB\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/products/screen-studio\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：Glass,Loupe,Camera,Edit,screen,zooms<br>\n<strong>票数</strong>： 🔺417<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2026年11月01日 PM03:01 (北京时间)<br><br></p>\n",
       "image": "https://ph-files.imgix.net/e34f9fdf-0919-4b01-9bad-76687f286a44.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024",
       "date_published": "2026-11-01T00:00:00.000Z",
-      "date_modified": "2026-11-06T15:32:21.415Z",
+      "date_modified": "2026-11-07T14:36:02.046Z",
       "authors": [],
       "tags": [
         "PH"
@@ -70,7 +84,7 @@
       "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-specsight\"><span></span></a><a href=\"https://www.producthunt.com/products/specsight\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1    Specsight</a></h2>\n<p><img src=\"https://ph-files.imgix.net/7a1c5725-8db5-43ac-9653-354383b1a3f0.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"Specsight\" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>：Product observability for teams shipping fast with AI<br>\n<strong>【介绍】</strong>：Shipping fast with AI? Specsight turns code changes into a living product map, feature knowledge, and clear release updates. Keep Product, Sales, and Support in sync with what your software actually does and what changed.<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/U5MK5YLVIQ7YIM\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/products/specsight\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：Product,fast,what,observability,teams,shipping<br>\n<strong>票数</strong>： 🔺309<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2026年10月31日 PM03:01 (北京时间)<br><br></p>\n",
       "image": "https://ph-files.imgix.net/7a1c5725-8db5-43ac-9653-354383b1a3f0.png?auto=format&fit=crop&frame=1&h=512&w=1024",
       "date_published": "2026-10-31T00:00:00.000Z",
-      "date_modified": "2026-11-06T15:32:21.416Z",
+      "date_modified": "2026-11-07T14:36:02.047Z",
       "authors": [],
       "tags": [
         "PH"
@@ -84,7 +98,7 @@
       "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-vaani-developer-platform\"><span></span></a><a href=\"https://www.producthunt.com/products/vaani-developer-platfrom\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1    Vaani Developer Platform</a></h2>\n<p><img src=\"https://ph-files.imgix.net/68533eef-f593-4ca8-8c88-cda88a0b2896.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"Vaani Developer Platform\" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>：The only voice AI harness that you'll ever need<br>\n<strong>【介绍】</strong>：Build a voice agent that sounds and behaves human without writing a single line of code. Design the call flow, handle objections and edge cases, connect your tools and knowledge base, and go live on a real phone number. Every call ends with clean, structured data.<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/PLG3DPJZGCJSAB\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/products/vaani-developer-platfrom\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：voice,call,only,AI,harness,ll<br>\n<strong>票数</strong>： 🔺365<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2026年10月30日 PM03:01 (北京时间)<br><br></p>\n",
       "image": "https://ph-files.imgix.net/68533eef-f593-4ca8-8c88-cda88a0b2896.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024",
       "date_published": "2026-10-30T00:00:00.000Z",
-      "date_modified": "2026-11-06T15:32:21.416Z",
+      "date_modified": "2026-11-07T14:36:02.048Z",
       "authors": [],
       "tags": [
         "PH"
@@ -98,7 +112,7 @@
       "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-empacer\"><span></span></a><a href=\"https://www.producthunt.com/products/empacer\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1    Empacer</a></h2>\n<p><img src=\"https://ph-files.imgix.net/6b420584-32d8-4b74-a9eb-920c76438c57.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"Empacer\" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>： The voice-first assistant for small business owners<br>\n<strong>【介绍】</strong>：Most small business owners face the same problem when trying to use AI tools: they don't have time for re-explaining their business in every chat. Empacer is designed to skip this part. Three questions at setup, then spoken requests become a ready plan and finished work: customer replies, social posts, invoices and more. Nothing is sent without the owner's approval.<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/RXY756OTRKZOLG\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/products/empacer\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：business,small,voice,first,assistant,ownersMost<br>\n<strong>票数</strong>： 🔺431<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2026年10月29日 PM03:01 (北京时间)<br><br></p>\n",
       "image": "https://ph-files.imgix.net/6b420584-32d8-4b74-a9eb-920c76438c57.png?auto=format&fit=crop&frame=1&h=512&w=1024",
       "date_published": "2026-10-29T00:00:00.000Z",
-      "date_modified": "2026-11-06T15:32:21.417Z",
+      "date_modified": "2026-11-07T14:36:02.050Z",
       "authors": [],
       "tags": [
         "PH"
@@ -112,7 +126,7 @@
       "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-dedica\"><span></span></a><a href=\"https://www.producthunt.com/products/dedica\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1    Dedica</a></h2>\n<p><img src=\"https://ph-files.imgix.net/17001014-4632-4629-bfd5-c838f9da73f8.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"Dedica\" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>：Check if AI agents can use your website<br>\n<strong>【介绍】</strong>：Dedica tests your website the way AI agents use it, then gives your team a fix for every place they fail. Muse, Instinct, GrokBot and other agents now browse, compare and sign up on people's behalf. Dedica runs 125 checks (for free) to see if they can use your site, and gives you a fix for every issue to hand to your coding agent.<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/SMFJH4J7K55FL4\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/products/dedica\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：your,agents,use,AI,gives,fix<br>\n<strong>票数</strong>： 🔺301<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2026年10月28日 PM03:01 (北京时间)<br><br></p>\n",
       "image": "https://ph-files.imgix.net/17001014-4632-4629-bfd5-c838f9da73f8.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024",
       "date_published": "2026-10-28T00:00:00.000Z",
-      "date_modified": "2026-11-06T15:32:21.418Z",
+      "date_modified": "2026-11-07T14:36:02.051Z",
       "authors": [],
       "tags": [
         "PH"
@@ -126,21 +140,7 @@
       "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-theysaid-4-0\"><span></span></a><a href=\"https://www.producthunt.com/products/theysaid\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1    TheySaid 4.0</a></h2>\n<p><img src=\"https://ph-files.imgix.net/98da82eb-4125-44b2-86d1-2b2cab867ebb.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"TheySaid 4.0\" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>：See how users will react, right where you build.<br>\n<strong>【介绍】</strong>：Put what you’re building in front of real customers or synthetic users trained on them when you need an answer in minutes without leaving Claude, Cursor, or Jira. Nothing ships on a guess.<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/FIY7DCKNBRL5M2\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/products/theysaid\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：users,See,how,will,react,right<br>\n<strong>票数</strong>： 🔺361<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2026年10月27日 PM03:01 (北京时间)<br><br></p>\n",
       "image": "https://ph-files.imgix.net/98da82eb-4125-44b2-86d1-2b2cab867ebb.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024",
       "date_published": "2026-10-27T00:00:00.000Z",
-      "date_modified": "2026-11-06T15:32:21.418Z",
-      "authors": [],
-      "tags": [
-        "PH"
-      ]
-    },
-    {
-      "title": "PH今日热榜 | 2026-10-26",
-      "url": "https://github.camscanner.top/daily/posts/PH-daily-2026-10-26.html",
-      "id": "https://github.camscanner.top/daily/posts/PH-daily-2026-10-26.html",
-      "summary": "TOP1 Strawberry 1.0 Strawberry 1.0 【标语】：AI Browser that saves your team >100h/week 【介绍】：Strawberry is an AI browser that can do hours of work in minutes. Strawberry's agents, wh...",
-      "content_html": "<h2><a class=\"header-anchor\" href=\"#top1-strawberry-1-0\"><span></span></a><a href=\"https://www.producthunt.com/products/strawberry\" target=\"_blank\" rel=\"noopener noreferrer\">TOP1    Strawberry 1.0</a></h2>\n<p><img src=\"https://ph-files.imgix.net/231213b0-bf17-454a-9377-89bb7c954260.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024\" alt=\"Strawberry 1.0\" loading=\"lazy\"><br><br>\n<strong>【标语】</strong>：AI Browser that saves your team &gt;100h/week<br>\n<strong>【介绍】</strong>：Strawberry is an AI browser that can do hours of work in minutes. Strawberry's agents, which we call \"Companions\", can research hundreds of leads in parallel, transcribe your meetings, automate follow-ups, and handle all the repetitive admin your team keeps procrastinating. Create or hire a pre-made companion, teach it your preferences and share it with your whole team. Hundreds of teams, including Lovable, Tandem Health and ElevenLabs, already use Strawberry.<br>\n<strong>【官网】</strong>：<a href=\"https://www.producthunt.com/r/VLEJBVBONXC6FH\" target=\"_blank\" rel=\"noopener noreferrer\">立即访问</a><br>\n<strong>【Product Hunt】</strong>：<a href=\"https://www.producthunt.com/products/strawberry\" target=\"_blank\" rel=\"noopener noreferrer\">View on Product Hunt</a><br><br></p>\n<p><strong>关键词</strong>：your,team,AI,Strawberry,Browser,saves<br>\n<strong>票数</strong>： 🔺335<br>\n<strong>是否精选</strong>：是<br>\n<strong>发布时间</strong>：2026年10月26日 PM03:01 (北京时间)<br><br></p>\n",
-      "image": "https://ph-files.imgix.net/231213b0-bf17-454a-9377-89bb7c954260.png?auto=format&fit=crop&frame=1&h=512&w=1024",
-      "date_published": "2026-10-26T00:00:00.000Z",
-      "date_modified": "2026-11-06T15:32:21.419Z",
+      "date_modified": "2026-11-07T14:36:02.052Z",
       "authors": [],
       "tags": [
         "PH"
