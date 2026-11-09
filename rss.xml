@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 08 Nov 2026 14:42:15 GMT</pubDate>
-    <lastBuildDate>Sun, 08 Nov 2026 14:42:15 GMT</lastBuildDate>
+    <pubDate>Mon, 09 Nov 2026 18:06:59 GMT</pubDate>
+    <lastBuildDate>Mon, 09 Nov 2026 18:06:59 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-11-07</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-11-07.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-11-07.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-11-07</source>
+      <description>TOP1 ChatGPT Images 2.6 ChatGPT Images 2.6 【标语】：Create, edit, and animate images with AI 【介绍】：Images 2.6 brings faster image generation, more precise editing, and native GIF cre...</description>
+      <category>PH</category>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-chatgpt-images-2-6"><span></span></a><a href="https://www.producthunt.com/products/openai" target="_blank" rel="noopener noreferrer">TOP1    ChatGPT Images 2.6</a></h2>
+<p><img src="https://ph-files.imgix.net/c47c6fd8-2a7c-4605-a78e-92fb686de1a0.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ChatGPT Images 2.6" loading="lazy"><br><br>
+<strong>【标语】</strong>：Create, edit, and animate images with AI<br>
+<strong>【介绍】</strong>：Images 2.6 brings faster image generation, more precise editing, and native GIF creation to ChatGPT, Codex, and the API. Create looping animations, maintain character and product consistency across edits, export SVGs, and control generation complexity.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/ZYSSWGXHU4P32K" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/openai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：Create,generation,edit,animate,images,AIImages<br>
+<strong>票数</strong>： 🔺281<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年11月07日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/c47c6fd8-2a7c-4605-a78e-92fb686de1a0.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-11-06</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-11-06.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年10月29日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/6b420584-32d8-4b74-a9eb-920c76438c57.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-10-28</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-28.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-10-28.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-10-28</source>
-      <description>TOP1 Dedica Dedica 【标语】：Check if AI agents can use your website 【介绍】：Dedica tests your website the way AI agents use it, then gives your team a fix for every place they fail. Mu...</description>
-      <category>PH</category>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-dedica"><span></span></a><a href="https://www.producthunt.com/products/dedica" target="_blank" rel="noopener noreferrer">TOP1    Dedica</a></h2>
-<p><img src="https://ph-files.imgix.net/17001014-4632-4629-bfd5-c838f9da73f8.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Dedica" loading="lazy"><br><br>
-<strong>【标语】</strong>：Check if AI agents can use your website<br>
-<strong>【介绍】</strong>：Dedica tests your website the way AI agents use it, then gives your team a fix for every place they fail. Muse, Instinct, GrokBot and other agents now browse, compare and sign up on people's behalf. Dedica runs 125 checks (for free) to see if they can use your site, and gives you a fix for every issue to hand to your coding agent.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/SMFJH4J7K55FL4" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/dedica" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：your,agents,use,AI,gives,fix<br>
-<strong>票数</strong>： 🔺301<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年10月28日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/17001014-4632-4629-bfd5-c838f9da73f8.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
