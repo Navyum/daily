@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 09 Nov 2026 18:06:59 GMT</pubDate>
-    <lastBuildDate>Mon, 09 Nov 2026 18:06:59 GMT</lastBuildDate>
+    <pubDate>Tue, 10 Nov 2026 16:00:56 GMT</pubDate>
+    <lastBuildDate>Tue, 10 Nov 2026 16:00:56 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-11-08</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-11-08.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-11-08.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-11-08</source>
+      <description>TOP1 AXL AXL 【标语】：GTM copilot for AI product founders: 1,200+ actions via MCP 【介绍】：Capture leads, close sales &amp; onboard customers in one system: pages, quizzes, webinars, course...</description>
+      <category>PH</category>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-axl"><span></span></a><a href="https://www.producthunt.com/products/axl-2" target="_blank" rel="noopener noreferrer">TOP1    AXL</a></h2>
+<p><img src="https://ph-files.imgix.net/d2e1779a-5f83-4b09-bb6b-02956616ffe7.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="AXL" loading="lazy"><br><br>
+<strong>【标语】</strong>：GTM copilot for AI product founders: 1,200+ actions via MCP<br>
+<strong>【介绍】</strong>：Capture leads, close sales &amp; onboard customers in one system: pages, quizzes, webinars, courses, video hosting &amp; streaming, email, chat, CRM, telephony &amp; AI calls. No integrations to build &amp; maintain. Every interaction enriches each lead's history. Our AI model, trained on 1M deals from AXL users, scores leads using 300+ signals to help your AI &amp; sales team decide who to follow up with, when &amp; how. Give ChatGPT, Claude or Cursor access to lead context &amp; 1,200+ sales &amp; marketing actions via MCP.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/I2M2MPP6UQVT6W" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/axl-2" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：AI,sales,200,actions,via,leads<br>
+<strong>票数</strong>： 🔺271<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年11月08日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/d2e1779a-5f83-4b09-bb6b-02956616ffe7.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-11-07</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-11-07.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年10月30日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/68533eef-f593-4ca8-8c88-cda88a0b2896.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-10-29</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-29.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-10-29.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-10-29</source>
-      <description>TOP1 Empacer Empacer 【标语】： The voice-first assistant for small business owners 【介绍】：Most small business owners face the same problem when trying to use AI tools: they don&amp;apos;t have...</description>
-      <category>PH</category>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-empacer"><span></span></a><a href="https://www.producthunt.com/products/empacer" target="_blank" rel="noopener noreferrer">TOP1    Empacer</a></h2>
-<p><img src="https://ph-files.imgix.net/6b420584-32d8-4b74-a9eb-920c76438c57.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Empacer" loading="lazy"><br><br>
-<strong>【标语】</strong>： The voice-first assistant for small business owners<br>
-<strong>【介绍】</strong>：Most small business owners face the same problem when trying to use AI tools: they don't have time for re-explaining their business in every chat. Empacer is designed to skip this part. Three questions at setup, then spoken requests become a ready plan and finished work: customer replies, social posts, invoices and more. Nothing is sent without the owner's approval.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/RXY756OTRKZOLG" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/empacer" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：business,small,voice,first,assistant,ownersMost<br>
-<strong>票数</strong>： 🔺431<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年10月29日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/6b420584-32d8-4b74-a9eb-920c76438c57.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
