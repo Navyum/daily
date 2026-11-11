@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 10 Nov 2026 16:00:56 GMT</pubDate>
-    <lastBuildDate>Tue, 10 Nov 2026 16:00:56 GMT</lastBuildDate>
+    <pubDate>Wed, 11 Nov 2026 15:46:50 GMT</pubDate>
+    <lastBuildDate>Wed, 11 Nov 2026 15:46:50 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-11-09</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-11-09.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-11-09.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-11-09</source>
+      <description>TOP1 Product Hunt MCP Product Hunt MCP 【标语】：The community you trust in the assistant you use 【介绍】：Ask your AI assistant to find your next favorite product. Explore new launches,...</description>
+      <category>PH</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-product-hunt-mcp"><span></span></a><a href="https://www.producthunt.com/products/producthunt" target="_blank" rel="noopener noreferrer">TOP1    Product Hunt MCP</a></h2>
+<p><img src="https://ph-files.imgix.net/launch-image-uploads/4363272e-3e12-4a73-8e19-559a627fc568/9060d6c3d4e51b865150fc9f35b3142ca191c66dc3d5d006ccbe1cf342690ef5.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Product Hunt MCP" loading="lazy"><br><br>
+<strong>【标语】</strong>：The community you trust in the assistant you use<br>
+<strong>【介绍】</strong>：Ask your AI assistant to find your next favorite product. Explore new launches, compare alternatives, and see what the Product Hunt community thinks. Building something yourself? Turn your README and website into a launch draft, add images, and check what's missing before you submit. Sign in with Product Hunt to connect. No API key needed.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/ERQDTXX2HLG67G" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/producthunt" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：your,community,assistant,what,Product,Hunt<br>
+<strong>票数</strong>： 🔺432<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年11月09日 PM04:00 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/launch-image-uploads/4363272e-3e12-4a73-8e19-559a627fc568/9060d6c3d4e51b865150fc9f35b3142ca191c66dc3d5d006ccbe1cf342690ef5.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-11-08</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-11-08.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年10月31日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/7a1c5725-8db5-43ac-9653-354383b1a3f0.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-10-30</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-30.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-10-30.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-10-30</source>
-      <description>TOP1 Vaani Developer Platform Vaani Developer Platform 【标语】：The only voice AI harness that you&amp;apos;ll ever need 【介绍】：Build a voice agent that sounds and behaves human without writin...</description>
-      <category>PH</category>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-vaani-developer-platform"><span></span></a><a href="https://www.producthunt.com/products/vaani-developer-platfrom" target="_blank" rel="noopener noreferrer">TOP1    Vaani Developer Platform</a></h2>
-<p><img src="https://ph-files.imgix.net/68533eef-f593-4ca8-8c88-cda88a0b2896.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Vaani Developer Platform" loading="lazy"><br><br>
-<strong>【标语】</strong>：The only voice AI harness that you'll ever need<br>
-<strong>【介绍】</strong>：Build a voice agent that sounds and behaves human without writing a single line of code. Design the call flow, handle objections and edge cases, connect your tools and knowledge base, and go live on a real phone number. Every call ends with clean, structured data.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/PLG3DPJZGCJSAB" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/vaani-developer-platfrom" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：voice,call,only,AI,harness,ll<br>
-<strong>票数</strong>： 🔺365<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年10月30日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/68533eef-f593-4ca8-8c88-cda88a0b2896.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
