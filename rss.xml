@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 11 Nov 2026 15:46:50 GMT</pubDate>
-    <lastBuildDate>Wed, 11 Nov 2026 15:46:50 GMT</lastBuildDate>
+    <pubDate>Thu, 12 Nov 2026 16:30:35 GMT</pubDate>
+    <lastBuildDate>Thu, 12 Nov 2026 16:30:35 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-11-10</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-11-10.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-11-10.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-11-10</source>
+      <description>TOP1 Alsona Alsona 【标语】：AI agents that turn buying signals into booked sales calls 【介绍】：95% of prospects aren&amp;apos;t ready to buy when you reach out. Alsona finds the ones showing bu...</description>
+      <category>PH</category>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-alsona"><span></span></a><a href="https://www.producthunt.com/products/alsona" target="_blank" rel="noopener noreferrer">TOP1    Alsona</a></h2>
+<p><img src="https://ph-files.imgix.net/fdfa2e91-beed-413d-8292-a9b9801f4c68.gif?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Alsona" loading="lazy"><br><br>
+<strong>【标语】</strong>：AI agents that turn buying signals into booked sales calls<br>
+<strong>【介绍】</strong>：95% of prospects aren't ready to buy when you reach out. Alsona finds the ones showing buying intent right now. It tracks 32+ signals across hiring, funding, tech changes, reviews, ad spend, and more, then scores companies against your ICP and explains why they're worth contacting. AI agents turn those signals into personalized LinkedIn and email outreach, helping you start conversations while the buying window is open. Alsona helps you book calls directly with the 5% who is ready to buy today.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/6777NBXG6GHZDS" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/alsona" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：buying,signals,AI,agents,turn,into<br>
+<strong>票数</strong>： 🔺475<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年11月10日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/fdfa2e91-beed-413d-8292-a9b9801f4c68.gif?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-11-09</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-11-09.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年11月01日 PM03:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/e34f9fdf-0919-4b01-9bad-76687f286a44.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-10-31</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-10-31.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-10-31.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-10-31</source>
-      <description>TOP1 Specsight Specsight 【标语】：Product observability for teams shipping fast with AI 【介绍】：Shipping fast with AI? Specsight turns code changes into a living product map, feature k...</description>
-      <category>PH</category>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-specsight"><span></span></a><a href="https://www.producthunt.com/products/specsight" target="_blank" rel="noopener noreferrer">TOP1    Specsight</a></h2>
-<p><img src="https://ph-files.imgix.net/7a1c5725-8db5-43ac-9653-354383b1a3f0.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Specsight" loading="lazy"><br><br>
-<strong>【标语】</strong>：Product observability for teams shipping fast with AI<br>
-<strong>【介绍】</strong>：Shipping fast with AI? Specsight turns code changes into a living product map, feature knowledge, and clear release updates. Keep Product, Sales, and Support in sync with what your software actually does and what changed.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/U5MK5YLVIQ7YIM" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/specsight" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：Product,fast,what,observability,teams,shipping<br>
-<strong>票数</strong>： 🔺309<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年10月31日 PM03:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/7a1c5725-8db5-43ac-9653-354383b1a3f0.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
