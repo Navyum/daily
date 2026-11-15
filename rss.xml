@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 14 Nov 2026 14:42:25 GMT</pubDate>
-    <lastBuildDate>Sat, 14 Nov 2026 14:42:25 GMT</lastBuildDate>
+    <pubDate>Sun, 15 Nov 2026 15:12:09 GMT</pubDate>
+    <lastBuildDate>Sun, 15 Nov 2026 15:12:09 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-11-13</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-11-13.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-11-13.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-11-13</source>
+      <description>TOP1 Templify AI Templify AI 【标语】：Powerful content editor for people who aren’t editors 【介绍】：Templify is an all-in-one video, photo, and carousel editor for iPhone. With 1,200+ ...</description>
+      <category>PH</category>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-templify-ai"><span></span></a><a href="https://www.producthunt.com/products/templify" target="_blank" rel="noopener noreferrer">TOP1    Templify AI</a></h2>
+<p><img src="https://ph-files.imgix.net/979dcb91-d000-4fdd-9fbc-48f2b5cb35af.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Templify AI" loading="lazy"><br><br>
+<strong>【标语】</strong>：Powerful content editor for people who aren’t editors<br>
+<strong>【介绍】</strong>：Templify is an all-in-one video, photo, and carousel editor for iPhone. With 1,200+ designer templates, it turns clips and photos into Reels, TikToks, YouTube Shorts, and collages in minutes, no timeline needed. Features include AI video editing, beat-synced transitions, auto captions, background removal, filters, and an AI Studio. Free to use, with an optional Pro subscription.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/T53GXHFXDGAANJ" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/templify" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：editor,video,AI,Powerful,content,people<br>
+<strong>票数</strong>： 🔺375<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年11月13日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/979dcb91-d000-4fdd-9fbc-48f2b5cb35af.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-11-12</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-11-12.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年11月04日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/e183366b-c3b1-4ce9-a7d6-24eee37c7943.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-11-03</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-11-03.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-11-03.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-11-03</source>
-      <description>TOP1 AgentKit by Scalekit AgentKit by Scalekit 【标语】：MCP gateway for production agents that acts on your behalf 【介绍】：Let your agents use 30,000+ tools across 600+ apps, from Sale...</description>
-      <category>PH</category>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-agentkit-by-scalekit"><span></span></a><a href="https://www.producthunt.com/products/scalekit" target="_blank" rel="noopener noreferrer">TOP1    AgentKit by Scalekit</a></h2>
-<p><img src="https://ph-files.imgix.net/16386268-8e8a-44d8-91e1-579b11640a25.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="AgentKit by Scalekit" loading="lazy"><br><br>
-<strong>【标语】</strong>：MCP gateway for production agents that acts on your behalf<br>
-<strong>【介绍】</strong>：Let your agents use 30,000+ tools across 600+ apps, from Salesforce to GitHub, through one MCP gateway. AgentKit handles auth and integrations, so every action runs as the user who asked, within the scopes they granted. Give each agent only the tools its job needs with Virtual MCP Servers. Add internal APIs as custom connectors. Use Triggers to start an agent the moment an email lands. Built for developers taking agents to production: every call is logged. Free tier: 10,000 tool calls a month.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/K2KQXD7ILBCL6E" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/scalekit" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：MCP,agents,gateway,production,your,000<br>
-<strong>票数</strong>： 🔺409<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年11月03日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/16386268-8e8a-44d8-91e1-579b11640a25.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
