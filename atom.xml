@@ -4,16 +4,41 @@
   <title>DAYHACK</title>
   <subtitle>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</subtitle>
   <icon>https://github.camscanner.top/daily/favicon.ico</icon>
-  <updated>2026-11-15T15:12:09.044Z</updated>
+  <updated>2026-11-16T17:46:49.321Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/"/>
   <category term="PH"/>
   <entry>
+    <title type="text">PH今日热榜 | 2026-11-14</title>
+    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-11-14.html</id>
+    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-11-14.html"/>
+    <updated>2026-11-16T17:46:49.322Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-hiringnow"><span></span></a><a href="https://www.producthunt.com/products/hiringnow" target="_blank" rel="noopener noreferrer">TOP1    HiringNow</a></h2>
+<p><img src="https://ph-files.imgix.net/aa83ec4d-5bc0-4759-a87f-545a100040f0.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="HiringNow" loading="lazy"><br><br>
+<strong>【标语】</strong>：AI job agent that finds &amp; apply for jobs before anyone else.<br>
+<strong>【介绍】</strong>：HiringNow checks 247,000+ company career sites every 5 minutes, so you see new jobs before they hit the big boards. It matches each job to your profile, tailors your resume and cover letter, and applies on the employer's own site, only with your approval. Every application gets a receipt in your job tracker. Also: resume builder and mock interviews. Free plan with 10 auto-applies.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/WSO7S2YHKPGAXY" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/hiringnow" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-hiringnow"><span></span></a><a href="https://www.producthunt.com/products/hiringnow" target="_blank" rel="noopener noreferrer">TOP1    HiringNow</a></h2>
+<p><img src="https://ph-files.imgix.net/aa83ec4d-5bc0-4759-a87f-545a100040f0.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="HiringNow" loading="lazy"><br><br>
+<strong>【标语】</strong>：AI job agent that finds &amp; apply for jobs before anyone else.<br>
+<strong>【介绍】</strong>：HiringNow checks 247,000+ company career sites every 5 minutes, so you see new jobs before they hit the big boards. It matches each job to your profile, tailors your resume and cover letter, and applies on the employer's own site, only with your approval. Every application gets a receipt in your job tracker. Also: resume builder and mock interviews. Free plan with 10 auto-applies.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/WSO7S2YHKPGAXY" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/hiringnow" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：your,job,jobs,before,resume,applies<br>
+<strong>票数</strong>： 🔺286<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年11月14日 PM04:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2026-11-14T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">PH今日热榜 | 2026-11-13</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-11-13.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-11-13.html"/>
-    <updated>2026-11-15T15:12:09.045Z</updated>
+    <updated>2026-11-16T17:46:49.339Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-templify-ai"><span></span></a><a href="https://www.producthunt.com/products/templify" target="_blank" rel="noopener noreferrer">TOP1    Templify AI</a></h2>
 <p><img src="https://ph-files.imgix.net/979dcb91-d000-4fdd-9fbc-48f2b5cb35af.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Templify AI" loading="lazy"><br><br>
 <strong>【标语】</strong>：Powerful content editor for people who aren’t editors<br>
@@ -38,7 +63,7 @@
     <title type="text">PH今日热榜 | 2026-11-12</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-11-12.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-11-12.html"/>
-    <updated>2026-11-15T15:12:09.064Z</updated>
+    <updated>2026-11-16T17:46:49.354Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-plurai-simulation"><span></span></a><a href="https://www.producthunt.com/products/plurai" target="_blank" rel="noopener noreferrer">TOP1    Plurai Simulation</a></h2>
 <p><img src="https://ph-files.imgix.net/88985531-f5a2-4565-bc25-85d438eba883.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Plurai Simulation" loading="lazy"><br><br>
 <strong>【标语】</strong>：A simulated world that makes your agent improve on every run<br>
@@ -63,7 +88,7 @@
     <title type="text">PH今日热榜 | 2026-11-11</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-11-11.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-11-11.html"/>
-    <updated>2026-11-15T15:12:09.079Z</updated>
+    <updated>2026-11-16T17:46:49.369Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-scroogefrog-ai"><span></span></a><a href="https://www.producthunt.com/products/scroogefrog-ai-antifraud" target="_blank" rel="noopener noreferrer">TOP1    ScroogeFrog AI </a></h2>
 <p><img src="https://ph-files.imgix.net/e215c77e-255d-42ed-8070-e883259f0699.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ScroogeFrog AI " loading="lazy"><br><br>
 <strong>【标语】</strong>：AI ad fraud detection that protects your marketing budget <br>
@@ -88,7 +113,7 @@
     <title type="text">PH今日热榜 | 2026-11-10</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-11-10.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-11-10.html"/>
-    <updated>2026-11-15T15:12:09.087Z</updated>
+    <updated>2026-11-16T17:46:49.381Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-alsona"><span></span></a><a href="https://www.producthunt.com/products/alsona" target="_blank" rel="noopener noreferrer">TOP1    Alsona</a></h2>
 <p><img src="https://ph-files.imgix.net/fdfa2e91-beed-413d-8292-a9b9801f4c68.gif?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Alsona" loading="lazy"><br><br>
 <strong>【标语】</strong>：AI agents that turn buying signals into booked sales calls<br>
@@ -113,7 +138,7 @@
     <title type="text">PH今日热榜 | 2026-11-09</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-11-09.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-11-09.html"/>
-    <updated>2026-11-15T15:12:09.103Z</updated>
+    <updated>2026-11-16T17:46:49.394Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-product-hunt-mcp"><span></span></a><a href="https://www.producthunt.com/products/producthunt" target="_blank" rel="noopener noreferrer">TOP1    Product Hunt MCP</a></h2>
 <p><img src="https://ph-files.imgix.net/launch-image-uploads/4363272e-3e12-4a73-8e19-559a627fc568/9060d6c3d4e51b865150fc9f35b3142ca191c66dc3d5d006ccbe1cf342690ef5.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Product Hunt MCP" loading="lazy"><br><br>
 <strong>【标语】</strong>：The community you trust in the assistant you use<br>
@@ -138,7 +163,7 @@
     <title type="text">PH今日热榜 | 2026-11-08</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-11-08.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-11-08.html"/>
-    <updated>2026-11-15T15:12:09.117Z</updated>
+    <updated>2026-11-16T17:46:49.401Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-axl"><span></span></a><a href="https://www.producthunt.com/products/axl-2" target="_blank" rel="noopener noreferrer">TOP1    AXL</a></h2>
 <p><img src="https://ph-files.imgix.net/d2e1779a-5f83-4b09-bb6b-02956616ffe7.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="AXL" loading="lazy"><br><br>
 <strong>【标语】</strong>：GTM copilot for AI product founders: 1,200+ actions via MCP<br>
@@ -163,7 +188,7 @@
     <title type="text">PH今日热榜 | 2026-11-07</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-11-07.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-11-07.html"/>
-    <updated>2026-11-15T15:12:09.125Z</updated>
+    <updated>2026-11-16T17:46:49.416Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-chatgpt-images-2-6"><span></span></a><a href="https://www.producthunt.com/products/openai" target="_blank" rel="noopener noreferrer">TOP1    ChatGPT Images 2.6</a></h2>
 <p><img src="https://ph-files.imgix.net/c47c6fd8-2a7c-4605-a78e-92fb686de1a0.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ChatGPT Images 2.6" loading="lazy"><br><br>
 <strong>【标语】</strong>：Create, edit, and animate images with AI<br>
@@ -188,7 +213,7 @@
     <title type="text">PH今日热榜 | 2026-11-06</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-11-06.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-11-06.html"/>
-    <updated>2026-11-15T15:12:09.138Z</updated>
+    <updated>2026-11-16T17:46:49.431Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-tobira-site-agent"><span></span></a><a href="https://www.producthunt.com/products/tobira-ai" target="_blank" rel="noopener noreferrer">TOP1    Tobira Site Agent</a></h2>
 <p><img src="https://ph-files.imgix.net/28da0fe7-0365-47c8-954f-b19877f46d44.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Tobira Site Agent" loading="lazy"><br><br>
 <strong>【标语】</strong>：Turn your website into an AI agent that sells to AI agents<br>
@@ -213,7 +238,7 @@
     <title type="text">PH今日热榜 | 2026-11-05</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-11-05.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-11-05.html"/>
-    <updated>2026-11-15T15:12:09.148Z</updated>
+    <updated>2026-11-16T17:46:49.440Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-glasshand"><span></span></a><a href="https://www.producthunt.com/products/glasshand" target="_blank" rel="noopener noreferrer">TOP1    Glasshand</a></h2>
 <p><img src="https://ph-files.imgix.net/1bb914f9-fc0f-48dd-97a1-036322f4641d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Glasshand" loading="lazy"><br><br>
 <strong>【标语】</strong>：Give your agent a real iPhone and Mac<br>
@@ -233,30 +258,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2026-11-05T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2026-11-04</title>
-    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-11-04.html</id>
-    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-11-04.html"/>
-    <updated>2026-11-15T15:12:09.163Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-wanaka-studio"><span></span></a><a href="https://www.producthunt.com/products/wanaka-studio" target="_blank" rel="noopener noreferrer">TOP1    Wanaka Studio</a></h2>
-<p><img src="https://ph-files.imgix.net/e183366b-c3b1-4ce9-a7d6-24eee37c7943.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Wanaka Studio" loading="lazy"><br><br>
-<strong>【标语】</strong>：Make and publish 3D games with the first AI game engine<br>
-<strong>【介绍】</strong>：The first all-in-one, AI-native game engine. An AI agent builds your AAA-style 3D game. You can edit it directly in a synced visual editor. No code. Auto-rigging, multiplayer, and 1-click publish built in. Uses ~80% fewer tokens and generates faster than Claude Opus 5.5 + Unity.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/72C3HN2ZVH7J6Z" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/wanaka-studio" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-wanaka-studio"><span></span></a><a href="https://www.producthunt.com/products/wanaka-studio" target="_blank" rel="noopener noreferrer">TOP1    Wanaka Studio</a></h2>
-<p><img src="https://ph-files.imgix.net/e183366b-c3b1-4ce9-a7d6-24eee37c7943.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Wanaka Studio" loading="lazy"><br><br>
-<strong>【标语】</strong>：Make and publish 3D games with the first AI game engine<br>
-<strong>【介绍】</strong>：The first all-in-one, AI-native game engine. An AI agent builds your AAA-style 3D game. You can edit it directly in a synced visual editor. No code. Auto-rigging, multiplayer, and 1-click publish built in. Uses ~80% fewer tokens and generates faster than Claude Opus 5.5 + Unity.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/72C3HN2ZVH7J6Z" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/wanaka-studio" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：AI,game,publish,3D,first,Make<br>
-<strong>票数</strong>： 🔺438<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年11月04日 PM04:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2026-11-04T00:00:00.000Z</published>
   </entry>
 </feed>

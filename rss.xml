@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 15 Nov 2026 15:12:09 GMT</pubDate>
-    <lastBuildDate>Sun, 15 Nov 2026 15:12:09 GMT</lastBuildDate>
+    <pubDate>Mon, 16 Nov 2026 17:46:49 GMT</pubDate>
+    <lastBuildDate>Mon, 16 Nov 2026 17:46:49 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-11-14</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-11-14.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-11-14.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-11-14</source>
+      <description>TOP1 HiringNow HiringNow 【标语】：AI job agent that finds &amp; apply for jobs before anyone else. 【介绍】：HiringNow checks 247,000+ company career sites every 5 minutes, so you see new jo...</description>
+      <category>PH</category>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-hiringnow"><span></span></a><a href="https://www.producthunt.com/products/hiringnow" target="_blank" rel="noopener noreferrer">TOP1    HiringNow</a></h2>
+<p><img src="https://ph-files.imgix.net/aa83ec4d-5bc0-4759-a87f-545a100040f0.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="HiringNow" loading="lazy"><br><br>
+<strong>【标语】</strong>：AI job agent that finds &amp; apply for jobs before anyone else.<br>
+<strong>【介绍】</strong>：HiringNow checks 247,000+ company career sites every 5 minutes, so you see new jobs before they hit the big boards. It matches each job to your profile, tailors your resume and cover letter, and applies on the employer's own site, only with your approval. Every application gets a receipt in your job tracker. Also: resume builder and mock interviews. Free plan with 10 auto-applies.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/WSO7S2YHKPGAXY" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/hiringnow" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：your,job,jobs,before,resume,applies<br>
+<strong>票数</strong>： 🔺286<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年11月14日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/aa83ec4d-5bc0-4759-a87f-545a100040f0.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-11-13</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-11-13.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年11月05日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/1bb914f9-fc0f-48dd-97a1-036322f4641d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-11-04</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-11-04.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-11-04.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-11-04</source>
-      <description>TOP1 Wanaka Studio Wanaka Studio 【标语】：Make and publish 3D games with the first AI game engine 【介绍】：The first all-in-one, AI-native game engine. An AI agent builds your AAA-style...</description>
-      <category>PH</category>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-wanaka-studio"><span></span></a><a href="https://www.producthunt.com/products/wanaka-studio" target="_blank" rel="noopener noreferrer">TOP1    Wanaka Studio</a></h2>
-<p><img src="https://ph-files.imgix.net/e183366b-c3b1-4ce9-a7d6-24eee37c7943.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Wanaka Studio" loading="lazy"><br><br>
-<strong>【标语】</strong>：Make and publish 3D games with the first AI game engine<br>
-<strong>【介绍】</strong>：The first all-in-one, AI-native game engine. An AI agent builds your AAA-style 3D game. You can edit it directly in a synced visual editor. No code. Auto-rigging, multiplayer, and 1-click publish built in. Uses ~80% fewer tokens and generates faster than Claude Opus 5.5 + Unity.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/72C3HN2ZVH7J6Z" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/wanaka-studio" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：AI,game,publish,3D,first,Make<br>
-<strong>票数</strong>： 🔺438<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年11月04日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/e183366b-c3b1-4ce9-a7d6-24eee37c7943.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
