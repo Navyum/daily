@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 16 Nov 2026 17:46:49 GMT</pubDate>
-    <lastBuildDate>Mon, 16 Nov 2026 17:46:49 GMT</lastBuildDate>
+    <pubDate>Tue, 17 Nov 2026 17:17:21 GMT</pubDate>
+    <lastBuildDate>Tue, 17 Nov 2026 17:17:21 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-11-15</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-11-15.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-11-15.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-11-15</source>
+      <description>TOP1 Rakazo Rakazo 【标语】：The open source Grok Bot alternative you actually own 【介绍】：Rakazo gives you AI teammates that keep working after you close the chat. Each bot has its own...</description>
+      <category>PH</category>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-rakazo"><span></span></a><a href="https://www.producthunt.com/products/rakazo" target="_blank" rel="noopener noreferrer">TOP1    Rakazo</a></h2>
+<p><img src="https://ph-files.imgix.net/ed37ee91-d53e-473a-b301-4cdc03ea84cb.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Rakazo" loading="lazy"><br><br>
+<strong>【标语】</strong>：The open source Grok Bot alternative you actually own<br>
+<strong>【介绍】</strong>：Rakazo gives you AI teammates that keep working after you close the chat. Each bot has its own memory, routines and computer, with a browser you can watch and take over. Open source and self-hosted: any model, your keys, your machine. Web, desktop and mobile.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/JJD4SYA4D3EAB6" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/rakazo" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：source,your,open,Grok,Bot,alternative<br>
+<strong>票数</strong>： 🔺396<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年11月15日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/ed37ee91-d53e-473a-b301-4cdc03ea84cb.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-11-14</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-11-14.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年11月06日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/28da0fe7-0365-47c8-954f-b19877f46d44.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-11-05</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-11-05.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-11-05.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-11-05</source>
-      <description>TOP1 Glasshand Glasshand 【标语】：Give your agent a real iPhone and Mac 【介绍】：Glasshand gives your AI agents real iPhones and Macs to work on. Connect Claude Code, Codex, or any othe...</description>
-      <category>PH</category>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-glasshand"><span></span></a><a href="https://www.producthunt.com/products/glasshand" target="_blank" rel="noopener noreferrer">TOP1    Glasshand</a></h2>
-<p><img src="https://ph-files.imgix.net/1bb914f9-fc0f-48dd-97a1-036322f4641d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Glasshand" loading="lazy"><br><br>
-<strong>【标语】</strong>：Give your agent a real iPhone and Mac<br>
-<strong>【介绍】</strong>：Glasshand gives your AI agents real iPhones and Macs to work on. Connect Claude Code, Codex, or any other agent, and it can rent a device with a single prompt. The hardware sits in our data center, and your agent uses it the way you would: posting on TikTok, booking an Uber, or building and testing iOS apps. Each device is yours alone for as long as you rent it. When you’re done, we erase your data and factory-reset it.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/4HPTGSLZ23MFLT" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/glasshand" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：your,agent,real,rent,device,data<br>
-<strong>票数</strong>： 🔺371<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年11月05日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/1bb914f9-fc0f-48dd-97a1-036322f4641d.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
