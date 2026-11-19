@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 18 Nov 2026 16:53:31 GMT</pubDate>
-    <lastBuildDate>Wed, 18 Nov 2026 16:53:31 GMT</lastBuildDate>
+    <pubDate>Thu, 19 Nov 2026 16:59:55 GMT</pubDate>
+    <lastBuildDate>Thu, 19 Nov 2026 16:59:55 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-11-17</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-11-17.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-11-17.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-11-17</source>
+      <description>TOP1 RankSpot RankSpot 【标语】：Pay-as-you-go SEO and AI Search execution layer for agents 【介绍】：RankSpot is the SEO and AI Search execution layer for agents. Connect the MCP to Clau...</description>
+      <category>PH</category>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-rankspot"><span></span></a><a href="https://www.producthunt.com/products/rankspot" target="_blank" rel="noopener noreferrer">TOP1    RankSpot</a></h2>
+<p><img src="https://ph-files.imgix.net/df9a58a9-cff3-41a9-9e7d-7a982df725e2.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="RankSpot" loading="lazy"><br><br>
+<strong>【标语】</strong>：Pay-as-you-go SEO and AI Search execution layer for agents<br>
+<strong>【介绍】</strong>：RankSpot is the SEO and AI Search execution layer for agents. Connect the MCP to Claude or ChatGPT in 2 minutes and your agent does the work: it writes articles from what already ranks on Google in 100+ languages, publishes them, and pitches ranking sites from your mailbox for backlinks. Run every client or business from one chat. No subscription: $3 an article, $0.004 a prompt check, reading your data free. Start with $1 of credit and a free article.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/ZXC3TLTUHNL3JP" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/rankspot" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：your,SEO,AI,Search,execution,layer<br>
+<strong>票数</strong>： 🔺434<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年11月17日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/df9a58a9-cff3-41a9-9e7d-7a982df725e2.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-11-16</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-11-16.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年11月08日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/d2e1779a-5f83-4b09-bb6b-02956616ffe7.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-11-07</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-11-07.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-11-07.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-11-07</source>
-      <description>TOP1 ChatGPT Images 2.6 ChatGPT Images 2.6 【标语】：Create, edit, and animate images with AI 【介绍】：Images 2.6 brings faster image generation, more precise editing, and native GIF cre...</description>
-      <category>PH</category>
-      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-chatgpt-images-2-6"><span></span></a><a href="https://www.producthunt.com/products/openai" target="_blank" rel="noopener noreferrer">TOP1    ChatGPT Images 2.6</a></h2>
-<p><img src="https://ph-files.imgix.net/c47c6fd8-2a7c-4605-a78e-92fb686de1a0.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ChatGPT Images 2.6" loading="lazy"><br><br>
-<strong>【标语】</strong>：Create, edit, and animate images with AI<br>
-<strong>【介绍】</strong>：Images 2.6 brings faster image generation, more precise editing, and native GIF creation to ChatGPT, Codex, and the API. Create looping animations, maintain character and product consistency across edits, export SVGs, and control generation complexity.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/ZYSSWGXHU4P32K" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/openai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：Create,generation,edit,animate,images,AIImages<br>
-<strong>票数</strong>： 🔺281<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年11月07日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/c47c6fd8-2a7c-4605-a78e-92fb686de1a0.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
