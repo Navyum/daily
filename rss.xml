@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 20 Nov 2026 16:35:03 GMT</pubDate>
-    <lastBuildDate>Fri, 20 Nov 2026 16:35:03 GMT</lastBuildDate>
+    <pubDate>Sat, 21 Nov 2026 15:52:14 GMT</pubDate>
+    <lastBuildDate>Sat, 21 Nov 2026 15:52:14 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-11-19</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-11-19.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-11-19.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-11-19</source>
+      <description>TOP1 TestSprite 4.0 TestSprite 4.0 【标语】：Fix one thing, break another? This agent checks it all 【介绍】：Your coding agent fixes one thing and breaks another. TestSprite 4.0 is a bra...</description>
+      <category>PH</category>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-testsprite-4-0"><span></span></a><a href="https://www.producthunt.com/products/testsprite" target="_blank" rel="noopener noreferrer">TOP1    TestSprite 4.0</a></h2>
+<p><img src="https://ph-files.imgix.net/725acadf-a563-4f71-9403-e3c172ff5cca.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="TestSprite 4.0" loading="lazy"><br><br>
+<strong>【标语】</strong>：Fix one thing, break another? This agent checks it all<br>
+<strong>【介绍】</strong>：Your coding agent fixes one thing and breaks another. TestSprite 4.0 is a brand-new testing agent that remembers what your app should do and checks all of it, every time. Tell it in plain words what to test. It explores your running app, writes and runs the end-to-end tests, tells you which failures are real bugs, and keeps checking every change from the web, your terminal or your pull requests.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/7TKIXW445YMK2C" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/testsprite" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：your,agent,thing,another,checks,what<br>
+<strong>票数</strong>： 🔺363<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年11月19日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/725acadf-a563-4f71-9403-e3c172ff5cca.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-11-18</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-11-18.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年11月10日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/fdfa2e91-beed-413d-8292-a9b9801f4c68.gif?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-11-09</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-11-09.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-11-09.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-11-09</source>
-      <description>TOP1 Product Hunt MCP Product Hunt MCP 【标语】：The community you trust in the assistant you use 【介绍】：Ask your AI assistant to find your next favorite product. Explore new launches,...</description>
-      <category>PH</category>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-product-hunt-mcp"><span></span></a><a href="https://www.producthunt.com/products/producthunt" target="_blank" rel="noopener noreferrer">TOP1    Product Hunt MCP</a></h2>
-<p><img src="https://ph-files.imgix.net/launch-image-uploads/4363272e-3e12-4a73-8e19-559a627fc568/9060d6c3d4e51b865150fc9f35b3142ca191c66dc3d5d006ccbe1cf342690ef5.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Product Hunt MCP" loading="lazy"><br><br>
-<strong>【标语】</strong>：The community you trust in the assistant you use<br>
-<strong>【介绍】</strong>：Ask your AI assistant to find your next favorite product. Explore new launches, compare alternatives, and see what the Product Hunt community thinks. Building something yourself? Turn your README and website into a launch draft, add images, and check what's missing before you submit. Sign in with Product Hunt to connect. No API key needed.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/ERQDTXX2HLG67G" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/producthunt" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：your,community,assistant,what,Product,Hunt<br>
-<strong>票数</strong>： 🔺432<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年11月09日 PM04:00 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/launch-image-uploads/4363272e-3e12-4a73-8e19-559a627fc568/9060d6c3d4e51b865150fc9f35b3142ca191c66dc3d5d006ccbe1cf342690ef5.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
