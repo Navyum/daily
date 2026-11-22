@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 21 Nov 2026 15:52:14 GMT</pubDate>
-    <lastBuildDate>Sat, 21 Nov 2026 15:52:14 GMT</lastBuildDate>
+    <pubDate>Sun, 22 Nov 2026 15:51:15 GMT</pubDate>
+    <lastBuildDate>Sun, 22 Nov 2026 15:51:15 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-11-20</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-11-20.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-11-20.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-11-20</source>
+      <description>TOP1 Saparo Saparo 【标语】：Muse for shopping with deals stacks 【介绍】：Saparo is a personal shopping agent that stacks every deal. Tell it what you want, and it searches U.S. stores f...</description>
+      <category>PH</category>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-saparo"><span></span></a><a href="https://www.producthunt.com/products/saparo" target="_blank" rel="noopener noreferrer">TOP1    Saparo</a></h2>
+<p><img src="https://ph-files.imgix.net/cb4f4249-89e3-49d3-b59c-27a94e079519.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Saparo" loading="lazy"><br><br>
+<strong>【标语】</strong>：Muse for shopping with deals stacks<br>
+<strong>【介绍】</strong>：Saparo is a personal shopping agent that stacks every deal. Tell it what you want, and it searches U.S. stores for the same item in your size, combining promo codes, cash back, and eligible card offers that work together. It ranks options by estimated total cost, including shipping and tax, so you skip the legwork. With your approval, Saparo applies selected offers and gets checkout ready. You review the order and make the final payment yourself.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/CGUN3ORBJWPLHU" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/saparo" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：shopping,your,offers,Muse,deals,stacksSaparo<br>
+<strong>票数</strong>： 🔺335<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年11月20日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/cb4f4249-89e3-49d3-b59c-27a94e079519.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-11-19</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-11-19.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年11月11日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/e215c77e-255d-42ed-8070-e883259f0699.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-11-10</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-11-10.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-11-10.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-11-10</source>
-      <description>TOP1 Alsona Alsona 【标语】：AI agents that turn buying signals into booked sales calls 【介绍】：95% of prospects aren&amp;apos;t ready to buy when you reach out. Alsona finds the ones showing bu...</description>
-      <category>PH</category>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-alsona"><span></span></a><a href="https://www.producthunt.com/products/alsona" target="_blank" rel="noopener noreferrer">TOP1    Alsona</a></h2>
-<p><img src="https://ph-files.imgix.net/fdfa2e91-beed-413d-8292-a9b9801f4c68.gif?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Alsona" loading="lazy"><br><br>
-<strong>【标语】</strong>：AI agents that turn buying signals into booked sales calls<br>
-<strong>【介绍】</strong>：95% of prospects aren't ready to buy when you reach out. Alsona finds the ones showing buying intent right now. It tracks 32+ signals across hiring, funding, tech changes, reviews, ad spend, and more, then scores companies against your ICP and explains why they're worth contacting. AI agents turn those signals into personalized LinkedIn and email outreach, helping you start conversations while the buying window is open. Alsona helps you book calls directly with the 5% who is ready to buy today.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/6777NBXG6GHZDS" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/alsona" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：buying,signals,AI,agents,turn,into<br>
-<strong>票数</strong>： 🔺475<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年11月10日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/fdfa2e91-beed-413d-8292-a9b9801f4c68.gif?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
