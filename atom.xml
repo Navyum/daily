@@ -4,16 +4,66 @@
   <title>DAYHACK</title>
   <subtitle>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</subtitle>
   <icon>https://github.camscanner.top/daily/favicon.ico</icon>
-  <updated>2026-11-22T15:51:15.125Z</updated>
+  <updated>2026-11-24T19:16:56.607Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/"/>
   <category term="PH"/>
   <entry>
+    <title type="text">PH今日热榜 | 2026-11-22</title>
+    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-11-22.html</id>
+    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-11-22.html"/>
+    <updated>2026-11-24T19:16:56.608Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-yoroll"><span></span></a><a href="https://www.producthunt.com/products/yoroll" target="_blank" rel="noopener noreferrer">TOP1    Yoroll</a></h2>
+<p><img src="https://ph-files.imgix.net/e3de00d0-b549-4e7e-b8f9-34222a09983e.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Yoroll" loading="lazy"><br><br>
+<strong>【标语】</strong>：Build playable stories without a game engine<br>
+<strong>【介绍】</strong>：Yoroll lets anyone turn stories into playable, cinematic games without coding or a game engine. Start with a script, image, or video clip, then direct the scenes, add player choices, and create branching storylines with different outcomes. AI helps bring everything together into an interactive experience you can share. It's more like directing your own interactive movie than programming a game.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/XKLWN5SDJ5RSLW" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/yoroll" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-yoroll"><span></span></a><a href="https://www.producthunt.com/products/yoroll" target="_blank" rel="noopener noreferrer">TOP1    Yoroll</a></h2>
+<p><img src="https://ph-files.imgix.net/e3de00d0-b549-4e7e-b8f9-34222a09983e.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Yoroll" loading="lazy"><br><br>
+<strong>【标语】</strong>：Build playable stories without a game engine<br>
+<strong>【介绍】</strong>：Yoroll lets anyone turn stories into playable, cinematic games without coding or a game engine. Start with a script, image, or video clip, then direct the scenes, add player choices, and create branching storylines with different outcomes. AI helps bring everything together into an interactive experience you can share. It's more like directing your own interactive movie than programming a game.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/XKLWN5SDJ5RSLW" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/yoroll" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：game,playable,stories,without,into,interactive<br>
+<strong>票数</strong>： 🔺358<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年11月22日 PM04:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2026-11-22T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">PH今日热榜 | 2026-11-21</title>
+    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-11-21.html</id>
+    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-11-21.html"/>
+    <updated>2026-11-24T19:16:56.652Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-altercontacts"><span></span></a><a href="https://www.producthunt.com/products/alter-contacts-ai-client-relationships" target="_blank" rel="noopener noreferrer">TOP1    AlterContacts</a></h2>
+<p><img src="https://ph-files.imgix.net/72b0236c-d52d-4cf1-8265-44a19196099c.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="AlterContacts" loading="lazy"><br><br>
+<strong>【标语】</strong>：AI client relationship assistant that thinks and does ahead<br>
+<strong>【介绍】</strong>：AlterContacts is a voice-first AI assistant that helps you remember every client and never miss an important follow-up. Just talk about your meeting, and Alter organizes the details, updates the client's profile, and remembers what you promised. It notices upcoming renewals, personal milestones, and relationships that need attention, then prepares your next message for approval. Built for financial advisors, brokers, and consultants who care about relationships, not CRM data entry.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/P3PTYNAORNS7UV" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/alter-contacts-ai-client-relationships" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-altercontacts"><span></span></a><a href="https://www.producthunt.com/products/alter-contacts-ai-client-relationships" target="_blank" rel="noopener noreferrer">TOP1    AlterContacts</a></h2>
+<p><img src="https://ph-files.imgix.net/72b0236c-d52d-4cf1-8265-44a19196099c.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="AlterContacts" loading="lazy"><br><br>
+<strong>【标语】</strong>：AI client relationship assistant that thinks and does ahead<br>
+<strong>【介绍】</strong>：AlterContacts is a voice-first AI assistant that helps you remember every client and never miss an important follow-up. Just talk about your meeting, and Alter organizes the details, updates the client's profile, and remembers what you promised. It notices upcoming renewals, personal milestones, and relationships that need attention, then prepares your next message for approval. Built for financial advisors, brokers, and consultants who care about relationships, not CRM data entry.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/P3PTYNAORNS7UV" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/alter-contacts-ai-client-relationships" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：client,AI,assistant,about,your,relationships<br>
+<strong>票数</strong>： 🔺304<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年11月21日 PM04:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2026-11-21T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">PH今日热榜 | 2026-11-20</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-11-20.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-11-20.html"/>
-    <updated>2026-11-22T15:51:15.126Z</updated>
+    <updated>2026-11-24T19:16:56.659Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-saparo"><span></span></a><a href="https://www.producthunt.com/products/saparo" target="_blank" rel="noopener noreferrer">TOP1    Saparo</a></h2>
 <p><img src="https://ph-files.imgix.net/cb4f4249-89e3-49d3-b59c-27a94e079519.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Saparo" loading="lazy"><br><br>
 <strong>【标语】</strong>：Muse for shopping with deals stacks<br>
@@ -38,7 +88,7 @@
     <title type="text">PH今日热榜 | 2026-11-19</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-11-19.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-11-19.html"/>
-    <updated>2026-11-22T15:51:15.145Z</updated>
+    <updated>2026-11-24T19:16:56.673Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-testsprite-4-0"><span></span></a><a href="https://www.producthunt.com/products/testsprite" target="_blank" rel="noopener noreferrer">TOP1    TestSprite 4.0</a></h2>
 <p><img src="https://ph-files.imgix.net/725acadf-a563-4f71-9403-e3c172ff5cca.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="TestSprite 4.0" loading="lazy"><br><br>
 <strong>【标语】</strong>：Fix one thing, break another? This agent checks it all<br>
@@ -63,7 +113,7 @@
     <title type="text">PH今日热榜 | 2026-11-18</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-11-18.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-11-18.html"/>
-    <updated>2026-11-22T15:51:15.152Z</updated>
+    <updated>2026-11-24T19:16:56.686Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-s-space"><span></span></a><a href="https://www.producthunt.com/products/s-space" target="_blank" rel="noopener noreferrer">TOP1    S.Space</a></h2>
 <p><img src="https://ph-files.imgix.net/launch-image-uploads/cce1b5a7-16b7-4782-82b8-b8e7da6970b8/f144d846b5ab511a8e073598343a6ea3efa28621e445131e8b0b4b42ea8136a1.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="S.Space" loading="lazy"><br><br>
 <strong>【标语】</strong>：Your team and everyone's AI agents, in one workspace<br>
@@ -88,7 +138,7 @@
     <title type="text">PH今日热榜 | 2026-11-17</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-11-17.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-11-17.html"/>
-    <updated>2026-11-22T15:51:15.163Z</updated>
+    <updated>2026-11-24T19:16:56.693Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-rankspot"><span></span></a><a href="https://www.producthunt.com/products/rankspot" target="_blank" rel="noopener noreferrer">TOP1    RankSpot</a></h2>
 <p><img src="https://ph-files.imgix.net/df9a58a9-cff3-41a9-9e7d-7a982df725e2.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="RankSpot" loading="lazy"><br><br>
 <strong>【标语】</strong>：Pay-as-you-go SEO and AI Search execution layer for agents<br>
@@ -113,7 +163,7 @@
     <title type="text">PH今日热榜 | 2026-11-16</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-11-16.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-11-16.html"/>
-    <updated>2026-11-22T15:51:15.170Z</updated>
+    <updated>2026-11-24T19:16:56.707Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-zoom-slides"><span></span></a><a href="https://www.producthunt.com/products/zoom" target="_blank" rel="noopener noreferrer">TOP1    Zoom Slides</a></h2>
 <p><img src="https://ph-files.imgix.net/98e4df25-efd4-42ce-9f5a-dddd383e81d3.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Zoom Slides" loading="lazy"><br><br>
 <strong>【标语】</strong>：Turn your Zoom meetings into ready-to-present slides<br>
@@ -138,7 +188,7 @@
     <title type="text">PH今日热榜 | 2026-11-15</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-11-15.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-11-15.html"/>
-    <updated>2026-11-22T15:51:15.181Z</updated>
+    <updated>2026-11-24T19:16:56.714Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-rakazo"><span></span></a><a href="https://www.producthunt.com/products/rakazo" target="_blank" rel="noopener noreferrer">TOP1    Rakazo</a></h2>
 <p><img src="https://ph-files.imgix.net/ed37ee91-d53e-473a-b301-4cdc03ea84cb.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Rakazo" loading="lazy"><br><br>
 <strong>【标语】</strong>：The open source Grok Bot alternative you actually own<br>
@@ -163,7 +213,7 @@
     <title type="text">PH今日热榜 | 2026-11-14</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-11-14.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-11-14.html"/>
-    <updated>2026-11-22T15:51:15.187Z</updated>
+    <updated>2026-11-24T19:16:56.728Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-hiringnow"><span></span></a><a href="https://www.producthunt.com/products/hiringnow" target="_blank" rel="noopener noreferrer">TOP1    HiringNow</a></h2>
 <p><img src="https://ph-files.imgix.net/aa83ec4d-5bc0-4759-a87f-545a100040f0.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="HiringNow" loading="lazy"><br><br>
 <strong>【标语】</strong>：AI job agent that finds &amp; apply for jobs before anyone else.<br>
@@ -188,7 +238,7 @@
     <title type="text">PH今日热榜 | 2026-11-13</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-11-13.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-11-13.html"/>
-    <updated>2026-11-22T15:51:15.199Z</updated>
+    <updated>2026-11-24T19:16:56.735Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-templify-ai"><span></span></a><a href="https://www.producthunt.com/products/templify" target="_blank" rel="noopener noreferrer">TOP1    Templify AI</a></h2>
 <p><img src="https://ph-files.imgix.net/979dcb91-d000-4fdd-9fbc-48f2b5cb35af.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Templify AI" loading="lazy"><br><br>
 <strong>【标语】</strong>：Powerful content editor for people who aren’t editors<br>
@@ -208,55 +258,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2026-11-13T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2026-11-12</title>
-    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-11-12.html</id>
-    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-11-12.html"/>
-    <updated>2026-11-22T15:51:15.213Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-plurai-simulation"><span></span></a><a href="https://www.producthunt.com/products/plurai" target="_blank" rel="noopener noreferrer">TOP1    Plurai Simulation</a></h2>
-<p><img src="https://ph-files.imgix.net/88985531-f5a2-4565-bc25-85d438eba883.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Plurai Simulation" loading="lazy"><br><br>
-<strong>【标语】</strong>：A simulated world that makes your agent improve on every run<br>
-<strong>【介绍】</strong>：Find your agent’s worst bugs before your users do. One command in Claude Code, Codex or GitHub Copilot builds a digital twin of your agent’s world: synthetic personas and documents, plus mocked tools, APIs and databases, in sandboxes that never touch production.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/ZBKQ4BKXEJCORU" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/plurai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-plurai-simulation"><span></span></a><a href="https://www.producthunt.com/products/plurai" target="_blank" rel="noopener noreferrer">TOP1    Plurai Simulation</a></h2>
-<p><img src="https://ph-files.imgix.net/88985531-f5a2-4565-bc25-85d438eba883.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Plurai Simulation" loading="lazy"><br><br>
-<strong>【标语】</strong>：A simulated world that makes your agent improve on every run<br>
-<strong>【介绍】</strong>：Find your agent’s worst bugs before your users do. One command in Claude Code, Codex or GitHub Copilot builds a digital twin of your agent’s world: synthetic personas and documents, plus mocked tools, APIs and databases, in sandboxes that never touch production.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/ZBKQ4BKXEJCORU" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/plurai" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：your,agent,world,simulated,makes,improve<br>
-<strong>票数</strong>： 🔺402<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年11月12日 PM04:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2026-11-12T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2026-11-11</title>
-    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-11-11.html</id>
-    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-11-11.html"/>
-    <updated>2026-11-22T15:51:15.221Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-scroogefrog-ai"><span></span></a><a href="https://www.producthunt.com/products/scroogefrog-ai-antifraud" target="_blank" rel="noopener noreferrer">TOP1    ScroogeFrog AI </a></h2>
-<p><img src="https://ph-files.imgix.net/e215c77e-255d-42ed-8070-e883259f0699.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ScroogeFrog AI " loading="lazy"><br><br>
-<strong>【标语】</strong>：AI ad fraud detection that protects your marketing budget <br>
-<strong>【介绍】</strong>：ScroogeFrog AI helps advertisers find out where their ad budget is going to waste. It audits website traffic and Google Ads campaigns to uncover suspicious clicks, bot activity, and underperforming spend, then turns complex data into clear recommendations on what to fix. For agencies and larger advertisers, it also offers custom AI fraud detection models trained on their own traffic data. Less guesswork, more control over every advertising dollar.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/XOB5A3DWYCGOGG" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/scroogefrog-ai-antifraud" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-scroogefrog-ai"><span></span></a><a href="https://www.producthunt.com/products/scroogefrog-ai-antifraud" target="_blank" rel="noopener noreferrer">TOP1    ScroogeFrog AI </a></h2>
-<p><img src="https://ph-files.imgix.net/e215c77e-255d-42ed-8070-e883259f0699.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="ScroogeFrog AI " loading="lazy"><br><br>
-<strong>【标语】</strong>：AI ad fraud detection that protects your marketing budget <br>
-<strong>【介绍】</strong>：ScroogeFrog AI helps advertisers find out where their ad budget is going to waste. It audits website traffic and Google Ads campaigns to uncover suspicious clicks, bot activity, and underperforming spend, then turns complex data into clear recommendations on what to fix. For agencies and larger advertisers, it also offers custom AI fraud detection models trained on their own traffic data. Less guesswork, more control over every advertising dollar.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/XOB5A3DWYCGOGG" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/scroogefrog-ai-antifraud" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：AI,ad,fraud,detection,budget,advertisers<br>
-<strong>票数</strong>： 🔺302<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年11月11日 PM04:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2026-11-11T00:00:00.000Z</published>
   </entry>
 </feed>
