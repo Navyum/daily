@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 24 Nov 2026 19:16:56 GMT</pubDate>
-    <lastBuildDate>Tue, 24 Nov 2026 19:16:56 GMT</lastBuildDate>
+    <pubDate>Wed, 25 Nov 2026 18:20:55 GMT</pubDate>
+    <lastBuildDate>Wed, 25 Nov 2026 18:20:55 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-11-23</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-11-23.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-11-23.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-11-23</source>
+      <description>TOP1 Letter Visitors Letter Visitors 【标语】：See website visitors on your website itself 【介绍】：Know who’s on your website: the people, their companies, and the AI agents reading you...</description>
+      <category>PH</category>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-letter-visitors"><span></span></a><a href="https://www.producthunt.com/products/visitors" target="_blank" rel="noopener noreferrer">TOP1    Letter Visitors</a></h2>
+<p><img src="https://ph-files.imgix.net/launch-image-uploads/07f58697-0b85-4598-84e8-775e697238b8/5759ba8985ad52a65febde527f7d75de0ca57d9f04361e6626f5c8af9eff8403.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Letter Visitors" loading="lazy"><br><br>
+<strong>【标语】</strong>：See website visitors on your website itself<br>
+<strong>【介绍】</strong>：Know who’s on your website: the people, their companies, and the AI agents reading your pages. See them on your own site, and replay their sessions.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/D6BRBNLRH7WD47" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/visitors" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：your,website,See,their,visitors,itselfKnow<br>
+<strong>票数</strong>： 🔺403<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年11月23日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/launch-image-uploads/07f58697-0b85-4598-84e8-775e697238b8/5759ba8985ad52a65febde527f7d75de0ca57d9f04361e6626f5c8af9eff8403.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-11-22</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-11-22.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年11月14日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/aa83ec4d-5bc0-4759-a87f-545a100040f0.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-11-13</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-11-13.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-11-13.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-11-13</source>
-      <description>TOP1 Templify AI Templify AI 【标语】：Powerful content editor for people who aren’t editors 【介绍】：Templify is an all-in-one video, photo, and carousel editor for iPhone. With 1,200+ ...</description>
-      <category>PH</category>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-templify-ai"><span></span></a><a href="https://www.producthunt.com/products/templify" target="_blank" rel="noopener noreferrer">TOP1    Templify AI</a></h2>
-<p><img src="https://ph-files.imgix.net/979dcb91-d000-4fdd-9fbc-48f2b5cb35af.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Templify AI" loading="lazy"><br><br>
-<strong>【标语】</strong>：Powerful content editor for people who aren’t editors<br>
-<strong>【介绍】</strong>：Templify is an all-in-one video, photo, and carousel editor for iPhone. With 1,200+ designer templates, it turns clips and photos into Reels, TikToks, YouTube Shorts, and collages in minutes, no timeline needed. Features include AI video editing, beat-synced transitions, auto captions, background removal, filters, and an AI Studio. Free to use, with an optional Pro subscription.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/T53GXHFXDGAANJ" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/templify" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：editor,video,AI,Powerful,content,people<br>
-<strong>票数</strong>： 🔺375<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年11月13日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/979dcb91-d000-4fdd-9fbc-48f2b5cb35af.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
