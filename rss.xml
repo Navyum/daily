@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 25 Nov 2026 18:20:55 GMT</pubDate>
-    <lastBuildDate>Wed, 25 Nov 2026 18:20:55 GMT</lastBuildDate>
+    <pubDate>Thu, 26 Nov 2026 18:02:07 GMT</pubDate>
+    <lastBuildDate>Thu, 26 Nov 2026 18:02:07 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-11-24</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-11-24.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-11-24.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-11-24</source>
+      <description>TOP1 distribution.dev distribution.dev 【标语】：Advertise to developers on many sites with one campaign 【介绍】：Anyone can build a product now, so the hard part is getting people to se...</description>
+      <category>PH</category>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-distribution-dev"><span></span></a><a href="https://www.producthunt.com/products/distribution-dev" target="_blank" rel="noopener noreferrer">TOP1    distribution.dev</a></h2>
+<p><img src="https://ph-files.imgix.net/launch-image-uploads/1cdfb3bf-2554-4e80-b976-5a4b92e589d7/ade5c1b82dd9cbbe1f8d6e01c7b4c3a24f4e08f107a079956678c8bfe1232ac7.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="distribution.dev" loading="lazy"><br><br>
+<strong>【标语】</strong>：Advertise to developers on many sites with one campaign<br>
+<strong>【介绍】</strong>：Anyone can build a product now, so the hard part is getting people to see it. distribution.dev is an ad network for developers, built by the publishers themselves: daily.dev and DEV (dev.to), together among the largest developer content platforms in the world. You set up one campaign and it runs on many developer sites at once, with ads made to fit in on each one.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/FLP2CUVR6YHJZC" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/distribution-dev" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：dev,developers,many,sites,developer,Advertise<br>
+<strong>票数</strong>： 🔺293<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年11月24日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/launch-image-uploads/1cdfb3bf-2554-4e80-b976-5a4b92e589d7/ade5c1b82dd9cbbe1f8d6e01c7b4c3a24f4e08f107a079956678c8bfe1232ac7.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-11-23</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-11-23.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年11月15日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/ed37ee91-d53e-473a-b301-4cdc03ea84cb.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-11-14</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-11-14.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-11-14.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-11-14</source>
-      <description>TOP1 HiringNow HiringNow 【标语】：AI job agent that finds &amp; apply for jobs before anyone else. 【介绍】：HiringNow checks 247,000+ company career sites every 5 minutes, so you see new jo...</description>
-      <category>PH</category>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-hiringnow"><span></span></a><a href="https://www.producthunt.com/products/hiringnow" target="_blank" rel="noopener noreferrer">TOP1    HiringNow</a></h2>
-<p><img src="https://ph-files.imgix.net/aa83ec4d-5bc0-4759-a87f-545a100040f0.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="HiringNow" loading="lazy"><br><br>
-<strong>【标语】</strong>：AI job agent that finds &amp; apply for jobs before anyone else.<br>
-<strong>【介绍】</strong>：HiringNow checks 247,000+ company career sites every 5 minutes, so you see new jobs before they hit the big boards. It matches each job to your profile, tailors your resume and cover letter, and applies on the employer's own site, only with your approval. Every application gets a receipt in your job tracker. Also: resume builder and mock interviews. Free plan with 10 auto-applies.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/WSO7S2YHKPGAXY" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/hiringnow" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：your,job,jobs,before,resume,applies<br>
-<strong>票数</strong>： 🔺286<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年11月14日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/aa83ec4d-5bc0-4759-a87f-545a100040f0.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
