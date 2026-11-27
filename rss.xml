@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 26 Nov 2026 18:02:07 GMT</pubDate>
-    <lastBuildDate>Thu, 26 Nov 2026 18:02:07 GMT</lastBuildDate>
+    <pubDate>Fri, 27 Nov 2026 17:47:15 GMT</pubDate>
+    <lastBuildDate>Fri, 27 Nov 2026 17:47:15 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-11-25</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-11-25.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-11-25.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-11-25</source>
+      <description>TOP1 MyClaw 3.0 MyClaw 3.0 【标语】：Build an always-on AI team with shared memory 【介绍】：MyClaw lets you build your own AI team with OpenClaw, Claude Code, Codex, Hermes Agent, Pi, an...</description>
+      <category>PH</category>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-myclaw-3-0"><span></span></a><a href="https://www.producthunt.com/products/myclaw-3-0" target="_blank" rel="noopener noreferrer">TOP1    MyClaw 3.0</a></h2>
+<p><img src="https://ph-files.imgix.net/f834d013-e2d5-4082-afed-4c8450160364.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="MyClaw 3.0" loading="lazy"><br><br>
+<strong>【标语】</strong>：Build an always-on AI team with shared memory<br>
+<strong>【介绍】</strong>：MyClaw lets you build your own AI team with OpenClaw, Claude Code, Codex, Hermes Agent, Pi, and more. Give each teammate its own role, tools, skills, and choice of 50+ models, with shared memory across your team. Your agents run on always-on cloud computers, use your apps, access data, and handle recurring tasks even when you're offline. Assign work from the web, Slack, Telegram, or WhatsApp. No server setup or lock-in to a single AI provider.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/I5P5AWTAYY2JLB" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/myclaw-3-0" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：AI,team,your,always,shared,own<br>
+<strong>票数</strong>： 🔺334<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年11月25日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/f834d013-e2d5-4082-afed-4c8450160364.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-11-24</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-11-24.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年11月16日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/98e4df25-efd4-42ce-9f5a-dddd383e81d3.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-11-15</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-11-15.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-11-15.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-11-15</source>
-      <description>TOP1 Rakazo Rakazo 【标语】：The open source Grok Bot alternative you actually own 【介绍】：Rakazo gives you AI teammates that keep working after you close the chat. Each bot has its own...</description>
-      <category>PH</category>
-      <pubDate>Sun, 15 Nov 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-rakazo"><span></span></a><a href="https://www.producthunt.com/products/rakazo" target="_blank" rel="noopener noreferrer">TOP1    Rakazo</a></h2>
-<p><img src="https://ph-files.imgix.net/ed37ee91-d53e-473a-b301-4cdc03ea84cb.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Rakazo" loading="lazy"><br><br>
-<strong>【标语】</strong>：The open source Grok Bot alternative you actually own<br>
-<strong>【介绍】</strong>：Rakazo gives you AI teammates that keep working after you close the chat. Each bot has its own memory, routines and computer, with a browser you can watch and take over. Open source and self-hosted: any model, your keys, your machine. Web, desktop and mobile.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/JJD4SYA4D3EAB6" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/rakazo" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：source,your,open,Grok,Bot,alternative<br>
-<strong>票数</strong>： 🔺396<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年11月15日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/ed37ee91-d53e-473a-b301-4cdc03ea84cb.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
