@@ -4,16 +4,41 @@
   <title>DAYHACK</title>
   <subtitle>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</subtitle>
   <icon>https://github.camscanner.top/daily/favicon.ico</icon>
-  <updated>2026-11-27T17:47:15.318Z</updated>
+  <updated>2026-11-28T16:32:44.823Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://github.camscanner.top/daily/atom.xml"/>
   <link rel="alternate" href="https://github.camscanner.top/daily/"/>
   <category term="PH"/>
   <entry>
+    <title type="text">PH今日热榜 | 2026-11-26</title>
+    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-11-26.html</id>
+    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-11-26.html"/>
+    <updated>2026-11-28T16:32:44.824Z</updated>
+    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-hub"><span></span></a><a href="https://www.producthunt.com/products/hub-20" target="_blank" rel="noopener noreferrer">TOP1    Hub</a></h2>
+<p><img src="https://ph-files.imgix.net/launch-image-uploads/37db94e3-5648-4389-9b04-08fec8a2a075/fee29ad8544eee167257a2215762dc1217ba97c5127fab033ef102a8dadb876f.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Hub" loading="lazy"><br><br>
+<strong>【标语】</strong>：Run 100 Claude Code or Codex sessions like 5<br>
+<strong>【介绍】</strong>：Open-source dispatcher for Claude Code and Codex sessions. Write a goal in your browser or Telegram, a coordinator hands it to agents, and only the decisions come back. Self-hosted, Apache-2.0, on your own Claude or ChatGPT subscription. One-line install. Experimental: agents run without permission prompts.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/SKCIVKZDKR5QGT" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/hub-20" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
+    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-hub"><span></span></a><a href="https://www.producthunt.com/products/hub-20" target="_blank" rel="noopener noreferrer">TOP1    Hub</a></h2>
+<p><img src="https://ph-files.imgix.net/launch-image-uploads/37db94e3-5648-4389-9b04-08fec8a2a075/fee29ad8544eee167257a2215762dc1217ba97c5127fab033ef102a8dadb876f.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Hub" loading="lazy"><br><br>
+<strong>【标语】</strong>：Run 100 Claude Code or Codex sessions like 5<br>
+<strong>【介绍】</strong>：Open-source dispatcher for Claude Code and Codex sessions. Write a goal in your browser or Telegram, a coordinator hands it to agents, and only the decisions come back. Self-hosted, Apache-2.0, on your own Claude or ChatGPT subscription. One-line install. Experimental: agents run without permission prompts.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/SKCIVKZDKR5QGT" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/hub-20" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：Claude,Code,Codex,sessions,your,agents<br>
+<strong>票数</strong>： 🔺415<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年11月26日 PM04:01 (北京时间)<br><br></p>
+]]></content>
+    <category term="PH"/>
+    <published>2026-11-26T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">PH今日热榜 | 2026-11-25</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-11-25.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-11-25.html"/>
-    <updated>2026-11-27T17:47:15.319Z</updated>
+    <updated>2026-11-28T16:32:44.846Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-myclaw-3-0"><span></span></a><a href="https://www.producthunt.com/products/myclaw-3-0" target="_blank" rel="noopener noreferrer">TOP1    MyClaw 3.0</a></h2>
 <p><img src="https://ph-files.imgix.net/f834d013-e2d5-4082-afed-4c8450160364.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="MyClaw 3.0" loading="lazy"><br><br>
 <strong>【标语】</strong>：Build an always-on AI team with shared memory<br>
@@ -38,7 +63,7 @@
     <title type="text">PH今日热榜 | 2026-11-24</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-11-24.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-11-24.html"/>
-    <updated>2026-11-27T17:47:15.331Z</updated>
+    <updated>2026-11-28T16:32:44.853Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-distribution-dev"><span></span></a><a href="https://www.producthunt.com/products/distribution-dev" target="_blank" rel="noopener noreferrer">TOP1    distribution.dev</a></h2>
 <p><img src="https://ph-files.imgix.net/launch-image-uploads/1cdfb3bf-2554-4e80-b976-5a4b92e589d7/ade5c1b82dd9cbbe1f8d6e01c7b4c3a24f4e08f107a079956678c8bfe1232ac7.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="distribution.dev" loading="lazy"><br><br>
 <strong>【标语】</strong>：Advertise to developers on many sites with one campaign<br>
@@ -63,7 +88,7 @@
     <title type="text">PH今日热榜 | 2026-11-23</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-11-23.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-11-23.html"/>
-    <updated>2026-11-27T17:47:15.344Z</updated>
+    <updated>2026-11-28T16:32:44.865Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-letter-visitors"><span></span></a><a href="https://www.producthunt.com/products/visitors" target="_blank" rel="noopener noreferrer">TOP1    Letter Visitors</a></h2>
 <p><img src="https://ph-files.imgix.net/launch-image-uploads/07f58697-0b85-4598-84e8-775e697238b8/5759ba8985ad52a65febde527f7d75de0ca57d9f04361e6626f5c8af9eff8403.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Letter Visitors" loading="lazy"><br><br>
 <strong>【标语】</strong>：See website visitors on your website itself<br>
@@ -88,7 +113,7 @@
     <title type="text">PH今日热榜 | 2026-11-22</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-11-22.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-11-22.html"/>
-    <updated>2026-11-27T17:47:15.350Z</updated>
+    <updated>2026-11-28T16:32:44.873Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-yoroll"><span></span></a><a href="https://www.producthunt.com/products/yoroll" target="_blank" rel="noopener noreferrer">TOP1    Yoroll</a></h2>
 <p><img src="https://ph-files.imgix.net/e3de00d0-b549-4e7e-b8f9-34222a09983e.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Yoroll" loading="lazy"><br><br>
 <strong>【标语】</strong>：Build playable stories without a game engine<br>
@@ -113,7 +138,7 @@
     <title type="text">PH今日热榜 | 2026-11-21</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-11-21.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-11-21.html"/>
-    <updated>2026-11-27T17:47:15.362Z</updated>
+    <updated>2026-11-28T16:32:44.884Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-altercontacts"><span></span></a><a href="https://www.producthunt.com/products/alter-contacts-ai-client-relationships" target="_blank" rel="noopener noreferrer">TOP1    AlterContacts</a></h2>
 <p><img src="https://ph-files.imgix.net/72b0236c-d52d-4cf1-8265-44a19196099c.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="AlterContacts" loading="lazy"><br><br>
 <strong>【标语】</strong>：AI client relationship assistant that thinks and does ahead<br>
@@ -138,7 +163,7 @@
     <title type="text">PH今日热榜 | 2026-11-20</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-11-20.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-11-20.html"/>
-    <updated>2026-11-27T17:47:15.373Z</updated>
+    <updated>2026-11-28T16:32:44.894Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-saparo"><span></span></a><a href="https://www.producthunt.com/products/saparo" target="_blank" rel="noopener noreferrer">TOP1    Saparo</a></h2>
 <p><img src="https://ph-files.imgix.net/cb4f4249-89e3-49d3-b59c-27a94e079519.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Saparo" loading="lazy"><br><br>
 <strong>【标语】</strong>：Muse for shopping with deals stacks<br>
@@ -163,7 +188,7 @@
     <title type="text">PH今日热榜 | 2026-11-19</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-11-19.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-11-19.html"/>
-    <updated>2026-11-27T17:47:15.379Z</updated>
+    <updated>2026-11-28T16:32:44.901Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-testsprite-4-0"><span></span></a><a href="https://www.producthunt.com/products/testsprite" target="_blank" rel="noopener noreferrer">TOP1    TestSprite 4.0</a></h2>
 <p><img src="https://ph-files.imgix.net/725acadf-a563-4f71-9403-e3c172ff5cca.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="TestSprite 4.0" loading="lazy"><br><br>
 <strong>【标语】</strong>：Fix one thing, break another? This agent checks it all<br>
@@ -188,7 +213,7 @@
     <title type="text">PH今日热榜 | 2026-11-18</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-11-18.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-11-18.html"/>
-    <updated>2026-11-27T17:47:15.391Z</updated>
+    <updated>2026-11-28T16:32:44.912Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-s-space"><span></span></a><a href="https://www.producthunt.com/products/s-space" target="_blank" rel="noopener noreferrer">TOP1    S.Space</a></h2>
 <p><img src="https://ph-files.imgix.net/launch-image-uploads/cce1b5a7-16b7-4782-82b8-b8e7da6970b8/f144d846b5ab511a8e073598343a6ea3efa28621e445131e8b0b4b42ea8136a1.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="S.Space" loading="lazy"><br><br>
 <strong>【标语】</strong>：Your team and everyone's AI agents, in one workspace<br>
@@ -213,7 +238,7 @@
     <title type="text">PH今日热榜 | 2026-11-17</title>
     <id>https://github.camscanner.top/daily/posts/PH-daily-2026-11-17.html</id>
     <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-11-17.html"/>
-    <updated>2026-11-27T17:47:15.399Z</updated>
+    <updated>2026-11-28T16:32:44.918Z</updated>
     <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-rankspot"><span></span></a><a href="https://www.producthunt.com/products/rankspot" target="_blank" rel="noopener noreferrer">TOP1    RankSpot</a></h2>
 <p><img src="https://ph-files.imgix.net/df9a58a9-cff3-41a9-9e7d-7a982df725e2.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="RankSpot" loading="lazy"><br><br>
 <strong>【标语】</strong>：Pay-as-you-go SEO and AI Search execution layer for agents<br>
@@ -233,30 +258,5 @@
 ]]></content>
     <category term="PH"/>
     <published>2026-11-17T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">PH今日热榜 | 2026-11-16</title>
-    <id>https://github.camscanner.top/daily/posts/PH-daily-2026-11-16.html</id>
-    <link href="https://github.camscanner.top/daily/posts/PH-daily-2026-11-16.html"/>
-    <updated>2026-11-27T17:47:15.411Z</updated>
-    <summary type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-zoom-slides"><span></span></a><a href="https://www.producthunt.com/products/zoom" target="_blank" rel="noopener noreferrer">TOP1    Zoom Slides</a></h2>
-<p><img src="https://ph-files.imgix.net/98e4df25-efd4-42ce-9f5a-dddd383e81d3.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Zoom Slides" loading="lazy"><br><br>
-<strong>【标语】</strong>：Turn your Zoom meetings into ready-to-present slides<br>
-<strong>【介绍】</strong>：Zoom Slides is an AI-powered presentation maker that turns your meetings, documents, and ideas into polished, editable decks. Instead of starting from a blank slide, let Zoom AI turn meeting transcripts and summaries into structured presentations with professional layouts, visuals, and speaker notes. Refine content with AI, collaborate with teammates, and export to PowerPoint. Your meeting ends, and your presentation is already taking shape.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/EZUGWR53JD3PM7" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/zoom" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>]]></summary>
-    <content type="html"><![CDATA[<h2><a class="header-anchor" href="#top1-zoom-slides"><span></span></a><a href="https://www.producthunt.com/products/zoom" target="_blank" rel="noopener noreferrer">TOP1    Zoom Slides</a></h2>
-<p><img src="https://ph-files.imgix.net/98e4df25-efd4-42ce-9f5a-dddd383e81d3.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Zoom Slides" loading="lazy"><br><br>
-<strong>【标语】</strong>：Turn your Zoom meetings into ready-to-present slides<br>
-<strong>【介绍】</strong>：Zoom Slides is an AI-powered presentation maker that turns your meetings, documents, and ideas into polished, editable decks. Instead of starting from a blank slide, let Zoom AI turn meeting transcripts and summaries into structured presentations with professional layouts, visuals, and speaker notes. Refine content with AI, collaborate with teammates, and export to PowerPoint. Your meeting ends, and your presentation is already taking shape.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/EZUGWR53JD3PM7" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/zoom" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：your,into,AI,Zoom,meetings,presentation<br>
-<strong>票数</strong>： 🔺297<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年11月16日 PM04:01 (北京时间)<br><br></p>
-]]></content>
-    <category term="PH"/>
-    <published>2026-11-16T00:00:00.000Z</published>
   </entry>
 </feed>

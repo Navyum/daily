@@ -6,11 +6,32 @@
     <link>https://github.camscanner.top/daily/</link>
     <description>每日追踪 Product Hunt 与 GitHub 热门项目，整理产品趋势、开源工具和效率应用。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 27 Nov 2026 17:47:15 GMT</pubDate>
-    <lastBuildDate>Fri, 27 Nov 2026 17:47:15 GMT</lastBuildDate>
+    <pubDate>Sat, 28 Nov 2026 16:32:44 GMT</pubDate>
+    <lastBuildDate>Sat, 28 Nov 2026 16:32:44 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>PH</category>
+    <item>
+      <title>PH今日热榜 | 2026-11-26</title>
+      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-11-26.html</link>
+      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-11-26.html</guid>
+      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-11-26</source>
+      <description>TOP1 Hub Hub 【标语】：Run 100 Claude Code or Codex sessions like 5 【介绍】：Open-source dispatcher for Claude Code and Codex sessions. Write a goal in your browser or Telegram, a coordi...</description>
+      <category>PH</category>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-hub"><span></span></a><a href="https://www.producthunt.com/products/hub-20" target="_blank" rel="noopener noreferrer">TOP1    Hub</a></h2>
+<p><img src="https://ph-files.imgix.net/launch-image-uploads/37db94e3-5648-4389-9b04-08fec8a2a075/fee29ad8544eee167257a2215762dc1217ba97c5127fab033ef102a8dadb876f.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Hub" loading="lazy"><br><br>
+<strong>【标语】</strong>：Run 100 Claude Code or Codex sessions like 5<br>
+<strong>【介绍】</strong>：Open-source dispatcher for Claude Code and Codex sessions. Write a goal in your browser or Telegram, a coordinator hands it to agents, and only the decisions come back. Self-hosted, Apache-2.0, on your own Claude or ChatGPT subscription. One-line install. Experimental: agents run without permission prompts.<br>
+<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/SKCIVKZDKR5QGT" target="_blank" rel="noopener noreferrer">立即访问</a><br>
+<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/hub-20" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
+<p><strong>关键词</strong>：Claude,Code,Codex,sessions,your,agents<br>
+<strong>票数</strong>： 🔺415<br>
+<strong>是否精选</strong>：是<br>
+<strong>发布时间</strong>：2026年11月26日 PM04:01 (北京时间)<br><br></p>
+]]></content:encoded>
+      <enclosure url="https://ph-files.imgix.net/launch-image-uploads/37db94e3-5648-4389-9b04-08fec8a2a075/fee29ad8544eee167257a2215762dc1217ba97c5127fab033ef102a8dadb876f.png?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
+    </item>
     <item>
       <title>PH今日热榜 | 2026-11-25</title>
       <link>https://github.camscanner.top/daily/posts/PH-daily-2026-11-25.html</link>
@@ -199,27 +220,6 @@
 <strong>发布时间</strong>：2026年11月17日 PM04:01 (北京时间)<br><br></p>
 ]]></content:encoded>
       <enclosure url="https://ph-files.imgix.net/df9a58a9-cff3-41a9-9e7d-7a982df725e2.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
-    </item>
-    <item>
-      <title>PH今日热榜 | 2026-11-16</title>
-      <link>https://github.camscanner.top/daily/posts/PH-daily-2026-11-16.html</link>
-      <guid>https://github.camscanner.top/daily/posts/PH-daily-2026-11-16.html</guid>
-      <source url="https://github.camscanner.top/daily/rss.xml">PH今日热榜 | 2026-11-16</source>
-      <description>TOP1 Zoom Slides Zoom Slides 【标语】：Turn your Zoom meetings into ready-to-present slides 【介绍】：Zoom Slides is an AI-powered presentation maker that turns your meetings, documents, ...</description>
-      <category>PH</category>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2><a class="header-anchor" href="#top1-zoom-slides"><span></span></a><a href="https://www.producthunt.com/products/zoom" target="_blank" rel="noopener noreferrer">TOP1    Zoom Slides</a></h2>
-<p><img src="https://ph-files.imgix.net/98e4df25-efd4-42ce-9f5a-dddd383e81d3.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" alt="Zoom Slides" loading="lazy"><br><br>
-<strong>【标语】</strong>：Turn your Zoom meetings into ready-to-present slides<br>
-<strong>【介绍】</strong>：Zoom Slides is an AI-powered presentation maker that turns your meetings, documents, and ideas into polished, editable decks. Instead of starting from a blank slide, let Zoom AI turn meeting transcripts and summaries into structured presentations with professional layouts, visuals, and speaker notes. Refine content with AI, collaborate with teammates, and export to PowerPoint. Your meeting ends, and your presentation is already taking shape.<br>
-<strong>【官网】</strong>：<a href="https://www.producthunt.com/r/EZUGWR53JD3PM7" target="_blank" rel="noopener noreferrer">立即访问</a><br>
-<strong>【Product Hunt】</strong>：<a href="https://www.producthunt.com/products/zoom" target="_blank" rel="noopener noreferrer">View on Product Hunt</a><br><br></p>
-<p><strong>关键词</strong>：your,into,AI,Zoom,meetings,presentation<br>
-<strong>票数</strong>： 🔺297<br>
-<strong>是否精选</strong>：是<br>
-<strong>发布时间</strong>：2026年11月16日 PM04:01 (北京时间)<br><br></p>
-]]></content:encoded>
-      <enclosure url="https://ph-files.imgix.net/98e4df25-efd4-42ce-9f5a-dddd383e81d3.jpeg?auto=format&amp;fit=crop&amp;frame=1&amp;h=512&amp;w=1024" type="image/"/>
     </item>
   </channel>
 </rss>
